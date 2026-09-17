@@ -1,0 +1,18 @@
+QA LAB BRASIL - FINAL PT-BR LANGUAGE AUDIT
+Date: 2026-09-17
+Scope: 73 Portuguese topic records + PT UI/runtime strings + 73 PT PDFs.
+
+Corrections included:
+- Missing diacritics/accents (e.g. nao -> não, regressao -> regressão, selecao -> seleção).
+- Copular verb corrections where plain "e" was incorrectly used instead of "é".
+- Conjunction repairs where an earlier automatic correction had incorrectly changed "e" to "é".
+- Common orthographic corrections across technical explanations.
+- PT PDFs regenerated from the corrected source content.
+
+Automated checks:
+- 73 modules present.
+- 73 PT PDFs regenerated.
+- Known unaccented error patterns: 0 remaining.
+- JavaScript syntax: PASS.
+
+Note: English technical terms intentionally retained in PT-BR where common in Brazilian QA usage (QA, Quality Assurance, Testing, Smoke, Regression, UAT, API, Git, CI/CD, etc.).

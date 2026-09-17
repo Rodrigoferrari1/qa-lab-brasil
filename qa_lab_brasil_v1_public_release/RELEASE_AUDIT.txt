@@ -1,0 +1,25 @@
+QA LAB BRASIL - RELEASE CANDIDATE 1 AUDIT
+Date: 2026-09-17
+
+Modules: 73
+Languages: PT-BR / EN / ES
+PDFs expected: 219
+PDFs present: 219
+Structural content issues: 0
+Runtime source occurrences of undefined: 0
+
+Release fixes in RC1:
+- Navigation reorganized so AI, API/automation, and work tools are not mixed.
+- QA Shop action localized in PT/EN/ES.
+- Home language count localized.
+- QA Assistant beta wording updated to match actual local knowledge-base behavior.
+- Contact form prepared for Netlify Forms without exposing a public email address.
+- LinkedIn and GitHub links preserved.
+- Contextual PDF remains inside every topic page.
+
+Open items before Public Release:
+- Editorial language review by native-quality pass for all 73 modules.
+- Manual browser/mobile/accessibility pass.
+- Verify all external official links online.
+- Configure Netlify form notification recipient after deployment.
+- Generative AI/RAG assistant remains a post-release evolution; current assistant searches local QA Lab content.

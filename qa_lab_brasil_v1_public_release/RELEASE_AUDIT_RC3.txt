@@ -1,0 +1,27 @@
+QA LAB BRASIL - RELEASE CANDIDATE 3 AUDIT
+Date: 2026-09-17
+
+Scope frozen: yes
+Modules: 73
+Languages: PT-BR / EN / ES
+PDFs expected: 219
+PDFs present: 219
+Structural content issues: 0
+Navigation topic references missing from content: 0
+
+RC3 quality changes:
+- Added skip-to-content keyboard link and stronger focus indicators.
+- Added search/chat accessible labels and dialog/listbox semantics.
+- Group accordions now expose aria-expanded state.
+- HTML lang updates with PT-BR / EN / ES selection.
+- Added Escape behavior for search/chat and preserved Ctrl/Cmd+K search shortcut.
+- Added prefers-reduced-motion support.
+- Added mobile polish for hero, chat, spacing and headings.
+- Preserved 73 modules and 219 contextual PDFs.
+- Core official download/documentation links were spot-verified online during RC3.
+
+Automated result: PASS
+
+Remaining deployment-only check:
+- Netlify Forms notification recipient must be configured after deployment.
+- Final visual pass on physical iOS/Safari cannot be emulated in this build environment.
