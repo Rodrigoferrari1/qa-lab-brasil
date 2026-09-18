@@ -1,0 +1,10 @@
+QA LAB BRASIL 2.0 - FINAL CANDIDATE REGRESSION
+Base: Fase 9 auditada + navegação persistente aprovada na RC3
+
+Static regression:
+- JavaScript syntax: PASS
+- UTF-8 corruption marker: PASS
+- Backlog label "Próximos conteúdos": PASS
+- Engenharia de Software: classificada em Programação > Fundamentos
+- Persistent menu/submenu navigation: included
+- Production website: NOT MODIFIED

@@ -1,8 +1,8 @@
 let LANG=localStorage.getItem('qalab-lang')||'pt';let DATA={},UI={};let topicMeta={};
-async function load(){DATA=await (await fetch('content/topics.json')).json();UI=await (await fetch('data/ui.json')).json();Object.entries(DATA).forEach(([k,v])=>topicMeta[k]=[v._meta.icon,v._meta.color,v._meta.group,v._meta.official]);bind();route();}
+async function load(){try{const [topicsRes,uiRes]=await Promise.all([fetch('content/topics.json?v=2.0.1',{cache:'no-store'}),fetch('data/ui.json?v=2.0.1',{cache:'no-store'})]);if(!topicsRes.ok)throw new Error('topics.json HTTP '+topicsRes.status);if(!uiRes.ok)throw new Error('ui.json HTTP '+uiRes.status);DATA=await topicsRes.json();UI=await uiRes.json();Object.entries(DATA).forEach(([k,v])=>topicMeta[k]=[v._meta.icon,v._meta.color,v._meta.group,v._meta.official]);bind();route();}catch(err){console.error('QA Lab bootstrap failed:',err);const main=document.getElementById('main');if(main)main.innerHTML='<section class="section"><h2>Falha ao carregar o QA Lab</h2><p>Atualize a página. Se o problema continuar, verifique o console do navegador.</p></section>';}}
 function t(k){return UI[LANG]?.[k]||UI.pt[k]||k}
 function bind(){organizeNavigation();document.querySelectorAll('.group-toggle').forEach(b=>b.onclick=()=>{let g=b.closest('.nav-group');g.classList.toggle('open');b.querySelector('.plus').textContent=g.classList.contains('open')?'−':'+'});document.querySelectorAll('.lang').forEach(b=>b.onclick=()=>{LANG=b.dataset.lang;localStorage.setItem('qalab-lang',LANG);document.documentElement.lang=LANG==='pt'?'pt-BR':LANG;document.querySelectorAll('.lang').forEach(x=>x.classList.toggle('on',x.dataset.lang===LANG));route();});document.querySelectorAll('.lang').forEach(x=>x.classList.toggle('on',x.dataset.lang===LANG));const q=document.getElementById('searchInput');q.addEventListener('input',()=>search(q.value));document.addEventListener('keydown',e=>{if((e.ctrlKey||e.metaKey)&&e.key.toLowerCase()==='k'){e.preventDefault();q.focus();search(q.value)}});document.getElementById('chatFab').onclick=()=>document.getElementById('chatbox').classList.toggle('open');document.querySelector('.chat-input button').onclick=askAssistant;document.getElementById('chatInput').addEventListener('keydown',e=>{if(e.key==='Enter')askAssistant()});window.addEventListener('hashchange',route);}
-function navLabels(){document.getElementById('searchInput').placeholder=t('search');document.querySelector('[data-ui=home] span').textContent=t('home');['learn','tech','engineering','future','work'].forEach(k=>document.querySelector(`[data-ui=${k}] .group-label`).textContent=t(k));document.querySelectorAll('[data-topic-nav]').forEach(a=>{let k=a.dataset.topicNav;a.querySelector('span').textContent=DATA[k][LANG].title});document.getElementById('chatMsg').textContent=LANG==='en'?'Ask about QA Lab content. This beta searches the local knowledge base; generative AI/RAG is a future evolution.':LANG==='es'?'Pregunte sobre el contenido de QA Lab. Esta beta busca en la base local; la IA generativa/RAG es una evolución futura.':'Pergunte sobre o conteúdo do QA Lab. Esta versão beta pesquisa a base local; IA generativa/RAG é uma evolução futura.';document.getElementById('chatInput').placeholder=LANG==='en'?'Ex.: What is the difference between 401 and 403?':LANG==='es'?'Ej.: ¿Cuál es la diferencia entre 401 y 403?':'Ex.: Qual a diferença entre 401 e 403?';}
+function navLabels(){document.getElementById('searchInput').placeholder=t('search');document.querySelector('[data-ui=home] span').textContent=t('home');organizeNavigation();document.getElementById('chatMsg').textContent=LANG==='en'?'Ask about QA Lab content. This beta searches the local knowledge base; generative AI/RAG is a future evolution.':LANG==='es'?'Pregunte sobre el contenido de QA Lab. Esta beta busca en la base local; la IA generativa/RAG es una evolución futura.':'Pergunte sobre o conteúdo do QA Lab. Esta versão beta pesquisa a base local; IA generativa/RAG é uma evolução futura.';document.getElementById('chatInput').placeholder=LANG==='en'?'Ex.: What is the difference between 401 and 403?':LANG==='es'?'Ej.: ¿Cuál es la diferencia entre 401 y 403?':'Ex.: Qual a diferença entre 401 e 403?';}
 function route(){navLabels();let h=location.hash.replace('#/','');if(h==='toolkit')renderToolkit();else if(h==='glossary')renderGlossary();else if(h==='how-to-test')renderHowToTest();else if(h==='api-lab')renderApiLab();else if(h==='bug-clinic')renderBugClinic();else if(h==='qa-shop')renderQaShop();else if(h&&DATA[h])renderTopic(h);else renderHome();}
 function renderHome(){let m=document.getElementById('main');let ht={pt:['Aprenda. Consulte.','Pratique.','Aplique.','Uma plataforma profissional de Quality Assurance e Engenharia de Software, do primeiro caso de teste à automação, APIs, dados, DevOps, IA, arquitetura e liderança de qualidade.'],en:['Learn. Consult.','Practice.','Apply.','A professional Quality Assurance and Software Engineering platform, from the first test case to automation, APIs, data, DevOps, AI, architecture and quality leadership.'],es:['Aprenda. Consulte.','Practique.','Aplique.','Una plataforma profesional de Quality Assurance e Ingeniería de Software, desde el primer caso de prueba hasta automatización, APIs, datos, DevOps, IA, arquitectura y liderazgo de calidad.']}[LANG];let cards=Object.entries(DATA).map(([k,v])=>{let d=v[LANG],meta=topicMeta[k];return `<article class="card" style="--accent:${meta[1]}" onclick="location.hash='#/${k}'"><div class="ico">${meta[0]}</div><b>${d.title}</b><p>${d.subtitle}</p><span class="tag">${t('level1')} → ${t('level3')}</span></article>`}).join('');m.innerHTML=`<section class="hero"><span class="eyebrow">🧪 QUALITY ENGINEERING KNOWLEDGE PLATFORM</span><h1>${ht[0]} <span>${ht[1]}</span> ${ht[2]}</h1><p>${ht[3]}</p><div class="actions"><button class="btn primary" onclick="location.hash='#/qa'">🧭 ${LANG==='en'?'Start in QA':LANG==='es'?'Comenzar en QA':'Começar em QA'}</button><button class="btn" onclick="location.hash='#/testing'">🧪 ${LANG==='en'?'Study testing':LANG==='es'?'Estudiar pruebas':'Estudar testes'}</button><button class="btn" onclick="location.hash='#/api'">🔌 API</button><button class="btn" onclick="location.hash='#/ai'">🧠 IA</button></div><div class="stats"><div class="stat"><strong>${Object.keys(DATA).length}</strong><span>${LANG==='en'?'implemented modules':LANG==='es'?'módulos implementados':'módulos implementados'}</span></div><div class="stat"><strong>PT · EN · ES</strong><span>${LANG==='en'?'3 languages':LANG==='es'?'3 idiomas':'3 idiomas'}</span></div><div class="stat"><strong>🟢 🔵 🟣</strong><span>${t('level1')} → ${t('level3')}</span></div><div class="stat"><strong>📄 PDF</strong><span>${LANG==='en'?'per topic':LANG==='es'?'por tema':'por tópico'}</span></div></div></section><section class="section"><div class="section-head"><div><h2>${t('explore')}</h2><p>${LANG==='en'?'Release Candidate 1: content, tools and daily QA workflows.':LANG==='es'?'Release Candidate 1: contenido, herramientas y flujos diarios de QA.':'Release Candidate 1: conteúdo, ferramentas e fluxos do dia a dia de QA.'}</p></div><span class="tag">RC1</span></div><div class="grid">${cards}</div></section>${aboutContact()}`;}
 function renderTopic(k){let d=DATA[k][LANG],meta=topicMeta[k],secs=d.sections.map((s,i)=>`<section class="topic-section"><span class="tag">${i===0?'🟢 '+t('level1'):i<3?'🔵 '+t('level2'):'🟣 '+t('level3')}</span><h2>${s[0]}</h2><p>${s[1]}</p></section>`).join('');let off=meta[3]?officialLink(meta[3]):'';document.getElementById('main').innerHTML=`<div class="topic-head"><div class="breadcrumbs">QA Lab Brasil › ${d.title}</div><div class="ico">${meta[0]}</div><h1>${d.title}</h1><p>${d.subtitle}</p><div class="topic-meta"><span class="level">🟢 ${t('level1')}</span><span class="level">🔵 ${t('level2')}</span><span class="level">🟣 ${t('level3')}</span><span class="level">🗓 ${t('updated')}</span></div></div>${secs}<div class="tip"><b>💡 ${t('tip')}</b><br>${d.qa_tip}</div>${off}<div class="download-box"><h3>📄 ${t('download')}</h3><p>${LANG==='en'?'Keep this topic available offline.':LANG==='es'?'Mantenga este tema disponible offline.':'Mantenha este tópico disponível offline.'}</p><a class="btn primary" href="pdf/${LANG}/${k}.pdf" download>⬇️ ${t('download')}</a></div><section class="topic-section"><h2>🔗 ${t('related')}</h2><div class="related">${Object.keys(DATA).filter(x=>x!==k && topicMeta[x][2]===meta[2]).slice(0,5).map(x=>`<button class="btn" onclick="location.hash='#/${x}'">${topicMeta[x][0]} ${DATA[x][LANG].title}</button>`).join('')}</div></section>`;window.scrollTo(0,0);}
@@ -27,6 +27,101 @@ function organizeNavigation(){
 }
 
 document.addEventListener('keydown',e=>{if(e.key==='Escape'){document.getElementById('searchResults')?.classList.remove('open');document.getElementById('chatbox')?.classList.remove('open')}if((e.ctrlKey||e.metaKey)&&e.key.toLowerCase()==='k'){e.preventDefault();document.getElementById('searchInput')?.focus()}});
+
+
+// QA Lab 2.0 - domain-first hierarchical navigation.
+const NAV_V2=[
+ {icon:'🧪',label:{pt:'QA & Testes',en:'QA & Testing',es:'QA y Pruebas'},children:[
+  {label:{pt:'Fundamentos de QA',en:'QA Fundamentals',es:'Fundamentos de QA'},items:['qa','testability','risk']},
+  {label:{pt:'Tipos de Testes',en:'Testing Types',es:'Tipos de Pruebas'},items:['testing','functional-testing','regression-testing','smoke-testing','sanity-testing','uat','exploratory-testing','integration-testing','e2e-testing','web','mobile','accessibility','localization','ecommerce','payments','visual-regression']},
+  {label:{pt:'Técnicas de Teste',en:'Test Design Techniques',es:'Técnicas de Prueba'},items:['equivalence-partitioning','boundary-value-analysis','decision-table','state-transition']},
+  {label:{pt:'Prática de QA',en:'QA Practice',es:'Práctica de QA'},items:['how-to-test','playground','bug-clinic','qa-shop']}
+ ]},
+ {icon:'🔌',label:{pt:'API',en:'API',es:'API'},children:[
+  {label:{pt:'Fundamentos & Testes',en:'Fundamentals & Testing',es:'Fundamentos y Pruebas'},items:['api','api-tools','http-status','api-auth','rest','graphql']},
+  {label:{pt:'Ferramentas',en:'Tools',es:'Herramientas'},items:['postman','bruno','insomnia','soapui','openapi','rest-assured','karate']},
+  {label:{pt:'Testes Avançados',en:'Advanced Testing',es:'Pruebas Avanzadas'},items:['pact']},
+  {label:{pt:'Laboratório',en:'Lab',es:'Laboratorio'},items:['api-lab']}
+ ]},
+ {icon:'🤖',label:{pt:'Automação',en:'Automation',es:'Automatización'},children:[
+  {label:{pt:'Fundamentos',en:'Fundamentals',es:'Fundamentos'},items:['automation']},
+  {label:{pt:'Web',en:'Web',es:'Web'},items:['playwright','selenium','cypress','webdriverio']},
+  {label:{pt:'Mobile',en:'Mobile',es:'Mobile'},items:['appium','browserstack','espresso','xcuitest']},
+  {label:{pt:'Frameworks & BDD',en:'Frameworks & BDD',es:'Frameworks y BDD'},items:['robot-framework','cucumber','junit','testng']},
+  {label:{pt:'Performance Automatizada',en:'Automated Performance',es:'Performance Automatizado'},items:['jmeter','k6']},
+  {label:{pt:'Prática',en:'Practice',es:'Práctica'},items:['code-lab']}
+ ]},
+ {icon:'💻',label:{pt:'Programação',en:'Programming',es:'Programación'},children:[
+  {label:{pt:'Fundamentos',en:'Fundamentals',es:'Fundamentos'},items:['programming','software']},
+  {label:{pt:'Python',en:'Python',es:'Python'},items:['python']},
+  {label:{pt:'Java & Ecossistema',en:'Java & Ecosystem',es:'Java y Ecosistema'},items:['java','maven','gradle','junit','testng','intellij']},
+  {label:{pt:'Node.js & npm',en:'Node.js & npm',es:'Node.js y npm'},items:['nodejs','npm']},
+  {label:{pt:'Ambiente de Desenvolvimento',en:'Development Environment',es:'Entorno de Desarrollo'},items:['environment','vscode','powershell']}
+ ]},
+ {icon:'🗄️',label:{pt:'Banco de Dados',en:'Databases',es:'Bases de Datos'},children:[
+  {label:{pt:'SQL & Data Quality',en:'SQL & Data Quality',es:'SQL y Calidad de Datos'},items:['data','test-data','data-quality']},
+  {label:{pt:'Bancos Relacionais',en:'Relational Databases',es:'Bases Relacionales'},items:['mysql','postgresql','sql-server','oracle']},
+  {label:{pt:'NoSQL',en:'NoSQL',es:'NoSQL'},items:['mongodb']},
+  {label:{pt:'ETL & Pipelines',en:'ETL & Pipelines',es:'ETL y Pipelines'},items:['etl','data-pipeline']},
+  {label:{pt:'Plataformas de Dados',en:'Data Platforms',es:'Plataformas de Datos'},items:['data-lake','data-warehouse']}
+ ]},
+ {icon:'🔄',label:{pt:'Metodologias',en:'Methodologies',es:'Metodologías'},children:[
+  {label:{pt:'Agile',en:'Agile',es:'Agile'},items:['agile','scrum','kanban']},
+  {label:{pt:'Cascata / Waterfall',en:'Waterfall',es:'Cascada / Waterfall'},items:['waterfall']},
+  {label:{pt:'Outras Abordagens',en:'Other Approaches',es:'Otros Enfoques'},items:['v-model']}
+ ]},
+ {icon:'🔀',label:{pt:'Git & Versionamento',en:'Git & Version Control',es:'Git y Versionado'},children:[
+  {label:{pt:'Git & GitHub',en:'Git & GitHub',es:'Git y GitHub'},items:['git']},
+  {label:{pt:'Plataformas Git',en:'Git Platforms',es:'Plataformas Git'},items:['bitbucket','gitlab']}
+ ]},
+ {icon:'🚀',label:{pt:'DevOps & CI/CD',en:'DevOps & CI/CD',es:'DevOps y CI/CD'},children:[
+  {label:{pt:'Fundamentos & Operação',en:'Fundamentals & Operations',es:'Fundamentos y Operación'},items:['devops','release','incidents']},
+  {label:{pt:'Pipelines & CI/CD',en:'Pipelines & CI/CD',es:'Pipelines y CI/CD'},items:['jenkins','github-actions','bitbucket-pipelines','azure-devops','circleci']}
+ ]},
+ {icon:'☁️',label:{pt:'Cloud & Infraestrutura',en:'Cloud & Infrastructure',es:'Cloud e Infraestructura'},children:[
+  {label:{pt:'Cloud & Containers',en:'Cloud & Containers',es:'Cloud y Contenedores'},items:['cloud','docker','networking','kubernetes']},
+  {label:{pt:'Cloud Providers & IaC',en:'Cloud Providers & IaC',es:'Proveedores Cloud e IaC'},items:['aws','azure','gcp','terraform']},
+  {label:{pt:'Arquitetura & Mensageria',en:'Architecture & Messaging',es:'Arquitectura y Mensajería'},items:['microservices','event-driven','kafka']},
+  {label:{pt:'Plataformas Corporativas',en:'Enterprise Platforms',es:'Plataformas Empresariales'},items:['salesforce','erp']}
+ ]},
+ {icon:'👁️',label:{pt:'Observabilidade',en:'Observability',es:'Observabilidad'},children:[
+  {label:{pt:'Fundamentos',en:'Fundamentals',es:'Fundamentos'},items:['testability','opentelemetry']},
+  {label:{pt:'Métricas & Dashboards',en:'Metrics & Dashboards',es:'Métricas y Dashboards'},items:['grafana','prometheus']},
+  {label:{pt:'Plataformas',en:'Platforms',es:'Plataformas'},items:['datadog','dynatrace','new-relic','sentry']}
+ ]},
+ {icon:'⚡',label:{pt:'Performance',en:'Performance',es:'Performance'},children:[
+  {label:{pt:'Fundamentos & Ferramentas',en:'Fundamentals & Tools',es:'Fundamentos y Herramientas'},items:['performance','jmeter','k6','gatling','locust','loadrunner']}
+ ]},
+ {icon:'🔐',label:{pt:'Segurança',en:'Security',es:'Seguridad'},children:[
+  {label:{pt:'Fundamentos & Autenticação',en:'Fundamentals & Authentication',es:'Fundamentos y Autenticación'},items:['security','auth','owasp']},
+  {label:{pt:'Ferramentas',en:'Tools',es:'Herramientas'},items:['zap','burp-suite','sonarqube']}
+ ]},
+ {icon:'📋',label:{pt:'Gestão de QA',en:'QA Management',es:'Gestión de QA'},children:[
+  {label:{pt:'Gestão & Planejamento',en:'Management & Planning',es:'Gestión y Planificación'},items:['management','templates','workspace']},
+  {label:{pt:'Jira & Xray',en:'Jira & Xray',es:'Jira y Xray'},items:['jira-xray']},
+  {label:{pt:'Ferramentas de Gestão de Testes',en:'Test Management Tools',es:'Herramientas de Gestión de Pruebas'},items:['zephyr','qtest','azure-test-plans','testrail']}
+ ]},
+ {icon:'🧠',label:{pt:'IA & AI Testing',en:'AI & AI Testing',es:'IA y AI Testing'},children:[
+  {label:{pt:'Fundamentos & Testing',en:'Fundamentals & Testing',es:'Fundamentos y Testing'},items:['ai','ai-testing','shorts']},
+  {label:{pt:'Ferramentas',en:'Tools',es:'Herramientas'},items:['chatgpt','claude','gemini','deepseek','github-copilot','perplexity']}
+ ]},
+ {icon:'📊',label:{pt:'Métricas & Analytics',en:'Metrics & Analytics',es:'Métricas y Analytics'},children:[
+  {label:{pt:'QA Analytics',en:'QA Analytics',es:'QA Analytics'},items:['analytics']}
+ ]},
+ {icon:'💼',label:{pt:'Carreira & Trabalho',en:'Career & Work',es:'Carrera y Trabajo'},children:[
+  {label:{pt:'Carreira',en:'Career',es:'Carrera'},items:['learning-paths','interview-center','glossary']},
+  {label:{pt:'Ferramentas do Dia a Dia',en:'Daily Tools',es:'Herramientas del Día a Día'},items:['toolkit','setup-center','workspace','templates']}
+ ]}
+];
+function navText(obj){return obj?.[LANG]||obj?.pt||''}
+const NAV_OPEN_STATE=new Set();
+function organizeNavigation(){
+ const root=document.getElementById('navTree');if(!root)return;
+ const active=location.hash.replace('#/','');
+ NAV_V2.forEach((domain,di)=>domain.children.forEach((sub,si)=>{if((sub.items||[]).includes(active)){NAV_OPEN_STATE.add(`d${di}`);NAV_OPEN_STATE.add(`d${di}s${si}`)}}));
+ root.innerHTML=NAV_V2.map((domain,di)=>{const dk=`d${di}`,dopen=NAV_OPEN_STATE.has(dk);return `<div class="tree-node depth-1${dopen?' open':''}" data-nav-key="${dk}"><button class="tree-toggle" type="button" aria-expanded="${dopen}"><span>${domain.icon}</span><span class="tree-label">${navText(domain.label)}</span><span class="tree-plus">${dopen?'−':'+'}</span></button><div class="tree-children">${domain.children.map((sub,si)=>{const sk=`d${di}s${si}`,sopen=NAV_OPEN_STATE.has(sk);return `<div class="tree-node depth-2${sopen?' open':''}" data-nav-key="${sk}"><button class="tree-toggle" type="button" aria-expanded="${sopen}"><span class="tree-label">${navText(sub.label)}</span><span class="tree-plus">${sopen?'−':'+'}</span></button><div class="tree-children">${(sub.items||[]).filter(k=>DATA[k]).map(k=>`<a class="tree-link${k===active?' active':''}" data-topic-nav="${k}" href="#/${k}"><span>${topicMeta[k][0]}</span><span>${DATA[k][LANG].title}</span></a>`).join('')}</div></div>`}).join('')}</div></div>`}).join('');
+ root.querySelectorAll('.tree-toggle').forEach(b=>b.onclick=()=>{const n=b.closest('.tree-node'),key=n.dataset.navKey;n.classList.toggle('open');const on=n.classList.contains('open');if(on)NAV_OPEN_STATE.add(key);else NAV_OPEN_STATE.delete(key);b.setAttribute('aria-expanded',String(on));b.querySelector('.tree-plus').textContent=on?'−':'+'});
+}
 
 load();
 function renderToolkit(){
