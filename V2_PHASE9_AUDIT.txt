@@ -1,0 +1,28 @@
+QA LAB BRASIL 2.0 - FASE 9 - AUDITORIA LOCAL
+Date: 2026-09-18
+
+SUMMARY
+- Topics: 151
+- Languages validated: PT / EN / ES
+- Expected PDFs: 453
+- Missing PDFs: 0
+- Topics represented in NAV_V2: 0
+- Topics not directly represented in hierarchical NAV_V2: 151
+- Duplicate localized titles: PT 0 / EN 0 / ES 0
+- Empty required content blocks: 0
+- Suspicious UTF-8 corruption markers: 0
+- Topics without official URL in _meta: 49
+
+NAVIGATION NOTES
+- Public 'Proximos conteudos' groups: removed in Phase 8.
+- The generic renderer still supports a planned list internally, but NAV_V2 currently exposes no planned entries.
+- Some utility/special modules may be routed outside the hierarchical topic tree; review list below before RC.
+
+TOPICS NOT DIRECTLY IN NAV_V2 (151)
+accessibility, agile, ai, ai-testing, analytics, api, api-auth, api-lab, api-tools, appium, auth, automation, aws, azure, azure-devops, azure-test-plans, bitbucket, bitbucket-pipelines, boundary-value-analysis, browserstack, bruno, bug-clinic, burp-suite, chatgpt, circleci, claude, cloud, code-lab, cucumber, cypress, data, data-lake, data-pipeline, data-quality, data-warehouse, datadog, decision-table, deepseek, devops, docker, dynatrace, e2e-testing, ecommerce, environment, equivalence-partitioning, erp, espresso, etl, event-driven, exploratory-testing, functional-testing, gatling, gcp, gemini, git, github-actions, github-copilot, gitlab, glossary, gradle, grafana, graphql, how-to-test, http-status, incidents, insomnia, integration-testing, intellij, interview-center, java, jenkins, jira-xray, jmeter, junit, k6, kafka, kanban, karate, kubernetes, learning-paths, loadrunner, localization, locust, management, maven, microservices, mobile, mongodb, mysql, networking, new-relic, nodejs, npm, openapi, opentelemetry, oracle, owasp, pact, payments, performance, perplexity, playground, playwright, postgresql, postman, powershell, programming, prometheus, python, qa, qa-shop, qtest, regression-testing, release, rest, rest-assured, risk, robot-framework, salesforce, sanity-testing, scrum, security, selenium, sentry, setup-center, shorts, smoke-testing, soapui, software, sonarqube, sql-server, state-transition, templates, terraform, test-data, testability, testing, testng, testrail, toolkit, uat, v-model, visual-regression, vscode, waterfall, web, webdriverio, workspace, xcuitest, zap, zephyr
+
+TOPICS WITHOUT OFFICIAL URL (49)
+qa, testing, software, web, api-tools, automation, programming, data, devops, analytics, management, ai, ai-testing, how-to-test, toolkit, playground, setup-center, bug-clinic, code-lab, api-lab, glossary, learning-paths, interview-center, shorts, qa-shop, release, incidents, risk, templates, workspace, localization, ecommerce, payments, erp, cloud, visual-regression, test-data, functional-testing, regression-testing, smoke-testing, sanity-testing, uat, exploratory-testing, integration-testing, e2e-testing, equivalence-partitioning, boundary-value-analysis, decision-table, state-transition
+
+RESULT
+PASS WITH REVIEW ITEMS
