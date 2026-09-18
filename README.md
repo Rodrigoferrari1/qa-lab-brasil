@@ -8,7 +8,7 @@ QA Lab Brasil is an open knowledge platform focused on **Software Quality Assura
 
 The project was created to provide useful content for professionals at different career stages — from people taking their first steps in QA to Senior QA Engineers and QA Leads.
 
-🌐 **Live website:** https://qualityassurance-brasil.netlify.app/
+🌐 **Live website:** https://qualityassurancebrasil.com.br/
 
 ---
 
