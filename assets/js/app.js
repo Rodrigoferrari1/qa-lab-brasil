@@ -50,30 +50,34 @@ const PT_NAV_TITLES={
 function navTopicTitle(id,d){return LANG==='pt'?(PT_NAV_TITLES[id]||d.title):d.title}
 function qaMobileOpenTopic(id){
  const isMobile=window.matchMedia('(max-width: 820px)').matches;
- if(isMobile){
-  // Collapse the navigation before changing route so its mobile height is recalculated first.
-  document.querySelectorAll('.nav-v2.nav-group.open,.nav-v2 .nav-sub.open').forEach(x=>x.classList.remove('open'));
-  document.querySelectorAll('.nav-v2 .plus').forEach(x=>x.textContent='→');
-  document.querySelectorAll('.nav-v2 .group-toggle,.nav-v2 .sub-toggle').forEach(x=>x.setAttribute('aria-expanded','false'));
- }
+ if(!isMobile){location.hash='#/'+id;return;}
+ // The current navigation is rendered by #navTree. Clear its expanded state first,
+ // then navigate. The route renders the selected content synchronously on hashchange.
+ if(typeof NAV_OPEN_STATE!=='undefined' && NAV_OPEN_STATE.clear) NAV_OPEN_STATE.clear();
+ document.querySelectorAll('#navTree .tree-node.open').forEach(x=>x.classList.remove('open'));
+ document.querySelectorAll('#navTree .tree-toggle').forEach(x=>{
+   x.setAttribute('aria-expanded','false');
+   const icon=x.querySelector('.tree-plus'); if(icon)icon.textContent='→';
+ });
  location.hash='#/'+id;
- if(!isMobile)return;
- // The route renders synchronously, but mobile browsers can settle layout after the hash event.
- // Wait for two paint cycles, then scroll to the rendered topic header using an explicit page Y.
- requestAnimationFrame(()=>requestAnimationFrame(()=>{
-  const target=document.querySelector('#main .topic-head')||document.getElementById('main');
-  if(!target)return;
-  const top=Math.max(0,target.getBoundingClientRect().top+window.pageYOffset-8);
-  window.scrollTo({top,behavior:'smooth'});
-  // A short corrective pass handles Chrome/Samsung layout shifts after the menu collapses.
-  window.setTimeout(()=>{
-   const t=document.querySelector('#main .topic-head')||document.getElementById('main');
-   if(!t)return;
-   const y=Math.max(0,t.getBoundingClientRect().top+window.pageYOffset-8);
-   if(Math.abs(window.pageYOffset-y)>12)window.scrollTo({top:y,behavior:'auto'});
-  },220);
- }));
+ // Mobile layout puts the whole sidebar before .content in document flow.
+ // After the topic has rendered, explicitly move the page to the selected content.
+ const focusSelectedContent=()=>{
+   const target=document.querySelector('#main .topic-head')||document.getElementById('main');
+   if(!target)return;
+   const y=Math.max(0,target.getBoundingClientRect().top+window.scrollY-6);
+   window.scrollTo({top:y,behavior:'smooth'});
+ };
+ requestAnimationFrame(()=>requestAnimationFrame(focusSelectedContent));
+ window.setTimeout(focusSelectedContent,180);
+ window.setTimeout(()=>{
+   const target=document.querySelector('#main .topic-head')||document.getElementById('main');
+   if(!target)return;
+   const y=Math.max(0,target.getBoundingClientRect().top+window.scrollY-6);
+   if(Math.abs(window.scrollY-y)>16)window.scrollTo({top:y,behavior:'auto'});
+ },420);
 }
+
 function organizeNavigation(){const nav=document.querySelector('.nav');if(!nav)return;nav.querySelectorAll('.nav-v2').forEach(x=>x.remove());document.querySelectorAll('.nav-group:not(.nav-v2)').forEach(x=>x.style.display='none');const home=nav.querySelector('.home-link');if(home)home.style.display='flex';const topicButton=(id)=>{if(id==='compare-tools'||id==='sql-lab'){let cfg=id==='compare-tools'?{i:'⚖️',t:{pt:'Comparador de Ferramentas',en:'Tool Comparator',es:'Comparador de Herramientas'}}:{i:'🗄️',t:{pt:'Laboratório de SQL',en:'SQL Lab',es:'Laboratorio de SQL'}};return `<button class="topic-link" data-topic="${id}" onclick="qaMobileOpenTopic('${id}')"><span>${cfg.i}</span><span>${cfg.t[LANG]}</span></button>`}if(!DATA[id])return '';let d=DATA[id][LANG]||DATA[id].pt;return `<button class="topic-link" data-topic="${id}" onclick="qaMobileOpenTopic('${id}')"><span>${topicMeta[id]?.[0]||'•'}</span><span>${navTopicTitle(id,d)}</span></button>`};const renderNode=(c,depth=0)=>{if(c.items)return `<div class="nav-sub depth-${depth}"><button class="sub-toggle"><span>${c.label[LANG]||c.label.pt}</span><span class="plus">+</span></button><div class="sub-items">${c.items.map(topicButton).join('')}</div></div>`;if(c.children)return `<div class="nav-sub depth-${depth}"><button class="sub-toggle"><span>${c.label[LANG]||c.label.pt}</span><span class="plus">+</span></button><div class="sub-items nested">${c.children.map(x=>renderNode(x,depth+1)).join('')}</div></div>`;return ''};NAV_V2.forEach(g=>{let wrap=document.createElement('div');wrap.className='nav-group nav-v2';wrap.innerHTML=`<button class="group-toggle"><span>${g.icon} ${g.label[LANG]||g.label.pt}</span><span class="plus">+</span></button><div class="group-items">${g.children.map(c=>renderNode(c)).join('')}</div>`;nav.appendChild(wrap)});nav.querySelectorAll('.nav-v2 .group-toggle').forEach(b=>b.onclick=()=>{let g=b.closest('.nav-group');g.classList.toggle('open');b.querySelector('.plus').textContent=g.classList.contains('open')?'−':'+'});nav.querySelectorAll('.nav-v2 .sub-toggle').forEach(b=>b.onclick=()=>{let s=b.closest('.nav-sub');s.classList.toggle('open');b.querySelector('.plus').textContent=s.classList.contains('open')?'−':'+'});}
 
 document.addEventListener('keydown',e=>{if(e.key==='Escape'){document.getElementById('searchResults')?.classList.remove('open');document.getElementById('chatbox')?.classList.remove('open')}if((e.ctrlKey||e.metaKey)&&e.key.toLowerCase()==='k'){e.preventDefault();document.getElementById('searchInput')?.focus()}});
@@ -173,6 +177,11 @@ function organizeNavigation(){
  const active=location.hash.replace('#/','');
  NAV_V2.forEach((domain,di)=>{if(navNodeContains(domain,active))NAV_OPEN_STATE.add(`d${di}`)});
  root.innerHTML=NAV_V2.map((domain,di)=>{const dk=`d${di}`,dopen=NAV_OPEN_STATE.has(dk);return `<div class="tree-node depth-1${dopen?' open':''}" data-nav-key="${dk}"><button class="tree-toggle" type="button" aria-expanded="${dopen}"><span>${domain.icon}</span><span class="tree-label">${navText(domain.label)}</span><span class="tree-plus">${dopen?'−':'+'}</span></button><div class="tree-children">${domain.children.map((sub,si)=>renderNavNode(sub,`${dk}s${si}`,2,active)).join('')}</div></div>`}).join('');
+ root.querySelectorAll('.tree-link[data-topic-nav]').forEach(a=>a.addEventListener('click',e=>{
+   if(!window.matchMedia('(max-width: 820px)').matches)return;
+   e.preventDefault();
+   qaMobileOpenTopic(a.dataset.topicNav);
+ }));
  root.querySelectorAll('.tree-toggle').forEach(b=>b.onclick=()=>{
    const n=b.closest('.tree-node'),key=n.dataset.navKey,onBefore=n.classList.contains('open');
    // Accordion entre irmãos: abre o selecionado e recolhe os grupos irmãos.
