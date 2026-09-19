@@ -48,7 +48,17 @@ const PT_NAV_TITLES={
  'mobile':'Teste Mobile','web':'Teste Web','uat':'UAT - Teste de Aceitação do Usuário','accessibility':'Teste de Acessibilidade','localization':'Teste de Localização e Internacionalização','ecommerce':'Teste de E-commerce','payments':'Teste de Pagamentos','testing':'Tipos e Técnicas de Teste','api-auth':'Autenticação de API','http-status':'Códigos de Status HTTP','api-tools':'Ferramentas de API','performance':'Teste de Performance','security':'Teste de Segurança','auth':'Autenticação e Autorização','cloud':'Computação em Nuvem','management':'Gestão de QA','analytics':'Métricas e Análises','release':'Gestão de Release','incidents':'Gestão de Incidentes','test-data':'Dados de Teste','visual-regression':'Teste de Regressão Visual','functional-testing':'Teste Funcional','regression-testing':'Teste de Regressão','smoke-testing':'Teste de Smoke','sanity-testing':'Teste de Sanidade','exploratory-testing':'Teste Exploratório','integration-testing':'Teste de Integração','e2e-testing':'Teste Ponta a Ponta (E2E)'
 };
 function navTopicTitle(id,d){return LANG==='pt'?(PT_NAV_TITLES[id]||d.title):d.title}
-function organizeNavigation(){const nav=document.querySelector('.nav');if(!nav)return;nav.querySelectorAll('.nav-v2').forEach(x=>x.remove());document.querySelectorAll('.nav-group:not(.nav-v2)').forEach(x=>x.style.display='none');const home=nav.querySelector('.home-link');if(home)home.style.display='flex';const topicButton=(id)=>{if(id==='compare-tools'||id==='sql-lab'){let cfg=id==='compare-tools'?{i:'⚖️',t:{pt:'Comparador de Ferramentas',en:'Tool Comparator',es:'Comparador de Herramientas'}}:{i:'🗄️',t:{pt:'Laboratório de SQL',en:'SQL Lab',es:'Laboratorio de SQL'}};return `<button class="topic-link" data-topic="${id}" onclick="location.hash='#/${id}'"><span>${cfg.i}</span><span>${cfg.t[LANG]}</span></button>`}if(!DATA[id])return '';let d=DATA[id][LANG]||DATA[id].pt;return `<button class="topic-link" data-topic="${id}" onclick="location.hash='#/${id}'"><span>${topicMeta[id]?.[0]||'•'}</span><span>${navTopicTitle(id,d)}</span></button>`};const renderNode=(c,depth=0)=>{if(c.items)return `<div class="nav-sub depth-${depth}"><button class="sub-toggle"><span>${c.label[LANG]||c.label.pt}</span><span class="plus">+</span></button><div class="sub-items">${c.items.map(topicButton).join('')}</div></div>`;if(c.children)return `<div class="nav-sub depth-${depth}"><button class="sub-toggle"><span>${c.label[LANG]||c.label.pt}</span><span class="plus">+</span></button><div class="sub-items nested">${c.children.map(x=>renderNode(x,depth+1)).join('')}</div></div>`;return ''};NAV_V2.forEach(g=>{let wrap=document.createElement('div');wrap.className='nav-group nav-v2';wrap.innerHTML=`<button class="group-toggle"><span>${g.icon} ${g.label[LANG]||g.label.pt}</span><span class="plus">+</span></button><div class="group-items">${g.children.map(c=>renderNode(c)).join('')}</div>`;nav.appendChild(wrap)});nav.querySelectorAll('.nav-v2 .group-toggle').forEach(b=>b.onclick=()=>{let g=b.closest('.nav-group');g.classList.toggle('open');b.querySelector('.plus').textContent=g.classList.contains('open')?'−':'+'});nav.querySelectorAll('.nav-v2 .sub-toggle').forEach(b=>b.onclick=()=>{let s=b.closest('.nav-sub');s.classList.toggle('open');b.querySelector('.plus').textContent=s.classList.contains('open')?'−':'+'});}
+function qaMobileOpenTopic(id){
+ location.hash='#/'+id;
+ if(!window.matchMedia('(max-width: 820px)').matches)return;
+ window.setTimeout(()=>{
+  document.querySelectorAll('.nav-v2 .nav-group.open,.nav-v2 .nav-sub.open').forEach(x=>x.classList.remove('open'));
+  document.querySelectorAll('.nav-v2 .plus').forEach(x=>x.textContent='→');
+  const main=document.getElementById('main');
+  if(main)main.scrollIntoView({behavior:'smooth',block:'start'});
+ },80);
+}
+function organizeNavigation(){const nav=document.querySelector('.nav');if(!nav)return;nav.querySelectorAll('.nav-v2').forEach(x=>x.remove());document.querySelectorAll('.nav-group:not(.nav-v2)').forEach(x=>x.style.display='none');const home=nav.querySelector('.home-link');if(home)home.style.display='flex';const topicButton=(id)=>{if(id==='compare-tools'||id==='sql-lab'){let cfg=id==='compare-tools'?{i:'⚖️',t:{pt:'Comparador de Ferramentas',en:'Tool Comparator',es:'Comparador de Herramientas'}}:{i:'🗄️',t:{pt:'Laboratório de SQL',en:'SQL Lab',es:'Laboratorio de SQL'}};return `<button class="topic-link" data-topic="${id}" onclick="qaMobileOpenTopic('${id}')"><span>${cfg.i}</span><span>${cfg.t[LANG]}</span></button>`}if(!DATA[id])return '';let d=DATA[id][LANG]||DATA[id].pt;return `<button class="topic-link" data-topic="${id}" onclick="qaMobileOpenTopic('${id}')"><span>${topicMeta[id]?.[0]||'•'}</span><span>${navTopicTitle(id,d)}</span></button>`};const renderNode=(c,depth=0)=>{if(c.items)return `<div class="nav-sub depth-${depth}"><button class="sub-toggle"><span>${c.label[LANG]||c.label.pt}</span><span class="plus">+</span></button><div class="sub-items">${c.items.map(topicButton).join('')}</div></div>`;if(c.children)return `<div class="nav-sub depth-${depth}"><button class="sub-toggle"><span>${c.label[LANG]||c.label.pt}</span><span class="plus">+</span></button><div class="sub-items nested">${c.children.map(x=>renderNode(x,depth+1)).join('')}</div></div>`;return ''};NAV_V2.forEach(g=>{let wrap=document.createElement('div');wrap.className='nav-group nav-v2';wrap.innerHTML=`<button class="group-toggle"><span>${g.icon} ${g.label[LANG]||g.label.pt}</span><span class="plus">+</span></button><div class="group-items">${g.children.map(c=>renderNode(c)).join('')}</div>`;nav.appendChild(wrap)});nav.querySelectorAll('.nav-v2 .group-toggle').forEach(b=>b.onclick=()=>{let g=b.closest('.nav-group');g.classList.toggle('open');b.querySelector('.plus').textContent=g.classList.contains('open')?'−':'+'});nav.querySelectorAll('.nav-v2 .sub-toggle').forEach(b=>b.onclick=()=>{let s=b.closest('.nav-sub');s.classList.toggle('open');b.querySelector('.plus').textContent=s.classList.contains('open')?'−':'+'});}
 
 document.addEventListener('keydown',e=>{if(e.key==='Escape'){document.getElementById('searchResults')?.classList.remove('open');document.getElementById('chatbox')?.classList.remove('open')}if((e.ctrlKey||e.metaKey)&&e.key.toLowerCase()==='k'){e.preventDefault();document.getElementById('searchInput')?.focus()}});
 
@@ -300,5 +310,32 @@ function qaLabOpenBestSearchResult(){
       e.preventDefault();
       qaLabOpenBestSearchResult();
     }
+  });
+})();
+
+/* QA Lab 2.3.1 - Home resets expanded navigation */
+function qaLabResetNavigation(){
+  // Navigation v2 uses .tree-node plus the persistent NAV_OPEN_STATE Set.
+  if(typeof NAV_OPEN_STATE!=='undefined' && NAV_OPEN_STATE.clear) NAV_OPEN_STATE.clear();
+  document.querySelectorAll('#navTree .tree-node.open').forEach(x=>x.classList.remove('open'));
+  document.querySelectorAll('#navTree .tree-toggle').forEach(x=>{
+    x.setAttribute('aria-expanded','false');
+    const icon=x.querySelector('.tree-plus');
+    if(icon) icon.textContent='→';
+  });
+  // Compatibility with older navigation markup, if present.
+  document.querySelectorAll('.nav-v2.nav-group.open,.nav-v2 .nav-sub.open').forEach(x=>x.classList.remove('open'));
+  document.querySelectorAll('.nav-v2 .plus').forEach(x=>x.textContent='→');
+  document.querySelectorAll('.nav-v2 .group-toggle,.nav-v2 .sub-toggle').forEach(x=>x.setAttribute('aria-expanded','false'));
+}
+(function(){
+  const home=document.querySelector('.home-link');
+  if(home) home.addEventListener('click',()=>{
+    qaLabResetNavigation();
+    // Re-render after the hash route changes so the cleared state is preserved.
+    window.setTimeout(()=>{
+      if(typeof organizeNavigation==='function') organizeNavigation();
+      window.scrollTo({top:0,behavior:'smooth'});
+    },40);
   });
 })();
