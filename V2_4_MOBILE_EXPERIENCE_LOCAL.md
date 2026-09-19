@@ -13,3 +13,6 @@ Implemented:
 - Existing mobile topic navigation behavior is preserved.
 
 Suggested responsive checks: 360px, 390px, 412px and 430px widths.
+
+
+Hotfix final: offset mobile dinâmico considera a altura real do header + 20px de margem, mantendo o título do conteúdo totalmente visível. Google Analytics 4 instalado com Measurement ID G-F1SV6ME5JX e page_view explícito para navegação SPA/hash em produção.
