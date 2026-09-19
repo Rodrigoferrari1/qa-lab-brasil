@@ -1,9 +1,0 @@
-QA Lab Brasil 2.0 - Netlify production fix
-
-Correcoes:
-1. Cache busting nos assets principais (?v=2.0.1).
-2. assets/* com revalidacao imediata no Netlify para evitar JS antigo com HTML novo.
-3. topics.json e ui.json carregados com cache:no-store e versao.
-4. Tratamento de erro no bootstrap para evitar tela silenciosamente vazia.
-
-Base: Final Candidate aprovada / Fase 9 funcional com persistencia de menus.
