@@ -49,14 +49,30 @@ const PT_NAV_TITLES={
 };
 function navTopicTitle(id,d){return LANG==='pt'?(PT_NAV_TITLES[id]||d.title):d.title}
 function qaMobileOpenTopic(id){
- location.hash='#/'+id;
- if(!window.matchMedia('(max-width: 820px)').matches)return;
- window.setTimeout(()=>{
-  document.querySelectorAll('.nav-v2 .nav-group.open,.nav-v2 .nav-sub.open').forEach(x=>x.classList.remove('open'));
+ const isMobile=window.matchMedia('(max-width: 820px)').matches;
+ if(isMobile){
+  // Collapse the navigation before changing route so its mobile height is recalculated first.
+  document.querySelectorAll('.nav-v2.nav-group.open,.nav-v2 .nav-sub.open').forEach(x=>x.classList.remove('open'));
   document.querySelectorAll('.nav-v2 .plus').forEach(x=>x.textContent='→');
-  const main=document.getElementById('main');
-  if(main)main.scrollIntoView({behavior:'smooth',block:'start'});
- },80);
+  document.querySelectorAll('.nav-v2 .group-toggle,.nav-v2 .sub-toggle').forEach(x=>x.setAttribute('aria-expanded','false'));
+ }
+ location.hash='#/'+id;
+ if(!isMobile)return;
+ // The route renders synchronously, but mobile browsers can settle layout after the hash event.
+ // Wait for two paint cycles, then scroll to the rendered topic header using an explicit page Y.
+ requestAnimationFrame(()=>requestAnimationFrame(()=>{
+  const target=document.querySelector('#main .topic-head')||document.getElementById('main');
+  if(!target)return;
+  const top=Math.max(0,target.getBoundingClientRect().top+window.pageYOffset-8);
+  window.scrollTo({top,behavior:'smooth'});
+  // A short corrective pass handles Chrome/Samsung layout shifts after the menu collapses.
+  window.setTimeout(()=>{
+   const t=document.querySelector('#main .topic-head')||document.getElementById('main');
+   if(!t)return;
+   const y=Math.max(0,t.getBoundingClientRect().top+window.pageYOffset-8);
+   if(Math.abs(window.pageYOffset-y)>12)window.scrollTo({top:y,behavior:'auto'});
+  },220);
+ }));
 }
 function organizeNavigation(){const nav=document.querySelector('.nav');if(!nav)return;nav.querySelectorAll('.nav-v2').forEach(x=>x.remove());document.querySelectorAll('.nav-group:not(.nav-v2)').forEach(x=>x.style.display='none');const home=nav.querySelector('.home-link');if(home)home.style.display='flex';const topicButton=(id)=>{if(id==='compare-tools'||id==='sql-lab'){let cfg=id==='compare-tools'?{i:'⚖️',t:{pt:'Comparador de Ferramentas',en:'Tool Comparator',es:'Comparador de Herramientas'}}:{i:'🗄️',t:{pt:'Laboratório de SQL',en:'SQL Lab',es:'Laboratorio de SQL'}};return `<button class="topic-link" data-topic="${id}" onclick="qaMobileOpenTopic('${id}')"><span>${cfg.i}</span><span>${cfg.t[LANG]}</span></button>`}if(!DATA[id])return '';let d=DATA[id][LANG]||DATA[id].pt;return `<button class="topic-link" data-topic="${id}" onclick="qaMobileOpenTopic('${id}')"><span>${topicMeta[id]?.[0]||'•'}</span><span>${navTopicTitle(id,d)}</span></button>`};const renderNode=(c,depth=0)=>{if(c.items)return `<div class="nav-sub depth-${depth}"><button class="sub-toggle"><span>${c.label[LANG]||c.label.pt}</span><span class="plus">+</span></button><div class="sub-items">${c.items.map(topicButton).join('')}</div></div>`;if(c.children)return `<div class="nav-sub depth-${depth}"><button class="sub-toggle"><span>${c.label[LANG]||c.label.pt}</span><span class="plus">+</span></button><div class="sub-items nested">${c.children.map(x=>renderNode(x,depth+1)).join('')}</div></div>`;return ''};NAV_V2.forEach(g=>{let wrap=document.createElement('div');wrap.className='nav-group nav-v2';wrap.innerHTML=`<button class="group-toggle"><span>${g.icon} ${g.label[LANG]||g.label.pt}</span><span class="plus">+</span></button><div class="group-items">${g.children.map(c=>renderNode(c)).join('')}</div>`;nav.appendChild(wrap)});nav.querySelectorAll('.nav-v2 .group-toggle').forEach(b=>b.onclick=()=>{let g=b.closest('.nav-group');g.classList.toggle('open');b.querySelector('.plus').textContent=g.classList.contains('open')?'−':'+'});nav.querySelectorAll('.nav-v2 .sub-toggle').forEach(b=>b.onclick=()=>{let s=b.closest('.nav-sub');s.classList.toggle('open');b.querySelector('.plus').textContent=s.classList.contains('open')?'−':'+'});}
 
