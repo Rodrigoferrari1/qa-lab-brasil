@@ -1,80 +1,340 @@
 %PDF-1.4
-%“Œ‹ž ReportLab Generated PDF document (opensource)
+%âãÏÓ
 1 0 obj
 <<
-/F1 2 0 R /F2 3 0 R /F3 4 0 R
+/Producer (pypdf)
 >>
 endobj
 2 0 obj
 <<
-/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
+/Type /Pages
+/Count 1
+/Kids [ 4 0 R ]
 >>
 endobj
 3 0 obj
 <<
-/BaseFont /Helvetica-BoldOblique /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
+/Type /Catalog
+/Pages 2 0 R
 >>
 endobj
 4 0 obj
 <<
-/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F3 /Subtype /Type1 /Type /Font
+/Contents 5 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/ExtGState <<
+/gRLs0 <<
+/ca 0.035
+>>
+>>
+/Font <<
+/F1 6 0 R
+/F1-0 7 0 R
+/F2 8 0 R
+/F2-0 9 0 R
+/F3 10 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
 >>
 endobj
 5 0 obj
 <<
-/Contents 9 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 8 0 R /Resources <<
-/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
->> /Rotate 0 /Trans <<
-
->> 
-  /Type /Page
+/Length 4083
 >>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 51.35433 779.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 12 Tf 14 TL (QA Lab Brasil) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 749.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F3 20 Tf 24 TL 165.7035 0 Td (Azure Test Plans) Tj T* -165.7035 0 Td ET
+Q
+Q
+q
+1 0 0 1 51.35433 724.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Gesti\363n de pruebas manuales y exploratorias en Azure DevOps.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 714.3701 cm
+Q
+q
+1 0 0 1 51.35433 688.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Recursos) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 669.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Organiza test plans, suites, cases, ejecuciones y evidencias vinculadas a Azure DevOps.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 643.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Trazabilidad) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 624.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Casos y resultados pueden asociarse con requisitos/work items y bugs.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 598.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Uso en QA) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 579.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Es \372til cuando backlog, pipelines y pruebas est\341n centralizados en Azure DevOps.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 553.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Cu\341ndo utilizarlo) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 521.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Utilice este conocimiento cuando el riesgo, la arquitectura o la etapa de entrega requieran este tipo de validaci\363n.) Tj T* (Confirme objetivo, ambiente, datos necesarios y evidencias esperadas antes de comenzar.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 495.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (C\363mo lo aplica QA) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 463.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL -0.098269 Tw (Parta del comportamiento o riesgo que debe validarse, prepare datos y ambiente, ejecute la t\351cnica o herramienta de) Tj T* 0 Tw (forma reproducible y registre evidencias que ayuden al equipo a comprender el resultado.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 437.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Buenas pr\341cticas) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 405.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Priorice escenarios de mayor impacto, mantenga datos y ambientes controlados, registre decisiones importantes y) Tj T* (revise peri\363dicamente el enfoque para evitar cobertura redundante o desactualizada.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 379.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Consejo de QA) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 360.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Relacione siempre la pr\341ctica con el riesgo del producto y la evidencia necesaria para decisiones de calidad.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 334.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Recursos oficiales) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 315.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Site oficial: https://learn.microsoft.com/en-us/azure/devops/test/overview) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+0.843137 0.901961 0.960784 RG
+0.6 w
+n
+36 815.8898 m
+559.2756 815.8898 l
+S
+0.070588 0.207843 0.356863 rg
+BT
+/F2-0 8.2 Tf
+9.84 TL
+ET
+BT
+1 0 0 1 40 821.8898 Tm
+(QA LAB BRASIL) Tj
+T*
+ET
+0.356863 0.45098 0.564706 rg
+BT
+/F1-0 6.8 Tf
+8.16 TL
+ET
+BT
+1 0 0 1 398.216 821.8898 Tm
+(QUALITY ENGINEERING \174 DOCUMENTO OFICIAL) Tj
+T*
+ET
+q
+0.848048 0.529919 -0.529919 0.848048 297.6378 420.9449 cm
+0.08 0.21 0.36 rg
+/gRLs0 gs
+BT
+/F2-0 42 Tf
+50.4 TL
+ET
+BT
+1 0 0 1 -164.493 0 Tm
+(QA LAB BRASIL) Tj
+T*
+ET
+Q
+0.843137 0.901961 0.960784 RG
+n
+36 24 m
+559.2756 24 l
+S
+0.356863 0.45098 0.564706 rg
+BT
+/F1-0 6.6 Tf
+7.92 TL
+ET
+BT
+1 0 0 1 40 14 Tm
+(qualityassurancebrasil\056com\056br) Tj
+T*
+ET
+BT
+1 0 0 1 212.28 14 Tm
+(QA Lab Brasil v2\0562 \174 ES \174 Actualizado\072 septiembre de 2026) Tj
+T*
+ET
+BT
+1 0 0 1 514.547 14 Tm
+(Pagina 1 de 1) Tj
+T*
+ET
+Q
+
+
+endstream
 endobj
 6 0 obj
 <<
-/PageMode /UseNone /Pages 8 0 R /Type /Catalog
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
 >>
 endobj
 7 0 obj
 <<
-/Author (\(anonymous\)) /CreationDate (D:20260918234449+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20260918234449+00'00') /Producer (ReportLab PDF Library - \(opensource\)) 
-  /Subject (\(unspecified\)) /Title (\(anonymous\)) /Trapped /False
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
 >>
 endobj
 8 0 obj
 <<
-/Count 1 /Kids [ 5 0 R ] /Type /Pages
+/BaseFont /Helvetica-BoldOblique
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
 >>
 endobj
 9 0 obj
 <<
-/Filter [ /ASCII85Decode /FlateDecode ] /Length 1251
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
 >>
-stream
-GatU29lo#Z&A@sBo[1:)5scZ\gh^nP0<'i"<GoOX7L^5*RZV5.]_L)spW*oLb63MNWW4b_qXs1KhC+,7?ZC<l%D[)eZThrUk>86&:8]NTTAX4!p37@fgmQ.1,YO=((5q92=[Y"EO-cWGm+,g^6bM<@[qU*)q0k]amelJ[5%+cL%_]#pKAlohhkeC7^YUK**\W`fKbBbC;J7*Y`Ha@I6qPDa70VjUcb1POaEMT-U[bt=(]V2;-U?hY;'<t;)kb-RPcrka&t8fXlg"?m:CL2*Xm;rS%h4sKC\"\5qPUHt_p1<f$Y3Y\qZgt%[sgAiVYCD-GAkPU09=$.nL1=RHQKD@+k8YmrG`BoIXG0$.JiD^B_4)I-SoLK7MG:)k0"&Zo^Y9YN(%Gr#0o-<,,9gqNAdf?Z/Vt^X466FE[!;n_e1NCXXgJBeG2<1\j;nfp[#uqFb^]=ZorF+^^Eheo*!2S?@V=Lf:DT@-gSJKe(;\@b'lL.Mem[=9"oU%ZG!jg;.N(<*$jO=L\kU:mrT#=7oNP=;15Y8H313dWRc\[Fr"R>h'ZoQ5`t:NegrN6maho6AZ)QhV@NqLC!W^qJ?/'nHLpoF]f86pdT<ED8D4Tc@#6_/)6c3NW!90AYO)I-"E]]61tD7/_9+F\@>g:K66!%H&/I8__k*E:XXnBee?=UCgXCCrA'IWXL;9)ceEIF/_57nL1kCNoc@[9/*hB`XXA$@i1;V([\!J;]2Ir2a&S"G"fr8JE()h)I!k(cDNm_s:+.'s_0jR2rBR)VaQV]f\q(90Q.'KK)f(-f'aR%*Ki3=Y906aM(k?7G;>%AceUi'Pe*5[k/`RA?.A?do<P_F&:gp"1cgU.k%$nLW^R<@h3`Bd_Z'Ja='4fdN6PQV>2q[c"MLc/?G(m$g7'tL!A?!*((>d?>/E7[5j7asK(RHh<(&P#h>*S8DAHekuDh;Bs3PsN?idg!;4JSnXj*@ni9!?:aXgY$hVAERb\=Z#rjDafPi4.L27:dDO9]=4'c$#n7t6%\&Fm^8/dKkrLp.oTk6TM2@Qa(7k`_:4LFhGgd&Li5F$m"[F9&]72[,kh,<ZGt?\Ll*p19(M3<UYuU2(`j1&CD%YFoO#]a*0C'U$VhX_c5t_pd+df3+&4fBq._Sr8&9W((uCDf8,c:+]"kI*"6,*S&_5kQflr7b^U6UB./!\UF^=;tb[r`+1XefDB>%Sn;tfsEbXLu5.*(MPU5a$g9HMl!G!g/Bl0/XR3;XN^BMUG~>endstream
+endobj
+10 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F3
+/Subtype /Type1
+/Type /Font
+>>
 endobj
 xref
-0 10
+0 11
 0000000000 65535 f 
-0000000061 00000 n 
-0000000112 00000 n 
-0000000219 00000 n 
-0000000338 00000 n 
-0000000450 00000 n 
-0000000653 00000 n 
-0000000721 00000 n 
-0000001001 00000 n 
-0000001060 00000 n 
+0000000015 00000 n 
+0000000054 00000 n 
+0000000113 00000 n 
+0000000162 00000 n 
+0000000468 00000 n 
+0000004603 00000 n 
+0000004710 00000 n 
+0000004817 00000 n 
+0000004936 00000 n 
+0000005048 00000 n 
 trailer
 <<
-/ID 
-[<32919b2756152233d56065e926da7181><32919b2756152233d56065e926da7181>]
-% ReportLab generated PDF document -- digest (opensource)
-
-/Info 7 0 R
-/Root 6 0 R
-/Size 10
+/Size 11
+/Root 3 0 R
+/Info 1 0 R
 >>
 startxref
-2402
+5161
 %%EOF

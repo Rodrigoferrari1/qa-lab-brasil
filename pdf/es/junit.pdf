@@ -1,80 +1,354 @@
 %PDF-1.4
-%“Œ‹ž ReportLab Generated PDF document (opensource)
+%âãÏÓ
 1 0 obj
 <<
-/F1 2 0 R /F2 3 0 R /F3 4 0 R
+/Producer (pypdf)
 >>
 endobj
 2 0 obj
 <<
-/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
+/Type /Pages
+/Count 1
+/Kids [ 4 0 R ]
 >>
 endobj
 3 0 obj
 <<
-/BaseFont /Helvetica-BoldOblique /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
+/Type /Catalog
+/Pages 2 0 R
 >>
 endobj
 4 0 obj
 <<
-/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F3 /Subtype /Type1 /Type /Font
+/Contents 5 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/ExtGState <<
+/gRLs0 <<
+/ca 0.035
+>>
+>>
+/Font <<
+/F1 6 0 R
+/F1-0 7 0 R
+/F2 8 0 R
+/F2-0 9 0 R
+/F3 10 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
 >>
 endobj
 5 0 obj
 <<
-/Contents 9 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 8 0 R /Resources <<
-/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
->> /Rotate 0 /Trans <<
-
->> 
-  /Type /Page
+/Length 5213
 >>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 51.35433 779.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 12 Tf 14 TL (QA Lab Brasil) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 749.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F3 20 Tf 24 TL 221.2835 0 Td (JUnit) Tj T* -221.2835 0 Td ET
+Q
+Q
+q
+1 0 0 1 51.35433 724.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (JUnit: concepto, aplicaci\363n en Quality Engineering, primeros pasos y referencia oficial.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 714.3701 cm
+Q
+q
+1 0 0 1 51.35433 688.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (\277Qu\351 es?) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 656.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (JUnit forma parte del ecosistema moderno de ingenier\355a y calidad de software. Esta gu\355a explica su funci\363n, d\363nde) Tj T* (encaja en el flujo de entrega y c\363mo un profesional de QA puede utilizarlo con contexto.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 630.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (\277Por qu\351 QA debe conocerlo?) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 585.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 29.5 Tm /F1 9.5 Tf 13 TL (Conocer JUnit ayuda a QA a colaborar con desarrollo, DevOps, datos y producto. El objetivo no es memorizar) Tj T* (comandos, sino comprender c\363mo la herramienta afecta la testabilidad, automatizaci\363n, evidencias, diagn\363stico y) Tj T* (calidad de entrega.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 559.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Primeros pasos) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 514.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 29.5 Tm /F1 9.5 Tf 13 TL (Comience por la documentaci\363n oficial, confirme los requisitos previos e instale \372nicamente desde la fuente oficial.) Tj T* (En entornos corporativos, valide pol\355ticas internas, versiones soportadas, permisos y variables de entorno antes de) Tj T* (configurar JUnit.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 488.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Aplicaci\363n pr\341ctica en QA) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 443.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 29.5 Tm /F1 9.5 Tf 13 TL (Utilice JUnit en un ejercicio peque\361o y reproducible. Registre el objetivo, configuraci\363n, resultado esperado,) Tj T* (evidencias y problemas encontrados. Despu\351s conecte el aprendizaje con un escenario real de pruebas,) Tj T* (automatizaci\363n, integraci\363n, datos o entrega continua.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 417.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Buenas pr\341cticas) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 372.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 29.5 Tm /F1 9.5 Tf 13 TL (Prefiera documentaci\363n oficial, no exponga credenciales, versione configuraciones cuando corresponda, mantenga) Tj T* (dependencias actualizadas y documente decisiones importantes. Una herramienta sin contexto no sustituye una) Tj T* (estrategia de calidad.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 346.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Instalaci\363n y configuraci\363n - visi\363n general) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 301.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 29.5 Tm /F1 9.5 Tf 13 TL (Use siempre el sitio y la documentaci\363n oficiales. Verifique prerrequisitos y versiones compatibles, instale seg\372n el) Tj T* (sistema operativo, configure variables de entorno o PATH solo cuando sea necesario, valide la instalaci\363n con el) Tj T* (comando o pantalla recomendada y ejecute un primer proyecto/prueba antes de integrarlo al flujo de QA.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 275.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Consejo de QA) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 256.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Relacione siempre la pr\341ctica con el riesgo del producto y la evidencia necesaria para decisiones de calidad.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 230.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Recursos oficiales) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 211.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Site oficial: https://junit.org/junit5/) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 192.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Download / instala\347\343o: https://junit.org/junit5/) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 173.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Documenta\347\343o: https://docs.junit.org/) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+0.843137 0.901961 0.960784 RG
+0.6 w
+n
+36 815.8898 m
+559.2756 815.8898 l
+S
+0.070588 0.207843 0.356863 rg
+BT
+/F2-0 8.2 Tf
+9.84 TL
+ET
+BT
+1 0 0 1 40 821.8898 Tm
+(QA LAB BRASIL) Tj
+T*
+ET
+0.356863 0.45098 0.564706 rg
+BT
+/F1-0 6.8 Tf
+8.16 TL
+ET
+BT
+1 0 0 1 398.216 821.8898 Tm
+(QUALITY ENGINEERING \174 DOCUMENTO OFICIAL) Tj
+T*
+ET
+q
+0.848048 0.529919 -0.529919 0.848048 297.6378 420.9449 cm
+0.08 0.21 0.36 rg
+/gRLs0 gs
+BT
+/F2-0 42 Tf
+50.4 TL
+ET
+BT
+1 0 0 1 -164.493 0 Tm
+(QA LAB BRASIL) Tj
+T*
+ET
+Q
+0.843137 0.901961 0.960784 RG
+n
+36 24 m
+559.2756 24 l
+S
+0.356863 0.45098 0.564706 rg
+BT
+/F1-0 6.6 Tf
+7.92 TL
+ET
+BT
+1 0 0 1 40 14 Tm
+(qualityassurancebrasil\056com\056br) Tj
+T*
+ET
+BT
+1 0 0 1 212.28 14 Tm
+(QA Lab Brasil v2\0562 \174 ES \174 Actualizado\072 septiembre de 2026) Tj
+T*
+ET
+BT
+1 0 0 1 514.547 14 Tm
+(Pagina 1 de 1) Tj
+T*
+ET
+Q
+
+
+endstream
 endobj
 6 0 obj
 <<
-/PageMode /UseNone /Pages 8 0 R /Type /Catalog
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
 >>
 endobj
 7 0 obj
 <<
-/Author (\(anonymous\)) /CreationDate (D:20260918234449+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20260918234449+00'00') /Producer (ReportLab PDF Library - \(opensource\)) 
-  /Subject (\(unspecified\)) /Title (\(anonymous\)) /Trapped /False
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
 >>
 endobj
 8 0 obj
 <<
-/Count 1 /Kids [ 5 0 R ] /Type /Pages
+/BaseFont /Helvetica-BoldOblique
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
 >>
 endobj
 9 0 obj
 <<
-/Filter [ /ASCII85Decode /FlateDecode ] /Length 1712
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
 >>
-stream
-GatU39lo&I&A@sBm*Y2[Z75(Vp8-e+m^/P/e4u:#I"BA(!Y#I_!2r<]omI3?PaolCCQCq/%2*oDIJY):$!lJQ`8@XAH9\1rh\&P91g<d3)N8A'O`"eZO!i'Cc#GL0a.kJfl1A_P:+m7(_rH[MfI]n'6IIKDAP+L5C_r>t:@E,bURKYYVn=X2U=kE957>Oq50&1Ch*@_>.&GmV!"C1"E0q&gQg#@5B/uO^q:Xu9K7!@bi="ke;($ZN(cV3r?-+[AR`:mfaD8r"ag_]ON)Wg@9P+&DSYV"md!`#'*B&"TQJ+#SD3eg63F/qsSgrjl]-53&G&/q9a=];%`Lo`XP'uC]?^P))G&M5a=P4;[22V3V(f%"'og:c8M#B!_ThNIi:8DFk@MWZd?)`nt(RT4qLbnA)%ue?Qk3S&G0Hkp^1crW6<leO#o]@Wi8)>l8=64Zl[lu3Df$-;S/TO1lVF>@1e=9AWY;u&0GDc$nPnM@B^*r8H`+'H#0-cWR-nWsRr7M7#D2g%+*RoF91N)KN$iOAA_FdD@2t4:aHZ1u:0A\tESTXSWd"PSBT!MhZN"JVlp;WHZDP^]'a54!/&iD5?9q<e4&r/dbKpl5D>YIZ5?9)YV!]p.mlb=n[(0$(k5Xt?+6`T@Y+?NqMctc:IS3<-B=sn$$WQK%V9PuTBCEpAB/#W\1dZRQXqSLOW;M.6QZeu6.N!;agb]PHTaL)L[.U_eT/pOMiW'lJ;X/1qu+*;+/ZO^GNFkZu^_=;d*m;p<.^3eiU4ckhE:O@ppa]c\`Tra?]gh([XC#%CqetUHCeV//m;h<R@5M"P(i=g%/26J-)Uq:#\8>efW(!8Q]Di`+NksZWmrmC=4DoFejL#tN`*!/u8&>3PcR?u8-;)`/c*ZtLW+G?lMM(DL\hI9AZ\VsSU9&1?O=ui_I"^Yl@'*qL'0*;IPKmbOg.GS%U4ieYWg1tVu*#TK]D3SS:Z$:ZOoRJ!ZDd`IKGS\A<j9nNR)m@n*TYr$sO#8/f`5Y`UOf:eO#P<k>Y\2!cQTN0(90uP.$HfWW$SW`-"r"L,gO!fg[`/ERE/AoM_)g[X5Ccc/.XISKJq8q,U5Fh`E*(HQ@amSO"+DgE)e6$Uc#ZiLMg%SX;EW-TE#V<QXmo%0g=1NR5"_]UXF^,mJb"TWpJ<jqo`j:Acu\+bI7`:)^Y^MV,R]VOU*-#?bRW<dWlo/IAW\NGa37eZ;(;(Q)D)7U=(9_im4&Ll+ak0'U'>eWLdu!%X(>R+/W34+o[u@7G+8R"5q<QE)J1#T%8LE>a+Wcr6;XpZl=+Pd4Xa#ph2T[!9)j^mf-YY3+(`e\>%<?44dm:.dA'i>09Wf#h4m]m/B=TC#]?b5fIrW)V#2=AXU>R_&7]nh5/0*3>WIJ2XEc@YSaCc17ct"Y9?"'5ZXO,79nSN(Z_b:'g$c.el)U6[o;i4(+<?0EmAYVakbi,2CH0,d2@`io692"H'--jBC`MOZ9cffXWrk:TSfG?$8fO.X4`AQ?4Y1cr+jHT>BGg2VHBcs!g>-`h0.V-KSp*^gJ9j'7ci/.[M2OjUD9X21LBgeB?#lD4d`//4f>fa;e_5An<G_0TTt(,h*/C_8P<XV"-Ts_!f0.KDDQQ'k]YF-RZ+6_b+]SI;r-VL;4(6sN\Jq/b8!.&!g\eBTI'?sP@F;'Gn!!kHVYI%^D*^n.H]Anog3V#+=PuPqYRfrQ8Ef,AQK#EM~>endstream
+endobj
+10 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F3
+/Subtype /Type1
+/Type /Font
+>>
 endobj
 xref
-0 10
+0 11
 0000000000 65535 f 
-0000000061 00000 n 
-0000000112 00000 n 
-0000000219 00000 n 
-0000000338 00000 n 
-0000000450 00000 n 
-0000000653 00000 n 
-0000000721 00000 n 
-0000001001 00000 n 
-0000001060 00000 n 
+0000000015 00000 n 
+0000000054 00000 n 
+0000000113 00000 n 
+0000000162 00000 n 
+0000000468 00000 n 
+0000005733 00000 n 
+0000005840 00000 n 
+0000005947 00000 n 
+0000006066 00000 n 
+0000006178 00000 n 
 trailer
 <<
-/ID 
-[<d2f36c6d82bc4c15132844b749bd8319><d2f36c6d82bc4c15132844b749bd8319>]
-% ReportLab generated PDF document -- digest (opensource)
-
-/Info 7 0 R
-/Root 6 0 R
-/Size 10
+/Size 11
+/Root 3 0 R
+/Info 1 0 R
 >>
 startxref
-2863
+6291
 %%EOF

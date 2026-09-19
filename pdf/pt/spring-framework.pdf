@@ -1,80 +1,354 @@
 %PDF-1.4
-%“Œ‹ž ReportLab Generated PDF document (opensource)
+%âãÏÓ
 1 0 obj
 <<
-/F1 2 0 R /F2 3 0 R /F3 4 0 R
+/Producer (pypdf)
 >>
 endobj
 2 0 obj
 <<
-/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
+/Type /Pages
+/Count 1
+/Kids [ 4 0 R ]
 >>
 endobj
 3 0 obj
 <<
-/BaseFont /Helvetica-BoldOblique /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
+/Type /Catalog
+/Pages 2 0 R
 >>
 endobj
 4 0 obj
 <<
-/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F3 /Subtype /Type1 /Type /Font
+/Contents 5 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/ExtGState <<
+/gRLs0 <<
+/ca 0.035
+>>
+>>
+/Font <<
+/F1 6 0 R
+/F1-0 7 0 R
+/F2 8 0 R
+/F2-0 9 0 R
+/F3 10 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
 >>
 endobj
 5 0 obj
 <<
-/Contents 9 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 8 0 R /Resources <<
-/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
->> /Rotate 0 /Trans <<
-
->> 
-  /Type /Page
+/Length 4692
 >>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 51.35433 779.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 12 Tf 14 TL (QA Lab Brasil) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 749.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F3 20 Tf 24 TL 158.4835 0 Td (Spring Framework) Tj T* -158.4835 0 Td ET
+Q
+Q
+q
+1 0 0 1 51.35433 724.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Base do ecossistema Spring: IoC/DI, Web, dados, testes e integra\347\343o.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 714.3701 cm
+Q
+q
+1 0 0 1 51.35433 688.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Fundamentos) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 656.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL -0.005423 Tw (Spring Framework fornece infraestrutura para aplica\347\365es Java, incluindo inje\347\343o de depend\352ncia, configura\347\343o, Web) Tj T* 0 Tw (MVC/WebFlux, acesso a dados e suporte a testes.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 630.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Por que QA deve conhecer) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 598.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL -0.065298 Tw (Entender controllers, services, repositories, beans e profiles ajuda QA a localizar a camada de uma falha e conversar) Tj T* 0 Tw (melhor com desenvolvimento.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 572.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Projeto e depend\352ncias) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 540.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Em projetos modernos, Spring normalmente \351 consumido por Maven/Gradle e frequentemente via Spring Boot. N\343o) Tj T* (\351 necess\341rio instalar o framework como um aplicativo separado.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 514.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Testes) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 482.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL -0.075271 Tw (O ecossistema oferece suporte a testes de contexto, integra\347\343o e Web. QA Automation pode combinar JUnit/Mockito) Tj T* 0 Tw (com recursos Spring para validar componentes e APIs.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 456.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Configura\347\343o) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 424.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Conhe\347a application properties/YAML, profiles, vari\341veis de ambiente e configura\347\343o de depend\352ncias; esses) Tj T* (elementos influenciam fortemente o comportamento em QA.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 398.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Quando usar) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 366.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Use este conhecimento quando o risco, a arquitetura ou a etapa do ciclo de desenvolvimento exigir valida\347\343o) Tj T* (espec\355fica. Antes de aplicar, confirme objetivo, ambiente, dados necess\341rios e evid\352ncias esperadas.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 340.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Dica de QA) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 321.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Relacione sempre a pr\341tica ao risco do produto e \340s evid\352ncias necess\341rias para a decis\343o de qualidade.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 295.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Recursos oficiais) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 276.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Site oficial: https://spring.io/projects/spring-framework) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 257.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Download / instala\347\343o: https://start.spring.io/) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 238.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Documenta\347\343o: https://docs.spring.io/spring-framework/reference/) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+0.843137 0.901961 0.960784 RG
+0.6 w
+n
+36 815.8898 m
+559.2756 815.8898 l
+S
+0.070588 0.207843 0.356863 rg
+BT
+/F2-0 8.2 Tf
+9.84 TL
+ET
+BT
+1 0 0 1 40 821.8898 Tm
+(QA LAB BRASIL) Tj
+T*
+ET
+0.356863 0.45098 0.564706 rg
+BT
+/F1-0 6.8 Tf
+8.16 TL
+ET
+BT
+1 0 0 1 398.216 821.8898 Tm
+(QUALITY ENGINEERING \174 DOCUMENTO OFICIAL) Tj
+T*
+ET
+q
+0.848048 0.529919 -0.529919 0.848048 297.6378 420.9449 cm
+0.08 0.21 0.36 rg
+/gRLs0 gs
+BT
+/F2-0 42 Tf
+50.4 TL
+ET
+BT
+1 0 0 1 -164.493 0 Tm
+(QA LAB BRASIL) Tj
+T*
+ET
+Q
+0.843137 0.901961 0.960784 RG
+n
+36 24 m
+559.2756 24 l
+S
+0.356863 0.45098 0.564706 rg
+BT
+/F1-0 6.6 Tf
+7.92 TL
+ET
+BT
+1 0 0 1 40 14 Tm
+(qualityassurancebrasil\056com\056br) Tj
+T*
+ET
+BT
+1 0 0 1 210.9996 14 Tm
+(QA Lab Brasil v2\0562 \174 PT\055BR \174 Atualizado\072 setembro de 2026) Tj
+T*
+ET
+BT
+1 0 0 1 514.547 14 Tm
+(Pagina 1 de 1) Tj
+T*
+ET
+Q
+
+
+endstream
 endobj
 6 0 obj
 <<
-/PageMode /UseNone /Pages 8 0 R /Type /Catalog
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
 >>
 endobj
 7 0 obj
 <<
-/Author (\(anonymous\)) /CreationDate (D:20260918234448+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20260918234448+00'00') /Producer (ReportLab PDF Library - \(opensource\)) 
-  /Subject (\(unspecified\)) /Title (\(anonymous\)) /Trapped /False
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
 >>
 endobj
 8 0 obj
 <<
-/Count 1 /Kids [ 5 0 R ] /Type /Pages
+/BaseFont /Helvetica-BoldOblique
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
 >>
 endobj
 9 0 obj
 <<
-/Filter [ /ASCII85Decode /FlateDecode ] /Length 1477
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
 >>
-stream
-GatU3gJ['$&:N^lqU%kPft,jk4IKE2XX.+n]h,&8?O!J=_b)^oAgF=&IC_qS_8]jt.2OU0)GPFJe*$?7_O*N\s3=5eP6Hmt63nf</0R]=";[WgHu\Xp&9]SQ0Sn1'NaXt3$KC;0V"a*CfKV:'#IHk.hNYGtBu=Vt+`B<LT#52\""-Q?=o8>ZHW^3g6*BIY.o<N9:soQ*+W>Epa9N($=cgkePb'OK(jrBC<4?gT7#?uYr*2ZSgg'SK,#PX)OZ5nd<'iS(T2]q!M`q^g+kM74[T6ReV1:J!A%:$dUU/,er/EX&a@39!&00+:$OBWj]J\\=S4r0#ej0hb_WO=2/ssjpq^Yf8aotTZ'48aJX`D9S3GnNR0hEa>_h=44&3Cj:j)LMUFRf-p4BQ?n0Oo?n7M&UtG-qoY$2P97+gVZ`8P1C[&rdaVd]BCD+qg]_a#0NO'/<U_b(%?DUbYM71Tcu6[XJ7hB4k68f]RALfBJ*/?53(]&4D9(C(MtH`1*kZD&gupQHC8]:#b[JC&+J44OaW^XW/;@r9jn3ZTi&J[(d@4j_0fH7l-4H3H_@Ed;X2?FA\^)7^ctK8`1#n@&9uIg.8rh6(o-nb35ZQLa6tIkCP2q;!:Renm>hhG:#pJpPG]7,dS3(SH*#)6e`!T8P+cXS`U&IHGQ=jFO<Y:Y!(]=VpS#n2u4R9M0l:cH>"Qup2g3[re'g*n`/7;8kmqgp5Vm!8t/]m>Wi."'Ja@1/gUgS=qe&,K51%j&UAqlq9gC.&?TeVB]R=.i'_>s^`QkeX+CP)6WTkfoH5uR<Fq^LLbqhqX`R07BO\-nUm$e8NaS.7]dO26=RJpV(1)+[,:'VoUqb[adkmMJ^A7c`0R(2u_ZmO9"5M!L&:AMEpr_EL#dT\FAMC<Y/dX87LbA^*Gp='?qrt_UDKM_]T-U;Yro_;!W3rn[&062U&f]7t0"`qhXdEPJhYbQ.+(%Wdq"S_B:1*g1O(^\rm+[CWA`r)e49iBg@g%doco?';d6I6'cbm0X$jdgs\V1ueSfC$MHO8Vj1%9Kkf\_39nD%a\/?g.V4IZ\@'J1e[?EL$">8E05#:X%PFSDFOmU=YXBt1;LO1kCD?bR1cnis#Fi&_s#\Bhc!e=&&8-D,em,Afne:ZRmu=uu:C>M!s!SYu[`O><4=*R5T6%eq;fV<M1Z<C75B<gXILl&nRJ@'2Pq[E`9nTl*IHi.`58S7oFp\iY(P)B(+/)u7]7E!UJ:d76$5%qFMAeet=-M-nSU7#AdAT1Qe,+Ylq#R1tsP@?7Ds([j<cdBUZ\OBV5/%lekt[TfuK7#`hR1Dj,R8\5`IFTBmV@h7dtU\'2cI9h+?M47D,4U+/.m9smN+o"d;Spd^")"*opm."b"^$u;)O8NtBSF(270":lVGUK\:qXM5DoV3nCaC2HEb%n]'8CIn*K'-Zkj:q?-TXT!bC)6BC<-"P_(R]*72)<8%<+WS1,TQ^e55XmF~>endstream
+endobj
+10 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F3
+/Subtype /Type1
+/Type /Font
+>>
 endobj
 xref
-0 10
+0 11
 0000000000 65535 f 
-0000000061 00000 n 
-0000000112 00000 n 
-0000000219 00000 n 
-0000000338 00000 n 
-0000000450 00000 n 
-0000000653 00000 n 
-0000000721 00000 n 
-0000001001 00000 n 
-0000001060 00000 n 
+0000000015 00000 n 
+0000000054 00000 n 
+0000000113 00000 n 
+0000000162 00000 n 
+0000000468 00000 n 
+0000005212 00000 n 
+0000005319 00000 n 
+0000005426 00000 n 
+0000005545 00000 n 
+0000005657 00000 n 
 trailer
 <<
-/ID 
-[<1d3eda29d04ceed476161bc6242ba197><1d3eda29d04ceed476161bc6242ba197>]
-% ReportLab generated PDF document -- digest (opensource)
-
-/Info 7 0 R
-/Root 6 0 R
-/Size 10
+/Size 11
+/Root 3 0 R
+/Info 1 0 R
 >>
 startxref
-2628
+5770
 %%EOF

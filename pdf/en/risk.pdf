@@ -1,80 +1,326 @@
 %PDF-1.4
-%“Œ‹ž ReportLab Generated PDF document (opensource)
+%âãÏÓ
 1 0 obj
 <<
-/F1 2 0 R /F2 3 0 R /F3 4 0 R
+/Producer (pypdf)
 >>
 endobj
 2 0 obj
 <<
-/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
+/Type /Pages
+/Count 1
+/Kids [ 4 0 R ]
 >>
 endobj
 3 0 obj
 <<
-/BaseFont /Helvetica-BoldOblique /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
+/Type /Catalog
+/Pages 2 0 R
 >>
 endobj
 4 0 obj
 <<
-/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F3 /Subtype /Type1 /Type /Font
+/Contents 5 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/ExtGState <<
+/gRLs0 <<
+/ca 0.035
+>>
+>>
+/Font <<
+/F1 6 0 R
+/F1-0 7 0 R
+/F2 8 0 R
+/F2-0 9 0 R
+/F3 10 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
 >>
 endobj
 5 0 obj
 <<
-/Contents 9 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 8 0 R /Resources <<
-/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
->> /Rotate 0 /Trans <<
-
->> 
-  /Type /Page
+/Length 3913
 >>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 51.35433 779.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 12 Tf 14 TL (QA Lab Brasil) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 749.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F3 20 Tf 24 TL 153.4835 0 Td (Risk-Based Testing) Tj T* -153.4835 0 Td ET
+Q
+Q
+q
+1 0 0 1 51.35433 724.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (How to prioritize testing when time, environments or capacity are limited.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 714.3701 cm
+Q
+q
+1 0 0 1 51.35433 688.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Risk in testing) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 656.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (A simple approach combines likelihood and impact. Areas with high impact and high likelihood usually deserve) Tj T* (greater attention.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 630.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (What to consider) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 598.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Business criticality, defect history, complexity, recent changes, integrations, usage volume, security and) Tj T* (recoverability.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 572.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Risk-based regression) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 540.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (When there is not enough time to run everything, prioritize critical paths, changes, affected integrations and) Tj T* (historically fragile areas. Clearly record what remains uncovered.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 514.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Communication) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 482.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (A risk matrix helps explain why tests were prioritized, but it does not replace professional judgment or product) Tj T* (context.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 456.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (When to use it) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 424.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Use this knowledge when product risk, architecture or the delivery stage requires this type of validation. Confirm the) Tj T* (goal, environment, required data and expected evidence before starting.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 398.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (How QA applies it) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 366.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Start from the behavior or risk to validate, prepare data and environment, execute the technique or tool reproducibly) Tj T* (and capture evidence that helps the team understand the result.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 340.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (QA tip) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 308.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (\223We did not have time to test everything\224 should become an explicit coverage and risk decision, not an end-of-cycle) Tj T* (surprise.) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+0.843137 0.901961 0.960784 RG
+0.6 w
+n
+36 815.8898 m
+559.2756 815.8898 l
+S
+0.070588 0.207843 0.356863 rg
+BT
+/F2-0 8.2 Tf
+9.84 TL
+ET
+BT
+1 0 0 1 40 821.8898 Tm
+(QA LAB BRASIL) Tj
+T*
+ET
+0.356863 0.45098 0.564706 rg
+BT
+/F1-0 6.8 Tf
+8.16 TL
+ET
+BT
+1 0 0 1 399.3516 821.8898 Tm
+(QUALITY ENGINEERING \174 OFFICIAL DOCUMENT) Tj
+T*
+ET
+q
+0.848048 0.529919 -0.529919 0.848048 297.6378 420.9449 cm
+0.08 0.21 0.36 rg
+/gRLs0 gs
+BT
+/F2-0 42 Tf
+50.4 TL
+ET
+BT
+1 0 0 1 -164.493 0 Tm
+(QA LAB BRASIL) Tj
+T*
+ET
+Q
+0.843137 0.901961 0.960784 RG
+n
+36 24 m
+559.2756 24 l
+S
+0.356863 0.45098 0.564706 rg
+BT
+/F1-0 6.6 Tf
+7.92 TL
+ET
+BT
+1 0 0 1 40 14 Tm
+(qualityassurancebrasil\056com\056br) Tj
+T*
+ET
+BT
+1 0 0 1 221.4507 14 Tm
+(QA Lab Brasil v2\0562 \174 EN \174 Updated\072 September 2026) Tj
+T*
+ET
+BT
+1 0 0 1 519.6818 14 Tm
+(Page 1 de 1) Tj
+T*
+ET
+Q
+
+
+endstream
 endobj
 6 0 obj
 <<
-/PageMode /UseNone /Pages 8 0 R /Type /Catalog
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
 >>
 endobj
 7 0 obj
 <<
-/Author (\(anonymous\)) /CreationDate (D:20260918234448+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20260918234448+00'00') /Producer (ReportLab PDF Library - \(opensource\)) 
-  /Subject (\(unspecified\)) /Title (\(anonymous\)) /Trapped /False
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
 >>
 endobj
 8 0 obj
 <<
-/Count 1 /Kids [ 5 0 R ] /Type /Pages
+/BaseFont /Helvetica-BoldOblique
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
 >>
 endobj
 9 0 obj
 <<
-/Filter [ /ASCII85Decode /FlateDecode ] /Length 1249
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
 >>
-stream
-GatU29lK&M&A@7.bV:\cf<Sp73@9Y"4mZ`a(V00)94NetM,[$gZ2<kaL5J2nfP@13JKPTI):!SIhC,'HIS'I,2agG7qW52>Or5k'P[ou:Q=&n.jj!*co"K1:9[\3PVK@%V0M1`1$-lt))OF`TK*]RB.)IeH3'.8-E4=^Gl)S"8P>bf>5LK$`/Us'3hs`^o.(c'!lP$*ORnBDX9U*cM8Tp`OZ+_dQp(-Ot`_X`u5tgo;RrY-Jr,Lm1Xtn2'?6u/dqo^8W+TJ2&1m\*PIA:2LFkSksoKQ$C^BVAOCaeM%8&T#7SM^kGi5n%&<NC-\G,-*VXW&:jQjgb]3F;@EL;j,ioh+qN8c^>M&^(_&8Xo\?YMWnG?X-<j/2!Xi87"5lc(s(E=d<'QgLd8kHbf0g[B?S_8=>(6:$#eMO,fL'2]XBJFBQ;lO'CW8ag'-8WigPFY\1H(I4_oS63MJ-63%VORK8L'dcpd"oXRjcP`]21Fi!KlY5,tXp+A`/e9SmV;_C,T<=OA9JAIZT;l+oH%aTYCY]&QjiuC$T?7AgY++aF,V,MsSSiX&IVN%]>;6]5rF&B3>2ung9G/I(WZm6T@k59,j$%7h8Z-=:AM)oY"!=?*uoNd4D3HfA\BN"6>fRQH"*Q0:1/_mq_&-IJhW6dAr;]")m5ckA.i&m[6f"q^X3/.53X?B^,(a<9J<GH4^dJnm6e>sWr$hUTPa$=0q)l4.A1Qd\`<\dGTGhuRM^=]=I$uQjc0p(3uVu0%KiP_*%'qF,Y`HCL'[r%+N;>W!"'jO$A3auHTB[m:7JI9R`DiSfaQVDYZCBr(2mtt!o=WA:e7@/c3#O'mWgFrWLCk*+(EX7eo7AiFY@6g[jF6YNFIj#21lKQ:?\!d[]GFVLuPt.L@:7#%L7X=1t.<'k7i?>TEOcp;b$'&@SN=P<MKjBUrCYHRCMPpi;e=*dgN>t-NY>t7N5rdR'.L>3:FE144pBGPDR0J>HG\qF6A9K_p#4R`bE7+9)a=,)1$q=-s;;MjVd`#jri1Em^3o!3':humc&@(.7AIiXj_ogsjgrefs&Zen^Gmf67*92R`b37H[-d^RNj<%OUX*Stt6t5(A,Vje`4,BU&IFa0O%=A?>$OgFX]E@h44esm^!Tna#$*Xt_4!;H51DBBKfdqOUTXoq#!V#pCls_LnerHjMq9!l'!Lb]1@E9cVOiDSbojb5ea@i>3i*;2bN+-JRCPoB&O7QX`+.L,k%^tKp^L5L7^M\QY[/~>endstream
+endobj
+10 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F3
+/Subtype /Type1
+/Type /Font
+>>
 endobj
 xref
-0 10
+0 11
 0000000000 65535 f 
-0000000061 00000 n 
-0000000112 00000 n 
-0000000219 00000 n 
-0000000338 00000 n 
-0000000450 00000 n 
-0000000653 00000 n 
-0000000721 00000 n 
-0000001001 00000 n 
-0000001060 00000 n 
+0000000015 00000 n 
+0000000054 00000 n 
+0000000113 00000 n 
+0000000162 00000 n 
+0000000468 00000 n 
+0000004433 00000 n 
+0000004540 00000 n 
+0000004647 00000 n 
+0000004766 00000 n 
+0000004878 00000 n 
 trailer
 <<
-/ID 
-[<1ee7b1c6b38e120a3a79e069509ebc27><1ee7b1c6b38e120a3a79e069509ebc27>]
-% ReportLab generated PDF document -- digest (opensource)
-
-/Info 7 0 R
-/Root 6 0 R
-/Size 10
+/Size 11
+/Root 3 0 R
+/Info 1 0 R
 >>
 startxref
-2400
+4991
 %%EOF

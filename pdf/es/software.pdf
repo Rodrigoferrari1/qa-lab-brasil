@@ -1,80 +1,354 @@
 %PDF-1.4
-%“Œ‹ž ReportLab Generated PDF document (opensource)
+%âãÏÓ
 1 0 obj
 <<
-/F1 2 0 R /F2 3 0 R /F3 4 0 R
+/Producer (pypdf)
 >>
 endobj
 2 0 obj
 <<
-/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
+/Type /Pages
+/Count 1
+/Kids [ 4 0 R ]
 >>
 endobj
 3 0 obj
 <<
-/BaseFont /Helvetica-BoldOblique /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
+/Type /Catalog
+/Pages 2 0 R
 >>
 endobj
 4 0 obj
 <<
-/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F3 /Subtype /Type1 /Type /Font
+/Contents 5 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/ExtGState <<
+/gRLs0 <<
+/ca 0.035
+>>
+>>
+/Font <<
+/F1 6 0 R
+/F1-0 7 0 R
+/F2 8 0 R
+/F2-0 9 0 R
+/F3 10 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
 >>
 endobj
 5 0 obj
 <<
-/Contents 9 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 8 0 R /Resources <<
-/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
->> /Rotate 0 /Trans <<
-
->> 
-  /Type /Page
+/Length 5450
 >>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 51.35433 779.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 12 Tf 14 TL (QA Lab Brasil) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 749.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F3 20 Tf 24 TL 139.5835 0 Td (Ingenier\355a de Software) Tj T* -139.5835 0 Td ET
+Q
+Q
+q
+1 0 0 1 51.35433 724.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (C\363mo se concibe, desarrolla, integra, despliega, opera y evoluciona el software.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 714.3701 cm
+Q
+q
+1 0 0 1 51.35433 688.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (C\363mo nace un software) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 643.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 29.5 Tm /F1 9.5 Tf 13 TL (Un producto de software normalmente evoluciona desde una necesidad hacia requisitos, dise\361o de la soluci\363n,) Tj T* (desarrollo, pruebas, entrega, operaci\363n y mantenimiento. QA puede contribuir desde el an\341lisis del requisito hasta la) Tj T* (observaci\363n en producci\363n.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 617.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (SDLC y STLC) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 572.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 29.5 Tm /F1 9.5 Tf 13 TL (SDLC significa Software Development Life Cycle. STLC significa Software Testing Life Cycle. El primero describe el) Tj T* (ciclo de desarrollo; el segundo organiza actividades de prueba como an\341lisis, planificaci\363n, dise\361o, preparaci\363n,) Tj T* (ejecuci\363n y cierre.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 546.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Requisitos funcionales y no funcionales) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 501.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 29.5 Tm /F1 9.5 Tf 13 TL (Los requisitos funcionales describen lo que el sistema debe hacer. Los no funcionales cubren atributos como) Tj T* (rendimiento, seguridad, accesibilidad, confiabilidad y usabilidad. QA debe cuestionar ambig\374edades y convertir) Tj T* (requisitos en condiciones verificables.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 475.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Arquitecturas que encuentra QA) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 443.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Monolitos, arquitecturas por capas, cliente-servidor, microservicios, sistemas orientados a eventos y serverless) Tj T* (cambian los lugares donde pueden surgir fallas. Comprender componentes y dependencias mejora la investigaci\363n.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 417.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Frontend, backend e integraciones) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 385.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Frontend es la capa de interacci\363n con el usuario; backend ejecuta reglas y procesamiento; APIs, colas y eventos) Tj T* (conectan servicios. Un defecto visible en pantalla puede originarse en cualquiera de estas capas.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 359.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Calidad arquitect\363nica) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 327.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Rendimiento, seguridad, confiabilidad, mantenibilidad, compatibilidad y escalabilidad deben considerarse desde el) Tj T* (dise\361o. Testabilidad y observabilidad tambi\351n influyen en la capacidad de detectar y diagnosticar problemas.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 301.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Deuda t\351cnica, refactoring y mantenimiento) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 256.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 29.5 Tm /F1 9.5 Tf 13 TL (La deuda t\351cnica representa decisiones que aceleran una entrega pero pueden aumentar el costo futuro. El) Tj T* (refactoring mejora la estructura interna sin intenci\363n de cambiar el comportamiento; aun as\355 puede requerir regresi\363n) Tj T* (basada en riesgo.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 230.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Visi\363n avanzada para QA) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 198.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Un QA experimentado no necesita ser arquitecto, pero debe poder leer flujos, identificar puntos de falla y discutir) Tj T* (riesgos, dependencias, contratos, datos y mecanismos de recuperaci\363n.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 172.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Consejo de QA) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 153.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Al investigar un problema, dibuje el flujo de datos antes de asumir que la causa est\341 en la interfaz.) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+0.843137 0.901961 0.960784 RG
+0.6 w
+n
+36 815.8898 m
+559.2756 815.8898 l
+S
+0.070588 0.207843 0.356863 rg
+BT
+/F2-0 8.2 Tf
+9.84 TL
+ET
+BT
+1 0 0 1 40 821.8898 Tm
+(QA LAB BRASIL) Tj
+T*
+ET
+0.356863 0.45098 0.564706 rg
+BT
+/F1-0 6.8 Tf
+8.16 TL
+ET
+BT
+1 0 0 1 398.216 821.8898 Tm
+(QUALITY ENGINEERING \174 DOCUMENTO OFICIAL) Tj
+T*
+ET
+q
+0.848048 0.529919 -0.529919 0.848048 297.6378 420.9449 cm
+0.08 0.21 0.36 rg
+/gRLs0 gs
+BT
+/F2-0 42 Tf
+50.4 TL
+ET
+BT
+1 0 0 1 -164.493 0 Tm
+(QA LAB BRASIL) Tj
+T*
+ET
+Q
+0.843137 0.901961 0.960784 RG
+n
+36 24 m
+559.2756 24 l
+S
+0.356863 0.45098 0.564706 rg
+BT
+/F1-0 6.6 Tf
+7.92 TL
+ET
+BT
+1 0 0 1 40 14 Tm
+(qualityassurancebrasil\056com\056br) Tj
+T*
+ET
+BT
+1 0 0 1 212.28 14 Tm
+(QA Lab Brasil v2\0562 \174 ES \174 Actualizado\072 septiembre de 2026) Tj
+T*
+ET
+BT
+1 0 0 1 514.547 14 Tm
+(Pagina 1 de 1) Tj
+T*
+ET
+Q
+
+
+endstream
 endobj
 6 0 obj
 <<
-/PageMode /UseNone /Pages 8 0 R /Type /Catalog
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
 >>
 endobj
 7 0 obj
 <<
-/Author (\(anonymous\)) /CreationDate (D:20260918234449+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20260918234449+00'00') /Producer (ReportLab PDF Library - \(opensource\)) 
-  /Subject (\(unspecified\)) /Title (\(anonymous\)) /Trapped /False
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
 >>
 endobj
 8 0 obj
 <<
-/Count 1 /Kids [ 5 0 R ] /Type /Pages
+/BaseFont /Helvetica-BoldOblique
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
 >>
 endobj
 9 0 obj
 <<
-/Filter [ /ASCII85Decode /FlateDecode ] /Length 1864
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
 >>
-stream
-GatU395iQS&AJ$CbV:[`eJ.\\Od"fN5QDU6'"')o7`uOY0"J%LP%pOphf"f63NtieJV-48mEElMR+[-FnX%2o<Cuh+9>>mG-s=o?:W[XkV!T29hd1]D8D6"(aZNi\e!)b[lZp(P9^j&D?cL,M^VC1J^F5BsZ/D?`:mQJ$l%\VN7rLNq;uAu:#MT/,5sF8r\Nn@.5g(KN8rH=K["s9roQn6_8lp8Oc03\JRqlfH^J@o]VG,GT\$,dBYIbKT5Q0LF)(h/L)5Zq)P>ag"ne8W2j6gjSdrehT$C[3cb3\a/aTV=o'a;q)fLk=uj39r"FH3!]TKUaKl(]bDAXm>["bel7q1KY56cRHdYeI[ehbmNdfa7AYI^1'=8lKU(XN$H-0@OnF?(\1XT9]uDA[SP.JD#W&l[6fCWDU[aHD-dqjMtf=d_TIadGM#6PLj/W'27KhC2SXCIZh3O_,s^OQQ=d_\"Qkd>&K'/C;",)M0OKbWr3-`Q&J,4.1KU&Eru(H[E]uiPrH>/pbju0b4\#)-3]P=\606.+k'7B''aOW]:f,-O/'<rZo9=.@\%=AM"m<\GIQ5XQgNVrGaR#nnIm%c:r25Dm#C"2Z1Ld5Fl<g^1>SA3VV=U@k]tD:\bEQo<6"&rhL/b(Au='a^^^]Z#RGj4Pu0uG_#X5!W&gL$2KRr,cIRAQ@TAhkn4="&/L,d!1iWRFW)@Su<_'*>D8INGi1;k0fCX\rotVmXs-b5.eT1UTF?fM?TRC[PGREg(&]-TB0d27oj<p&(6[\o].NM]Y!79=Y8d?*6F=AsMMU8d)F-7i@-;CMsH$mY0HEs]he/''bZ<!s2LpIn"B0]Q=@qU\]'%5STDD+kS3cl08h_>:7$f_fK':1eEhkus?DE.28$QQRXN'E0SmhG$FH"J=7]T!^PBm*$s!q+7Vl@lb*Gbe/M<Rp<V9j'&k!LI9^C-ptfDP!rU_>V!PY%TqbT-SGrSeN9b@T=Sukh"gA-?FW*V,?*g92l:;Zn)IoVnC.ilA8Pe'L\eenuDD^A/Ji0n?>_<:f6C0$P3a>f8WS$T@H,\8adPQ3R$a=Pm?9)p;3@&0LAC;G,>dj)dGc.;Em,oL5gA*'IMm'h3jT_G30=l8[e^jGHCe[&(98rdElSiG^;5BT^sj\#nT^\bmSLMM37s=k^3g:(<tF(AoHV-IBm=*Q#u(,[73m<e"Ag@,l*14rqIluE6Z99ecA?Y:fW%O-cDN/,\25)AO\XG?P$(NQ0?<kBA8;0QJ=a)+[/j_(Ef@Z>genbG=+a5$-8sDnPSu''ZH'$o]2'uK'juh?&[7o4CXr/Ghs*tRrr5bM$K=OY0::*n74.t;\Tb$3+L<%-)J!)PV\7q?2'i/p3^>Jm;UP1W'mAIg(Oi<m>Lg<a+:/MQYHW^T@==)$S<:BXb5sS/jU]>?;:TA6I0s!^j!B8Qmt[+$#VQ'G`U5PjMK^Bh&JDGaC7$`^OOTmKtC.P5s"M;+KgN5$=\hY7=604Z2dER:<2`A9*^lC=psCp"tc&PU/`VBoMi?,P8WY]KalcWljpo.3a-f=!f.DHNPB=C#;Q`Y(N'>j<INDUSoLXc+G[C+Y0niJ'YW-%G18(kVh&9H1YDu+"bbZ*!.Bu9^(BqO9H0SuaS))+Q76]L^J(fN:L*'o$Y.)QU&P3gVJKG,bW=#%"qX-eK9sZ,fo3J/9FagD=/#.+[.GJX',n8YS2-b'3qc1q3Hi%`V>s[]*EHWXjg9-Xnn-.'L7;Ze2uU27$8ZTKRftt1rT%oS!L[K8iSf`f_KnI6#s/HPebJWSp-aC/$sh`5&\)m%RIGFn6QAp4XeSV0g2NQ#E64e+_.D#&1c,W)+rWI#ZmHT3Zfc8af8D9\#=1'YRf~>endstream
+endobj
+10 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F3
+/Subtype /Type1
+/Type /Font
+>>
 endobj
 xref
-0 10
+0 11
 0000000000 65535 f 
-0000000061 00000 n 
-0000000112 00000 n 
-0000000219 00000 n 
-0000000338 00000 n 
-0000000450 00000 n 
-0000000653 00000 n 
-0000000721 00000 n 
-0000001001 00000 n 
-0000001060 00000 n 
+0000000015 00000 n 
+0000000054 00000 n 
+0000000113 00000 n 
+0000000162 00000 n 
+0000000468 00000 n 
+0000005970 00000 n 
+0000006077 00000 n 
+0000006184 00000 n 
+0000006303 00000 n 
+0000006415 00000 n 
 trailer
 <<
-/ID 
-[<c05ba1233b893628e4de21e837b31882><c05ba1233b893628e4de21e837b31882>]
-% ReportLab generated PDF document -- digest (opensource)
-
-/Info 7 0 R
-/Root 6 0 R
-/Size 10
+/Size 11
+/Root 3 0 R
+/Info 1 0 R
 >>
 startxref
-3015
+6528
 %%EOF

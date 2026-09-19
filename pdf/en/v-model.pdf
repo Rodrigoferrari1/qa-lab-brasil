@@ -1,80 +1,340 @@
 %PDF-1.4
-%“Œ‹ž ReportLab Generated PDF document (opensource)
+%âãÏÓ
 1 0 obj
 <<
-/F1 2 0 R /F2 3 0 R /F3 4 0 R
+/Producer (pypdf)
 >>
 endobj
 2 0 obj
 <<
-/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
+/Type /Pages
+/Count 1
+/Kids [ 4 0 R ]
 >>
 endobj
 3 0 obj
 <<
-/BaseFont /Helvetica-BoldOblique /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
+/Type /Catalog
+/Pages 2 0 R
 >>
 endobj
 4 0 obj
 <<
-/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F3 /Subtype /Type1 /Type /Font
+/Contents 5 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/ExtGState <<
+/gRLs0 <<
+/ca 0.035
+>>
+>>
+/Font <<
+/F1 6 0 R
+/F1-0 7 0 R
+/F2 8 0 R
+/F2-0 9 0 R
+/F3 10 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
 >>
 endobj
 5 0 obj
 <<
-/Contents 9 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 8 0 R /Resources <<
-/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
->> /Rotate 0 /Trans <<
-
->> 
-  /Type /Page
+/Length 3859
 >>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 51.35433 779.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 12 Tf 14 TL (QA Lab Brasil) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 749.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F3 20 Tf 24 TL 207.3935 0 Td (V-Model) Tj T* -207.3935 0 Td ET
+Q
+Q
+q
+1 0 0 1 51.35433 724.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Model that relates specification and development activities to corresponding test levels.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 714.3701 cm
+Q
+q
+1 0 0 1 51.35433 688.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Core idea) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 669.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Each definition/development stage has a related test activity, reinforcing early test planning.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 643.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Test levels) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 624.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Component, Integration, System and Acceptance Testing can map to different specification levels.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 598.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Traceability) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 579.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Requirements and tests can be linked to demonstrate coverage and change impact.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 553.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (QA use) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 534.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (The model reinforces that testing should be planned while requirements and architecture are defined.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 508.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (When to use it) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 476.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Use this knowledge when product risk, architecture or the delivery stage requires this type of validation. Confirm the) Tj T* (goal, environment, required data and expected evidence before starting.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 450.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (How QA applies it) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 418.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Start from the behavior or risk to validate, prepare data and environment, execute the technique or tool reproducibly) Tj T* (and capture evidence that helps the team understand the result.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 392.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (QA tip) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 373.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Use the V-Model as a traceability mental model, not as a mandatory rigid process.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 347.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Official resources) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 328.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Site oficial: https://www.istqb.org/) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+0.843137 0.901961 0.960784 RG
+0.6 w
+n
+36 815.8898 m
+559.2756 815.8898 l
+S
+0.070588 0.207843 0.356863 rg
+BT
+/F2-0 8.2 Tf
+9.84 TL
+ET
+BT
+1 0 0 1 40 821.8898 Tm
+(QA LAB BRASIL) Tj
+T*
+ET
+0.356863 0.45098 0.564706 rg
+BT
+/F1-0 6.8 Tf
+8.16 TL
+ET
+BT
+1 0 0 1 399.3516 821.8898 Tm
+(QUALITY ENGINEERING \174 OFFICIAL DOCUMENT) Tj
+T*
+ET
+q
+0.848048 0.529919 -0.529919 0.848048 297.6378 420.9449 cm
+0.08 0.21 0.36 rg
+/gRLs0 gs
+BT
+/F2-0 42 Tf
+50.4 TL
+ET
+BT
+1 0 0 1 -164.493 0 Tm
+(QA LAB BRASIL) Tj
+T*
+ET
+Q
+0.843137 0.901961 0.960784 RG
+n
+36 24 m
+559.2756 24 l
+S
+0.356863 0.45098 0.564706 rg
+BT
+/F1-0 6.6 Tf
+7.92 TL
+ET
+BT
+1 0 0 1 40 14 Tm
+(qualityassurancebrasil\056com\056br) Tj
+T*
+ET
+BT
+1 0 0 1 221.4507 14 Tm
+(QA Lab Brasil v2\0562 \174 EN \174 Updated\072 September 2026) Tj
+T*
+ET
+BT
+1 0 0 1 519.6818 14 Tm
+(Page 1 de 1) Tj
+T*
+ET
+Q
+
+
+endstream
 endobj
 6 0 obj
 <<
-/PageMode /UseNone /Pages 8 0 R /Type /Catalog
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
 >>
 endobj
 7 0 obj
 <<
-/Author (\(anonymous\)) /CreationDate (D:20260918234448+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20260918234448+00'00') /Producer (ReportLab PDF Library - \(opensource\)) 
-  /Subject (\(unspecified\)) /Title (\(anonymous\)) /Trapped /False
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
 >>
 endobj
 8 0 obj
 <<
-/Count 1 /Kids [ 5 0 R ] /Type /Pages
+/BaseFont /Helvetica-BoldOblique
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
 >>
 endobj
 9 0 obj
 <<
-/Filter [ /ASCII85Decode /FlateDecode ] /Length 1097
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
 >>
-stream
-GatUr6''JK&;BTM/*=@7Ou?%g;Jr]?JHS;)J@"Q8)RGHp[@NW_HY/dafgV,p7;Z++j34jEH1S<jbik>3^Tmlb<P\6$$L&Of$IV&YTm.*OMlXIjFBH(EPAH@o)6?m),[8Mk\rSJiiaoU4U'g.i.$\MFi;?]=b?]UD$1Gh;?9-u0IKIJ!.%[`c-[P_c-pKALpHfbAB.Pm#6M&k[ak#-sXqrBhIs^n*Q?X*kpA"2Co]Q$Qr@D+D4%Nf)?g4Xp4DU17:l>;`[0Z!4[jY7QU^5*]&>k*nGGoB5TEu`O:cfC+/IWDjFUih89rZ>PkjAG>(]._G\+KF/s12V6r;$/@h1Oh\d&E?$<&`AOW"R)F>qD?*]6BFpCE[Jf;^nIYf(:+6+2eqg(*:DE[d4#(":l1B=ddDnam;h`IHVKS=r9WANF99?ZO7?[^O%h)k'nq*@iI0/+dp,-'6*93YpSu%hubmb?n\@p2@(N>G[JZ^$3Q9$fjpqZ.Wgg;,AW<_g1#K0OU<H]MN-'6Y7Wf?,3L5KcZn%jL[6$'Ts,>\jKLqsb1s:RL^#cgpcoOU`c$WmD8tmQ/I[&-9hPs86Y18:G:4RqO!>@Es0,3p,;_-Gm`0u*LP%&b(@eg"FNJXa`"8MgXYeK&5=c,/CDB[#Nab<$-]TaD@j'#K[EeLb%JPcOJI:S*o%!<4;S"tZlRSrf>'[V8G-A.r,OB[XXg;Rd.GU3'SNI*b*SnO_Zm$;,L;4_cq7^#l['[&hS^=Bq;jY:Z23i1khgBpRl`CnJ!bcc"=jt;l*t$EE6Ne"UJ3Raq3<jIng!%@J_2=GFP[,+BGkkfl@6`W&4cjYPgM21^NG;%2^A4[2nqBjCQ*V&;S[B4p7F:;Dh-b.0=E-ZU_DXIH#jWX,r/%]e)!b#qC8:4.^4Fl+I.U]F)gr-ol^.sPNL`9(NoO'5DZ*C(1shX'*HclGVrn!U:616mCd#Nq5([N>.',l@e@u4i@JI#5ic@(ALiZt26MD?R!FnL3VBHQr=;hIC[]8BpU?!3`R*"pLKg\+*oMAJ<>Np"F8N/tQ4sHCiHBV6WjuSC6J3&A7^R.djqgG2d\D&:[D5Vl"!NpkP9L8t3~>endstream
+endobj
+10 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F3
+/Subtype /Type1
+/Type /Font
+>>
 endobj
 xref
-0 10
+0 11
 0000000000 65535 f 
-0000000061 00000 n 
-0000000112 00000 n 
-0000000219 00000 n 
-0000000338 00000 n 
-0000000450 00000 n 
-0000000653 00000 n 
-0000000721 00000 n 
-0000001001 00000 n 
-0000001060 00000 n 
+0000000015 00000 n 
+0000000054 00000 n 
+0000000113 00000 n 
+0000000162 00000 n 
+0000000468 00000 n 
+0000004379 00000 n 
+0000004486 00000 n 
+0000004593 00000 n 
+0000004712 00000 n 
+0000004824 00000 n 
 trailer
 <<
-/ID 
-[<ef04854cb0d074f1fe8d57f86e1cdfb1><ef04854cb0d074f1fe8d57f86e1cdfb1>]
-% ReportLab generated PDF document -- digest (opensource)
-
-/Info 7 0 R
-/Root 6 0 R
-/Size 10
+/Size 11
+/Root 3 0 R
+/Info 1 0 R
 >>
 startxref
-2248
+4937
 %%EOF

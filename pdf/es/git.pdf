@@ -1,80 +1,367 @@
 %PDF-1.4
-%“Œ‹ž ReportLab Generated PDF document (opensource)
+%âãÏÓ
 1 0 obj
 <<
-/F1 2 0 R /F2 3 0 R /F3 4 0 R
+/Producer (pypdf)
 >>
 endobj
 2 0 obj
 <<
-/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
+/Type /Pages
+/Count 1
+/Kids [ 4 0 R ]
 >>
 endobj
 3 0 obj
 <<
-/BaseFont /Helvetica-BoldOblique /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
+/Type /Catalog
+/Pages 2 0 R
 >>
 endobj
 4 0 obj
 <<
-/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F3 /Subtype /Type1 /Type /Font
+/Contents 5 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/ExtGState <<
+/gRLs0 <<
+/ca 0.035
+>>
+>>
+/Font <<
+/F1 6 0 R
+/F1-0 7 0 R
+/F2 8 0 R
+/F2-0 9 0 R
+/F3 10 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
 >>
 endobj
 5 0 obj
 <<
-/Contents 9 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 8 0 R /Resources <<
-/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
->> /Rotate 0 /Trans <<
-
->> 
-  /Type /Page
+/Length 5125
 >>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 51.35433 779.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 12 Tf 14 TL (QA Lab Brasil) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 749.3701 cm
+q
+BT 1 0 0 1 0 4 Tm 186.2835 0 Td 24 TL /F3 20 Tf 0 0 0 rg (Git & GitHub) Tj T* -186.2835 0 Td ET
+Q
+Q
+q
+1 0 0 1 51.35433 724.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Control de versiones, repositorios, commits, branches, colaboraci\363n y flujo b\341sico para automatizaci\363n.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 714.3701 cm
+Q
+q
+1 0 0 1 51.35433 688.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Git y GitHub no son lo mismo) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 656.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Git es un sistema distribuido de control de versiones. GitHub es una plataforma que aloja repositorios Git y agrega) Tj T* (colaboraci\363n, Pull Requests, Issues, Actions y otros servicios.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 630.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Instalaci\363n y primera configuraci\363n) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 598.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Instale Git desde el sitio oficial y valide con git --version. Configure nombre y e-mail de autor con git config. En) Tj T* (entornos corporativos, siga pol\355ticas de identidad y autenticaci\363n.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 572.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Flujo b\341sico) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 540.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL -0.030425 Tw (git status muestra el estado; git add prepara cambios; git commit registra una versi\363n; git push env\355a commits; git pull) Tj T* 0 Tw (integra cambios remotos; git clone obtiene un repositorio por primera vez.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 514.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Branches) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 482.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Branches permiten desarrollar cambios de forma aislada. git switch -c crea una branch; merge combina historiales.) Tj T* (Los equipos pueden usar trunk-based development u otras estrategias.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 456.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Pull Request y Code Review) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 424.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Pull Request propone integrar cambios y crea espacio para revisi\363n, pruebas y discusi\363n. QA puede revisar impacto,) Tj T* (tests agregados, riesgos y evidencias.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 398.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Conflictos) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 366.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Los conflictos ocurren cuando Git no puede decidir autom\341ticamente c\363mo combinar cambios. Resuelva) Tj T* (conscientemente, marque como resuelto y pruebe antes del commit.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 340.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Buenas pr\341cticas para automatizaci\363n) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 308.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (No versione .venv, secrets, tokens, evidencias temporales o caches. Use .gitignore, commits peque\361os y mensajes) Tj T* (que expliquen el cambio.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 282.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Git en el ciclo de QA) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 250.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Versionar automatizaci\363n, datos sint\351ticos, documentaci\363n y pipelines proporciona trazabilidad. El historial ayuda a) Tj T* (entender cu\341ndo y por qu\351 cambi\363 un test.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 224.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Consejo de QA) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 205.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Antes de git push, use git status y revise qu\351 se enviar\341 realmente.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 179.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Recursos oficiales) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 160.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Site oficial: https://git-scm.com/downloads) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+0.843137 0.901961 0.960784 RG
+0.6 w
+n
+36 815.8898 m
+559.2756 815.8898 l
+S
+0.070588 0.207843 0.356863 rg
+BT
+/F2-0 8.2 Tf
+9.84 TL
+ET
+BT
+1 0 0 1 40 821.8898 Tm
+(QA LAB BRASIL) Tj
+T*
+ET
+0.356863 0.45098 0.564706 rg
+BT
+/F1-0 6.8 Tf
+8.16 TL
+ET
+BT
+1 0 0 1 398.216 821.8898 Tm
+(QUALITY ENGINEERING \174 DOCUMENTO OFICIAL) Tj
+T*
+ET
+q
+0.848048 0.529919 -0.529919 0.848048 297.6378 420.9449 cm
+0.08 0.21 0.36 rg
+/gRLs0 gs
+BT
+/F2-0 42 Tf
+50.4 TL
+ET
+BT
+1 0 0 1 -164.493 0 Tm
+(QA LAB BRASIL) Tj
+T*
+ET
+Q
+0.843137 0.901961 0.960784 RG
+n
+36 24 m
+559.2756 24 l
+S
+0.356863 0.45098 0.564706 rg
+BT
+/F1-0 6.6 Tf
+7.92 TL
+ET
+BT
+1 0 0 1 40 14 Tm
+(qualityassurancebrasil\056com\056br) Tj
+T*
+ET
+BT
+1 0 0 1 212.28 14 Tm
+(QA Lab Brasil v2\0562 \174 ES \174 Actualizado\072 septiembre de 2026) Tj
+T*
+ET
+BT
+1 0 0 1 514.547 14 Tm
+(Pagina 1 de 1) Tj
+T*
+ET
+Q
+
+
+endstream
 endobj
 6 0 obj
 <<
-/PageMode /UseNone /Pages 8 0 R /Type /Catalog
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
 >>
 endobj
 7 0 obj
 <<
-/Author (\(anonymous\)) /CreationDate (D:20260918234449+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20260918234449+00'00') /Producer (ReportLab PDF Library - \(opensource\)) 
-  /Subject (\(unspecified\)) /Title (\(anonymous\)) /Trapped /False
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
 >>
 endobj
 8 0 obj
 <<
-/Count 1 /Kids [ 5 0 R ] /Type /Pages
+/BaseFont /Helvetica-BoldOblique
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
 >>
 endobj
 9 0 obj
 <<
-/Filter [ /ASCII85Decode /FlateDecode ] /Length 1662
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
 >>
-stream
-GatU39lo&I&A@sBm&?b'/6W`6fhP:;->>9rkqoBnP:mIRbA]^u!C/[9YO>]b6ZOYVBJQ$=p]9_6hV3Ij8nilQ)SYg+kfo8ChPZT5BmEM=/=FoVQJO4>^7;%Ub'BFdo3%C,jlLWJ>u";a_s9m=D:`F)O:F`gVM)eM@$&Wm52OYg=OA'<SC0XNnr]6QY`k.C*-*mjGP&cON:!NEMe%.!c#LKLBGu8'][(7P@@qsU2#:3tqMF_?>I3V.NaH]'O!(=+PGcZgH$eD4Y5&\8cGG.iR`\j0WK=KLegXNhG>;2i`[Pi-1:YM%=XoJjPnd<u+N#EU<lU#%h.;MGU+P3ek0_Q@/t8\4jb@MY"c:6g;L%li02*QD9m=W<\6s<!Fo&c<BsVbP*-Mo(b:mirR&Mk%9L[Z3WEa.4#I^!Q:AR[$a+.dZdSWr*;pNQa:k;uS<fJR;_k/#Y,3a^h3sF/<G]@XQG(43O$#La&$aQ]oU0(X1(B'@bhlq5uIl(?X-OC`PH2ZZ+_lV_U*c;u,(kgni8\7h[bXTsfa<ofdb(n,bU%_Ha[]5S5*[#L,f$+d#kof-?Vc2V87;X/&?s#r),,>EI^kBopE"Er(D1kqA>I;D]n[KeoTsn=;&uem6n?XE$/qjXsE[B@H=*q6+h@4*9aU/D*J=[]aK.F,`>^K5J6+bNgfmN3f/fYft!0pW>.%';>o1f3K.VsPorD'BL^F\p]=0p@YEKlRT,ai2,fbBL=BZ.E3+5]%-3H($&TEc:-0WtSYU*u*b1+5pNaqYQ`FU'i5(^aiV_EKTK5[-LT>uN]MJRl/sTLCMZr@:&'Jk:be<F2hP?=:<#Idj43\n"iJ8c5=@pBhU6g*+3ini;H,1d^%0ZLt)YldJ%0=/Rk6Ghr"@W0S3tabm,h=GW@\G/+B/gFAOd:5_Fa!A*u@I/ZCkS8p,aB%em/RXieS$Otk\oE!GB6.G'mNCLC]$PcUU(G&.B"Z>dChDWpInObcD_!aa-;jXEqC09+b6QpkCTb9*.2N&.G_[Pnt/8Fj[!=5=Y7`hP6Y7YXM3%$@Af@JHAP?lo138(a=934JE\t3aNTBdFbD&WcuYn5_@Dn>*<@87/S\#Wq7Pq_1Aq*9r&f$ZFMJsFP0l.3Zu[Xb>>%f@kEdLUuVHE7j5MC=!knKYaG2TU(1ND/22Mc@n>;5(I?42J/Ki`4')(!<tK&aLi<2s2MCSZsb@TCE"V$$\jfeslVm?Fa>2Y-@Sh8muuf^fCP0GdTK(PCbtT+0=E&e=Eb]^`FZS7oZCK'f)YpI(HuX=bhdKLaXT7da*D%_^%[m#25)\.Zs3_np'b/<qtM4+otAT]FYn]$%`mDTt_T@6E&DF10+mk0Vf2'itQ4KBX$F5j%a;Y9SWIKCP@\(qc(aM"RskG.6]rOG0UeJ&.@pHRg=f@+)'&s^KZ5BrAVFQ<!Y)]#MDCEj\0;--r:tT[JL&uWhi`2G7[e)S$PP>\9Jc>V0UG(W2+VhJAelFOAPhlPH5+JP%coA\E^MreUD5bF,N5/j*&Yh'LP:4hl:2'j5a]4!L*?Rs*qZF8pcq6cHu[I]5Ca)[Mg`E/9$;@:a4C:h?b2Z,Qa)bic"Ku6p=15U17nRkNJ;$,[EedcnSZ%`#-oaHUSJ%fC%2."]-)K]M)/?(PR.7Zk:9dOjMcGLTu;D~>endstream
+endobj
+10 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F3
+/Subtype /Type1
+/Type /Font
+>>
 endobj
 xref
-0 10
+0 11
 0000000000 65535 f 
-0000000061 00000 n 
-0000000112 00000 n 
-0000000219 00000 n 
-0000000338 00000 n 
-0000000450 00000 n 
-0000000653 00000 n 
-0000000721 00000 n 
-0000001001 00000 n 
-0000001060 00000 n 
+0000000015 00000 n 
+0000000054 00000 n 
+0000000113 00000 n 
+0000000162 00000 n 
+0000000468 00000 n 
+0000005645 00000 n 
+0000005752 00000 n 
+0000005859 00000 n 
+0000005978 00000 n 
+0000006090 00000 n 
 trailer
 <<
-/ID 
-[<f86871498af9b00dba5907f5c6b53c28><f86871498af9b00dba5907f5c6b53c28>]
-% ReportLab generated PDF document -- digest (opensource)
-
-/Info 7 0 R
-/Root 6 0 R
-/Size 10
+/Size 11
+/Root 3 0 R
+/Info 1 0 R
 >>
 startxref
-2813
+6203
 %%EOF

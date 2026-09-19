@@ -1,93 +1,508 @@
 %PDF-1.4
-%“Œ‹ž ReportLab Generated PDF document (opensource)
+%âãÏÓ
 1 0 obj
 <<
-/F1 2 0 R /F2 3 0 R
+/Producer (pypdf)
 >>
 endobj
 2 0 obj
 <<
-/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
+/Type /Pages
+/Count 2
+/Kids [ 4 0 R 10 0 R ]
 >>
 endobj
 3 0 obj
 <<
-/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
+/Type /Catalog
+/Pages 2 0 R
 >>
 endobj
 4 0 obj
 <<
-/Contents 9 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 8 0 R /Resources <<
-/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
->> /Rotate 0 /Trans <<
-
->> 
-  /Type /Page
+/Contents 5 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/ExtGState <<
+/gRLs0 <<
+/ca 0.035
+>>
+>>
+/Font <<
+/F1 6 0 R
+/F1-0 7 0 R
+/F2 8 0 R
+/F2-0 9 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
 >>
 endobj
 5 0 obj
 <<
-/Contents 10 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 8 0 R /Resources <<
-/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
->> /Rotate 0 /Trans <<
-
->> 
-  /Type /Page
+/Length 5513
 >>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 57.02362 757.8661 cm
+q
+.043137 .184314 .356863 rg
+BT 1 0 0 1 0 5 Tm /F2 22 Tf 27 TL 184.9872 0 Td (Playwright) Tj T* -184.9872 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.02362 717.8661 cm
+q
+.294118 .419608 .560784 rg
+BT 1 0 0 1 0 19.5 Tm /F1 10.5 Tf 15 TL -0.106396 Tw (Automa\347\343o Web moderna para testes E2E, componentes e APIs, com execu\347\343o em Chromium, Firefox) Tj T* 0 Tw (e WebKit.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 685.8661 cm
+q
+.043137 .184314 .356863 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (O que \351 e quando usar) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 634.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 34.5 Tm /F1 10.5 Tf 15 TL -0.015547 Tw (Playwright \351 um framework de automa\347\343o para aplica\347\365es Web modernas. \311 indicado para fluxos E2E,) Tj T* 0 Tw (regress\343o, smoke e valida\347\365es que exigem m\372ltiplos browsers, isolamento de contexto, paralelismo e) Tj T* (evid\352ncias ricas.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 606.8661 cm
+q
+.043137 .184314 .356863 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (Pr\351-requisitos) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 555.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 34.5 Tm /F1 10.5 Tf 15 TL (Para a trilha JavaScript/TypeScript, instale uma vers\343o suportada do Node.js e um gerenciador de) Tj T* (pacotes. Valide com node --version e npm --version. Git e VS Code s\343o recomendados para um fluxo) Tj T* (profissional.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 527.8661 cm
+q
+.043137 .184314 .356863 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (Instala\347\343o passo a passo) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 476.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 34.5 Tm /F1 10.5 Tf 15 TL (Crie ou abra a pasta do projeto e execute npm init playwright@latest. O assistente cria a estrutura) Tj T* (inicial e pode instalar os browsers. Em projeto existente, instale @playwright/test e depois execute npx) Tj T* (playwright install.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 448.8661 cm
+q
+.043137 .184314 .356863 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (Configura\347\343o inicial) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 412.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 19.5 Tm /F1 10.5 Tf 15 TL (Revise playwright.config: baseURL, browsers/projects, retries, workers, reporter, screenshots, v\355deos e) Tj T* (traces. Segredos e URLs de ambiente devem vir de vari\341veis de ambiente, nunca ficar fixos no c\363digo.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 384.8661 cm
+q
+.043137 .184314 .356863 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (Primeiro teste) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 333.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 34.5 Tm /F1 10.5 Tf 15 TL (Crie um arquivo .spec.ts, abra a p\341gina com page.goto, use locators sem\342nticos como) Tj T* -0.017047 Tw (getByRole/getByLabel e fa\347a assertions com expect. Execute com npx playwright test e abra o relat\363rio) Tj T* 0 Tw (com npx playwright show-report.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 305.8661 cm
+q
+.043137 .184314 .356863 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (Locators e sincroniza\347\343o) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 269.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 19.5 Tm /F1 10.5 Tf 15 TL (Prefira locators orientados \340 acessibilidade e comportamento do usu\341rio. Evite sleeps fixos. As) Tj T* (assertions web-first e o auto-wait reduzem flakiness quando usados corretamente.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 241.8661 cm
+q
+.043137 .184314 .356863 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (Debug e evid\352ncias) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 205.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 19.5 Tm /F1 10.5 Tf 15 TL (Use UI Mode, Inspector, trace viewer, screenshots e v\355deos. Ao investigar uma falha, diferencie defeito) Tj T* (do produto, instabilidade de ambiente, dado inv\341lido e problema do teste.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 177.8661 cm
+q
+.043137 .184314 .356863 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (CI/CD) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 141.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 19.5 Tm /F1 10.5 Tf 15 TL (No pipeline, instale depend\352ncias, browsers e depend\352ncias do sistema quando necess\341rio. Execute a) Tj T* (su\355te e publique HTML report, traces e screenshots como artefatos de falha.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 113.8661 cm
+q
+.043137 .184314 .356863 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (Boas pr\341ticas e solu\347\343o de problemas) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 62.86614 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 34.5 Tm /F1 10.5 Tf 15 TL (Isole dados, mantenha testes independentes, evite seletores fr\341geis, controle estado e autentica\347\343o,) Tj T* (trate flaky tests como d\355vida t\351cnica e valide vers\365es de Node, browsers e depend\352ncias quando a) Tj T* (execu\347\343o local divergir da CI.) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+0.843137 0.901961 0.960784 RG
+0.6 w
+n
+36 815.8898 m
+559.2756 815.8898 l
+S
+0.070588 0.207843 0.356863 rg
+BT
+/F2-0 8.2 Tf
+9.84 TL
+ET
+BT
+1 0 0 1 40 821.8898 Tm
+(QA LAB BRASIL) Tj
+T*
+ET
+0.356863 0.45098 0.564706 rg
+BT
+/F1-0 6.8 Tf
+8.16 TL
+ET
+BT
+1 0 0 1 398.216 821.8898 Tm
+(QUALITY ENGINEERING \174 DOCUMENTO OFICIAL) Tj
+T*
+ET
+q
+0.848048 0.529919 -0.529919 0.848048 297.6378 420.9449 cm
+0.08 0.21 0.36 rg
+/gRLs0 gs
+BT
+/F2-0 42 Tf
+50.4 TL
+ET
+BT
+1 0 0 1 -164.493 0 Tm
+(QA LAB BRASIL) Tj
+T*
+ET
+Q
+0.843137 0.901961 0.960784 RG
+n
+36 24 m
+559.2756 24 l
+S
+0.356863 0.45098 0.564706 rg
+BT
+/F1-0 6.6 Tf
+7.92 TL
+ET
+BT
+1 0 0 1 40 14 Tm
+(qualityassurancebrasil\056com\056br) Tj
+T*
+ET
+BT
+1 0 0 1 210.9996 14 Tm
+(QA Lab Brasil v2\0562 \174 PT\055BR \174 Atualizado\072 setembro de 2026) Tj
+T*
+ET
+BT
+1 0 0 1 514.547 14 Tm
+(Pagina 1 de 2) Tj
+T*
+ET
+Q
+
+
+endstream
 endobj
 6 0 obj
 <<
-/PageMode /UseNone /Pages 8 0 R /Type /Catalog
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
 >>
 endobj
 7 0 obj
 <<
-/Author (\(anonymous\)) /CreationDate (D:20260919000504+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20260919000504+00'00') /Producer (ReportLab PDF Library - \(opensource\)) 
-  /Subject (\(unspecified\)) /Title (Playwright) /Trapped /False
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
 >>
 endobj
 8 0 obj
 <<
-/Count 2 /Kids [ 4 0 R 5 0 R ] /Type /Pages
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
 >>
 endobj
 9 0 obj
 <<
-/Filter [ /ASCII85Decode /FlateDecode ] /Length 1939
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
 >>
-stream
-Gatm<?!#cM&:N_CbTlL06BWYLoI1*?/M0P-ihS5Q=\E82M51k:aYrtf]sEkRRsa,u%UascSXH$1pWb;jq=k<PB9EqAR*t6f!<jW@k7g<j7+3ZtQlb')"l5[<f^m#>.&8T#-DOFgFa39Kd4cDtaU9H*Lr^OTUWI1?G&[YS_:D=Sdi9u,$D!)o/.So(4.D0r4J/KmI%@7KQ.:e^qA5TLU?Sk'ZMt+1q?LBb$7a[9.QiW@?p\06S;hpoN^s(n&q(KoE9;:_@I(X4A+QrnG2dk"58p,QBY'quk=of6ol1h.nM<#o0@)%*.GI0dWN;h_.t#f7GVPl0jJ=<8O;gm>Y:hDMO*Jo@e(`fNc>Tf+Fd!@"GAVVCesgORc7=gF^NJp\DL[05UIk@sQp_len;cj_,!/#<6amNRa'fr1r7a[UWM-1ep4+QGd7tCiH[O]u?MT&mr?.,qZ.jY5$Z.:d:33IV?5`X.;C6Ms&dO%=1S&VH7ksSL"'"Bu:_8^@;S83:/*:!@2D&nFag\pe>ZK)EJ?%CPAu&q917dhoOAtaR07[[6EB"H7>*g*8cE(/KC]V5P9SU'8g.9kQ6!^R-Qk]94B,[Y(2nk>uWDi.B//#'7ZA>kK"FbjmAFNr1anLYRgI>8U2V#_5j#DJjm`3oh3i]=-DA<&GQKhabF]k>3mn.INOiF,qOY>48U*UH,U0]^RZ*d1=!RTEugA<.k6a82pZ6V.^(4"g"[oA1b0g5@U8?sIPJTZ'T,$)*#Ye2CUrbmksco#]iGXprf@cuE"Q?&,)6.M9a<2`bpn&q01Y/H(;%KJ3nIn!MS%H=5-efHuSb)g@f59*<Q*^'_TF/t^&6YbbFL""a!KT(:f&:n%?XP6_?!XUKgI".G2O].=t&;&FD<`"NI#%@oMCf<8nD6o2OJ2r8,;W)9T6s84eTgooEmsElYltblhn,--i_cFpVdFD!ZlQ4V`R9B]JJ/^q@-Nj+u'Q^rQ%XNB3,TI@c&3^BdpUfGT>Nf#)4(*>j$g'C:WJ]TJ]c(^NId.Q;e;ur=i&9U^`7p-CA`54F-u3:[MsA='Mb?T:S2-c')-^=1#[uVI+:Hkii2:TY+J3@L*%<Na^e67YLIPL-X9;2IHZ'@lBSlqU%oKb0'\tDN,uF/@WYadt'Shn9$$B;3XK?2LLBDo7LQA;X,YD5'qU1I,Q(3)^oF4A<B+']U7PqAL$hb?*)H?mT1R"ckfSV.JRu>.Xed9c[2n*8Ug@s7gg@p3b(O'dl`i&7i9$LHd3d3H^K\1*V-tCee7L03W^ZanD<4Q9&e/<DAFMWk266l[nX3H+Nrl.hMfBT06\3htDT5Kn)g8#0p6PkS:L&TN,p>K,jdFi$^HB"Ur,@=[IN"m\LQA#Tl&nY-iVIc\tA\N/j.iN.]YK5WL,AVfd".c7m2H@b%<\8e`HG1C1Nd!0_na$CM*Fd$JC*tM8OU$H,0._NLIF\RLn'%,tX!\:WE8LBjW59s-18nOMXBA)(g)[s=#f2"8o_AMSn%l.#Qh1WUCHuRe63@<iFJ9"+j4-;PPSnQfP/t?crt<Q&$V6_F7WX8$C-\bi\+>Yoj.%jDD..26E7tT*?2rWq^Sd>PfSFN5+4$crA(`Engi[Wb=pI;,N1Y!d3PR[>IsHRf]rLkbOM"&3FG[iHfU3:)%UdlBej\KXkc8?Z*B1AK;-e;\S?teCN^oY_oeVPg/<4LS@+iaZ/Z4IjVm!8752"J=PEDD6&G:aKf/s;M?)r&1++d*=HnnZ-)!nf?ZFa;#.h\Z"Fq2)t?TA?&C=LNVd8.3]9DE+#]DsB^.-9H#HT]?rcXGq\jo_<gkS\"M$ZXb8q9lZ9N"#l5::"C:/![/aW#/1^lh,V/4/9TSW7mg6eR9[k&OT>*J=NSO$u'HtLudt<j%ba3la;q,+-]c,97>4CqgX3RHj8TJlp:n"7H^$397`-&"2*.]ci~>endstream
 endobj
 10 0 obj
 <<
-/Filter [ /ASCII85Decode /FlateDecode ] /Length 566
+/Contents 11 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/ExtGState <<
+/gRLs0 <<
+/ca 0.035
+>>
+>>
+/Font <<
+/F1 6 0 R
+/F1-0 12 0 R
+/F2 8 0 R
+/F2-0 13 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+11 0 obj
+<<
+/Length 1981
 >>
 stream
-Gatm6bAQ&g&A7<Zk3*"$-&U3q[g$],!kgQnDn`FgA[@IdLQlV^?f.]C(_1RWMA25>_X;GW3(&^Z*koR)!3U+U2]OqKh183G;1HLH3kC7E6YBH(,SbT^6<(&1F&)V2bYhd/8I8EgcAN[D.ah!k\G\`U:D'Y;TEM+_1/A:Hj*&h+%qTus<Nn;3"_a:P\A!hY1m+a+1HQa_L3`jG!hoB9"]%I^><3CcL=PE2C3+WTqUbZ`*Z@j^@J.NR.!40'2<]$XBIPu8$g'`@qoPgO.l+gpTn^0^oqk`k?:2u$*RnX!BK5#kl\T,TO(t2lIubbSj'G#'^]DX)1anhMlqah@E@W;!l5giE6_dTY?MOSA5FLd?IDV_`",3ku7;I&S[tD$SHu<>Q&7ijodHJ+iS6q_J83sh>nWJ>HR)hgI&[[%^Xpi`2U<:IL15NTSe]mGCS_&%^1!99XiU\P0J:EIHZ@Un-&8_I6f?\hL@6[Hk^Q.>AYC<+6g$L0<l=9`!>']WB>$jcaWW'c4(p,r\]iFGaY\\1:@hUKN/,2a4#/6^G1G>*mbkQ\77._9`ck"n~>endstream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 57.02362 739.8661 cm
+q
+.219608 .741176 .972549 RG
+1 w
+.913725 .968627 1 rg
+n -8 -8 497.2283 61 re B*
+Q
+q
+BT 1 0 0 1 0 34.5 Tm 15 TL /F2 10.5 Tf 0 0 0 rg (QA Tip) Tj /F1 10.5 Tf  T* (Use a ferramenta dentro de uma estrat\351gia de qualidade: automatize riscos relevantes, mantenha a) Tj T* (su\355te observ\341vel e trate falhas de automa\347\343o como c\363digo de produ\347\343o.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 711.8661 cm
+q
+.043137 .184314 .356863 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (Recursos oficiais) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 690.8661 cm
+q
+BT 1 0 0 1 0 4.5 Tm 15 TL /F2 10.5 Tf 0 0 0 rg (Site oficial:) Tj /F1 10.5 Tf ( https://playwright.dev/) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 667.8661 cm
+q
+BT 1 0 0 1 0 4.5 Tm 15 TL /F2 10.5 Tf 0 0 0 rg (Instala\347\343o / download:) Tj /F1 10.5 Tf ( https://playwright.dev/docs/intro) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 644.8661 cm
+q
+BT 1 0 0 1 0 4.5 Tm 15 TL /F2 10.5 Tf 0 0 0 rg (Documenta\347\343o:) Tj /F1 10.5 Tf ( https://playwright.dev/docs/intro) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+0.843137 0.901961 0.960784 RG
+0.6 w
+n
+36 815.8898 m
+559.2756 815.8898 l
+S
+0.070588 0.207843 0.356863 rg
+BT
+/F2-0 8.2 Tf
+9.84 TL
+ET
+BT
+1 0 0 1 40 821.8898 Tm
+(QA LAB BRASIL) Tj
+T*
+ET
+0.356863 0.45098 0.564706 rg
+BT
+/F1-0 6.8 Tf
+8.16 TL
+ET
+BT
+1 0 0 1 398.216 821.8898 Tm
+(QUALITY ENGINEERING \174 DOCUMENTO OFICIAL) Tj
+T*
+ET
+q
+0.848048 0.529919 -0.529919 0.848048 297.6378 420.9449 cm
+0.08 0.21 0.36 rg
+/gRLs0 gs
+BT
+/F2-0 42 Tf
+50.4 TL
+ET
+BT
+1 0 0 1 -164.493 0 Tm
+(QA LAB BRASIL) Tj
+T*
+ET
+Q
+0.843137 0.901961 0.960784 RG
+n
+36 24 m
+559.2756 24 l
+S
+0.356863 0.45098 0.564706 rg
+BT
+/F1-0 6.6 Tf
+7.92 TL
+ET
+BT
+1 0 0 1 40 14 Tm
+(qualityassurancebrasil\056com\056br) Tj
+T*
+ET
+BT
+1 0 0 1 210.9996 14 Tm
+(QA Lab Brasil v2\0562 \174 PT\055BR \174 Atualizado\072 setembro de 2026) Tj
+T*
+ET
+BT
+1 0 0 1 514.547 14 Tm
+(Pagina 2 de 2) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+12 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+13 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
 endobj
 xref
-0 11
+0 14
 0000000000 65535 f 
-0000000061 00000 n 
-0000000102 00000 n 
-0000000209 00000 n 
-0000000321 00000 n 
-0000000524 00000 n 
-0000000728 00000 n 
-0000000796 00000 n 
-0000001073 00000 n 
-0000001138 00000 n 
-0000003168 00000 n 
+0000000015 00000 n 
+0000000054 00000 n 
+0000000120 00000 n 
+0000000169 00000 n 
+0000000464 00000 n 
+0000006029 00000 n 
+0000006136 00000 n 
+0000006243 00000 n 
+0000006355 00000 n 
+0000006467 00000 n 
+0000006766 00000 n 
+0000008800 00000 n 
+0000008908 00000 n 
 trailer
 <<
-/ID 
-[<a6c52fbd5195dc1221b36933419642eb><a6c52fbd5195dc1221b36933419642eb>]
-% ReportLab generated PDF document -- digest (opensource)
-
-/Info 7 0 R
-/Root 6 0 R
-/Size 11
+/Size 14
+/Root 3 0 R
+/Info 1 0 R
 >>
 startxref
-3825
+9021
 %%EOF

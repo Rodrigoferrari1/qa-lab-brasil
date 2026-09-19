@@ -1,80 +1,354 @@
 %PDF-1.4
-%“Œ‹ž ReportLab Generated PDF document (opensource)
+%âãÏÓ
 1 0 obj
 <<
-/F1 2 0 R /F2 3 0 R /F3 4 0 R
+/Producer (pypdf)
 >>
 endobj
 2 0 obj
 <<
-/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
+/Type /Pages
+/Count 1
+/Kids [ 4 0 R ]
 >>
 endobj
 3 0 obj
 <<
-/BaseFont /Helvetica-BoldOblique /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
+/Type /Catalog
+/Pages 2 0 R
 >>
 endobj
 4 0 obj
 <<
-/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F3 /Subtype /Type1 /Type /Font
+/Contents 5 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/ExtGState <<
+/gRLs0 <<
+/ca 0.035
+>>
+>>
+/Font <<
+/F1 6 0 R
+/F1-0 7 0 R
+/F2 8 0 R
+/F2-0 9 0 R
+/F3 10 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
 >>
 endobj
 5 0 obj
 <<
-/Contents 9 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 8 0 R /Resources <<
-/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
->> /Rotate 0 /Trans <<
-
->> 
-  /Type /Page
+/Length 4588
 >>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 51.35433 779.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 12 Tf 14 TL (QA Lab Brasil) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 749.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F3 20 Tf 24 TL 151.8135 0 Td (Pruebas con Spring) Tj T* -151.8135 0 Td ET
+Q
+Q
+q
+1 0 0 1 51.35433 724.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Pruebas unitarias, de contexto, integraci\363n y web en el ecosistema Spring.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 714.3701 cm
+Q
+q
+1 0 0 1 51.35433 688.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Estrategia) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 656.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Combine pruebas unitarias r\341pidas con contexto/integraci\363n solo donde agreguen confianza. Evite levantar toda la) Tj T* (aplicaci\363n si una unidad aislada es suficiente.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 630.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (JUnit y Mockito) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 611.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL -0.127044 Tw (JUnit ofrece ejecuci\363n/assertions; Mockito ayuda al aislamiento. Spring agrega contexto e infraestructura de pruebas.) Tj T* 0 Tw ET
+Q
+Q
+q
+1 0 0 1 51.35433 585.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Web y APIs) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 566.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Valide controllers y endpoints en el nivel adecuado y complemente con pruebas API externas cuando sea necesario.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 540.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Datos e integraciones) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 508.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Controle datos, estado, transacciones y dependencias. Elija conscientemente entre mocks, stubs, containers o) Tj T* (ambiente real.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 482.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (QA y calidad) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 463.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (QA puede colaborar en estrategia, identificar riesgos de integraci\363n y evitar depender solo de E2E lentos.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 437.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Instalaci\363n y configuraci\363n - visi\363n general) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 392.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 29.5 Tm /F1 9.5 Tf 13 TL (Use siempre el sitio y la documentaci\363n oficiales. Verifique prerrequisitos y versiones compatibles, instale seg\372n el) Tj T* (sistema operativo, configure variables de entorno o PATH solo cuando sea necesario, valide la instalaci\363n con el) Tj T* (comando o pantalla recomendada y ejecute un primer proyecto/prueba antes de integrarlo al flujo de QA.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 366.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Consejo de QA) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 347.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Relacione siempre la pr\341ctica con el riesgo del producto y la evidencia necesaria para decisiones de calidad.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 321.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Recursos oficiales) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 302.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Site oficial: https://docs.spring.io/spring-framework/reference/testing.html) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 283.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Download / instala\347\343o: https://start.spring.io/) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 264.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Documenta\347\343o: https://docs.spring.io/spring-framework/reference/testing.html) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+0.843137 0.901961 0.960784 RG
+0.6 w
+n
+36 815.8898 m
+559.2756 815.8898 l
+S
+0.070588 0.207843 0.356863 rg
+BT
+/F2-0 8.2 Tf
+9.84 TL
+ET
+BT
+1 0 0 1 40 821.8898 Tm
+(QA LAB BRASIL) Tj
+T*
+ET
+0.356863 0.45098 0.564706 rg
+BT
+/F1-0 6.8 Tf
+8.16 TL
+ET
+BT
+1 0 0 1 398.216 821.8898 Tm
+(QUALITY ENGINEERING \174 DOCUMENTO OFICIAL) Tj
+T*
+ET
+q
+0.848048 0.529919 -0.529919 0.848048 297.6378 420.9449 cm
+0.08 0.21 0.36 rg
+/gRLs0 gs
+BT
+/F2-0 42 Tf
+50.4 TL
+ET
+BT
+1 0 0 1 -164.493 0 Tm
+(QA LAB BRASIL) Tj
+T*
+ET
+Q
+0.843137 0.901961 0.960784 RG
+n
+36 24 m
+559.2756 24 l
+S
+0.356863 0.45098 0.564706 rg
+BT
+/F1-0 6.6 Tf
+7.92 TL
+ET
+BT
+1 0 0 1 40 14 Tm
+(qualityassurancebrasil\056com\056br) Tj
+T*
+ET
+BT
+1 0 0 1 212.28 14 Tm
+(QA Lab Brasil v2\0562 \174 ES \174 Actualizado\072 septiembre de 2026) Tj
+T*
+ET
+BT
+1 0 0 1 514.547 14 Tm
+(Pagina 1 de 1) Tj
+T*
+ET
+Q
+
+
+endstream
 endobj
 6 0 obj
 <<
-/PageMode /UseNone /Pages 8 0 R /Type /Catalog
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
 >>
 endobj
 7 0 obj
 <<
-/Author (\(anonymous\)) /CreationDate (D:20260918234449+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20260918234449+00'00') /Producer (ReportLab PDF Library - \(opensource\)) 
-  /Subject (\(unspecified\)) /Title (\(anonymous\)) /Trapped /False
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
 >>
 endobj
 8 0 obj
 <<
-/Count 1 /Kids [ 5 0 R ] /Type /Pages
+/BaseFont /Helvetica-BoldOblique
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
 >>
 endobj
 9 0 obj
 <<
-/Filter [ /ASCII85Decode /FlateDecode ] /Length 1406
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
 >>
-stream
-Gatm;gN)%,&:O:Sm%`<t-1R^fP:*8/Vs1!5G+p68IY#S*!XBua!0jO5I1LRdP=cEWl"DVh9E9G5m+J^a5\#1nl9!+DhCNC5HU'kfb;BIn0W*qn=tD=u/qR]s,T'"73/VB-],jGJEI`I^4g&+\blpiJ\jLI2L',?]5_%SNr=-FR.sb]YQ0K/h519"'+64K86\47GJ`8^e7,cc'$EHDmNgL(!"Rh[+?/D!4=2Ik0F8A]MR;^g3=5U1Y!L,9%#pgKbC+oZoqa[G&<GAr4b?R):Up'qnfqWQb\'kGBGh<jqaG4FIjg:dq?4lA=ME'!a>0!%EO:Q]b(@8:I>VM_p:FFW^l>o3;djgQ8F[cA4'W5A5-e"8VK'>#8IactBk"NbgglZl<ih2BI;p^iMd<@-FXYck8#Ld-lGZ/XjFtH/^Nu6;S.iji5XiPK73LpLT>um;d:bp^r,nXL/%&lch8?2lZZR&hYAKi"SHdlUFNR+F!c]?-g](eoG?_u4763Y3YEkNA%K5``/d7MZ$BY?<o0_$A8AOFU2=Ne]US_MaJ0G:u1`!B@aP^-m5YYf:D#140E(rBW!_9c/L\C(Z?'huA'3l`;\nO+bradJZJ7ZZs#k3f?7:$6&5>09@Is-$9bBm6>;@Ug":o<ck@XDRerQWniq'`<hf@mQiq6?2.a<QVo@!rs[Pa!UQW01CoOQ3HBKO%"]b*^ZC8k6g`[3,P_528,l.m_drW[,Lr($7b2*;BL=;^2r4G5d7!<MPLFWb#0iW/*@4D!Y)<n@jO$;2eYo3^'mpE\`+ataq]C$ap<5$$D[>"!;ia=(`'+VVsul3P>_lYPhV*aUcm^2U[t=<:drKk(mS3;"69"DlV&=o#lH[h;o:+1fksXSPlEh=GjFb,V;*nFbHqNk0NE5.mDE'`4-R"[3AdC8i2N5p;skf8d8nu`H,D&5k],R;Y"oig]KX@'8'@86S/"j;Rb:<#,G6L\RSHJY^CHh.@m_Z!:-YuahbU)X4uS.f9&TDK[\GE"=c;%HJT,X`*WEY.P=I1\4@HO&qaW$gp9L>!AF/AX%m"Hm[XNc'1OQ$HO\DoLe(r:>O1Kjsr+(=pQ%:(hq(;!jQX7T7aD/>a_@KY#%@A%PM5Pf-mcs=nQ7BS=aUGI(N8AQ+iEb1W@3<5uS,k$3PI2k^.s]t.oT3)&a/olp$;P*ANRT1LgdAiseFK22m@Tq]^fOB=DA%a(CY3L8&<N,h/&e<#7"lDXc*")^p5<[C-F2$YDtVgeqX>9o\252dm60`L/2Z,G\js,I&&UM!h?SOUCP'6o0?t=+eS'UoZU7r(PGK>N:KP&8AGiORf9,#L)c4O!W6G';?X21"(;flCGj_\_cBZDWER_E-8j(!eV"_t#GN3!pmt#3L'E=0L[XN;ub5XdP?2P(ga5]8~>endstream
+endobj
+10 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F3
+/Subtype /Type1
+/Type /Font
+>>
 endobj
 xref
-0 10
+0 11
 0000000000 65535 f 
-0000000061 00000 n 
-0000000112 00000 n 
-0000000219 00000 n 
-0000000338 00000 n 
-0000000450 00000 n 
-0000000653 00000 n 
-0000000721 00000 n 
-0000001001 00000 n 
-0000001060 00000 n 
+0000000015 00000 n 
+0000000054 00000 n 
+0000000113 00000 n 
+0000000162 00000 n 
+0000000468 00000 n 
+0000005108 00000 n 
+0000005215 00000 n 
+0000005322 00000 n 
+0000005441 00000 n 
+0000005553 00000 n 
 trailer
 <<
-/ID 
-[<cc354e01809d55db5c2bda247639a1dc><cc354e01809d55db5c2bda247639a1dc>]
-% ReportLab generated PDF document -- digest (opensource)
-
-/Info 7 0 R
-/Root 6 0 R
-/Size 10
+/Size 11
+/Root 3 0 R
+/Info 1 0 R
 >>
 startxref
-2557
+5666
 %%EOF

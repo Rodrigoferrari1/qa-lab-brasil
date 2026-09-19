@@ -1,80 +1,368 @@
 %PDF-1.4
-%“Œ‹ž ReportLab Generated PDF document (opensource)
+%âãÏÓ
 1 0 obj
 <<
-/F1 2 0 R /F2 3 0 R /F3 4 0 R
+/Producer (pypdf)
 >>
 endobj
 2 0 obj
 <<
-/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
+/Type /Pages
+/Count 1
+/Kids [ 4 0 R ]
 >>
 endobj
 3 0 obj
 <<
-/BaseFont /Helvetica-BoldOblique /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
+/Type /Catalog
+/Pages 2 0 R
 >>
 endobj
 4 0 obj
 <<
-/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F3 /Subtype /Type1 /Type /Font
+/Contents 5 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/ExtGState <<
+/gRLs0 <<
+/ca 0.035
+>>
+>>
+/Font <<
+/F1 6 0 R
+/F1-0 7 0 R
+/F2 8 0 R
+/F2-0 9 0 R
+/F3 10 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
 >>
 endobj
 5 0 obj
 <<
-/Contents 9 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 8 0 R /Resources <<
-/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
->> /Rotate 0 /Trans <<
-
->> 
-  /Type /Page
+/Length 5170
 >>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 51.35433 779.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 12 Tf 14 TL (QA Lab Brasil) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 749.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F3 20 Tf 24 TL 141.8035 0 Td (Teste de Performance) Tj T* -141.8035 0 Td ET
+Q
+Q
+q
+1 0 0 1 51.35433 724.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Carga, stress, picos, endurance, escalabilidade, m\351tricas e ferramentas como JMeter e k6.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 714.3701 cm
+Q
+q
+1 0 0 1 51.35433 688.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (O que Performance Testing mede) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 656.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Performance Testing avalia comportamento relacionado a tempo de resposta, throughput, uso de recursos,) Tj T* (estabilidade e capacidade sob diferentes condi\347\365es de carga.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 630.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Load Testing) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 598.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Load Testing verifica o sistema sob carga esperada ou planejada. O objetivo n\343o \351 apenas gerar usu\341rios, mas) Tj T* (observar se os objetivos de desempenho s\343o atendidos.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 572.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Stress Testing) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 540.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Stress Testing leva o sistema al\351m das condi\347\365es normais para observar degrada\347\343o, limites, falhas e capacidade) Tj T* (de recupera\347\343o.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 514.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Spike, Soak e Scalability) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 482.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Spike avalia mudan\347as bruscas; Soak/Endurance mant\351m carga por longo per\355odo; Scalability verifica como o) Tj T* (sistema responde ao crescimento de demanda e recursos.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 456.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (M\351tricas importantes) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 424.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Response time, percentis como p95/p99, throughput, taxa de erro, CPU, mem\363ria, conex\365es e filas ajudam a) Tj T* (explicar comportamento. M\351dia isolada pode esconder lentid\343o para parte dos usu\341rios.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 398.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (JMeter, k6 e Gatling) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 366.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (JMeter oferece uma interface madura e amplo ecossistema; k6 favorece testes como c\363digo; Gatling tamb\351m) Tj T* (trabalha com cen\341rios de carga program\341veis. A escolha depende do contexto.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 340.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Prepara\347\343o do teste) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 308.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Defina objetivos, carga, dados, ambiente, dura\347\343o, ramp-up, crit\351rios de sucesso e monitoramento antes da) Tj T* (execu\347\343o. Um teste sem modelo de carga realista pode gerar conclus\365es ruins.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 282.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (An\341lise e diagn\363stico) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 250.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Quando houver degrada\347\343o, correlacione resultados de carga com logs, m\351tricas, traces e infraestrutura.) Tj T* (Performance \351 um problema de sistema, n\343o apenas da ferramenta de teste.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 224.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Dica de QA) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 205.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Defina crit\351rios de sucesso antes do teste; gerar muita carga sem objetivo n\343o produz uma conclus\343o \372til.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 179.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Recursos oficiais) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 160.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Site oficial: https://jmeter.apache.org/) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+0.843137 0.901961 0.960784 RG
+0.6 w
+n
+36 815.8898 m
+559.2756 815.8898 l
+S
+0.070588 0.207843 0.356863 rg
+BT
+/F2-0 8.2 Tf
+9.84 TL
+ET
+BT
+1 0 0 1 40 821.8898 Tm
+(QA LAB BRASIL) Tj
+T*
+ET
+0.356863 0.45098 0.564706 rg
+BT
+/F1-0 6.8 Tf
+8.16 TL
+ET
+BT
+1 0 0 1 398.216 821.8898 Tm
+(QUALITY ENGINEERING \174 DOCUMENTO OFICIAL) Tj
+T*
+ET
+q
+0.848048 0.529919 -0.529919 0.848048 297.6378 420.9449 cm
+0.08 0.21 0.36 rg
+/gRLs0 gs
+BT
+/F2-0 42 Tf
+50.4 TL
+ET
+BT
+1 0 0 1 -164.493 0 Tm
+(QA LAB BRASIL) Tj
+T*
+ET
+Q
+0.843137 0.901961 0.960784 RG
+n
+36 24 m
+559.2756 24 l
+S
+0.356863 0.45098 0.564706 rg
+BT
+/F1-0 6.6 Tf
+7.92 TL
+ET
+BT
+1 0 0 1 40 14 Tm
+(qualityassurancebrasil\056com\056br) Tj
+T*
+ET
+BT
+1 0 0 1 210.9996 14 Tm
+(QA Lab Brasil v2\0562 \174 PT\055BR \174 Atualizado\072 setembro de 2026) Tj
+T*
+ET
+BT
+1 0 0 1 514.547 14 Tm
+(Pagina 1 de 1) Tj
+T*
+ET
+Q
+
+
+endstream
 endobj
 6 0 obj
 <<
-/PageMode /UseNone /Pages 8 0 R /Type /Catalog
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
 >>
 endobj
 7 0 obj
 <<
-/Author (\(anonymous\)) /CreationDate (D:20260918234448+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20260918234448+00'00') /Producer (ReportLab PDF Library - \(opensource\)) 
-  /Subject (\(unspecified\)) /Title (\(anonymous\)) /Trapped /False
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
 >>
 endobj
 8 0 obj
 <<
-/Count 1 /Kids [ 5 0 R ] /Type /Pages
+/BaseFont /Helvetica-BoldOblique
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
 >>
 endobj
 9 0 obj
 <<
-/Filter [ /ASCII85Decode /FlateDecode ] /Length 1635
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
 >>
-stream
-GatU3bAu>s&A7ljk*Xt&A5O$e4$GZch5[TQ&gtgR(PmSefHe95TZXlR^HLLB;HAg^EN)PGNQ2%TdlkU%-MSkF4"lFs0Br%gKT[c9f9FM!1KqMjGKYp5(J-PA9?([(92f"FY/fd9P$f;b-XkYF0!I\uCl3(%CcEFnjR$:/h9pYTU=WF*?2R18HWpEo6145&'khbSd&[\@dWE?WVBJbk9?(%s1rK)ddYjrB?BJ4Z8_LMVV5SFb7t5eHpEt`acH[IX*G=bZ'"[4t\9JoEr^PP"(m4Dj3B*[9k6?E8,ob$__,$DU6EG:&V3#pS^SP)mXj2VF7;HJ:-roC!Pag+J?QYM6(*a@]E<M<Drob^Wbce1phlR-PYCqhY_o4gfpZ;`_@^(!_Ti+I)rb1n>IPu4%IgXb*EQ(Ze=tiXXYs+gmaJqSfg/LBW'''eI3$5q*D4CheIVVZag")-);<,7(]Whr/os]0s#QmN24r6(7%1gac88?M)BSngMV#H\*(>mPcL1eVlOT?&!c-scf;XrTLfqWLM:3M&Wnu%%'N(#g>obs5jL7F"H8eLOu2b%9.apO!AL?_*)l5gIGqFG4@YIr^0WW6"5L_H@JXX`E,#"pLlBJ>ZQbuuQM)gF%eVsFmLS0I!JSH@)73O#Qa/Ip6I/3J$OV/[+2B8c"-UAlN1qg[Ng44!NIp`E#$6L>91(BoFoOqdpj`JX>_*S&#98IqUr)^_PT#LGq>kY`Xj8$j&N2OMiTh$5,bPq^+ndMS44#V/&tEigGANaI`i^koetT'?8=+*;[KT%]e:c@L=\.2s]qCDXctAK+a\]*W,]I+LG@o!S$?$`snH7T>ai@gHaV+>_I$*8Y'VUYtWR!4c`"QrO=2KqTIs\Sf)4,X'"1@sc[^?ssgZ]r,$.E)<'HCU7i(&KrB6kgLN!%KJcc*]G/qN]@*d>tM-$Zci4AqUis(GSCPtl6gWKc)7a!&r#%#:T]B;6QGBr'*bJ</oVtR%sCSYHe3bK$XD4'Q]s3.'I;*m4&`B$eV5;/<ZGjq_.St6"U20iMn9PQe:Fknn<?C%okC#O/n'D[!Oqr)p`dkKdeRrVEn?]rY(_s'K>c;2%_EKB'J'b77[/%(8>-FVZMT@e\J@7?<dAT83aQl>9Blu9dTlmTQE-[\JKo*PMLCAK&@/$cGGr/R>6Bd6H!mPW)q/YsMUtCQHGM'dS.K!iqA9l=,7OK,/YB-(KGY\m",@gc"J%ZQC;3ba?&=!C*4=FX:adSR!ERGS%0"Z,_dWW(lBb5)q,R`%l`kS,N]I:iWAKn6`ch;]n,mKR+<hZO^.-K$ZFr"cG_rh+'kYdW<NoWu>-4OQAcU'97H6G6g.#-ug6kEtrb7O56Or&lh!%,dRu6eKjYf%0@C,,2pU^WADJ3f(P_9^H3B+D8B1!']'V>-Tj2W>lbf1[:7_fEa1rr.aX0i[-h_lN<%ko'4e"Idt9%M7ei:=d%[osgF/R-i/_><jY-p0.:)oGFp/(I47hK#/TUq>B;.$O#L?ed]a4I,YHSp1%El#O1J1k98Mi;ESZeHMhUq'UFIOOe7V]U4"N6m.ga]RlbFmW6u&^nGnRd0W8FRn#HoPDp6ea=^N`MRMBnma^F\IE>JubT5eGNK)b!rbr:Wp_Rg\J%b~>endstream
+endobj
+10 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F3
+/Subtype /Type1
+/Type /Font
+>>
 endobj
 xref
-0 10
+0 11
 0000000000 65535 f 
-0000000061 00000 n 
-0000000112 00000 n 
-0000000219 00000 n 
-0000000338 00000 n 
-0000000450 00000 n 
-0000000653 00000 n 
-0000000721 00000 n 
-0000001001 00000 n 
-0000001060 00000 n 
+0000000015 00000 n 
+0000000054 00000 n 
+0000000113 00000 n 
+0000000162 00000 n 
+0000000468 00000 n 
+0000005690 00000 n 
+0000005797 00000 n 
+0000005904 00000 n 
+0000006023 00000 n 
+0000006135 00000 n 
 trailer
 <<
-/ID 
-[<4269bcbb8b634b488477e6c5db09ac41><4269bcbb8b634b488477e6c5db09ac41>]
-% ReportLab generated PDF document -- digest (opensource)
-
-/Info 7 0 R
-/Root 6 0 R
-/Size 10
+/Size 11
+/Root 3 0 R
+/Info 1 0 R
 >>
 startxref
-2786
+6248
 %%EOF

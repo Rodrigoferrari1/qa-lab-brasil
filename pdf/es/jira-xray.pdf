@@ -1,86 +1,349 @@
 %PDF-1.4
-%“Œ‹ž ReportLab Generated PDF document (opensource)
+%âãÏÓ
 1 0 obj
 <<
-/F1 2 0 R /F2 3 0 R /F3 4 0 R /F4 5 0 R
+/Producer (pypdf)
 >>
 endobj
 2 0 obj
 <<
-/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
+/Type /Pages
+/Count 1
+/Kids [ 4 0 R ]
 >>
 endobj
 3 0 obj
 <<
-/BaseFont /Helvetica-BoldOblique /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
+/Type /Catalog
+/Pages 2 0 R
 >>
 endobj
 4 0 obj
 <<
-/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F3 /Subtype /Type1 /Type /Font
+/Contents 5 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/ExtGState <<
+/gRLs0 <<
+/ca 0.035
+>>
+>>
+/Font <<
+/F1 6 0 R
+/F1-0 7 0 R
+/F2 8 0 R
+/F2-0 9 0 R
+/F3 10 0 R
+/F4 11 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
 >>
 endobj
 5 0 obj
 <<
-/BaseFont /ZapfDingbats /Name /F4 /Subtype /Type1 /Type /Font
+/Length 3949
 >>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 51.35433 779.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 12 Tf 14 TL (QA Lab Brasil) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 749.3701 cm
+q
+BT 1 0 0 1 0 4 Tm 194.0335 0 Td 24 TL /F3 20 Tf 0 0 0 rg (Jira & Xray) Tj T* -194.0335 0 Td ET
+Q
+Q
+q
+1 0 0 1 51.35433 724.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Gesti\363n de trabajo y pruebas con trazabilidad entre requisitos, casos, ejecuciones y defectos.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 714.3701 cm
+Q
+q
+1 0 0 1 51.35433 688.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Jira) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 669.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Jira se utiliza para backlog, historias, tareas, bugs, workflows, boards y dashboards.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 643.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Xray) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 611.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Xray agrega capacidades de Test Management a Jira, con conceptos como Test, Precondition, Test Set, Test Plan y) Tj T* (Test Execution.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 585.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Flujo de QA) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 553.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Historias se vinculan a pruebas; ejecuciones registran resultados; defectos documentan fallos; planes y reportes) Tj T* (soportan trazabilidad.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 527.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Test Plan vs Test Execution) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 495.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Test Plan organiza alcance/planificaci\363n; Test Execution representa una ejecuci\363n concreta en un) Tj T* (build/entorno/contexto.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 469.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Dashboards y m\351tricas) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 437.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Use filtros y dashboards para comunicar progreso, fallos, bloqueos y riesgo. No use cantidad de bugs como) Tj T* (productividad individual.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 411.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Buenas pr\341cticas) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 392.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Estandarice t\355tulos, entornos, evidencias, steps y criterios evitando burocracia innecesaria.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 366.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Consejo de QA) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 347.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL /F4 9.5 Tf 13 TL (n) Tj /F1 9.5 Tf 13 TL ( QA Tip: la herramienta debe apoyar el proceso, no convertirse en el objetivo del proceso.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 321.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Recursos oficiales) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 302.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Site oficial: https://www.atlassian.com/software/jira) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+0.843137 0.901961 0.960784 RG
+0.6 w
+n
+36 815.8898 m
+559.2756 815.8898 l
+S
+0.070588 0.207843 0.356863 rg
+BT
+/F2-0 8.2 Tf
+9.84 TL
+ET
+BT
+1 0 0 1 40 821.8898 Tm
+(QA LAB BRASIL) Tj
+T*
+ET
+0.356863 0.45098 0.564706 rg
+BT
+/F1-0 6.8 Tf
+8.16 TL
+ET
+BT
+1 0 0 1 398.216 821.8898 Tm
+(QUALITY ENGINEERING \174 DOCUMENTO OFICIAL) Tj
+T*
+ET
+q
+0.848048 0.529919 -0.529919 0.848048 297.6378 420.9449 cm
+0.08 0.21 0.36 rg
+/gRLs0 gs
+BT
+/F2-0 42 Tf
+50.4 TL
+ET
+BT
+1 0 0 1 -164.493 0 Tm
+(QA LAB BRASIL) Tj
+T*
+ET
+Q
+0.843137 0.901961 0.960784 RG
+n
+36 24 m
+559.2756 24 l
+S
+0.356863 0.45098 0.564706 rg
+BT
+/F1-0 6.6 Tf
+7.92 TL
+ET
+BT
+1 0 0 1 40 14 Tm
+(qualityassurancebrasil\056com\056br) Tj
+T*
+ET
+BT
+1 0 0 1 212.28 14 Tm
+(QA Lab Brasil v2\0562 \174 ES \174 Actualizado\072 septiembre de 2026) Tj
+T*
+ET
+BT
+1 0 0 1 514.547 14 Tm
+(Pagina 1 de 1) Tj
+T*
+ET
+Q
+
+
+endstream
 endobj
 6 0 obj
 <<
-/Contents 10 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 9 0 R /Resources <<
-/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
->> /Rotate 0 /Trans <<
-
->> 
-  /Type /Page
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
 >>
 endobj
 7 0 obj
 <<
-/PageMode /UseNone /Pages 9 0 R /Type /Catalog
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
 >>
 endobj
 8 0 obj
 <<
-/Author (\(anonymous\)) /CreationDate (D:20260918234449+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20260918234449+00'00') /Producer (ReportLab PDF Library - \(opensource\)) 
-  /Subject (\(unspecified\)) /Title (\(anonymous\)) /Trapped /False
+/BaseFont /Helvetica-BoldOblique
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
 >>
 endobj
 9 0 obj
 <<
-/Count 1 /Kids [ 6 0 R ] /Type /Pages
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
 >>
 endobj
 10 0 obj
 <<
-/Filter [ /ASCII85Decode /FlateDecode ] /Length 1179
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F3
+/Subtype /Type1
+/Type /Font
 >>
-stream
-GatUr;01_T&BE]".JBa)FstAOOH=h#Zq3?MCZj-@1O[?f+tl>E@l]\l0)+W-QO)Z^$\sKI"3?e8X8VF8f?S)\:S*%.P3?pYfl^'cOJ[*AMgdt@GB>]*GrWp<=,ujc)APllg"E1)c3?<&@="$4h;SPQnuYcV=i0*9CG;2=]m39>GXe$[]r?IVkrhajMGA'YH-K4VV5#(.7C8[_MZ,l?&[&#X%?lk>>1%:#I;TNaVgfQ(oE5'XphAd\kM<i/3Q&'\(p*"`f&>aJM*o4^;S9c$&*?oP<DB;dE'30-92F'I<bC\igH+3ibVN1cP"Us!3$BX[Xmm`?h]pB0rlMk;<Z>8$a8T!!U+tKm^bC6us/QOIkN@U&>_f4T>_m9fU5N+a+(.2pXHpO";s(_h)Z](X;o?,:Z2RkY7??kq&(VU&T>44]s/]MaG@fUNH"C(IL1OF5B'f!;(EKH6$[!_Z01GRTqg!Y;IQlUY-2J`j3*@s-dBJYbJM<b%.25:%Em4tp6;5<3&b_C9nC>rP2Ae#_>2#bG:2ms)!SZh@[ssM/4F1@S:"sV^e%MeX:h!\c!TWBkF<nllW^Wa,TUWD2gl)_UCHp)$2_'\OHSi-JA(8.?dPj7q#Nf.VYeZ*6X2(RNMG663BltB*@t)^'($?K;91A0BYqCjiiq,.ci8#0qL$J0o8?+=7IIsn9c,4FWal-duVu5Q.\cp]jR(:WR7:q[DR2ZSUVdB2]X.r+(TH1:8>Os0`lb49+m0#4C@rfb9es`V_Yf43-Aloc.;m7;#(1#YEX)NRE2Ad]dH)jD[E!XU1n>QmFF?eH.+PXH+K!W(+DVZj@l>;Mj39]%iAU)sVQ6pofAKP)IgRJkjY^QAk;@@hB9Lo[><+'OAWFKc'_G](P?lmc0KC4:fb>f@k*?*i$GV<:#;59,_<CID\S]IhQnG%dbPt,h[N$RE9NI6aQS$5&V.ZP(Le2faDI#o\<eBS2:##m;r%9O0`<]eBl!NQtf*_*[B/N"Rk8a@0sHg0BQ<RIM:m,=17(LM_tQf5D=E>4k1k(5([4)p:I-5CYP1EgZ&'3$G]'WOnhX_fWX7rc@)L_:G_=Za5382#_+?.oJDn6"ZJNGdeG&k3X"b&AY4F>rt:]))I.D4FnY>mQG)aKj?2e`Tc6pP.utl7qmR*`dOSamQol&YkQi!$7LE)Z~>endstream
+endobj
+11 0 obj
+<<
+/BaseFont /ZapfDingbats
+/Name /F4
+/Subtype /Type1
+/Type /Font
+>>
 endobj
 xref
-0 11
+0 12
 0000000000 65535 f 
-0000000061 00000 n 
-0000000122 00000 n 
-0000000229 00000 n 
-0000000348 00000 n 
-0000000460 00000 n 
-0000000543 00000 n 
-0000000747 00000 n 
-0000000815 00000 n 
-0000001095 00000 n 
-0000001154 00000 n 
+0000000015 00000 n 
+0000000054 00000 n 
+0000000113 00000 n 
+0000000162 00000 n 
+0000000479 00000 n 
+0000004480 00000 n 
+0000004587 00000 n 
+0000004694 00000 n 
+0000004813 00000 n 
+0000004925 00000 n 
+0000005038 00000 n 
 trailer
 <<
-/ID 
-[<20c15e062794f6391cd2bd489fce7833><20c15e062794f6391cd2bd489fce7833>]
-% ReportLab generated PDF document -- digest (opensource)
-
-/Info 8 0 R
-/Root 7 0 R
-/Size 11
+/Size 12
+/Root 3 0 R
+/Info 1 0 R
 >>
 startxref
-2425
+5122
 %%EOF

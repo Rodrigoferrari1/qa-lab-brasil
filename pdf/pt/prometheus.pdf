@@ -1,80 +1,340 @@
 %PDF-1.4
-%“Œ‹ž ReportLab Generated PDF document (opensource)
+%âãÏÓ
 1 0 obj
 <<
-/F1 2 0 R /F2 3 0 R /F3 4 0 R
+/Producer (pypdf)
 >>
 endobj
 2 0 obj
 <<
-/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
+/Type /Pages
+/Count 1
+/Kids [ 4 0 R ]
 >>
 endobj
 3 0 obj
 <<
-/BaseFont /Helvetica-BoldOblique /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
+/Type /Catalog
+/Pages 2 0 R
 >>
 endobj
 4 0 obj
 <<
-/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F3 /Subtype /Type1 /Type /Font
+/Contents 5 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/ExtGState <<
+/gRLs0 <<
+/ca 0.035
+>>
+>>
+/Font <<
+/F1 6 0 R
+/F1-0 7 0 R
+/F2 8 0 R
+/F2-0 9 0 R
+/F3 10 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
 >>
 endobj
 5 0 obj
 <<
-/Contents 9 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 8 0 R /Resources <<
-/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
->> /Rotate 0 /Trans <<
-
->> 
-  /Type /Page
+/Length 4837
 >>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 51.35433 779.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 12 Tf 14 TL (QA Lab Brasil) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 749.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F3 20 Tf 24 TL 188.4935 0 Td (Prometheus) Tj T* -188.4935 0 Td ET
+Q
+Q
+q
+1 0 0 1 51.35433 724.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Prometheus: conceito, aplica\347\343o em Quality Engineering, primeiros passos e refer\352ncia oficial.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 714.3701 cm
+Q
+q
+1 0 0 1 51.35433 688.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (O que \351?) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 643.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 29.5 Tm /F1 9.5 Tf 13 TL (Prometheus faz parte do ecossistema moderno de engenharia e qualidade de software. Este guia apresenta o papel) Tj T* (da ferramenta, onde ela se encaixa no fluxo de desenvolvimento e como um QA pode utiliz\341-la com seguran\347a e) Tj T* (contexto.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 617.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Por que um QA deve conhecer?) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 572.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 29.5 Tm /F1 9.5 Tf 13 TL (Conhecer Prometheus ajuda o QA a colaborar melhor com desenvolvimento, DevOps, dados e produto. O objetivo) Tj T* (n\343o \351 decorar comandos, mas entender como a ferramenta influencia testabilidade, automa\347\343o, evid\352ncias,) Tj T* (diagn\363stico e qualidade de entrega.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 546.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Primeiros passos) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 501.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 29.5 Tm /F1 9.5 Tf 13 TL (Comece pela documenta\347\343o oficial, confirme pr\351-requisitos e instale apenas a partir da fonte oficial. Em ambiente) Tj T* (corporativo, valide pol\355ticas internas, vers\365es suportadas, permiss\365es e vari\341veis de ambiente antes de configurar) Tj T* (Prometheus.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 475.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Aplica\347\343o pr\341tica em QA) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 430.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 29.5 Tm /F1 9.5 Tf 13 TL (Use Prometheus em um exerc\355cio pequeno e reproduz\355vel. Registre o objetivo, configura\347\343o, resultado esperado,) Tj T* (evid\352ncias e problemas encontrados. Depois conecte o aprendizado a um cen\341rio real de testes, automa\347\343o,) Tj T* (integra\347\343o, dados ou entrega cont\355nua.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 404.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Boas pr\341ticas) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 359.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 29.5 Tm /F1 9.5 Tf 13 TL (Prefira documenta\347\343o oficial, n\343o exponha credenciais, versione configura\347\365es quando apropriado, mantenha) Tj T* (depend\352ncias atualizadas e registre decis\365es importantes. Ferramenta sem contexto n\343o substitui estrat\351gia de) Tj T* (qualidade.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 333.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Quando usar) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 301.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Use este conhecimento quando o risco, a arquitetura ou a etapa do ciclo de desenvolvimento exigir valida\347\343o) Tj T* (espec\355fica. Antes de aplicar, confirme objetivo, ambiente, dados necess\341rios e evid\352ncias esperadas.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 275.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Dica de QA) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 256.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Relacione sempre a pr\341tica ao risco do produto e \340s evid\352ncias necess\341rias para a decis\343o de qualidade.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 230.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Recursos oficiais) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 211.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Site oficial: https://prometheus.io/download/) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+0.843137 0.901961 0.960784 RG
+0.6 w
+n
+36 815.8898 m
+559.2756 815.8898 l
+S
+0.070588 0.207843 0.356863 rg
+BT
+/F2-0 8.2 Tf
+9.84 TL
+ET
+BT
+1 0 0 1 40 821.8898 Tm
+(QA LAB BRASIL) Tj
+T*
+ET
+0.356863 0.45098 0.564706 rg
+BT
+/F1-0 6.8 Tf
+8.16 TL
+ET
+BT
+1 0 0 1 398.216 821.8898 Tm
+(QUALITY ENGINEERING \174 DOCUMENTO OFICIAL) Tj
+T*
+ET
+q
+0.848048 0.529919 -0.529919 0.848048 297.6378 420.9449 cm
+0.08 0.21 0.36 rg
+/gRLs0 gs
+BT
+/F2-0 42 Tf
+50.4 TL
+ET
+BT
+1 0 0 1 -164.493 0 Tm
+(QA LAB BRASIL) Tj
+T*
+ET
+Q
+0.843137 0.901961 0.960784 RG
+n
+36 24 m
+559.2756 24 l
+S
+0.356863 0.45098 0.564706 rg
+BT
+/F1-0 6.6 Tf
+7.92 TL
+ET
+BT
+1 0 0 1 40 14 Tm
+(qualityassurancebrasil\056com\056br) Tj
+T*
+ET
+BT
+1 0 0 1 210.9996 14 Tm
+(QA Lab Brasil v2\0562 \174 PT\055BR \174 Atualizado\072 setembro de 2026) Tj
+T*
+ET
+BT
+1 0 0 1 514.547 14 Tm
+(Pagina 1 de 1) Tj
+T*
+ET
+Q
+
+
+endstream
 endobj
 6 0 obj
 <<
-/PageMode /UseNone /Pages 8 0 R /Type /Catalog
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
 >>
 endobj
 7 0 obj
 <<
-/Author (\(anonymous\)) /CreationDate (D:20260918234448+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20260918234448+00'00') /Producer (ReportLab PDF Library - \(opensource\)) 
-  /Subject (\(unspecified\)) /Title (\(anonymous\)) /Trapped /False
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
 >>
 endobj
 8 0 obj
 <<
-/Count 1 /Kids [ 5 0 R ] /Type /Pages
+/BaseFont /Helvetica-BoldOblique
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
 >>
 endobj
 9 0 obj
 <<
-/Filter [ /ASCII85Decode /FlateDecode ] /Length 1576
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
 >>
-stream
-GatU3_/e7#&A@rkqO$*U(a02p?af<\F%V^-LV;e)8<"IQUlf:8_YWTmo`u_b3_!Zs2Gb<k]B?kVYD7WTGQn(0.>VjWFR_5]?qQ=l"jo<(`AbA6S3<DH]0#%\*6(hmdX6L(%d0#UcXD+YQYgo##f/\Q_A!88h$90`TC/oIRp+7"<DM_,d,L0'InGlN]O"5FSPBm,M*dY+,gk*h$9iq\8!dYCogMKF^0=NT^#m=W3R;'hnO<i6k[Y"Y3,XW[kYf-(]:n,"TD+3U;^SS]1Eoi\3`/,ZBTE,>&/THGW*IsSdVYE:P1f+U)c:0h_:fetQ#[?V9U8arItmL#9XH"MdeLo("+UgV?+bL$$uh`lAr!b[%XX`A4l4Rb_h=J1^J<B8Mo*r6F*S[!>,c/-@V_hT!%,]Gm:n6f'ddKr)G6F-bd^n.$`"V.!o[,;1B*eHe\@@11#:h<ar9'0.a*jq)R(E+`V]B,PUZb"<Y_o$,#_,#>`k3aM:,Ts8@Zg3X\YEYR#T3H=roqOTY<,0JE:RH:`_L%cLj!7&'bakWsFtJ<gD)H.!D4#4]Cs\2?Oef"nQpNpt]%J@9[-^)_&:%F2E)#U[`a.!Cm+G-)(KVeROdM#q/9YajngAAZ=U8NCjAV,D8SZKf=4@)\Ml<19%?H)o+peA<r9]l]'S->.1/hL..cRa$rm*imA>Q$I8frE,8b8%`p)(JnF`9X4c$<WS=;%W0+:I76MjOkd49g)thIO<JD,uTrW<FNZ/X'/8&\thf1K"0Af:.1*G0op^kIL.&KT^PFA<;8G;J\1U3'!h+HEgfFr;N/O),H_(gX@>lsD`Ti*L/On.M`Q:.2dP._[[D*b1(C*E+48%&KHdK_#N#i<X3EhnQ.!odqLD%RVcC`V_rfo^(>:p!X+>d5lflW+igX;1hT=?@\/91]J/refTnW7p[_kaQr"_9kAo-c+D)o0r/-!njLo2:hqNLQ`5[rXXtX5gRLXCZ-l"6i^">.K["_)F)T]<hEr7_k?IL1H;oKTmQ$aH7TU!"h/AiY_+>6m,1MiZ5;51rEu%7X)7B+\_E*P)jLGP\AF*0OIlPbWh1T;P,]02]*Ks&[]FN.<HQRTs+9,UQX7g@PhOiSBf^N4``dOj2FF8]9a2S'?L<CbK.Zii&!2)S%li:V0q]BsITtqrs5e)$mfsPm;fAU\-U%ttNX>HSK2Ir6kK)Rl,^dM3`N%OiG?9M`*)NhRES"jNY]$sUDo)0jVe'.YQ&BJ!oX2/SLVE0<Dca;]QE]bfdHESIO`2.JQj%2B21%D,5\q:/4q52#m!Xd\j*Gop,L$5c%VBXY=^$8u.+fPTG%<iRg*Ld:-"UN:2:isF=rgpJX%HQH&tS*eT8^3>K84e@mTZMh0m)e7"0J?<FPSrmH[`C.';Kc/cA+L/6.mftm56FXE+BE[Ff6I<4FO[^IhD!8iBs\j)@r5$^Z4S[1H+b)6MJ@?A5;j\YBF^g-bC$)aiQ]7\0G)c;%j13i)Fj!&L!qTkE[:<%@ANH6heAfA*(0qlQ:G'Kh[3KmJ^;mJ*?k_ECK3)Y2%RH7F_odD(\`XX3?Pq090e@Zi:".^dB4~>endstream
+endobj
+10 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F3
+/Subtype /Type1
+/Type /Font
+>>
 endobj
 xref
-0 10
+0 11
 0000000000 65535 f 
-0000000061 00000 n 
-0000000112 00000 n 
-0000000219 00000 n 
-0000000338 00000 n 
-0000000450 00000 n 
-0000000653 00000 n 
-0000000721 00000 n 
-0000001001 00000 n 
-0000001060 00000 n 
+0000000015 00000 n 
+0000000054 00000 n 
+0000000113 00000 n 
+0000000162 00000 n 
+0000000468 00000 n 
+0000005357 00000 n 
+0000005464 00000 n 
+0000005571 00000 n 
+0000005690 00000 n 
+0000005802 00000 n 
 trailer
 <<
-/ID 
-[<b21aece8710f267290d9cef049d84bdb><b21aece8710f267290d9cef049d84bdb>]
-% ReportLab generated PDF document -- digest (opensource)
-
-/Info 7 0 R
-/Root 6 0 R
-/Size 10
+/Size 11
+/Root 3 0 R
+/Info 1 0 R
 >>
 startxref
-2727
+5915
 %%EOF

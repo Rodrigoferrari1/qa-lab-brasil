@@ -1,80 +1,340 @@
 %PDF-1.4
-%“Œ‹ž ReportLab Generated PDF document (opensource)
+%âãÏÓ
 1 0 obj
 <<
-/F1 2 0 R /F2 3 0 R /F3 4 0 R
+/Producer (pypdf)
 >>
 endobj
 2 0 obj
 <<
-/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
+/Type /Pages
+/Count 1
+/Kids [ 4 0 R ]
 >>
 endobj
 3 0 obj
 <<
-/BaseFont /Helvetica-BoldOblique /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
+/Type /Catalog
+/Pages 2 0 R
 >>
 endobj
 4 0 obj
 <<
-/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F3 /Subtype /Type1 /Type /Font
+/Contents 5 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/ExtGState <<
+/gRLs0 <<
+/ca 0.035
+>>
+>>
+/Font <<
+/F1 6 0 R
+/F1-0 7 0 R
+/F2 8 0 R
+/F2-0 9 0 R
+/F3 10 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
 >>
 endobj
 5 0 obj
 <<
-/Contents 9 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 8 0 R /Resources <<
-/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
->> /Rotate 0 /Trans <<
-
->> 
-  /Type /Page
+/Length 4037
 >>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 51.35433 779.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 12 Tf 14 TL (QA Lab Brasil) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 749.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F3 20 Tf 24 TL 222.9435 0 Td (Lean) Tj T* -222.9435 0 Td ET
+Q
+Q
+q
+1 0 0 1 51.35433 724.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Thinking focused on value, flow, waste reduction and continuous improvement.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 714.3701 cm
+Q
+q
+1 0 0 1 51.35433 688.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Value and waste) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 656.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Lean aims to maximize value while reducing waiting, handoffs, rework, excess inventory and activities that do not) Tj T* (help the customer.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 630.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Quality flow) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 598.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Large queues waiting for testing, unavailable environments and late feedback are important wastes for QA to) Tj T* (observe.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 572.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Continuous improvement) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 553.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Use metrics and retrospectives to try small changes and verify whether lead time, quality and predictability improve.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 527.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (QA in Lean) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 508.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (QA helps prevent defects, shorten feedback and make risks visible without creating unnecessary queues.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 482.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (When to use it) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 450.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Use this knowledge when product risk, architecture or the delivery stage requires this type of validation. Confirm the) Tj T* (goal, environment, required data and expected evidence before starting.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 424.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (How QA applies it) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 392.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Start from the behavior or risk to validate, prepare data and environment, execute the technique or tool reproducibly) Tj T* (and capture evidence that helps the team understand the result.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 366.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (QA tip) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 347.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Watch queues and rework: often the largest quality gain comes from improving flow, not adding more tests.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 321.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Official resources) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 302.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Site oficial: https://www.lean.org/explore-lean/what-is-lean-thinking/) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+0.843137 0.901961 0.960784 RG
+0.6 w
+n
+36 815.8898 m
+559.2756 815.8898 l
+S
+0.070588 0.207843 0.356863 rg
+BT
+/F2-0 8.2 Tf
+9.84 TL
+ET
+BT
+1 0 0 1 40 821.8898 Tm
+(QA LAB BRASIL) Tj
+T*
+ET
+0.356863 0.45098 0.564706 rg
+BT
+/F1-0 6.8 Tf
+8.16 TL
+ET
+BT
+1 0 0 1 399.3516 821.8898 Tm
+(QUALITY ENGINEERING \174 OFFICIAL DOCUMENT) Tj
+T*
+ET
+q
+0.848048 0.529919 -0.529919 0.848048 297.6378 420.9449 cm
+0.08 0.21 0.36 rg
+/gRLs0 gs
+BT
+/F2-0 42 Tf
+50.4 TL
+ET
+BT
+1 0 0 1 -164.493 0 Tm
+(QA LAB BRASIL) Tj
+T*
+ET
+Q
+0.843137 0.901961 0.960784 RG
+n
+36 24 m
+559.2756 24 l
+S
+0.356863 0.45098 0.564706 rg
+BT
+/F1-0 6.6 Tf
+7.92 TL
+ET
+BT
+1 0 0 1 40 14 Tm
+(qualityassurancebrasil\056com\056br) Tj
+T*
+ET
+BT
+1 0 0 1 221.4507 14 Tm
+(QA Lab Brasil v2\0562 \174 EN \174 Updated\072 September 2026) Tj
+T*
+ET
+BT
+1 0 0 1 519.6818 14 Tm
+(Page 1 de 1) Tj
+T*
+ET
+Q
+
+
+endstream
 endobj
 6 0 obj
 <<
-/PageMode /UseNone /Pages 8 0 R /Type /Catalog
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
 >>
 endobj
 7 0 obj
 <<
-/Author (\(anonymous\)) /CreationDate (D:20260918234449+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20260918234449+00'00') /Producer (ReportLab PDF Library - \(opensource\)) 
-  /Subject (\(unspecified\)) /Title (\(anonymous\)) /Trapped /False
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
 >>
 endobj
 8 0 obj
 <<
-/Count 1 /Kids [ 5 0 R ] /Type /Pages
+/BaseFont /Helvetica-BoldOblique
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
 >>
 endobj
 9 0 obj
 <<
-/Filter [ /ASCII85Decode /FlateDecode ] /Length 1254
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
 >>
-stream
-Gat=*_/A9k&A@6Wk*QpED+V/LkI+U%kTN2'eD!.8d`>lLM$cgGEPK5+.*%emE@_q:!aDI43:FP+_hdIM7,`W!&UiK^m'heFQo6rnMs5gO:\<u8k2dpNmT`61A@Y5D]"_TJPP]WYpTQajbBA)^#gk(L_GgdXT)qWpgZL6^UpfpG.]:I^B_+0"I[28*pjA<>EB2EU8<cq5QUGga'Z]`c]h"Gkhdgj+`2\:0G5'n%:QibVMoh1IE_%;">/$`X,S[g=FM6<!NcL>lN\`FJFfK8'6@!;A$2)Gd-HfP]HAt?nB9\k=laesU,@*1XFBihQV^$/<IN8$u%BG8>bI+t`.4(XK<@Ho]3HR5d3:Z+:XHooFWM7p'gk7+S\oQj@<U*RcqB$c?UV>+:&McY\<uPc>-</oF-I:KNCV@"M$1VfR%Ns=Cn2'bLcE@4iLK>=t$frfn<#bj<cu$U1K*<Ukj\<^;"R`=$IO2)AXX^_C">O0,ZWpk7mh8B[h(cUMgnOEcC=&e'cYc"PX];9@WOBU/lV:Y_Mt1,gX],jHcCA`O\gM&l`+c;S[3%6a685dT2^^H,f!4Ue"GY+spdtsEq64-oA6^J52tf2N<3`nn*RM(dDHt('/e4oSd$q(8=],T<mWdC9Z.8XN)J3[,;TUC5Y:KCab>AVPX+@j)lIApj8&qpTTGZQnX2H[T'70,/T4F@NY`X"J+d)DaP9QhV.H;DPTl"'93H>!mA:UCPHSi?XHUjWM>,9he?^TDCC0:]P[rosDkmEL_qAo[fio+(WI4oP10FU;r4[Nh?j^icuhmT79?YDt,g@Q\(4)mM*!0WG;&[7[r+4EQ'i7ObYV5N9[)4(o0aO$uY39El7D6Q/ko7mMhF7E5#.@E=t67:mK<q>g\K6KeMPP8rKGmfiKhG\tNIMLu)$$SGj3b@##b^_"G'oL$#0kS^[aN*bH(Y_e];i7W:Td3cJ-N?1SInE_*>8*YrXbH$s5f]M$+keomMS=hh)fa%C@(jUD?TDsdLH(s1W&4\t#W/C]dK@[SrSb[c\0@ju0R^f"N3].\L/=m:>@_Qd!;=Sl:u@RKXqAe@o&r8Q,$m2Q1+YoIe2d09/"[SqF):>P)>B1gZabdT>0<dbroC%?"`I$gc/$1h@&RN5Kj,BH!2Qno*`O=fR>>?8,`/9HOnp<KFfL^'lqD3R?6cc#7l](&c,(KO:e:FRL%gRRSB^oET4/#T;e(#-FE*0&n)V<dLS4(B$U=(WnJXLdh]_7H?[E/NT)~>endstream
+endobj
+10 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F3
+/Subtype /Type1
+/Type /Font
+>>
 endobj
 xref
-0 10
+0 11
 0000000000 65535 f 
-0000000061 00000 n 
-0000000112 00000 n 
-0000000219 00000 n 
-0000000338 00000 n 
-0000000450 00000 n 
-0000000653 00000 n 
-0000000721 00000 n 
-0000001001 00000 n 
-0000001060 00000 n 
+0000000015 00000 n 
+0000000054 00000 n 
+0000000113 00000 n 
+0000000162 00000 n 
+0000000468 00000 n 
+0000004557 00000 n 
+0000004664 00000 n 
+0000004771 00000 n 
+0000004890 00000 n 
+0000005002 00000 n 
 trailer
 <<
-/ID 
-[<b0368a67ddf95a981ce85f6e0c22b3b0><b0368a67ddf95a981ce85f6e0c22b3b0>]
-% ReportLab generated PDF document -- digest (opensource)
-
-/Info 7 0 R
-/Root 6 0 R
-/Size 10
+/Size 11
+/Root 3 0 R
+/Info 1 0 R
 >>
 startxref
-2405
+5115
 %%EOF

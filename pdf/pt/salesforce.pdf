@@ -1,80 +1,340 @@
 %PDF-1.4
-%“Œ‹ž ReportLab Generated PDF document (opensource)
+%âãÏÓ
 1 0 obj
 <<
-/F1 2 0 R /F2 3 0 R /F3 4 0 R
+/Producer (pypdf)
 >>
 endobj
 2 0 obj
 <<
-/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
+/Type /Pages
+/Count 1
+/Kids [ 4 0 R ]
 >>
 endobj
 3 0 obj
 <<
-/BaseFont /Helvetica-BoldOblique /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
+/Type /Catalog
+/Pages 2 0 R
 >>
 endobj
 4 0 obj
 <<
-/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F3 /Subtype /Type1 /Type /Font
+/Contents 5 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/ExtGState <<
+/gRLs0 <<
+/ca 0.035
+>>
+>>
+/Font <<
+/F1 6 0 R
+/F1-0 7 0 R
+/F2 8 0 R
+/F2-0 9 0 R
+/F3 10 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
 >>
 endobj
 5 0 obj
 <<
-/Contents 9 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 8 0 R /Resources <<
-/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
->> /Rotate 0 /Trans <<
-
->> 
-  /Type /Page
+/Length 4478
 >>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 51.35433 779.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 12 Tf 14 TL (QA Lab Brasil) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 749.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F3 20 Tf 24 TL 154.0235 0 Td (Salesforce para QA) Tj T* -154.0235 0 Td ET
+Q
+Q
+q
+1 0 0 1 51.35433 724.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Vis\343o pr\341tica de CRM, Sales/Service/Commerce Cloud, configura\347\365es, integra\347\365es e riscos de teste.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 714.3701 cm
+Q
+q
+1 0 0 1 51.35433 688.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (O que \351 Salesforce) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 656.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (\311 uma plataforma de CRM e aplica\347\365es empresariais em nuvem. Para QA, \351 importante distinguir configura\347\343o,) Tj T* (customiza\347\343o, dados, permiss\365es e integra\347\365es.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 630.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (O que testar) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 598.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Perfis e permiss\365es, regras de neg\363cio, campos, workflows/flows, integra\347\365es, dados, notifica\347\365es, experi\352ncia Web) Tj T* (e comportamento ap\363s deployments.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 572.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Commerce Cloud) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 540.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Em com\351rcio digital, QA pode validar cat\341logo, promo\347\365es, estoque, carrinho, checkout, pedidos e integra\347\365es com) Tj T* (ERP, pagamento e servi\347os externos.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 514.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Regress\343o e ambientes) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 482.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Mudan\347as de configura\347\343o podem afetar v\341rios fluxos. Compare ambientes, dados e permiss\365es e mantenha) Tj T* (rastreabilidade entre requisito, configura\347\343o e evid\352ncia.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 456.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Quando usar) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 424.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Use este conhecimento quando o risco, a arquitetura ou a etapa do ciclo de desenvolvimento exigir valida\347\343o) Tj T* (espec\355fica. Antes de aplicar, confirme objetivo, ambiente, dados necess\341rios e evid\352ncias esperadas.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 398.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Como o QA aplica na pr\341tica) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 366.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Comece pelo comportamento ou risco que precisa ser validado, prepare dados e ambiente, execute a t\351cnica ou) Tj T* (ferramenta de forma reproduz\355vel e registre evid\352ncias que permitam explicar o resultado ao time.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 340.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Dica de QA) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 308.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Em plataformas configur\341veis, nem todo defeito est\341 em c\363digo: configura\347\343o, dados e permiss\365es tamb\351m s\343o) Tj T* (causas frequentes.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 282.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Recursos oficiais) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 263.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Site oficial: https://www.salesforce.com/) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+0.843137 0.901961 0.960784 RG
+0.6 w
+n
+36 815.8898 m
+559.2756 815.8898 l
+S
+0.070588 0.207843 0.356863 rg
+BT
+/F2-0 8.2 Tf
+9.84 TL
+ET
+BT
+1 0 0 1 40 821.8898 Tm
+(QA LAB BRASIL) Tj
+T*
+ET
+0.356863 0.45098 0.564706 rg
+BT
+/F1-0 6.8 Tf
+8.16 TL
+ET
+BT
+1 0 0 1 398.216 821.8898 Tm
+(QUALITY ENGINEERING \174 DOCUMENTO OFICIAL) Tj
+T*
+ET
+q
+0.848048 0.529919 -0.529919 0.848048 297.6378 420.9449 cm
+0.08 0.21 0.36 rg
+/gRLs0 gs
+BT
+/F2-0 42 Tf
+50.4 TL
+ET
+BT
+1 0 0 1 -164.493 0 Tm
+(QA LAB BRASIL) Tj
+T*
+ET
+Q
+0.843137 0.901961 0.960784 RG
+n
+36 24 m
+559.2756 24 l
+S
+0.356863 0.45098 0.564706 rg
+BT
+/F1-0 6.6 Tf
+7.92 TL
+ET
+BT
+1 0 0 1 40 14 Tm
+(qualityassurancebrasil\056com\056br) Tj
+T*
+ET
+BT
+1 0 0 1 210.9996 14 Tm
+(QA Lab Brasil v2\0562 \174 PT\055BR \174 Atualizado\072 setembro de 2026) Tj
+T*
+ET
+BT
+1 0 0 1 514.547 14 Tm
+(Pagina 1 de 1) Tj
+T*
+ET
+Q
+
+
+endstream
 endobj
 6 0 obj
 <<
-/PageMode /UseNone /Pages 8 0 R /Type /Catalog
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
 >>
 endobj
 7 0 obj
 <<
-/Author (\(anonymous\)) /CreationDate (D:20260918234448+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20260918234448+00'00') /Producer (ReportLab PDF Library - \(opensource\)) 
-  /Subject (\(unspecified\)) /Title (\(anonymous\)) /Trapped /False
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
 >>
 endobj
 8 0 obj
 <<
-/Count 1 /Kids [ 5 0 R ] /Type /Pages
+/BaseFont /Helvetica-BoldOblique
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
 >>
 endobj
 9 0 obj
 <<
-/Filter [ /ASCII85Decode /FlateDecode ] /Length 1385
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
 >>
-stream
-GatU39iL(A&A@ZcqFFMECfuo1gfQm<]+mN"jMGIjC73b?1h(&BPPt1/4d'@qm'URWWXRJ!FSC-c?T0-%kU6"pZ2j[,JFQtiKMtu`&B7!EMpH@S3.!Xn]-idrLls`T?p;=6UA6(1pZV=hh_qMk3[*i#V.0inE7uDTa.;*p_e66-:I\HOrs"CbYkXcAgsaTC5k4)(E>p<Xl%B.5I@r9NK?5rBkl)c[o1+q<c*WT=PqW:-Y;``dfRNH>WD)?9WC0&#-546Bs%-cl^?g?7I>[#T6Y5J*k`cdC,2>;.)1g+Nr.q4I'#urB.$4&5a`X/75jC+'X4di*DuLHq'!rl[V8LjO,sX0,8o=B'LXolf!8MNtdD6'"(DiuBhOr2[;S=knn)*V4,<SCd#[?LgB/E7n-Nf+0@j"!)@0h!!TZVs%'XHAA9^mif-d[&L.k60P(aTlGJ[00t#iMkNa/D^='pU[P&DW?slVtEpQ$LOZnN,CRFtRRrFJ6G;gk/S%RTQW;'[#.$Z$.`/i+s0'5"#]m6^Z>BP0;>(+(sRC9ua."QTP>eom2U`\>"nD<!86rKJM@hC\'.$p"GH)k5h"F:mTh7ClcmSi%%5p7,,)59#,qdlq'L;XC\]QdV0<r#NnLT>lW.%L1$XtVn\&dIT$c5'VB"53;U)fQco4_KJ*XUV4>UsUhZhb@GclGV1N5/*1Kg.=%#AdFJ8He,TW(XQl]a:q925iU\q!)a&5YI&TL@[*4lITp>M#Q(97ph"Nr^D&+duJ%S`o-5p$Rjhh09?:j-M6pE^b,QASR+HTGbdELQ=U,^cRi;0&A4hVVOlkFqs=+Z1N%b_/iH8s\)4KF*`PBN4A0gkl&J=4-bo%B=dk4m^[/cCe8h-CU[XqfJ";QWdPRoXh*N@Y9Y42siDOPB_U\+6MXu(1jM>[R6Q5*\_f!e*rDe<jF*'e>lan^9e41G%cn$J1uY96V!5gY3?"m;UP9d+I1/.;ja;uZI*sH*J1KE=JkD]*lkDGfErq@RBTHjE6T*f1$p)=*=&H,d*&WV<5X!'>]6Pn;7>1qV6Nf.IA[WGUgck"70<tsW-L*sj;r1':l:f$AjGG17ts&n8)Ds]8D#k@U<1mIk8MTcWN9KWknm"*WM/dS:#g'[`E/9]a[1MfUQd&@VX'he%#sdsr!Lj>&p0MgC&OSoD(t.D$Wi3Im0t^4+mr3"Q,f%8SCNA&c5l!J6A$L#%H20>-ofH*TA>[@h0"2[Ab(t':BP7AEnT;S=<\2(*nOqE:8cl:)(P%plUMKS?'7]4bp\!_BWjJVGm*JsGq6\uGF]H/.V,:?Fl"t\5Wg&poZ)]EXGs(S1c79HOop<\U0mpZifPdlMj7YcZZDDF)NWM9F^Y(u4.n2D^W?T'IK1t^]Sc~>endstream
+endobj
+10 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F3
+/Subtype /Type1
+/Type /Font
+>>
 endobj
 xref
-0 10
+0 11
 0000000000 65535 f 
-0000000061 00000 n 
-0000000112 00000 n 
-0000000219 00000 n 
-0000000338 00000 n 
-0000000450 00000 n 
-0000000653 00000 n 
-0000000721 00000 n 
-0000001001 00000 n 
-0000001060 00000 n 
+0000000015 00000 n 
+0000000054 00000 n 
+0000000113 00000 n 
+0000000162 00000 n 
+0000000468 00000 n 
+0000004998 00000 n 
+0000005105 00000 n 
+0000005212 00000 n 
+0000005331 00000 n 
+0000005443 00000 n 
 trailer
 <<
-/ID 
-[<a98aa4b2fe99cfe5a84f4ce3feea5db8><a98aa4b2fe99cfe5a84f4ce3feea5db8>]
-% ReportLab generated PDF document -- digest (opensource)
-
-/Info 7 0 R
-/Root 6 0 R
-/Size 10
+/Size 11
+/Root 3 0 R
+/Info 1 0 R
 >>
 startxref
-2536
+5556
 %%EOF

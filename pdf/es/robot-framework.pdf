@@ -1,74 +1,370 @@
 %PDF-1.4
-%“Œ‹ž ReportLab Generated PDF document (opensource)
+%âãÏÓ
 1 0 obj
 <<
-/F1 2 0 R /F2 3 0 R
+/Producer (pypdf)
 >>
 endobj
 2 0 obj
 <<
-/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
+/Type /Pages
+/Count 1
+/Kids [ 4 0 R ]
 >>
 endobj
 3 0 obj
 <<
-/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
+/Type /Catalog
+/Pages 2 0 R
 >>
 endobj
 4 0 obj
 <<
-/Contents 8 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 7 0 R /Resources <<
-/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
->> /Rotate 0 /Trans <<
-
->> 
-  /Type /Page
+/Contents 5 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/ExtGState <<
+/gRLs0 <<
+/ca 0.035
+>>
+>>
+/Font <<
+/F1 6 0 R
+/F1-0 7 0 R
+/F2 8 0 R
+/F2-0 9 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
 >>
 endobj
 5 0 obj
 <<
-/PageMode /UseNone /Pages 7 0 R /Type /Catalog
+/Length 5448
 >>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 57.02362 757.8661 cm
+q
+.043137 .184314 .356863 rg
+BT 1 0 0 1 0 5 Tm /F2 22 Tf 27 TL 147.1032 0 Td (Robot Framework) Tj T* -147.1032 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.02362 717.8661 cm
+q
+.294118 .419608 .560784 rg
+BT 1 0 0 1 0 19.5 Tm /F1 10.5 Tf 15 TL (Framework open source keyword-driven, extensible mediante librer\355as para Web, API, desktop y otros) Tj T* (dominios.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 685.8661 cm
+q
+.043137 .184314 .356863 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (Qu\351 es y cu\341ndo usarlo) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 664.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.5 Tm /F1 10.5 Tf 15 TL (Robot Framework usa sintaxis tabular y keywords para automatizaci\363n legible y reutilizable.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 636.8661 cm
+q
+.043137 .184314 .356863 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (Prerrequisitos) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 600.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 19.5 Tm /F1 10.5 Tf 15 TL (Instale Python 3 y pip. En Windows agregue Python al PATH. Valide python --version y python -m pip) Tj T* (--version.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 572.8661 cm
+q
+.043137 .184314 .356863 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (Entorno virtual recomendado) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 536.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 19.5 Tm /F1 10.5 Tf 15 TL (Cree una carpeta, ejecute python -m venv .venv y active el entorno. En PowerShell use) Tj T* (.venv\\Scripts\\Activate.ps1; en macOS/Linux use source .venv/bin/activate.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 508.8661 cm
+q
+.043137 .184314 .356863 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (Instalaci\363n paso a paso) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 472.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 19.5 Tm /F1 10.5 Tf 15 TL (Ejecute python -m pip install robotframework y valide robot --version. Para Web agregue) Tj T* (SeleniumLibrary o Browser Library seg\372n la estrategia.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 444.8661 cm
+q
+.043137 .184314 .356863 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (Primera suite) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 408.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 19.5 Tm /F1 10.5 Tf 15 TL (Cree un archivo .robot con Settings, Test Cases y Keywords y ejecute robot ruta/suite.robot. Revise) Tj T* (output.xml, log.html y report.html.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 380.8661 cm
+q
+.043137 .184314 .356863 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (Keywords y organizaci\363n) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 359.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.5 Tm /F1 10.5 Tf 15 TL (Cree keywords orientadas al negocio y organice resources, variables y librer\355as.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 331.8661 cm
+q
+.043137 .184314 .356863 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (Librer\355as) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 310.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.5 Tm /F1 10.5 Tf 15 TL (Seleccione librer\355as seg\372n la tecnolog\355a y madurez del proyecto.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 282.8661 cm
+q
+.043137 .184314 .356863 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (CI/CD y reportes) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 261.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.5 Tm /F1 10.5 Tf 15 TL (Instale requirements, ejecute robot y publique reportes/evidencias.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 233.8661 cm
+q
+.043137 .184314 .356863 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (Soluci\363n de problemas) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 212.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.5 Tm /F1 10.5 Tf 15 TL (Revise PATH, entorno virtual, versi\363n de Python e int\351rprete donde se instalaron los paquetes.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 157.8661 cm
+q
+.219608 .741176 .972549 RG
+1 w
+.913725 .968627 1 rg
+n -8 -8 497.2283 61 re B*
+Q
+q
+BT 1 0 0 1 0 34.5 Tm 15 TL /F2 10.5 Tf 0 0 0 rg (Consejo de QA) Tj /F1 10.5 Tf  T* (Use la herramienta dentro de una estrategia de calidad: automatice riesgos relevantes, mantenga la) Tj T* (suite observable y trate fallos de automatizaci\363n como c\363digo de producci\363n.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 129.8661 cm
+q
+.043137 .184314 .356863 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (Recursos oficiales) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 108.8661 cm
+q
+BT 1 0 0 1 0 4.5 Tm 15 TL /F2 10.5 Tf 0 0 0 rg (Sitio oficial:) Tj /F1 10.5 Tf ( https://robotframework.org/) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 85.86614 cm
+q
+BT 1 0 0 1 0 4.5 Tm 15 TL /F2 10.5 Tf 0 0 0 rg (Instalaci\363n / descarga:) Tj /F1 10.5 Tf ( https://robotframework.org/robotframework/latest/RobotFrameworkUserGuide) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 62.86614 cm
+q
+BT 1 0 0 1 0 4.5 Tm 15 TL /F2 10.5 Tf 0 0 0 rg (Documentaci\363n:) Tj /F1 10.5 Tf ( https://docs.robotframework.org/) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+0.843137 0.901961 0.960784 RG
+0.6 w
+n
+36 815.8898 m
+559.2756 815.8898 l
+S
+0.070588 0.207843 0.356863 rg
+BT
+/F2-0 8.2 Tf
+9.84 TL
+ET
+BT
+1 0 0 1 40 821.8898 Tm
+(QA LAB BRASIL) Tj
+T*
+ET
+0.356863 0.45098 0.564706 rg
+BT
+/F1-0 6.8 Tf
+8.16 TL
+ET
+BT
+1 0 0 1 398.216 821.8898 Tm
+(QUALITY ENGINEERING \174 DOCUMENTO OFICIAL) Tj
+T*
+ET
+q
+0.848048 0.529919 -0.529919 0.848048 297.6378 420.9449 cm
+0.08 0.21 0.36 rg
+/gRLs0 gs
+BT
+/F2-0 42 Tf
+50.4 TL
+ET
+BT
+1 0 0 1 -164.493 0 Tm
+(QA LAB BRASIL) Tj
+T*
+ET
+Q
+0.843137 0.901961 0.960784 RG
+n
+36 24 m
+559.2756 24 l
+S
+0.356863 0.45098 0.564706 rg
+BT
+/F1-0 6.6 Tf
+7.92 TL
+ET
+BT
+1 0 0 1 40 14 Tm
+(qualityassurancebrasil\056com\056br) Tj
+T*
+ET
+BT
+1 0 0 1 212.28 14 Tm
+(QA Lab Brasil v2\0562 \174 ES \174 Actualizado\072 septiembre de 2026) Tj
+T*
+ET
+BT
+1 0 0 1 514.547 14 Tm
+(Pagina 1 de 1) Tj
+T*
+ET
+Q
+
+
+endstream
 endobj
 6 0 obj
 <<
-/Author (\(anonymous\)) /CreationDate (D:20260919000504+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20260919000504+00'00') /Producer (ReportLab PDF Library - \(opensource\)) 
-  /Subject (\(unspecified\)) /Title (Robot Framework) /Trapped /False
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
 >>
 endobj
 7 0 obj
 <<
-/Count 1 /Kids [ 4 0 R ] /Type /Pages
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
 >>
 endobj
 8 0 obj
 <<
-/Filter [ /ASCII85Decode /FlateDecode ] /Length 1656
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
 >>
-stream
-Gatm;>Bed\&:Vs/R)a"R0uu6W\kd%/G'c.1C`:sn$STAg3,3<PQ"1O(lZXUj#EgER=q2NgFIR3_\Ve4Z50X&(-,@+r$pQFR+Y9dI`Baoj$TMK5I6V2cb4-_oKi&K"K\iRt_It#c#GX7fd0'M/V3`$NBUhb[#]tM`B<k:V(`"ES#U/ga_MJrAi^ppT;+U;:%$%O@8m1q^H&9"&J,9<`?X`I/:A1"dWmC>5))AXU/=a\<9d,>G//ciVS;\fDp^o8>$Q<u[s2_ke"(MT)\:Xj_64$-33^rgu)]Hmp1+h'*#Cq"6V%Ka0Tu9WDBb:]Wd\rM[Gg$Ur>]][lWr\_sIMtJ+k*o?cCd;.*9WR;qVFi"c1-n"m[&1rer!PE=>8tp-VrZ>Xq7.i>%+#QYPhoms1Bk2F\kkPO,k2A-Oe7(JpITrY=PQIO,GaFF_LUaK]&9#b22jIfo%L+,>Od?D@MpJSKE?3jrrt=2<YRAZJ,A^P,mWK#OpnM`HS(2\pJu]3p1X(BF3jXD-YY+ZSM)qq7S/D,q+=TeS4iW$aF^l*Gcid)]-Y+?bL=F;!W9tGOWd]YiKKH_C*VqZdg_T1XNiQ4'g3BS:Vq`=H7l>J;ScOM>8)=BW@CbW4R:snj#tl*Rbfi[#dr`TEa>C#']raWXY&s[7+&c(_#J;&Vj>a3?idckm7hT"DGe_uYUIT%Z"):%=t]!;(6pc#jf."Y/I%JKJ'n?oo(8RMn3Y4mc>@ArO5Dm$#s%)6NZLlQV?\p!f'Bo_X12$BrSqH/nXaO/g*5^@pa7-ei;o'Z\4gr!-'A_=[ncA3msR<Kb9e+9dF$WXNWi$PQPYmt\YeErmkdHFC1p*Gk0%EN;SM+S0!-JsF2<3*+HGIaVAW5TWF0ILZ%qO+j8Wj2!8$Ip==XZcI&:G)3EdqDD?d<f1>n*1?UFa0F7lDgR-br#><_\X[tb**Kkmq,'WSTAD1fI+(dOeci5V(::[+.mf)P&%FYk*ZN9VE`Pg6hPY;e[aN+]n&(Hq.kePfXJ:>m(u&sNPGjsh+G"%?oij#0,`/_4/7=8X'%h'Sp.FV-\PFVd-6HUqa%QboZBEe0\m,P".T[2Z7a;lRj;r"N",nuUF;K6jd(.]kUr>1J8"E-f%ZG4oWpp:g-:lp4R;Yhu+QD&@Y]U6,e^21l,g8f^11.`D'"4'4iWdL9\:HMLAS70b&NY)9eB1p1+-L]s)mr$c/0=.3cj;P08&Y;BpNH/!sJJ@S"pJSJ@=UcN$l)m(WM`+Gkl9c@ij'A'Ug:p,9oC5LF]9X=V4<nLYd-?Q/R,S80HiAdFFeOS>=HPF\[k&=#3`%TrKQrB>djOAV<fd$j@B`rOF7X4[I$eusOC=q/oi%<>qdZR-"WhdJ7b%^hMeDoHJc=cWr8Ri+9)et%Ol#RWBQ?:5gRp7al?T$Y1l:NnZhKBpQ94\0!:/#@/lF"5rOcPgr.<A6sGK%E8&l:*YcYL8^rVb,_:#,g:VrJlV'<$=YOLk0[jJm4"XA58\5#qu&#P7C7MEG_]X1B&\?:CJ#_"PqHcQ)dA'@)<._U40dqoFN4E+<`rh@>><h,HXnB)"-ik"Zip)R]mAjj7:sWV=^6.rjtf%1D_5@u(&Xg"eI+:\DbsdTV]9>510O]iSq8&oF]#F1Pm328RJS_pSJeeu,5~>endstream
+endobj
+9 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
 endobj
 xref
-0 9
+0 10
 0000000000 65535 f 
-0000000061 00000 n 
-0000000102 00000 n 
-0000000209 00000 n 
-0000000321 00000 n 
-0000000524 00000 n 
-0000000592 00000 n 
-0000000874 00000 n 
-0000000933 00000 n 
+0000000015 00000 n 
+0000000054 00000 n 
+0000000113 00000 n 
+0000000162 00000 n 
+0000000457 00000 n 
+0000005957 00000 n 
+0000006064 00000 n 
+0000006171 00000 n 
+0000006283 00000 n 
 trailer
 <<
-/ID 
-[<62e7b46eb1f7877347ab61695ad03eec><62e7b46eb1f7877347ab61695ad03eec>]
-% ReportLab generated PDF document -- digest (opensource)
-
-/Info 6 0 R
-/Root 5 0 R
-/Size 9
+/Size 10
+/Root 3 0 R
+/Info 1 0 R
 >>
 startxref
-2680
+6395
 %%EOF

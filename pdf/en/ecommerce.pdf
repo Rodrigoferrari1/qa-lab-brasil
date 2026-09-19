@@ -1,80 +1,326 @@
 %PDF-1.4
-%“Œ‹ž ReportLab Generated PDF document (opensource)
+%âãÏÓ
 1 0 obj
 <<
-/F1 2 0 R /F2 3 0 R /F3 4 0 R
+/Producer (pypdf)
 >>
 endobj
 2 0 obj
 <<
-/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
+/Type /Pages
+/Count 1
+/Kids [ 4 0 R ]
 >>
 endobj
 3 0 obj
 <<
-/BaseFont /Helvetica-BoldOblique /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
+/Type /Catalog
+/Pages 2 0 R
 >>
 endobj
 4 0 obj
 <<
-/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F3 /Subtype /Type1 /Type /Font
+/Contents 5 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/ExtGState <<
+/gRLs0 <<
+/ca 0.035
+>>
+>>
+/Font <<
+/F1 6 0 R
+/F1-0 7 0 R
+/F2 8 0 R
+/F2-0 9 0 R
+/F3 10 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
 >>
 endobj
 5 0 obj
 <<
-/Contents 9 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 8 0 R /Resources <<
-/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
->> /Rotate 0 /Trans <<
-
->> 
-  /Type /Page
+/Length 4147
 >>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 51.35433 779.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 12 Tf 14 TL (QA Lab Brasil) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 749.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F3 20 Tf 24 TL 147.9235 0 Td (E-commerce Testing) Tj T* -147.9235 0 Td ET
+Q
+Q
+q
+1 0 0 1 51.35433 724.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Catalog, PLP, PDP, inventory, pricing, promotions, cart, checkout, orders and integrations from a QA perspective.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 714.3701 cm
+Q
+q
+1 0 0 1 51.35433 688.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (End-to-end flow) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 656.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (E-commerce connects product discovery, catalog, pricing, inventory, cart, identity, address, shipping, payment, order) Tj T* (and post-purchase. QA should understand dependencies across these stages.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 630.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Catalog, PLP and PDP) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 598.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL -0.091714 Tw (Validate search, categories, filters, sorting, variants, images, availability, price, promotions, content, relevant technical) Tj T* 0 Tw (SEO and consistency between listing and detail pages.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 572.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Cart and checkout) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 540.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Test quantities, removal, coupons, recalculation, persistence, guest and registered flows, address, delivery, taxes,) Tj T* (invoicing, payments and duplicate-order prevention.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 514.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Integrations and regression) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 482.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Inventory, ERP, payments, fraud, logistics and notifications may fail beyond the UI. Risk-based regression should) Tj T* (prioritize purchase, payment, order creation and critical integrations.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 456.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (When to use it) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 424.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Use this knowledge when product risk, architecture or the delivery stage requires this type of validation. Confirm the) Tj T* (goal, environment, required data and expected evidence before starting.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 398.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (How QA applies it) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 366.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Start from the behavior or risk to validate, prepare data and environment, execute the technique or tool reproducibly) Tj T* (and capture evidence that helps the team understand the result.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 340.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (QA tip) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 308.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Do not validate only the screen: compare frontend, API, created order and integrated systems when access is) Tj T* (available.) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+0.843137 0.901961 0.960784 RG
+0.6 w
+n
+36 815.8898 m
+559.2756 815.8898 l
+S
+0.070588 0.207843 0.356863 rg
+BT
+/F2-0 8.2 Tf
+9.84 TL
+ET
+BT
+1 0 0 1 40 821.8898 Tm
+(QA LAB BRASIL) Tj
+T*
+ET
+0.356863 0.45098 0.564706 rg
+BT
+/F1-0 6.8 Tf
+8.16 TL
+ET
+BT
+1 0 0 1 399.3516 821.8898 Tm
+(QUALITY ENGINEERING \174 OFFICIAL DOCUMENT) Tj
+T*
+ET
+q
+0.848048 0.529919 -0.529919 0.848048 297.6378 420.9449 cm
+0.08 0.21 0.36 rg
+/gRLs0 gs
+BT
+/F2-0 42 Tf
+50.4 TL
+ET
+BT
+1 0 0 1 -164.493 0 Tm
+(QA LAB BRASIL) Tj
+T*
+ET
+Q
+0.843137 0.901961 0.960784 RG
+n
+36 24 m
+559.2756 24 l
+S
+0.356863 0.45098 0.564706 rg
+BT
+/F1-0 6.6 Tf
+7.92 TL
+ET
+BT
+1 0 0 1 40 14 Tm
+(qualityassurancebrasil\056com\056br) Tj
+T*
+ET
+BT
+1 0 0 1 221.4507 14 Tm
+(QA Lab Brasil v2\0562 \174 EN \174 Updated\072 September 2026) Tj
+T*
+ET
+BT
+1 0 0 1 519.6818 14 Tm
+(Page 1 de 1) Tj
+T*
+ET
+Q
+
+
+endstream
 endobj
 6 0 obj
 <<
-/PageMode /UseNone /Pages 8 0 R /Type /Catalog
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
 >>
 endobj
 7 0 obj
 <<
-/Author (\(anonymous\)) /CreationDate (D:20260918234448+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20260918234448+00'00') /Producer (ReportLab PDF Library - \(opensource\)) 
-  /Subject (\(unspecified\)) /Title (\(anonymous\)) /Trapped /False
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
 >>
 endobj
 8 0 obj
 <<
-/Count 1 /Kids [ 5 0 R ] /Type /Pages
+/BaseFont /Helvetica-BoldOblique
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
 >>
 endobj
 9 0 obj
 <<
-/Filter [ /ASCII85Decode /FlateDecode ] /Length 1355
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
 >>
-stream
-GatU2gMZ%0&:Ml+b[Xi/Y2sHI\%SSNJ,mj^HJ<)$)V]'R;'@AMmaq1Al!(Sk/aU?)@#LA>3G6VTB@OsLMbdUk]q<\*^L`W=BXXRMe/Qg%JaR,OcWAe;k;_c:a.qUTVUO;VE8&WW%a4g\m$:__+ZiqdCJ%hk3*[l`?%7/j%r+l.SarZQM.V7dlt6Xq$(l9i7[F4:;P50Bq@[HQ"(e6AmrgB)@ssZloj(YRZ=Kl$B'b/LQM]=jf/s![Q,2Zn.`:+&-'Q`YHpu`+=S;t7<+2+6H@0tUj!,VB>&tF[gNKN=7O'5T@S7Z!XaGo2EWOK$lR1HFRrp_Q:TDQW2"8qm\<.Od6](k[NV/`_0Pg*aJ2TL?F*>I^k2p^#HgIS(<',rehGnh[fIeE!7:A-AF.%t7(IMbt\%k-M=50_V!a^u4)]^=c?J@=Fb'MCM!U^U.'&"\QD\MVEjgek3)Z7b-FWs=m9.]P!fGAZ^K[eS.DV[:c;P&6PKjWN1aJl.lZlj^9XoSf0g+ZXYc?`8p`L[D%9D0qcRgf2OaiJ2r`>1cJ?B-tY^"`X,daIOWqR>-WFMFO85?2-4'i6G3^_GJ[V0)d56OQfq^]^mD$PD^4E^j%0Y=pD'J<7/oKpnJTdN]Is2gV`*L!\kii&)!C@(iS!<X58]a&Ke.r=L3g!H1*GkUk%>CmZ_&9JcuHKE[#3mHqt4:C#cONXI;2S_.-L)dVlb[fmul8C*9Y?B54K0'ugW!b,(u1`ZZWh%\7I3mh+D<^;)daE^A0nP\4):."\&]#hK:8U!J6+N?]#&=qY3>uFWW[CiIH,@/]Vq?",Wl9tD*i+FXcq(2=8Vd?s88LhOEb@*n"QT9PbLARbEgjOW6_>uq^e`7a&@\k/h8ut@W0*Iu9C8nYKOT(dAem]@p6=92.o\'#;mMn-,>05'M%NI_tOBsX@0^W03>CRmb3/1%r.D*t>Y=;:q?:HN*rB)`_XWYYlWI[@((5`s:(sd,!nJ+p<b'864m&&]gag@05p1)#A<AZY-12rN*3!Mteo6m5Y(C0*KN</>/[]lm=E</.ZmO,\A+)J>=Y*?g/5*f6fa48m'>Eq8dM\eYqYjTR5^W:B7)d^^X_R,g(_R_]kU2@?sA(\ZGch$\=h8ii"2,oJ(g/'Ppr5_k;,#tIh2hLXk=)*_t(#4KPl&?^bE=d)k!6#PO;_7`uFV?akPD6qqP6eP(!7H^81G?2?VRffNAGUh#=K+P9/o&/58sQ:f?J^80V?h%+B]7n4R/dW2e1Dm:IpdS0J$`ZE#DgK&`AUc\@16E>MG[5?aMErH?J*f?a88W;%5_cSOjef\Gj2])(8Xg\;Hgu/aS7"DBuUthq>3ccrrOJ>K51~>endstream
+endobj
+10 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F3
+/Subtype /Type1
+/Type /Font
+>>
 endobj
 xref
-0 10
+0 11
 0000000000 65535 f 
-0000000061 00000 n 
-0000000112 00000 n 
-0000000219 00000 n 
-0000000338 00000 n 
-0000000450 00000 n 
-0000000653 00000 n 
-0000000721 00000 n 
-0000001001 00000 n 
-0000001060 00000 n 
+0000000015 00000 n 
+0000000054 00000 n 
+0000000113 00000 n 
+0000000162 00000 n 
+0000000468 00000 n 
+0000004667 00000 n 
+0000004774 00000 n 
+0000004881 00000 n 
+0000005000 00000 n 
+0000005112 00000 n 
 trailer
 <<
-/ID 
-[<51fcaf251e4f66c542f52909b1bd5cfb><51fcaf251e4f66c542f52909b1bd5cfb>]
-% ReportLab generated PDF document -- digest (opensource)
-
-/Info 7 0 R
-/Root 6 0 R
-/Size 10
+/Size 11
+/Root 3 0 R
+/Info 1 0 R
 >>
 startxref
-2506
+5225
 %%EOF

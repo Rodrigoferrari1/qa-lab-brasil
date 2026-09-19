@@ -1,80 +1,368 @@
 %PDF-1.4
-%“Œ‹ž ReportLab Generated PDF document (opensource)
+%âãÏÓ
 1 0 obj
 <<
-/F1 2 0 R /F2 3 0 R /F3 4 0 R
+/Producer (pypdf)
 >>
 endobj
 2 0 obj
 <<
-/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
+/Type /Pages
+/Count 1
+/Kids [ 4 0 R ]
 >>
 endobj
 3 0 obj
 <<
-/BaseFont /Helvetica-BoldOblique /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
+/Type /Catalog
+/Pages 2 0 R
 >>
 endobj
 4 0 obj
 <<
-/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F3 /Subtype /Type1 /Type /Font
+/Contents 5 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/ExtGState <<
+/gRLs0 <<
+/ca 0.035
+>>
+>>
+/Font <<
+/F1 6 0 R
+/F1-0 7 0 R
+/F2 8 0 R
+/F2-0 9 0 R
+/F3 10 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
 >>
 endobj
 5 0 obj
 <<
-/Contents 9 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 8 0 R /Resources <<
-/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
->> /Rotate 0 /Trans <<
-
->> 
-  /Type /Page
+/Length 4969
 >>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 51.35433 779.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 12 Tf 14 TL (QA Lab Brasil) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 749.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F3 20 Tf 24 TL 168.4835 0 Td (Security Testing) Tj T* -168.4835 0 Td ET
+Q
+Q
+q
+1 0 0 1 51.35433 724.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Authentication, authorization, sessions, OWASP, web and API security testing.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 714.3701 cm
+Q
+q
+1 0 0 1 51.35433 688.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Security Testing for QA) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 656.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Security Testing identifies risks that may compromise confidentiality, integrity, availability and access control. QA can) Tj T* (include security checks without replacing security specialists.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 630.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Authentication vs authorization) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 598.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Authentication answers who the user is; authorization defines what the user may do. Tests should cover credentials,) Tj T* (sessions, expiration, roles, permissions and unauthorized access attempts.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 572.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (OWASP as a reference) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 540.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (OWASP maintains widely used resources for web and API security risks and testing. They help structure checklists) Tj T* (and technical learning.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 514.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Inputs and validation) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 482.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Fields, parameters, headers and payloads should be treated as untrusted input. Validation, encoding and server-side) Tj T* (controls are important for reducing vulnerability classes.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 456.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Sessions and tokens) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 424.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Cookies, tokens, JWTs and sessions need appropriate expiration, protection and invalidation. Logout, password) Tj T* (changes and privilege changes deserve specific scenarios.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 398.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (API Security) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 366.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Validate authentication, object/function authorization, rate limiting, excessive data exposure, error messages and) Tj T* (behavior with manipulated payloads.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 340.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Tools) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 308.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (OWASP ZAP can support automated and manual dynamic analysis. Burp Suite is widely used for inspection and) Tj T* (security testing. Tools do not replace risk understanding.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 282.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (DevSecOps and Shift Left) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 250.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Security can be incorporated into requirements, code review, dependency analysis, pipelines, testing and) Tj T* (observability. Earlier discovery usually provides more remediation options.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 224.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (QA tip) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 205.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Never use real data or production credentials in public security examples.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 179.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Official resources) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 160.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Site oficial: https://wstg.owasp.org/) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+0.843137 0.901961 0.960784 RG
+0.6 w
+n
+36 815.8898 m
+559.2756 815.8898 l
+S
+0.070588 0.207843 0.356863 rg
+BT
+/F2-0 8.2 Tf
+9.84 TL
+ET
+BT
+1 0 0 1 40 821.8898 Tm
+(QA LAB BRASIL) Tj
+T*
+ET
+0.356863 0.45098 0.564706 rg
+BT
+/F1-0 6.8 Tf
+8.16 TL
+ET
+BT
+1 0 0 1 399.3516 821.8898 Tm
+(QUALITY ENGINEERING \174 OFFICIAL DOCUMENT) Tj
+T*
+ET
+q
+0.848048 0.529919 -0.529919 0.848048 297.6378 420.9449 cm
+0.08 0.21 0.36 rg
+/gRLs0 gs
+BT
+/F2-0 42 Tf
+50.4 TL
+ET
+BT
+1 0 0 1 -164.493 0 Tm
+(QA LAB BRASIL) Tj
+T*
+ET
+Q
+0.843137 0.901961 0.960784 RG
+n
+36 24 m
+559.2756 24 l
+S
+0.356863 0.45098 0.564706 rg
+BT
+/F1-0 6.6 Tf
+7.92 TL
+ET
+BT
+1 0 0 1 40 14 Tm
+(qualityassurancebrasil\056com\056br) Tj
+T*
+ET
+BT
+1 0 0 1 221.4507 14 Tm
+(QA Lab Brasil v2\0562 \174 EN \174 Updated\072 September 2026) Tj
+T*
+ET
+BT
+1 0 0 1 519.6818 14 Tm
+(Page 1 de 1) Tj
+T*
+ET
+Q
+
+
+endstream
 endobj
 6 0 obj
 <<
-/PageMode /UseNone /Pages 8 0 R /Type /Catalog
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
 >>
 endobj
 7 0 obj
 <<
-/Author (\(anonymous\)) /CreationDate (D:20260918234448+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20260918234448+00'00') /Producer (ReportLab PDF Library - \(opensource\)) 
-  /Subject (\(unspecified\)) /Title (\(anonymous\)) /Trapped /False
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
 >>
 endobj
 8 0 obj
 <<
-/Count 1 /Kids [ 5 0 R ] /Type /Pages
+/BaseFont /Helvetica-BoldOblique
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
 >>
 endobj
 9 0 obj
 <<
-/Filter [ /ASCII85Decode /FlateDecode ] /Length 1544
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
 >>
-stream
-GatU3?#SIe&:F5UfZ1?qBMi,[dO1qeJ.tK5^d8.qm6n+Q9?93WmO1O"opmBXb&X?DOMJ(pn]9IuRG$7n8jiNPc/5TJH8DJbG:B@5RP-+\,SQX(e(a]Kf;l9*Ege?8l!uoRS"!L$ph#oQ4Y.,5A[f7f%V`[,[OJK?W8CF[Hh$WdmaZpG39>;Q$dCobr)X3q&O3/p9eH[>["64R)G6Z"'.BF--Bm3S'^P@\?9E7/3urK$B-4K`m3BA.IdV[u),2_11/=]`.Oi&o9,r95*;ZfJCGnIk.VNT%V"!%urOr*lfm@!!!Ia`bp\6G8/MBY_SF.HTA$O3>[$`9RTV[EK:HgJE]tJf\4fWN,S7L3@j>i7-[#R?,?-[.BSQuYlcHZIcT<L?m4I;L"3UOS+$>UBT<'/6==ZK]$caYgTp-D^:jT0'/GibAe[8FM3$S;_qegej.K=hkf/J9%\11g.aH_F/7e2\W7aOZk)mT+t_3frC%:mn-15N+-<,dIqEK!a3Upk,(VX,An8=C7C^:L@Cn_g--kKic94f`@JJ"Y!-QB1L\UG+99.][V\t1%<aY-NrQiBk[5$JS^I$Oq!^4`uUFod'Ibk*<&uQf@:Q0A)+*:5mGS[_f0Jd.<&(l$A$AMMP04YkQ_E/WgXWr5pf6JCbh$,2n:Jqo;o;R9*NGt=*0mPYnN@C,iNV-E;l_\:RY!^<-!>(4#C=9Nn.H7jFaM>:ciQQTM]r08c)8k2@r8B"Y46F>\fct3:'4ahj^VUD71D5>956jamEY+cNF)?F-2C'PZ&k58:CP\<%cmk9IdG#XNGl)0:7?$'h!Bi=p0Rd5%mMOTtgKCTk0G@>c^?e6!6JP00T*r1%%^BJ\Zgh/*hdBTj\U7;E$M@W=-U]mr2F'4GkG:L.R%qTBcq^MCmI6Cj\X\Lq\2,K\rp1U8?GqE!,t.e(f/OFibI9`%1J5b%\Y@j:o*3X`hE)>TEC"d(N`$fnEl'\(9XGpt*Zi\>.aAN@oH%[F!dT\Y6+4s/"#^B5Eg]2?s,"KGC-D![urSRuE.ZqjDW_M3T#UIlc67`Flu3]rXp5lLCP-jIJW(=r]sn><H!i.r;)9)!g-1=E"aJ0!V?9S9sT=]N,t'[Y;^/Il"[9Ml*NJ"W)f3KXIC@H#?K&&HRVNdns?<ro`]8-4o`j,m>o'g9UA^kRJuDiNN(&W"L"I7MS"gI6qje=4(N[J[@VLIBa$aK'FKR-[kX?O@d\_d>Q-!rG]YK=+GFMa2)`c3+!arf^*=Vs54>#rLmsVm;]7pJaRe$,%=;sVK_a_VSE`"`p@=Y3)H_a#7Ef2f%P*MmDF&(f"d#!R^WB`J&O[oA@nEI=GX,iOEkKC8,*@=]+E0L]K2aqaqYg>:Tf+%qZqZo)a)!@2IP$5Bq9o.3S3X\ALmQm,Q:Qa2jokW?mH5nMMNsVrqL]6^K@?r#StGoJVu<L\2ZJe>BA:AP9AMNWa6D!Z?t$pRjtH_Wn4'Z?XqE@FA"ST1-!KU&^b2&Y&dX-;UDi]qO5tY<;uR`p""mu@^jK]M05lbB0">h^X;@U%f~>endstream
+endobj
+10 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F3
+/Subtype /Type1
+/Type /Font
+>>
 endobj
 xref
-0 10
+0 11
 0000000000 65535 f 
-0000000061 00000 n 
-0000000112 00000 n 
-0000000219 00000 n 
-0000000338 00000 n 
-0000000450 00000 n 
-0000000653 00000 n 
-0000000721 00000 n 
-0000001001 00000 n 
-0000001060 00000 n 
+0000000015 00000 n 
+0000000054 00000 n 
+0000000113 00000 n 
+0000000162 00000 n 
+0000000468 00000 n 
+0000005489 00000 n 
+0000005596 00000 n 
+0000005703 00000 n 
+0000005822 00000 n 
+0000005934 00000 n 
 trailer
 <<
-/ID 
-[<7f431ffd581c56400448970b8dce0173><7f431ffd581c56400448970b8dce0173>]
-% ReportLab generated PDF document -- digest (opensource)
-
-/Info 7 0 R
-/Root 6 0 R
-/Size 10
+/Size 11
+/Root 3 0 R
+/Info 1 0 R
 >>
 startxref
-2695
+6047
 %%EOF

@@ -1,80 +1,368 @@
 %PDF-1.4
-%“Œ‹ž ReportLab Generated PDF document (opensource)
+%âãÏÓ
 1 0 obj
 <<
-/F1 2 0 R /F2 3 0 R /F3 4 0 R
+/Producer (pypdf)
 >>
 endobj
 2 0 obj
 <<
-/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
+/Type /Pages
+/Count 1
+/Kids [ 4 0 R ]
 >>
 endobj
 3 0 obj
 <<
-/BaseFont /Helvetica-BoldOblique /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
+/Type /Catalog
+/Pages 2 0 R
 >>
 endobj
 4 0 obj
 <<
-/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F3 /Subtype /Type1 /Type /Font
+/Contents 5 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/ExtGState <<
+/gRLs0 <<
+/ca 0.035
+>>
+>>
+/Font <<
+/F1 6 0 R
+/F1-0 7 0 R
+/F2 8 0 R
+/F2-0 9 0 R
+/F3 10 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
 >>
 endobj
 5 0 obj
 <<
-/Contents 9 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 8 0 R /Resources <<
-/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
->> /Rotate 0 /Trans <<
-
->> 
-  /Type /Page
+/Length 5082
 >>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 51.35433 779.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 12 Tf 14 TL (QA Lab Brasil) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 749.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F3 20 Tf 24 TL 92.89346 0 Td (VS Code, PowerShell y Terminal) Tj T* -92.89346 0 Td ET
+Q
+Q
+q
+1 0 0 1 51.35433 724.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Ambiente de desarrollo, terminal, PATH, variables, venv, pip y comandos \372tiles para QA.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 714.3701 cm
+Q
+q
+1 0 0 1 51.35433 688.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (VS Code) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 656.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Visual Studio Code es un editor extensible muy utilizado para automatizaci\363n. Permite editar c\363digo, instalar) Tj T* (extensiones, depurar, usar Git y abrir terminales integrados.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 630.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (PowerShell, CMD y Git Bash) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 598.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (CMD es el shell tradicional de Windows. PowerShell combina shell y lenguaje de automatizaci\363n. Git Bash ofrece un) Tj T* (entorno similar a Bash. El terminal de VS Code simplemente aloja uno de estos shells.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 572.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (PATH) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 540.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (PATH es una variable de ambiente que indica d\363nde buscar ejecutables. Si python, git o java no son reconocidos, la) Tj T* (instalaci\363n o PATH puede estar incorrecto.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 514.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Entorno virtual Python) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 482.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (python -m venv .venv crea un entorno aislado. En PowerShell, .\\.venv\\Scripts\\Activate.ps1 lo activa. Esto evita) Tj T* (mezclar dependencias entre proyectos.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 456.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (pip y requirements.txt) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 424.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (pip instala paquetes Python. requirements.txt registra dependencias para que otra m\341quina reproduzca el entorno) Tj T* (con pip install -r requirements.txt.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 398.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Variables de ambiente y secrets) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 366.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL -0.039805 Tw (Credenciales y tokens no deben quedar hardcoded. Variables de ambiente y secrets de CI/CD permiten proporcionar) Tj T* 0 Tw (valores sensibles en tiempo de ejecuci\363n.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 340.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Debug en VS Code) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 308.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Breakpoints, inspecci\363n de variables y ejecuci\363n paso a paso ayudan a investigar automatizaciones. Terminal y) Tj T* (debugger resuelven problemas diferentes.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 282.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Primer diagn\363stico) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 250.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Use comandos de versi\363n como python --version, pip --version, git --version, java -version y node --version. Saber) Tj T* (qu\351 ejecutable se usa reduce problemas de configuraci\363n.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 224.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Consejo de QA) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 192.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Despu\351s de instalar una herramienta, val\355dela en el terminal con su comando de versi\363n antes de configurar el) Tj T* (proyecto.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 166.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Recursos oficiales) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 147.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Site oficial: https://code.visualstudio.com/) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+0.843137 0.901961 0.960784 RG
+0.6 w
+n
+36 815.8898 m
+559.2756 815.8898 l
+S
+0.070588 0.207843 0.356863 rg
+BT
+/F2-0 8.2 Tf
+9.84 TL
+ET
+BT
+1 0 0 1 40 821.8898 Tm
+(QA LAB BRASIL) Tj
+T*
+ET
+0.356863 0.45098 0.564706 rg
+BT
+/F1-0 6.8 Tf
+8.16 TL
+ET
+BT
+1 0 0 1 398.216 821.8898 Tm
+(QUALITY ENGINEERING \174 DOCUMENTO OFICIAL) Tj
+T*
+ET
+q
+0.848048 0.529919 -0.529919 0.848048 297.6378 420.9449 cm
+0.08 0.21 0.36 rg
+/gRLs0 gs
+BT
+/F2-0 42 Tf
+50.4 TL
+ET
+BT
+1 0 0 1 -164.493 0 Tm
+(QA LAB BRASIL) Tj
+T*
+ET
+Q
+0.843137 0.901961 0.960784 RG
+n
+36 24 m
+559.2756 24 l
+S
+0.356863 0.45098 0.564706 rg
+BT
+/F1-0 6.6 Tf
+7.92 TL
+ET
+BT
+1 0 0 1 40 14 Tm
+(qualityassurancebrasil\056com\056br) Tj
+T*
+ET
+BT
+1 0 0 1 212.28 14 Tm
+(QA Lab Brasil v2\0562 \174 ES \174 Actualizado\072 septiembre de 2026) Tj
+T*
+ET
+BT
+1 0 0 1 514.547 14 Tm
+(Pagina 1 de 1) Tj
+T*
+ET
+Q
+
+
+endstream
 endobj
 6 0 obj
 <<
-/PageMode /UseNone /Pages 8 0 R /Type /Catalog
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
 >>
 endobj
 7 0 obj
 <<
-/Author (\(anonymous\)) /CreationDate (D:20260918234449+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20260918234449+00'00') /Producer (ReportLab PDF Library - \(opensource\)) 
-  /Subject (\(unspecified\)) /Title (\(anonymous\)) /Trapped /False
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
 >>
 endobj
 8 0 obj
 <<
-/Count 1 /Kids [ 5 0 R ] /Type /Pages
+/BaseFont /Helvetica-BoldOblique
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
 >>
 endobj
 9 0 obj
 <<
-/Filter [ /ASCII85Decode /FlateDecode ] /Length 1607
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
 >>
-stream
-GatU3gN):5&:Ml+oOE'&3#H]Co0t?ZWLBq](3]D*(L\heN%I&Q9SRrn*6B#<%#eI`OWmo5e?*f':U`[UitM:X3$Z"@d,c>mK`bL@;E,)>[.m==MmMTQY^1@)#17*$75UE+K4r[DYn#625HWOMfHG&h`ASSl*&JVGmEQecoU2iF=u.DOhe;OJMr1(f#CMOL)R^S'QA-S%oUV\,2`)NX=4:hB`r%$So.P0r;$l^=]mAX`^>Wcu4'HTo$-=)M0&Ec-Kj01<X'8FT.NJn2l@&eda?qZ)<e<uf.<0ilBs#f_ouL1j^rb9hY9%PK(2T7VK:cCdH^'F.:<+ho1/Wdld:?Vgjsar3dDIO!J7lB9r9+OKX/krXeUY76iE0T>X:!s1+3('qX,1eC$GA+0'J-)k/J=bi703OE,b>:B2">LM9-\s+A]9Z:+=(8rU.UML@0*">81^(S30F<u44qB(>L,.FDE&5D&0dpT/7lCVdWr70P)b`ZkCmNZ7g1<:5D98"Co)i'LkK+:4KgWdRh"M<U]*?[ha_gMDZ72#-dJ?"AiB$W8(2Y$:Xe:(iLE"Vj-.XFYTa9>i!@j10+b-:-9042"Rlcf<"!l6Ek*gTPL#"/r7!);or*/[61pf[$-&ec,;K:kM"qhh\k<tPgnn(^]%?M;B0Q&lWh(($;WIr$,+lM4?$I8^#4LX[M;;V?@=&uaB#N@N;h?k>ih<JckIKN,9<c>_nJGbV<L=U'ng>Iper*9gF$]WIDNsM8)B:/O@Tu;3DC#Tg.&g[,aR2pJ)G7$"WS#*4mnR3Y&n]c-10,=:Xm,t1fKj236@DqS``?d="QS>\V;:/#Wh%qoi0SuA7HPnc!rj9VcFcJD/hpd48-7dMdUD8BbGARM>g?h2Ebgua=_u'C=WZWNU_HK#1KG]/M/T(i%ItBdNEm/^QT-CYZ!bS>e=:Q]Fq4!o_*..XcGpMMbEM)7L!W$,9OPWg%Mh,?dpF4-X&[M4iXso\Z!WY7r8\7jf"s\IhP0((K1cU6VQsbi%'^<<UH+u?MH?S\'X$H!5o^b-Hh/[lkar9,!'KP>^F(LKh&s@%mi<:+LpNt2l1#!.nO5\+_tQ?L?;Lk`0@=n0m)Z31W0HB)FiC0Z2aM7tQqh*]E=u*+o5=3_n&q2)b00W4>nlHoqqBJ_jM!ReKplfDA?*f@ih!70=^K7_;mj3.F?l[Tr#R6HQEQ1RZe`/.MY\DD^=Np^YIQu`@=5PIo=,QB*4tGWJa+B]#^6@sWW):BKLn94\V35*[4A!W7G.8o6.772XpP*GSTW1_aI@dZgQE\HbE,PWGi[Qjg-ouc*>J693Ro=+#Dli(l&GuJA(AERkTfcn5K!4Y\:^2b;ZVeb7<JpHn.VsN3fQ+DFN*n1d9"lp&QD?RW\j;q_ed<d/a.8\N(2blTgmD@%MU`F7Ec9&E,NfgYst)64no7fDDk#,\5C]D-_G>gZZ\^poHSMPQCHYSiQkXclFuH7E33:*jFk'*</S.S#tK,'K^sc8d&FK'C+=^@P.B4n"!O,.k+6g((XrqFL)i,E32$;'@VlZel;<e_g;2K^o)=R3gg,O^A"RFED/MOC?95b0[f4ihr1tnDA=#Nj6>,0Vr(1["~>endstream
+endobj
+10 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F3
+/Subtype /Type1
+/Type /Font
+>>
 endobj
 xref
-0 10
+0 11
 0000000000 65535 f 
-0000000061 00000 n 
-0000000112 00000 n 
-0000000219 00000 n 
-0000000338 00000 n 
-0000000450 00000 n 
-0000000653 00000 n 
-0000000721 00000 n 
-0000001001 00000 n 
-0000001060 00000 n 
+0000000015 00000 n 
+0000000054 00000 n 
+0000000113 00000 n 
+0000000162 00000 n 
+0000000468 00000 n 
+0000005602 00000 n 
+0000005709 00000 n 
+0000005816 00000 n 
+0000005935 00000 n 
+0000006047 00000 n 
 trailer
 <<
-/ID 
-[<e1f951bc526ca27d52ce0e143c844ee5><e1f951bc526ca27d52ce0e143c844ee5>]
-% ReportLab generated PDF document -- digest (opensource)
-
-/Info 7 0 R
-/Root 6 0 R
-/Size 10
+/Size 11
+/Root 3 0 R
+/Info 1 0 R
 >>
 startxref
-2758
+6160
 %%EOF

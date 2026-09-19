@@ -1,74 +1,328 @@
 %PDF-1.4
-%“Œ‹ž ReportLab Generated PDF document (opensource)
+%âãÏÓ
 1 0 obj
 <<
-/F1 2 0 R /F2 3 0 R
+/Producer (pypdf)
 >>
 endobj
 2 0 obj
 <<
-/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
+/Type /Pages
+/Count 1
+/Kids [ 4 0 R ]
 >>
 endobj
 3 0 obj
 <<
-/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
+/Type /Catalog
+/Pages 2 0 R
 >>
 endobj
 4 0 obj
 <<
-/Contents 8 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 7 0 R /Resources <<
-/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
->> /Rotate 0 /Trans <<
-
->> 
-  /Type /Page
+/Contents 5 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/ExtGState <<
+/gRLs0 <<
+/ca 0.035
+>>
+>>
+/Font <<
+/F1 6 0 R
+/F1-0 7 0 R
+/F2 8 0 R
+/F2-0 9 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
 >>
 endobj
 5 0 obj
 <<
-/PageMode /UseNone /Pages 7 0 R /Type /Catalog
+/Length 4244
 >>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 57.02362 757.8661 cm
+q
+.043137 .184314 .356863 rg
+BT 1 0 0 1 0 5 Tm /F2 22 Tf 27 TL 207.6142 0 Td (WAVE) Tj T* -207.6142 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.02362 732.8661 cm
+q
+.294118 .419608 .560784 rg
+BT 1 0 0 1 0 4.5 Tm /F1 10.5 Tf 15 TL (Visual accessibility evaluation tool for identifying issues directly on the page.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 700.8661 cm
+q
+.043137 .184314 .356863 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (What is it?) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 679.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.5 Tm /F1 10.5 Tf 15 TL (Visual accessibility evaluation tool for identifying issues directly on the page.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 651.8661 cm
+q
+.043137 .184314 .356863 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (QA application) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 630.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.5 Tm /F1 10.5 Tf 15 TL (Use WAVE to support investigation, technical validation and evidence collection during testing.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 602.8661 cm
+q
+.043137 .184314 .356863 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (Getting started) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 581.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.5 Tm /F1 10.5 Tf 15 TL (Start from the official website, check prerequisites and follow the WAVE installation/configuration guide.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 553.8661 cm
+q
+.043137 .184314 .356863 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (Practical workflow) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 517.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 19.5 Tm /F1 10.5 Tf 15 TL (Define the analysis goal, reproduce the scenario, collect evidence with WAVE, compare expected) Tj T* (behavior and document conclusions.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 489.8661 cm
+q
+.043137 .184314 .356863 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (Good practices) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 453.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 19.5 Tm /F1 10.5 Tf 15 TL (Use safe test data, preserve relevant evidence and document environment, version, time and) Tj T* (reproduction steps.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 425.8661 cm
+q
+.043137 .184314 .356863 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (Troubleshooting) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 389.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 19.5 Tm /F1 10.5 Tf 15 TL (Check permissions, dependencies, certificates, drivers, connectivity and versions when expected data) Tj T* (is not captured or displayed.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 334.8661 cm
+q
+.219608 .741176 .972549 RG
+1 w
+.913725 .968627 1 rg
+n -8 -8 497.2283 61 re B*
+Q
+q
+BT 1 0 0 1 0 34.5 Tm 15 TL /F2 10.5 Tf 0 0 0 rg (QA Tip) Tj /F1 10.5 Tf  T* -0.051666 Tw (Combine automation with manual validation and interpret findings in the context of risk and the real user) Tj T* 0 Tw (experience.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 306.8661 cm
+q
+.043137 .184314 .356863 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (Official resources) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 285.8661 cm
+q
+BT 1 0 0 1 0 4.5 Tm 15 TL /F2 10.5 Tf 0 0 0 rg (Official site:) Tj /F1 10.5 Tf ( https://wave.webaim.org/) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 262.8661 cm
+q
+BT 1 0 0 1 0 4.5 Tm 15 TL /F2 10.5 Tf 0 0 0 rg (Installation / download:) Tj /F1 10.5 Tf ( https://wave.webaim.org/extension/) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 239.8661 cm
+q
+BT 1 0 0 1 0 4.5 Tm 15 TL /F2 10.5 Tf 0 0 0 rg (Documentation:) Tj /F1 10.5 Tf ( https://wave.webaim.org/help) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+0.843137 0.901961 0.960784 RG
+0.6 w
+n
+36 815.8898 m
+559.2756 815.8898 l
+S
+0.070588 0.207843 0.356863 rg
+BT
+/F2-0 8.2 Tf
+9.84 TL
+ET
+BT
+1 0 0 1 40 821.8898 Tm
+(QA LAB BRASIL) Tj
+T*
+ET
+0.356863 0.45098 0.564706 rg
+BT
+/F1-0 6.8 Tf
+8.16 TL
+ET
+BT
+1 0 0 1 399.3516 821.8898 Tm
+(QUALITY ENGINEERING \174 OFFICIAL DOCUMENT) Tj
+T*
+ET
+q
+0.848048 0.529919 -0.529919 0.848048 297.6378 420.9449 cm
+0.08 0.21 0.36 rg
+/gRLs0 gs
+BT
+/F2-0 42 Tf
+50.4 TL
+ET
+BT
+1 0 0 1 -164.493 0 Tm
+(QA LAB BRASIL) Tj
+T*
+ET
+Q
+0.843137 0.901961 0.960784 RG
+n
+36 24 m
+559.2756 24 l
+S
+0.356863 0.45098 0.564706 rg
+BT
+/F1-0 6.6 Tf
+7.92 TL
+ET
+BT
+1 0 0 1 40 14 Tm
+(qualityassurancebrasil\056com\056br) Tj
+T*
+ET
+BT
+1 0 0 1 221.4507 14 Tm
+(QA Lab Brasil v2\0562 \174 EN \174 Updated\072 September 2026) Tj
+T*
+ET
+BT
+1 0 0 1 519.6818 14 Tm
+(Page 1 de 1) Tj
+T*
+ET
+Q
+
+
+endstream
 endobj
 6 0 obj
 <<
-/Author (\(anonymous\)) /CreationDate (D:20260919000339+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20260919000339+00'00') /Producer (ReportLab PDF Library - \(opensource\)) 
-  /Subject (\(unspecified\)) /Title (WAVE) /Trapped /False
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
 >>
 endobj
 7 0 obj
 <<
-/Count 1 /Kids [ 4 0 R ] /Type /Pages
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
 >>
 endobj
 8 0 obj
 <<
-/Filter [ /ASCII85Decode /FlateDecode ] /Length 1231
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
 >>
-stream
-Gb!$E997gc&BF8='Q`%6N\'J_>`,=KK)u51ZtaWYV3/a"6n0Hna59'Jq@U?/Y-hOW$6(lL;OkLNo-/gK50X%-4i!O"(-aT_&X3a/,Y4U+(#G4^cSK`HRH?dP`E<=(NJ]8soGgR1@1on+LO^*r80E`;XN4ktlP]*3:1dBPHSQ1!j@r%Q1D#7cOKg(*q6Gae:Tm!sqZ4jSTmQko0BYmK#PrgD:)ohJM3\HX"U#-9Ag.,N=dU#I"$&ql&4Gt,\hUm@l6P26'P?DHn>\fb`(G-gmJo2Y)n?\UJlSh'7VNDk8h6@$OD>EIN+ek")CsS0^o_Aa#/8+8pdU=W65]\,U</NGX`<n>0E4to/]e$%J%TYYbEljr6U1Oa-C(FoAu%W'#!NHdW4^gj[c?ipYl6B`0#!/LQuNt--9'$U)CsBF^`4n+XX#nI&49=`+`^^!;b+&YW)V@\2KunW[DQ_7#')j1>o;B+h0ZNS.N$@:`VR19Zs_3fpSTeLNE3`R("G.8&qjtW.jHUjTk^jDLI%]Tc_GIRN!IrG0=CH`H1jRfii_l`(R:/C=H@dSGs)f##oM,J^)=rJ2(*#tLMrHlDb0-rq^fKSOtH\Kj]cPS6r/J/hX(`:MRDI"*&J./eRQ"Z1_iWcKpj)nmTU6?Kl&tJ2qJRF,N+o>Q@''n]+qc%,:N5U(MZs04]MJc/urkHK\K0CSJ99%"ftTZ`J;KnAqKCX00bl196S2lo]Z[HaaENNe"GP?JaTI-atob.OAKhJ<mlujYX*."[6aG6h21XK>s<Lm`F0D-.(pMH;QFffTkTd4[G\Xd\@CC3*b"oo50$Ope3[CGc(W,XV*cYmXt%rNA6_-==1&eRSr6Gp?-V07mc6n\Ql=Vc-r6Q&]l]uA=WnL`/0F5WBp'[N(1ue*%dOFkj#FS/P8qjl3?:ib%"`%3V9'ALGY_+QB>Kb$&>aK<kgR(u3@YYJ(@IYCo,rpJ(hb]tZo9YN_$alFTlBE[Gs<=j*?"`\=,Og%5=b#M>%%u>/B]ds[mXBl.p!kgBN;gNN'?-G0#ra,8P"c.!h5(RO>TH-SNHQDS>]Zi@]<C\(?XJWG5!lB/gD[Z&RstK3\P1*P$n^R0Y:I%s*!`TPauR=PDV_,S7g7DHIu`13*C??lI?!'gd,`C?sYE#>J@q(=r\?,T_*Ob6!+mc6eF&)bn1^jOLDGn]RG`+ni07.>Z8S\b@cWZHRP4em8G:=fF@il#ICT;Ugi]~>endstream
+endobj
+9 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
 endobj
 xref
-0 9
+0 10
 0000000000 65535 f 
-0000000061 00000 n 
-0000000102 00000 n 
-0000000209 00000 n 
-0000000321 00000 n 
-0000000524 00000 n 
-0000000592 00000 n 
-0000000863 00000 n 
-0000000922 00000 n 
+0000000015 00000 n 
+0000000054 00000 n 
+0000000113 00000 n 
+0000000162 00000 n 
+0000000457 00000 n 
+0000004753 00000 n 
+0000004860 00000 n 
+0000004967 00000 n 
+0000005079 00000 n 
 trailer
 <<
-/ID 
-[<fd5499e3df9f23080bd35793f2c73dd3><fd5499e3df9f23080bd35793f2c73dd3>]
-% ReportLab generated PDF document -- digest (opensource)
-
-/Info 6 0 R
-/Root 5 0 R
-/Size 9
+/Size 10
+/Root 3 0 R
+/Info 1 0 R
 >>
 startxref
-2244
+5191
 %%EOF

@@ -1,86 +1,350 @@
 %PDF-1.4
-%“Œ‹ž ReportLab Generated PDF document (opensource)
+%âãÏÓ
 1 0 obj
 <<
-/F1 2 0 R /F2 3 0 R /F3 4 0 R /F4 5 0 R
+/Producer (pypdf)
 >>
 endobj
 2 0 obj
 <<
-/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
+/Type /Pages
+/Count 1
+/Kids [ 4 0 R ]
 >>
 endobj
 3 0 obj
 <<
-/BaseFont /Helvetica-BoldOblique /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
+/Type /Catalog
+/Pages 2 0 R
 >>
 endobj
 4 0 obj
 <<
-/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F3 /Subtype /Type1 /Type /Font
+/Contents 5 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/ExtGState <<
+/gRLs0 <<
+/ca 0.035
+>>
+>>
+/Font <<
+/F1 6 0 R
+/F1-0 7 0 R
+/F2 8 0 R
+/F2-0 9 0 R
+/F3 10 0 R
+/F4 11 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
 >>
 endobj
 5 0 obj
 <<
-/BaseFont /ZapfDingbats /Name /F4 /Subtype /Type1 /Type /Font
+/Length 3982
 >>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 51.35433 779.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 12 Tf 14 TL (QA Lab Brasil) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 749.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F3 20 Tf 24 TL 175.1535 0 Td (Apache JMeter) Tj T* -175.1535 0 Td ET
+Q
+Q
+q
+1 0 0 1 51.35433 724.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Herramienta open source utilizada para pruebas de carga y performance de protocolos y servicios.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 714.3701 cm
+Q
+q
+1 0 0 1 51.35433 688.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (\277Qu\351 es?) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 656.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (JMeter crea planes de prueba con grupos de usuarios virtuales, requests, timers, assertions y listeners. Es muy) Tj T* (usado para HTTP/APIs.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 630.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Instalaci\363n) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 598.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (JMeter depende de Java. Instale un JDK compatible, valide java -version, descargue JMeter del sitio oficial y ejecute) Tj T* (el launcher.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 572.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Test Plan) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 540.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Organice Thread Groups, samplers, configuraci\363n, datos, assertions y listeners. Listeners pesados pueden) Tj T* (distorsionar pruebas grandes.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 514.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (M\351tricas) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 495.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Analice throughput, tasa de errores y percentiles p95/p99 junto con CPU, memoria, base de datos y dependencias.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 469.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Load vs Stress) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 450.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Load eval\372a la carga prevista; Stress supera l\355mites normales para estudiar degradaci\363n y recuperaci\363n.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 424.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Buenas pr\341cticas) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 405.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Defina objetivo, workload, ramp-up, datos, entorno, criterios y monitoreo antes de ejecutar.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 379.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Consejo de QA) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 360.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL /F4 9.5 Tf 13 TL (n) Tj /F1 9.5 Tf 13 TL ( QA Tip: sin observabilidad del servidor, una prueba de performance puede mostrar s\355ntomas sin explicar la causa.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 334.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Recursos oficiales) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 315.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Site oficial: https://jmeter.apache.org/download_jmeter.cgi) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+0.843137 0.901961 0.960784 RG
+0.6 w
+n
+36 815.8898 m
+559.2756 815.8898 l
+S
+0.070588 0.207843 0.356863 rg
+BT
+/F2-0 8.2 Tf
+9.84 TL
+ET
+BT
+1 0 0 1 40 821.8898 Tm
+(QA LAB BRASIL) Tj
+T*
+ET
+0.356863 0.45098 0.564706 rg
+BT
+/F1-0 6.8 Tf
+8.16 TL
+ET
+BT
+1 0 0 1 398.216 821.8898 Tm
+(QUALITY ENGINEERING \174 DOCUMENTO OFICIAL) Tj
+T*
+ET
+q
+0.848048 0.529919 -0.529919 0.848048 297.6378 420.9449 cm
+0.08 0.21 0.36 rg
+/gRLs0 gs
+BT
+/F2-0 42 Tf
+50.4 TL
+ET
+BT
+1 0 0 1 -164.493 0 Tm
+(QA LAB BRASIL) Tj
+T*
+ET
+Q
+0.843137 0.901961 0.960784 RG
+n
+36 24 m
+559.2756 24 l
+S
+0.356863 0.45098 0.564706 rg
+BT
+/F1-0 6.6 Tf
+7.92 TL
+ET
+BT
+1 0 0 1 40 14 Tm
+(qualityassurancebrasil\056com\056br) Tj
+T*
+ET
+BT
+1 0 0 1 212.28 14 Tm
+(QA Lab Brasil v2\0562 \174 ES \174 Actualizado\072 septiembre de 2026) Tj
+T*
+ET
+BT
+1 0 0 1 514.547 14 Tm
+(Pagina 1 de 1) Tj
+T*
+ET
+Q
+
+
+endstream
 endobj
 6 0 obj
 <<
-/Contents 10 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 9 0 R /Resources <<
-/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
->> /Rotate 0 /Trans <<
-
->> 
-  /Type /Page
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
 >>
 endobj
 7 0 obj
 <<
-/PageMode /UseNone /Pages 9 0 R /Type /Catalog
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
 >>
 endobj
 8 0 obj
 <<
-/Author (\(anonymous\)) /CreationDate (D:20260918234449+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20260918234449+00'00') /Producer (ReportLab PDF Library - \(opensource\)) 
-  /Subject (\(unspecified\)) /Title (\(anonymous\)) /Trapped /False
+/BaseFont /Helvetica-BoldOblique
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
 >>
 endobj
 9 0 obj
 <<
-/Count 1 /Kids [ 6 0 R ] /Type /Pages
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
 >>
 endobj
 10 0 obj
 <<
-/Filter [ /ASCII85Decode /FlateDecode ] /Length 1231
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F3
+/Subtype /Type1
+/Type /Font
 >>
-stream
-GatUrgN)%,&;KZP'RT(fA4dP-.<7(&EXkfKB4<gdSRso5&sArO!/#o%pZ_R-3i#L3OJ@bH-k65d(Z55(MjR!/`U1"1M/I>P^549[;netcNDdpfk]M@Ekp"ufbi1%mdNkONF;?1O;2jrt4_gn>q>rasa%`g5N=EqK%E!@U%s,>B-/BEHZMK.C%HTeY,7jR?16cr$8p?"&)NTKDEGHtoAl5'E)<UOR0'<Z[O+M9,$Ra07m+$S%ID^t_g?D$=ANN+cRY=h53,)1d<Z&`^'Zr/p7OYRrRmN3\ZBB]YajdQ2_g&Fs9;S;5c'mmR)IZ\#e?#km_i<&=(V8$1F&n[1/>T^O%uB`lpJ3E/]QhhP^'!J9/0&QU*c<^(:*9BXa^PnVkAF?Jfqd(p4F%Fu/ppV8!F?Kk@<YrX3@_D1[IK5o#JKeHJ;:S]37!ko"#Al"(Y7Qia]]PZZNWiH[0fGTBq8';O6F!Jg-6U<F6P9CH5EHfH%%uJhnSKpI?KQ7`;353`t]D2O\?D<D(1rs#I"kW.A4tlQ.dg.3MN&\@&`A`eZSsX2sfV2&d-j.-*_??F`b"p1GBg,9,k8(%uH$lMQ?qgdOV8].ps,3;0XIKE3Z3JYE5?Q#LdKM5*K]@d*k-We&+`1*Ot9PIR*TVM4Dg4+k2[(1"nPtS)q5\>1l3A/%PB9&7CT0Vn\qG]>H.66I6qU]dUki.$l4qkV`caNhp9')"Hsfe1C#bi(d0u+*-6V=g79OPKpK*lf_S>F.he>_/oS-G_\Cnb<`<[Z.]JqX-j,`X[L$)1WtNtCdoAIS8RZ1bPU0%</Xp!aTDU><p_JdI(N/S"ekX@Q;5#<dqNK>)RA"!qWQjZ+)Y5B6Ll,*esJ_>/s>IdO_ajndMT6CCA=^?)e;+i@0%R@e^=Jk$JhU+)+l"Aa-VrV<^U$O6+d21OO<%ArCA#RI6-XbFuN_UBY-!W,`N2`;g>)+&DeqBOp\mL\IhSSomf5Ao4J6,kU9!d/)M?<(Wt2r@7al-YjFYN<,3d7/2XVP]9]k*J_[0],sAD7Vb+Qi)%df.loiR>(n-sJZJh;F.qlQCoRE6IKlYjOUFdl:%G)G'iZ_>gUi!RHpR5!L!P6S8;UdW#J),h4g'=_1)5tpe]n1S?<J4)c?Oc9'-<d7@Fn^HWS1DY;&4g:CkC%sr4k,k;hkA&N&D"\M2*F"Pf^%L8;hof@EI5riZrmo4rE0;drir(Ff((?;ki*[GA0;-~>endstream
+endobj
+11 0 obj
+<<
+/BaseFont /ZapfDingbats
+/Name /F4
+/Subtype /Type1
+/Type /Font
+>>
 endobj
 xref
-0 11
+0 12
 0000000000 65535 f 
-0000000061 00000 n 
-0000000122 00000 n 
-0000000229 00000 n 
-0000000348 00000 n 
-0000000460 00000 n 
-0000000543 00000 n 
-0000000747 00000 n 
-0000000815 00000 n 
-0000001095 00000 n 
-0000001154 00000 n 
+0000000015 00000 n 
+0000000054 00000 n 
+0000000113 00000 n 
+0000000162 00000 n 
+0000000479 00000 n 
+0000004513 00000 n 
+0000004620 00000 n 
+0000004727 00000 n 
+0000004846 00000 n 
+0000004958 00000 n 
+0000005071 00000 n 
 trailer
 <<
-/ID 
-[<94004430dba5f4433631ed1676714d0f><94004430dba5f4433631ed1676714d0f>]
-% ReportLab generated PDF document -- digest (opensource)
-
-/Info 8 0 R
-/Root 7 0 R
-/Size 11
+/Size 12
+/Root 3 0 R
+/Info 1 0 R
 >>
 startxref
-2477
+5155
 %%EOF

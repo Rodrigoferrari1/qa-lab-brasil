@@ -1,80 +1,368 @@
 %PDF-1.4
-%“Œ‹ž ReportLab Generated PDF document (opensource)
+%âãÏÓ
 1 0 obj
 <<
-/F1 2 0 R /F2 3 0 R /F3 4 0 R
+/Producer (pypdf)
 >>
 endobj
 2 0 obj
 <<
-/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
+/Type /Pages
+/Count 1
+/Kids [ 4 0 R ]
 >>
 endobj
 3 0 obj
 <<
-/BaseFont /Helvetica-BoldOblique /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
+/Type /Catalog
+/Pages 2 0 R
 >>
 endobj
 4 0 obj
 <<
-/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F3 /Subtype /Type1 /Type /Font
+/Contents 5 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/ExtGState <<
+/gRLs0 <<
+/ca 0.035
+>>
+>>
+/Font <<
+/F1 6 0 R
+/F1-0 7 0 R
+/F2 8 0 R
+/F2-0 9 0 R
+/F3 10 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
 >>
 endobj
 5 0 obj
 <<
-/Contents 9 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 8 0 R /Resources <<
-/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
->> /Rotate 0 /Trans <<
-
->> 
-  /Type /Page
+/Length 5304
 >>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 51.35433 779.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 12 Tf 14 TL (QA Lab Brasil) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 749.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F3 20 Tf 24 TL 151.8035 0 Td (Teste de Seguran\347a) Tj T* -151.8035 0 Td ET
+Q
+Q
+q
+1 0 0 1 51.35433 724.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Autentica\347\343o, autoriza\347\343o, sess\365es, OWASP, testes de seguran\347a Web e APIs.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 714.3701 cm
+Q
+q
+1 0 0 1 51.35433 688.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Security Testing para QA) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 656.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Security Testing busca identificar riscos que possam comprometer confidencialidade, integridade, disponibilidade e) Tj T* (controle de acesso. QA pode incorporar verifica\347\365es de seguran\347a sem substituir especialistas de seguran\347a.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 630.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Autentica\347\343o x autoriza\347\343o) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 598.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Autentica\347\343o responde quem \351 o usu\341rio; autoriza\347\343o define o que ele pode fazer. Testes devem cobrir credenciais,) Tj T* (sess\365es, expira\347\343o, roles, permiss\365es e tentativas de acesso indevido.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 572.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (OWASP como refer\352ncia) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 540.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (OWASP mant\351m materiais amplamente utilizados para riscos e testes de seguran\347a web e API. Eles ajudam a) Tj T* (estruturar checklists e aprofundamento t\351cnico.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 514.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Inputs e valida\347\343o) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 482.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Campos, par\342metros, headers e payloads devem ser tratados como entrada n\343o confi\341vel. Valida\347\343o, encoding e) Tj T* (controles no servidor s\343o importantes para reduzir classes de vulnerabilidade.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 456.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Sess\365es e tokens) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 424.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Cookies, tokens, JWT e sess\365es precisam de expira\347\343o, prote\347\343o e invalida\347\343o adequadas. Logout, troca de senha) Tj T* (e mudan\347a de privil\351gio merecem cen\341rios espec\355ficos.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 398.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (API Security) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 366.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Valide autentica\347\343o, autoriza\347\343o por objeto/fun\347\343o, rate limiting, exposi\347\343o excessiva de dados, mensagens de erro) Tj T* (e comportamento com payloads manipulados.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 340.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Ferramentas) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 308.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (OWASP ZAP pode apoiar an\341lise din\342mica automatizada e manual. Burp Suite \351 amplamente utilizado para) Tj T* (inspe\347\343o e testes de seguran\347a. Ferramenta n\343o substitui entendimento do risco.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 282.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (DevSecOps e Shift Left) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 250.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Seguran\347a pode ser incorporada a requisitos, code review, an\341lise de depend\352ncias, pipelines, testes e) Tj T* (observabilidade. Quanto mais cedo um risco \351 identificado, mais op\347\365es existem para trat\341-lo.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 224.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Dica de QA) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 205.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Nunca use dados reais ou credenciais de produ\347\343o em exemplos p\372blicos de seguran\347a.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 179.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Recursos oficiais) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 160.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Site oficial: https://wstg.owasp.org/) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+0.843137 0.901961 0.960784 RG
+0.6 w
+n
+36 815.8898 m
+559.2756 815.8898 l
+S
+0.070588 0.207843 0.356863 rg
+BT
+/F2-0 8.2 Tf
+9.84 TL
+ET
+BT
+1 0 0 1 40 821.8898 Tm
+(QA LAB BRASIL) Tj
+T*
+ET
+0.356863 0.45098 0.564706 rg
+BT
+/F1-0 6.8 Tf
+8.16 TL
+ET
+BT
+1 0 0 1 398.216 821.8898 Tm
+(QUALITY ENGINEERING \174 DOCUMENTO OFICIAL) Tj
+T*
+ET
+q
+0.848048 0.529919 -0.529919 0.848048 297.6378 420.9449 cm
+0.08 0.21 0.36 rg
+/gRLs0 gs
+BT
+/F2-0 42 Tf
+50.4 TL
+ET
+BT
+1 0 0 1 -164.493 0 Tm
+(QA LAB BRASIL) Tj
+T*
+ET
+Q
+0.843137 0.901961 0.960784 RG
+n
+36 24 m
+559.2756 24 l
+S
+0.356863 0.45098 0.564706 rg
+BT
+/F1-0 6.6 Tf
+7.92 TL
+ET
+BT
+1 0 0 1 40 14 Tm
+(qualityassurancebrasil\056com\056br) Tj
+T*
+ET
+BT
+1 0 0 1 210.9996 14 Tm
+(QA Lab Brasil v2\0562 \174 PT\055BR \174 Atualizado\072 setembro de 2026) Tj
+T*
+ET
+BT
+1 0 0 1 514.547 14 Tm
+(Pagina 1 de 1) Tj
+T*
+ET
+Q
+
+
+endstream
 endobj
 6 0 obj
 <<
-/PageMode /UseNone /Pages 8 0 R /Type /Catalog
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
 >>
 endobj
 7 0 obj
 <<
-/Author (\(anonymous\)) /CreationDate (D:20260918234448+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20260918234448+00'00') /Producer (ReportLab PDF Library - \(opensource\)) 
-  /Subject (\(unspecified\)) /Title (\(anonymous\)) /Trapped /False
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
 >>
 endobj
 8 0 obj
 <<
-/Count 1 /Kids [ 5 0 R ] /Type /Pages
+/BaseFont /Helvetica-BoldOblique
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
 >>
 endobj
 9 0 obj
 <<
-/Filter [ /ASCII85Decode /FlateDecode ] /Length 1655
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
 >>
-stream
-GatU4gJ['$&:N^lqN7Sd_QnQ?c'(_BX#<CX+h0j=MO1Tt2?T+3bf-f6ICa'=&_LDcTE(<iNMh-Kkru"6$=3L"rG,^?S58)(CC4bd-8S3i8KT8qn7?Y4Ga'g^%alUAoWnrqUU)3bF]8,Xh<t-oH@A7DV!C`hRu0,jXZ,>.Nj$HA+f94]KotIM0Y)t\Y8lV\IWbn[*tHd2JMQG33De$,8nj44DDn0bP6-alBIlK$E/eq:7=CZu7q*54e*Ft;aemZSQq`kT69ZignQS&"k"e0a(2GFA_6N5X;]QFp.P5#]*uQot2B*.QFQ!&@q"h8uQBO7t]kM$g2`Lton`;]n6i`Wm;W##mG^=]2Cb)=W89D)05M.jU:.tHd(h?dqTb1JDebF)]_nkhMb]L?*d&jfVB6"$Y@$kR0Zj&*VXpdERKLQh(.`bW?BN:`p:%.BcYKismAK_EIJ?1?Jp%"i=VGXakb&A/9FeWCBVU_^='d[m09I4dgMF#k"cBW:3VXOuC5*8)`F1Of7_$Z-jdK-G5)UL>)dkOm>/WQKLR!%<.ic]Uao6,O'c<tU7\;p9(\g%TBbQ:'r/66_Z%8p$\N2+"aQKksH,RLrJXHAf'nQ96CAgUh\-b`bH&I[Z?Qth49f,3d<Ra.A_Fsl9j,B^UmR=4qE6!_U_1?q?S?<F`DjFu$TMP+@_:_EU77_O$:kI#obRh;-`-D5[4U5538__ncmYn4AW[:O)&H:P*V5_>r';H*c)K!Wro0;>+Go]!+A9ACn3:Fg-Pi!\KPinbF"]^*HTe(:t5NghT7_u,')LA)A2gbW"J5-=sZ;dRX0$MuYHh03?.X_sX>^[OS\5J!\@HC41"f`+\X/$;3)FSC-XC76gEOOQmD5)o>7.T*:Ih2pi'/Z^>:QO9F^73S<6NT1b9)f("9!rons%<V\C>JWqDXb6mn`VX_ICG90Y8a0q^V1C/RZ#DAODl#-7n@ijQNEWDO2M.iUKPTpqWckGC#HUWf\-UR`#t7HL861TZXoj119E89L%uhpTB5:t3Gq1[Mc5&@U`pWDp`dg=$FMskEi'P\RZP6%_1.'ktoj+V4TV=>J[M[h;Zs:\8>@]?$<(MkM,\"HO<YOhU((A:'<6U_l7B$5-s1/%3.n>YV1]5>Ti!ULW3"A_pj;f/goH(+q+_>@l!%AqQZB@=tG`,Bf[^^Wqod;7tW!dLR%UiT]0rGg`[aqIt%8S>+/O?r2C=BklY-N$nmh*H'KV%Ypi%(Ybj,8`-aLWHJqHt9BN\?#DMag:dEaP=cM)c_+CThG?O!fX/KcNQX%hK^UO?T3sh8$F^7"ZQhFr?=lSMeQqVLi]pdr,1W@"ZBi)V7=pCF7Vd$p7AiDe9TooHLYk2_T[=Jm.2]_m4E5-YF2IE+U==%R/n=m74"g')T^q]Ho%0cl\f8dW0?j]L:5EK28%>9_**hOKCtbFtD<S8Mcf<5M^-,78;H*2N@c=:,(04%i%);iiWW]#MM*=ImIB)=/i&SEoSqb#?V-7@f,305*]!0`B<YWVG%0tNd2&uFU.AbXSg8l'Zlc>`Xi.l!8!fVK@m6A[7\1X>`]kY8$^lce=2aTnaC_`80e*MYT'@P=mc_&<C@nk)%g[%Tl#,aR[#)8.R1hA[>k!0Eq3c-4Aenk1l9ZPP;bM;d=5:(VXO~>endstream
+endobj
+10 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F3
+/Subtype /Type1
+/Type /Font
+>>
 endobj
 xref
-0 10
+0 11
 0000000000 65535 f 
-0000000061 00000 n 
-0000000112 00000 n 
-0000000219 00000 n 
-0000000338 00000 n 
-0000000450 00000 n 
-0000000653 00000 n 
-0000000721 00000 n 
-0000001001 00000 n 
-0000001060 00000 n 
+0000000015 00000 n 
+0000000054 00000 n 
+0000000113 00000 n 
+0000000162 00000 n 
+0000000468 00000 n 
+0000005824 00000 n 
+0000005931 00000 n 
+0000006038 00000 n 
+0000006157 00000 n 
+0000006269 00000 n 
 trailer
 <<
-/ID 
-[<b52abf1cd448b80583691182ea29b90d><b52abf1cd448b80583691182ea29b90d>]
-% ReportLab generated PDF document -- digest (opensource)
-
-/Info 7 0 R
-/Root 6 0 R
-/Size 10
+/Size 11
+/Root 3 0 R
+/Info 1 0 R
 >>
 startxref
-2806
+6382
 %%EOF

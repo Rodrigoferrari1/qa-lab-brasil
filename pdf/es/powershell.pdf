@@ -1,86 +1,350 @@
 %PDF-1.4
-%“Œ‹ž ReportLab Generated PDF document (opensource)
+%âãÏÓ
 1 0 obj
 <<
-/F1 2 0 R /F2 3 0 R /F3 4 0 R /F4 5 0 R
+/Producer (pypdf)
 >>
 endobj
 2 0 obj
 <<
-/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
+/Type /Pages
+/Count 1
+/Kids [ 4 0 R ]
 >>
 endobj
 3 0 obj
 <<
-/BaseFont /Helvetica-BoldOblique /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
+/Type /Catalog
+/Pages 2 0 R
 >>
 endobj
 4 0 obj
 <<
-/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F3 /Subtype /Type1 /Type /Font
+/Contents 5 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/ExtGState <<
+/gRLs0 <<
+/ca 0.035
+>>
+>>
+/Font <<
+/F1 6 0 R
+/F1-0 7 0 R
+/F2 8 0 R
+/F2-0 9 0 R
+/F3 10 0 R
+/F4 11 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
 >>
 endobj
 5 0 obj
 <<
-/BaseFont /ZapfDingbats /Name /F4 /Subtype /Type1 /Type /Font
+/Length 3824
 >>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 51.35433 779.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 12 Tf 14 TL (QA Lab Brasil) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 749.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F3 20 Tf 24 TL 150.6935 0 Td (PowerShell para QA) Tj T* -150.6935 0 Td ET
+Q
+Q
+q
+1 0 0 1 51.35433 724.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Shell y lenguaje de automatizaci\363n de Microsoft \372til para setup, ejecuci\363n y administraci\363n.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 714.3701 cm
+Q
+q
+1 0 0 1 51.35433 688.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (PowerShell vs CMD vs VS Code) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 669.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (PowerShell y CMD son shells de Windows. VS Code es un editor que puede alojarlos en su terminal integrado.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 643.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Navegaci\363n) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 624.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Get-Location, Get-ChildItem y Set-Location permiten navegar; aliases como pwd, ls y cd son comunes.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 598.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Variables de entorno) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 579.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Use $env:NOMBRE="valor" para la sesi\363n actual, \372til para credenciales sin hardcode.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 553.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Python y venv) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 534.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Active entornos virtuales y ejecute pip, pytest y Playwright desde PowerShell.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 508.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Git) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 489.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (git status, add, commit, pull y push funcionan normalmente cuando Git est\341 instalado y disponible en PATH.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 463.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Automatizaci\363n) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 444.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (PowerShell puede automatizar tareas repetitivas, manipular archivos e integrar comandos del sistema.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 418.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Consejo de QA) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 399.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL /F4 9.5 Tf 13 TL (nn) Tj /F1 9.5 Tf 13 TL ( QA Tip: identifique el shell antes de copiar comandos; la sintaxis de variables cambia entre shells.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 373.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Recursos oficiales) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 354.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Site oficial: https://learn.microsoft.com/powershell/) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+0.843137 0.901961 0.960784 RG
+0.6 w
+n
+36 815.8898 m
+559.2756 815.8898 l
+S
+0.070588 0.207843 0.356863 rg
+BT
+/F2-0 8.2 Tf
+9.84 TL
+ET
+BT
+1 0 0 1 40 821.8898 Tm
+(QA LAB BRASIL) Tj
+T*
+ET
+0.356863 0.45098 0.564706 rg
+BT
+/F1-0 6.8 Tf
+8.16 TL
+ET
+BT
+1 0 0 1 398.216 821.8898 Tm
+(QUALITY ENGINEERING \174 DOCUMENTO OFICIAL) Tj
+T*
+ET
+q
+0.848048 0.529919 -0.529919 0.848048 297.6378 420.9449 cm
+0.08 0.21 0.36 rg
+/gRLs0 gs
+BT
+/F2-0 42 Tf
+50.4 TL
+ET
+BT
+1 0 0 1 -164.493 0 Tm
+(QA LAB BRASIL) Tj
+T*
+ET
+Q
+0.843137 0.901961 0.960784 RG
+n
+36 24 m
+559.2756 24 l
+S
+0.356863 0.45098 0.564706 rg
+BT
+/F1-0 6.6 Tf
+7.92 TL
+ET
+BT
+1 0 0 1 40 14 Tm
+(qualityassurancebrasil\056com\056br) Tj
+T*
+ET
+BT
+1 0 0 1 212.28 14 Tm
+(QA Lab Brasil v2\0562 \174 ES \174 Actualizado\072 septiembre de 2026) Tj
+T*
+ET
+BT
+1 0 0 1 514.547 14 Tm
+(Pagina 1 de 1) Tj
+T*
+ET
+Q
+
+
+endstream
 endobj
 6 0 obj
 <<
-/Contents 10 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 9 0 R /Resources <<
-/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
->> /Rotate 0 /Trans <<
-
->> 
-  /Type /Page
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
 >>
 endobj
 7 0 obj
 <<
-/PageMode /UseNone /Pages 9 0 R /Type /Catalog
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
 >>
 endobj
 8 0 obj
 <<
-/Author (\(anonymous\)) /CreationDate (D:20260918234449+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20260918234449+00'00') /Producer (ReportLab PDF Library - \(opensource\)) 
-  /Subject (\(unspecified\)) /Title (\(anonymous\)) /Trapped /False
+/BaseFont /Helvetica-BoldOblique
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
 >>
 endobj
 9 0 obj
 <<
-/Count 1 /Kids [ 6 0 R ] /Type /Pages
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
 >>
 endobj
 10 0 obj
 <<
-/Filter [ /ASCII85Decode /FlateDecode ] /Length 1097
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F3
+/Subtype /Type1
+/Type /Font
 >>
-stream
-GatUrhfIL@&BE],=6sJgOEQFF8:Y]W&(o-fcIdsoX6GOLf$XWC89`548M9u-]-f.'gph$*R'Aq)mI#Dr]AHNm"8RVphm<AC:S@_2KQ%4=*5X[k+h<:#aiX:@nF=e$(dt,YMI83-#16rmb&ajNBU6p&6m@<=TG",`JAZ4h+7@Cu$nh&kc4*t&It;,6afdnMNI62@.,LREhB[td3:McZ9qlS`#fb>,,jS#+Dm&a8RG0%L3L"1gDJ!bR[m/aF5G\eK]qn-5BN%S1;u]k+*AuU.Ug?D`C/NrI+="\EklMn*K.5\Hj%0!(=.C1Gp"[Ah1`8?'XOiW9ar\oed]1!-%@@m3fK.JN#W`M+T=4:=)oeeRqtJbfpY1m+Ngic25cu\D>lF*jICk1@S^IGR`oI$"IZa(ol?/<DC'E2g[[ubkX>9`^K=2[@$^Ce9fP(HF.tY&Nhi_6Jd,`m^al=*q1-uh!@-)'10[h$JO5oFhJ=j*D7GGuqM2kHo7riN$FXm7:WX&OT`KKiZ%nD<r]\Q_EdSk*O6oFY*GJ]3a$H#gZ)Tmi:#Jt`qC"@6iX-Fm`!S(k0W7J\V@D'pcBeLoLUXC1RFmuLLM>_,p?B_D85(C+(s8)`(=1-,g]\3d-mUt$5:*uj@_S#X'#cC-+VG]ljZt0D61g);;m)!IYW2-TJDQ1<Ne5CRI7*uU0R\c&1D)X#qCchsndV,/oadfWg=LiTcSQrkREW'9iZ#nD`/"M'Vj"=:8LT9M^]D^^Kdj)f:?jG8VX)(RJ=p@BL6AA&)?8Wd(<d"f@9(\bkb%,3b?sX+"K![ja/!([gVVGGkLLNI\.i8)F-Sr3-<\2u!-?VIE5'9+*Nt2uPm.i*\+^'2GLiuSZN@/WP0]::h=tip=@hBXeh#\<!<*;YR0"L]<h>4PLfKDrI'=gf-'mmhN]Y[%4FeP(sQ1hZYoTJ`bU1ek_aSI"<BCOEJ49)-,[6VUj)6e@Ij#QumcP("XUX3b71t<o@5^V,8R]s`F\QQ,FY+&m?cff#td,RFH!GaMP</+c!5)bajl8`cFZpV:L0lLlKijHnR@-Lp1chdU1d&<UN?d]!!eM"UF)[-+P28RDLcJe#d~>endstream
+endobj
+11 0 obj
+<<
+/BaseFont /ZapfDingbats
+/Name /F4
+/Subtype /Type1
+/Type /Font
+>>
 endobj
 xref
-0 11
+0 12
 0000000000 65535 f 
-0000000061 00000 n 
-0000000122 00000 n 
-0000000229 00000 n 
-0000000348 00000 n 
-0000000460 00000 n 
-0000000543 00000 n 
-0000000747 00000 n 
-0000000815 00000 n 
-0000001095 00000 n 
-0000001154 00000 n 
+0000000015 00000 n 
+0000000054 00000 n 
+0000000113 00000 n 
+0000000162 00000 n 
+0000000479 00000 n 
+0000004355 00000 n 
+0000004462 00000 n 
+0000004569 00000 n 
+0000004688 00000 n 
+0000004800 00000 n 
+0000004913 00000 n 
 trailer
 <<
-/ID 
-[<83e4aae18e44095c973f8d96ccf7947c><83e4aae18e44095c973f8d96ccf7947c>]
-% ReportLab generated PDF document -- digest (opensource)
-
-/Info 8 0 R
-/Root 7 0 R
-/Size 11
+/Size 12
+/Root 3 0 R
+/Info 1 0 R
 >>
 startxref
-2343
+4997
 %%EOF

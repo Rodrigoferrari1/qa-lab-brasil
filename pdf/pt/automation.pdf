@@ -1,99 +1,521 @@
 %PDF-1.4
-%“Œ‹ž ReportLab Generated PDF document (opensource)
+%âãÏÓ
 1 0 obj
 <<
-/F1 2 0 R /F2 3 0 R /F3 4 0 R
+/Producer (pypdf)
 >>
 endobj
 2 0 obj
 <<
-/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
+/Type /Pages
+/Count 2
+/Kids [ 4 0 R 11 0 R ]
 >>
 endobj
 3 0 obj
 <<
-/BaseFont /Helvetica-BoldOblique /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
+/Type /Catalog
+/Pages 2 0 R
 >>
 endobj
 4 0 obj
 <<
-/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F3 /Subtype /Type1 /Type /Font
+/Contents 5 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/ExtGState <<
+/gRLs0 <<
+/ca 0.035
+>>
+>>
+/Font <<
+/F1 6 0 R
+/F1-0 7 0 R
+/F2 8 0 R
+/F2-0 9 0 R
+/F3 10 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
 >>
 endobj
 5 0 obj
 <<
-/Contents 10 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 9 0 R /Resources <<
-/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
->> /Rotate 0 /Trans <<
-
->> 
-  /Type /Page
+/Length 6326
 >>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 51.35433 779.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 12 Tf 14 TL (QA Lab Brasil) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 749.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F3 20 Tf 24 TL 142.9235 0 Td (Automa\347\343o de Testes) Tj T* -142.9235 0 Td ET
+Q
+Q
+q
+1 0 0 1 51.35433 724.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (O que automatizar, arquitetura, Playwright, Selenium, Robot Framework e manuten\347\343o sustent\341vel.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 714.3701 cm
+Q
+q
+1 0 0 1 51.35433 688.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (O que \351 automa\347\343o de testes?) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 643.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 29.5 Tm /F1 9.5 Tf 13 TL (Automa\347\343o de testes usa c\363digo e ferramentas para executar verifica\347\365es de forma repet\355vel, comparar resultados e) Tj T* (produzir evid\352ncias. Ela n\343o substitui pensamento cr\355tico, explora\347\343o ou an\341lise de risco; automatiza verifica\347\365es) Tj T* (que fazem sentido repetir.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 617.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Para que serve) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 585.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Reduz trabalho repetitivo, acelera feedback, amplia frequ\352ncia de regress\343o, apoia CI/CD e libera tempo humano) Tj T* (para investiga\347\343o e testes que exigem julgamento. O valor vem de feedback confi\341vel, n\343o da quantidade de scripts.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 559.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Quando automatizar) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 527.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Bons candidatos costumam ser cen\341rios est\341veis, repetitivos, cr\355ticos, executados com frequ\352ncia e com resultado) Tj T* (objetivo. Considere custo de manuten\347\343o, dados, ambiente, depend\352ncia externa e velocidade de feedback.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 501.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Quando n\343o automatizar primeiro) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 456.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 29.5 Tm /F1 9.5 Tf 13 TL (Funcionalidade inst\341vel, prot\363tipo descart\341vel, fluxo executado raramente, valida\347\343o altamente subjetiva ou cen\341rio) Tj T* -0.121837 Tw (cujo custo de automa\347\343o supera o benef\355cio podem ser prioridades menores. A decis\343o deve ser baseada em risco e) Tj T* 0 Tw (retorno.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 430.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Pir\342mide e camadas) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 385.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 29.5 Tm /F1 9.5 Tf 13 TL (Uma estrat\351gia saud\341vel combina verifica\347\365es em diferentes n\355veis. Testes menores tendem a ser mais r\341pidos e) Tj T* (baratos; E2E cobrem fluxos amplos, mas costumam ser mais lentos e fr\341geis. O equilibrio depende da arquitetura e) Tj T* (do risco.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 359.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Playwright, Selenium, Cypress e Robot Framework) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 314.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 29.5 Tm /F1 9.5 Tf 13 TL (S\343o op\347\365es com caracter\355sticas e ecossistemas diferentes. Playwright oferece automa\347\343o moderna de browsers e) Tj T* (APIs; Selenium possui amplo ecossistema WebDriver; Cypress tem arquitetura e experi\352ncia pr\363prias; Robot) Tj T* (Framework usa abordagem keyword-driven e bibliotecas extensivas.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 288.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Arquitetura de automa\347\343o) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 256.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Separe dados, configura\347\343o, locators e regras reutiliz\341veis. Fixtures, Page Objects quando adequados, helpers,) Tj T* (configura\347\343o por ambiente e conven\347\365es de nomes reduzem duplica\347\343o e tornam a suite mais f\341cil de evoluir.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 230.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Flaky tests) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 185.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 29.5 Tm /F1 9.5 Tf 13 TL (Um flaky test passa e falha sem mudan\347a relevante no produto. Causas incluem sincroniza\347\343o, dados) Tj T* (compartilhados, ambiente inst\341vel, depend\352ncias externas e selectors fr\341geis. Retry pode reduzir ru\355do) Tj T* (temporariamente, mas n\343o deve esconder a causa.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 159.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Evid\352ncias e debugging) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 127.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Screenshots, v\355deos, traces, logs, console e network ajudam a investigar falhas. A automa\347\343o deve produzir) Tj T* (informa\347\343o suficiente para responder onde, quando e por que a verifica\347\343o falhou.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 101.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Automa\347\343o em CI/CD) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 56.37008 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 29.5 Tm /F1 9.5 Tf 13 TL (No pipeline, testes podem rodar em pull requests, merges, builds ou schedules. Suites devem ser organizadas por) Tj T* -0.075271 Tw (velocidade e risco: checks r\341pidos cedo; suites mais pesadas em etapas adequadas; resultados e artefatos precisam) Tj T* 0 Tw (ficar acess\355veis ao time.) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+0.843137 0.901961 0.960784 RG
+0.6 w
+n
+36 815.8898 m
+559.2756 815.8898 l
+S
+0.070588 0.207843 0.356863 rg
+BT
+/F2-0 8.2 Tf
+9.84 TL
+ET
+BT
+1 0 0 1 40 821.8898 Tm
+(QA LAB BRASIL) Tj
+T*
+ET
+0.356863 0.45098 0.564706 rg
+BT
+/F1-0 6.8 Tf
+8.16 TL
+ET
+BT
+1 0 0 1 398.216 821.8898 Tm
+(QUALITY ENGINEERING \174 DOCUMENTO OFICIAL) Tj
+T*
+ET
+q
+0.848048 0.529919 -0.529919 0.848048 297.6378 420.9449 cm
+0.08 0.21 0.36 rg
+/gRLs0 gs
+BT
+/F2-0 42 Tf
+50.4 TL
+ET
+BT
+1 0 0 1 -164.493 0 Tm
+(QA LAB BRASIL) Tj
+T*
+ET
+Q
+0.843137 0.901961 0.960784 RG
+n
+36 24 m
+559.2756 24 l
+S
+0.356863 0.45098 0.564706 rg
+BT
+/F1-0 6.6 Tf
+7.92 TL
+ET
+BT
+1 0 0 1 40 14 Tm
+(qualityassurancebrasil\056com\056br) Tj
+T*
+ET
+BT
+1 0 0 1 210.9996 14 Tm
+(QA Lab Brasil v2\0562 \174 PT\055BR \174 Atualizado\072 setembro de 2026) Tj
+T*
+ET
+BT
+1 0 0 1 514.547 14 Tm
+(Pagina 1 de 2) Tj
+T*
+ET
+Q
+
+
+endstream
 endobj
 6 0 obj
 <<
-/Contents 11 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 9 0 R /Resources <<
-/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
->> /Rotate 0 /Trans <<
-
->> 
-  /Type /Page
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
 >>
 endobj
 7 0 obj
 <<
-/PageMode /UseNone /Pages 9 0 R /Type /Catalog
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
 >>
 endobj
 8 0 obj
 <<
-/Author (\(anonymous\)) /CreationDate (D:20260918234448+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20260918234448+00'00') /Producer (ReportLab PDF Library - \(opensource\)) 
-  /Subject (\(unspecified\)) /Title (\(anonymous\)) /Trapped /False
+/BaseFont /Helvetica-BoldOblique
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
 >>
 endobj
 9 0 obj
 <<
-/Count 2 /Kids [ 5 0 R 6 0 R ] /Type /Pages
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
 >>
 endobj
 10 0 obj
 <<
-/Filter [ /ASCII85Decode /FlateDecode ] /Length 2239
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F3
+/Subtype /Type1
+/Type /Font
 >>
-stream
-GatU49i'e?&A?DnW$ApsB&Yf/@l^V-#,IAN43Wf:?KT\E/"se&S*kHMq=XWb*@FU4N<MYA@)qs5Wa<A^6mMUtiGVm2I@AR(bD;lIc/o^7L(g#(V2O#^q[_*>S'u$f:FC-U7n4rEph1B#3SY[0gNN)f(8A36QmlE^]J_2#%_eR_=-_,[X.7IbUY.6DIMXBhnahp=aaQaD`_fFiOZ46a8'tj04;l1<gn//"E)q<aW1WV@#f!X<N+p;WZYMr'A,CiWM.f$))c8_f2DIXB+s2qq*4#T6pGJ-A_0GoOf`<OK?Ye!%[VA'/\U&S+H?%sMFNlh4\h43Z_^*7NV,[[`(jebHKdplajX)'N,FR!?T4l@BYX`,s9c>[6iUHVeJ"CN=,s<N!fLbXH4H3C0DO'%5ZN%<s_S\sX^W0)UX7QdM2kI!lMUJ-e@@ZS95qV89V6Zq!N[eTTnKXs>=-f.goj"CF.u.%c$o;s7$Up@37_,EqP^>Zp.HF?abHB.(b)@Q_;`q"[am*6e&heB^B?"M_PoJ.?Y,H1,9:XVJel6YR69']t.h93eblC%0\Zq]Y9MJ,#NcOMhij.:7k-WTB0>tU88J%>k?X/\F/"N(T+`2S5c=(he`m2)Wnqq5'G00VE9ol3!4[k.0[D3;Be]D$\W;NMed-E!XWDX-@@[T#bM+[5UV5SEo$^U8I(8=W*?3!n?C6!44#+*ZNHp%FfcH12Q7Q_KPTplrfBf;>OWk)H0kObJNgU[ij%/d%?JDdl](CfFmqF4*]TRgA\RV`c^3ink;eT_VYY0!K.9(5b^kQ.#R?$Y$(`9DA.Z+^Y+GBcNjF@`Kg\+0H`Goat%VKA'>/+W>"XOK4jC.n#!8coMl<m/Rp'a&20khqGM2P]=;m=8ic<3_'9LMQ39?3=r*>8C^93_).j@uG8WFT]&<o'l_,AE$2rM$C2C$OEZS2JsR!gJZf-:m8$oC]Wu,i@'!oKW?`j+A%jK"`%oIH_3tBha,ST26(%VPrFQcZ:,8J%D)2KcX'[N>aHqP\N/"%8$bLC5e:BG:uPui[M^q+!5gBsf)VBTf%`++HM<JTd5X1IO(e5P#AJU%2TY<(0NV=2o7dl1GqMgF4K("Q2slD&)B4i["QouK1o)p09!rFnd4u7U--EL0#ij%Bh4'BY$@u=Q`g3Jl-VWOI>8^RR0IGf]r@FMC$3]G`4,eLtoBY?7KDgX([7V3J[(nLX<G*h<Ac*0H^9kSL;OPP=(/UR/YH2)j!]O;c/N>/e'Kf>CF.orcaYKmgp0LM@45c<$\eneiD.<$/kV!b'J]r&+G3C8TbD!!fBSTu>&RtN)TFm0SJ.>[U3t"E""CB-X['"r9"5Was<;j+m4FaAAV'5aW@G)liBYX=j*V\lbEiD*]$JAn(<=1c$4L$M;-*]2ImPJ;d#WAUl3uXNG>YUh$Bn:7<EWlH"2%RL)$iAW-(LZ+N"1.;5FB:`?l]qJ2jKmBM_p`bM]Q@-i:XNb;dl"7/<gX7?T\q#YGO9RKhaN*r`7Rc*p:oW8>g<8h`)d8/M,&).4GPt*9jl^,<M,gGI^<QLlf@].oQkcMYmasrn(.uU`9k\U8nV"F[-iIK+YfsJ@M!&uN9/c'fRC7*IRoh%&b.Y.>bS=m%@!K2(BfoBPml-p34RoeR(:$ORHGX='R%1%K-Yu1/%<h*V(#O+JB/F2WhCN`D4q4.<e5t#[LI<%-/MVa@XsdlYBq_dnXK@Q108Zq6#u[,p#qsJ%e=GLi?[NTbf:^W>BmZNU<^W,j[]kW3A6Y^[PS[n7j<B-'aDQA$`&&"gCta2.3V?-AQ8sp3Hh),DRS*H[[u,P?ETQ"dS(.%UnP')9`B[XI0r'LJJT[m.fs_EOb5sl6[\)uI0`Q4SIH+c@^#m[7c63NecY'ubs['/4]mjQaeW5oFLgVooNfoC3jfBJ\hP8f?\TK(+G&XGascCad>YFg\I;BX5#@o`75r;(XH,o\BpG?WT"d0K6/,?1)?O3!UNfk05qb&(&<:*?K;uaQrXN*]i%X!G7Ege5&0hgAWV`@]B)0.;D?A'(Ng)[PJ"YKBn_5D_D[`,<37fI6Yr[Utaq^`V!;KC@GtrB$'#m18ZX!iq$%u%86p80S"s]8R,/+grErhe#)]?7a19[+Y8MRXuY=D)B!CfB*G)eYbG8>Z@Co2D\+t_p#S2S=M)Wn-R"iKiK?@cEd8s`9,II2Uim<K`_MHJSoh5],YeUk8q<rd9BD\OHG6QRVI?.eDZIuH`&T)~>endstream
 endobj
 11 0 obj
 <<
-/Filter [ /ASCII85Decode /FlateDecode ] /Length 266
+/Contents 12 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/ExtGState <<
+/gRLs0 <<
+/ca 0.035
+>>
+>>
+/Font <<
+/F1 6 0 R
+/F1-0 13 0 R
+/F2 8 0 R
+/F2-0 14 0 R
+/F3 10 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+12 0 obj
+<<
+/Length 1254
 >>
 stream
-GasJKYti4k%#4L?`BODjTuJ\G`^@P[E`,@B2s6b>Q_oG#JYsm[+U3UQ/6TDtIpYO@F3pAH#OX.G*XQot4+J6u^cp_n<c8_$Dmj2dD4&^nS`-`KI$_nH3f\tF'Bf\DYW`.,`%1>Si6La\-eKqmgN2!`fSa4kjnR$IhYqFJmE%`JP]BlK=gVI4n<1de`@OjtqP4^UlFn)/$5]RJI--/IoQZ3A<u`?h:@`kfQc89T,\$:q3CHr[KDP.`(OD'TM.1p^!nA+]e5al~>endstream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 51.35433 777.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Dica de QA) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 758.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Automatize para obter feedback confi\341vel, n\343o apenas para aumentar uma porcentagem de cobertura.) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+0.843137 0.901961 0.960784 RG
+0.6 w
+n
+36 815.8898 m
+559.2756 815.8898 l
+S
+0.070588 0.207843 0.356863 rg
+BT
+/F2-0 8.2 Tf
+9.84 TL
+ET
+BT
+1 0 0 1 40 821.8898 Tm
+(QA LAB BRASIL) Tj
+T*
+ET
+0.356863 0.45098 0.564706 rg
+BT
+/F1-0 6.8 Tf
+8.16 TL
+ET
+BT
+1 0 0 1 398.216 821.8898 Tm
+(QUALITY ENGINEERING \174 DOCUMENTO OFICIAL) Tj
+T*
+ET
+q
+0.848048 0.529919 -0.529919 0.848048 297.6378 420.9449 cm
+0.08 0.21 0.36 rg
+/gRLs0 gs
+BT
+/F2-0 42 Tf
+50.4 TL
+ET
+BT
+1 0 0 1 -164.493 0 Tm
+(QA LAB BRASIL) Tj
+T*
+ET
+Q
+0.843137 0.901961 0.960784 RG
+n
+36 24 m
+559.2756 24 l
+S
+0.356863 0.45098 0.564706 rg
+BT
+/F1-0 6.6 Tf
+7.92 TL
+ET
+BT
+1 0 0 1 40 14 Tm
+(qualityassurancebrasil\056com\056br) Tj
+T*
+ET
+BT
+1 0 0 1 210.9996 14 Tm
+(QA Lab Brasil v2\0562 \174 PT\055BR \174 Atualizado\072 setembro de 2026) Tj
+T*
+ET
+BT
+1 0 0 1 514.547 14 Tm
+(Pagina 2 de 2) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+13 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+14 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
 endobj
 xref
-0 12
+0 15
 0000000000 65535 f 
-0000000061 00000 n 
-0000000112 00000 n 
-0000000219 00000 n 
-0000000338 00000 n 
-0000000450 00000 n 
-0000000654 00000 n 
-0000000858 00000 n 
-0000000926 00000 n 
-0000001206 00000 n 
-0000001271 00000 n 
-0000003602 00000 n 
+0000000015 00000 n 
+0000000054 00000 n 
+0000000120 00000 n 
+0000000169 00000 n 
+0000000475 00000 n 
+0000006853 00000 n 
+0000006960 00000 n 
+0000007067 00000 n 
+0000007186 00000 n 
+0000007298 00000 n 
+0000007411 00000 n 
+0000007721 00000 n 
+0000009028 00000 n 
+0000009136 00000 n 
 trailer
 <<
-/ID 
-[<e9f300dc952997d4cfc773d681961f0c><e9f300dc952997d4cfc773d681961f0c>]
-% ReportLab generated PDF document -- digest (opensource)
-
-/Info 8 0 R
-/Root 7 0 R
-/Size 12
+/Size 15
+/Root 3 0 R
+/Info 1 0 R
 >>
 startxref
-3959
+9249
 %%EOF

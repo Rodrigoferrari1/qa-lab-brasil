@@ -1,74 +1,370 @@
 %PDF-1.4
-%“Œ‹ž ReportLab Generated PDF document (opensource)
+%âãÏÓ
 1 0 obj
 <<
-/F1 2 0 R /F2 3 0 R
+/Producer (pypdf)
 >>
 endobj
 2 0 obj
 <<
-/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
+/Type /Pages
+/Count 1
+/Kids [ 4 0 R ]
 >>
 endobj
 3 0 obj
 <<
-/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
+/Type /Catalog
+/Pages 2 0 R
 >>
 endobj
 4 0 obj
 <<
-/Contents 8 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 7 0 R /Resources <<
-/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
->> /Rotate 0 /Trans <<
-
->> 
-  /Type /Page
+/Contents 5 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/ExtGState <<
+/gRLs0 <<
+/ca 0.035
+>>
+>>
+/Font <<
+/F1 6 0 R
+/F1-0 7 0 R
+/F2 8 0 R
+/F2-0 9 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
 >>
 endobj
 5 0 obj
 <<
-/PageMode /UseNone /Pages 7 0 R /Type /Catalog
+/Length 5199
 >>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 57.02362 757.8661 cm
+q
+.043137 .184314 .356863 rg
+BT 1 0 0 1 0 5 Tm /F2 22 Tf 27 TL 175.2082 0 Td (WebdriverIO) Tj T* -175.2082 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.02362 717.8661 cm
+q
+.294118 .419608 .560784 rg
+BT 1 0 0 1 0 19.5 Tm /F1 10.5 Tf 15 TL -0.017565 Tw (Framework JavaScript/TypeScript para automatizaci\363n Web y Mobile con runner configurable, servicios) Tj T* 0 Tw (e integraciones.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 685.8661 cm
+q
+.043137 .184314 .356863 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (Qu\351 es y cu\341ndo usarlo) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 649.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 19.5 Tm /F1 10.5 Tf 15 TL (WebdriverIO ofrece automatizaci\363n moderna Web/Mobile para equipos JS/TS con runner configurable) Tj T* (e integraci\363n WebDriver/BiDi.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 621.8661 cm
+q
+.043137 .184314 .356863 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (Prerrequisitos) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 600.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.5 Tm /F1 10.5 Tf 15 TL (Instale Node.js/npm compatibles. Para Mobile prepare Appium, SDKs y dispositivos/emuladores.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 572.8661 cm
+q
+.043137 .184314 .356863 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (Instalaci\363n paso a paso) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 551.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.5 Tm /F1 10.5 Tf 15 TL (Use npm init wdio@latest y seleccione tipo de prueba, runner, lenguaje, reporter y servicios.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 523.8661 cm
+q
+.043137 .184314 .356863 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (Configuraci\363n) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 502.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.5 Tm /F1 10.5 Tf 15 TL (wdio.conf define specs, capabilities, baseUrl, timeouts, reporters, services y hooks.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 474.8661 cm
+q
+.043137 .184314 .356863 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (Primera prueba) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 453.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.5 Tm /F1 10.5 Tf 15 TL (Cree un spec y ejecute npx wdio run ./wdio.conf.*.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 425.8661 cm
+q
+.043137 .184314 .356863 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (Web y Mobile) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 404.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.5 Tm /F1 10.5 Tf 15 TL (Configure capabilities de browser para Web y Appium/plataforma para Mobile.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 376.8661 cm
+q
+.043137 .184314 .356863 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (Page Objects y servicios) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 355.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.5 Tm /F1 10.5 Tf 15 TL (Use Page Objects cuando mejoren mantenimiento y mantenga servicios expl\355citos.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 327.8661 cm
+q
+.043137 .184314 .356863 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (CI/CD y reportes) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 306.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.5 Tm /F1 10.5 Tf 15 TL (Controle paralelismo, publique reportes/evidencias y guarde credenciales como secrets.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 278.8661 cm
+q
+.043137 .184314 .356863 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (Soluci\363n de problemas) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 257.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.5 Tm /F1 10.5 Tf 15 TL (Revise Node, capabilities, drivers, services, puertos, Appium y variables de entorno.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 202.8661 cm
+q
+.219608 .741176 .972549 RG
+1 w
+.913725 .968627 1 rg
+n -8 -8 497.2283 61 re B*
+Q
+q
+BT 1 0 0 1 0 34.5 Tm 15 TL /F2 10.5 Tf 0 0 0 rg (Consejo de QA) Tj /F1 10.5 Tf  T* (Use la herramienta dentro de una estrategia de calidad: automatice riesgos relevantes, mantenga la) Tj T* (suite observable y trate fallos de automatizaci\363n como c\363digo de producci\363n.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 174.8661 cm
+q
+.043137 .184314 .356863 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (Recursos oficiales) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 153.8661 cm
+q
+BT 1 0 0 1 0 4.5 Tm 15 TL /F2 10.5 Tf 0 0 0 rg (Sitio oficial:) Tj /F1 10.5 Tf ( https://webdriver.io/) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 130.8661 cm
+q
+BT 1 0 0 1 0 4.5 Tm 15 TL /F2 10.5 Tf 0 0 0 rg (Instalaci\363n / descarga:) Tj /F1 10.5 Tf ( https://webdriver.io/docs/gettingstarted/) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 107.8661 cm
+q
+BT 1 0 0 1 0 4.5 Tm 15 TL /F2 10.5 Tf 0 0 0 rg (Documentaci\363n:) Tj /F1 10.5 Tf ( https://webdriver.io/docs/) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+0.843137 0.901961 0.960784 RG
+0.6 w
+n
+36 815.8898 m
+559.2756 815.8898 l
+S
+0.070588 0.207843 0.356863 rg
+BT
+/F2-0 8.2 Tf
+9.84 TL
+ET
+BT
+1 0 0 1 40 821.8898 Tm
+(QA LAB BRASIL) Tj
+T*
+ET
+0.356863 0.45098 0.564706 rg
+BT
+/F1-0 6.8 Tf
+8.16 TL
+ET
+BT
+1 0 0 1 398.216 821.8898 Tm
+(QUALITY ENGINEERING \174 DOCUMENTO OFICIAL) Tj
+T*
+ET
+q
+0.848048 0.529919 -0.529919 0.848048 297.6378 420.9449 cm
+0.08 0.21 0.36 rg
+/gRLs0 gs
+BT
+/F2-0 42 Tf
+50.4 TL
+ET
+BT
+1 0 0 1 -164.493 0 Tm
+(QA LAB BRASIL) Tj
+T*
+ET
+Q
+0.843137 0.901961 0.960784 RG
+n
+36 24 m
+559.2756 24 l
+S
+0.356863 0.45098 0.564706 rg
+BT
+/F1-0 6.6 Tf
+7.92 TL
+ET
+BT
+1 0 0 1 40 14 Tm
+(qualityassurancebrasil\056com\056br) Tj
+T*
+ET
+BT
+1 0 0 1 212.28 14 Tm
+(QA Lab Brasil v2\0562 \174 ES \174 Actualizado\072 septiembre de 2026) Tj
+T*
+ET
+BT
+1 0 0 1 514.547 14 Tm
+(Pagina 1 de 1) Tj
+T*
+ET
+Q
+
+
+endstream
 endobj
 6 0 obj
 <<
-/Author (\(anonymous\)) /CreationDate (D:20260919000504+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20260919000504+00'00') /Producer (ReportLab PDF Library - \(opensource\)) 
-  /Subject (\(unspecified\)) /Title (WebdriverIO) /Trapped /False
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
 >>
 endobj
 7 0 obj
 <<
-/Count 1 /Kids [ 4 0 R ] /Type /Pages
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
 >>
 endobj
 8 0 obj
 <<
-/Filter [ /ASCII85Decode /FlateDecode ] /Length 1486
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
 >>
-stream
-Gatn&a`?,q&;KY&MEZ>k1A=L,9l*P$S66J/9$JXuLhtIX8:h%:.A!H0"rCG5P!L:W>S\THm(YdW-5RYJ\_[:m"Lq]erS@_0K>e2Q^^=K>-iCD4GrTf!/&U"[4?rBZVH"6t0&9%PQ4s%r++rZ%Zj=J<_^L@hOSK2Ge(pH!@8W0o&%p2@(Ma+j**SqtGdP6,i:J*rAs0>p?@VkV(AG$mKCf%78C7m[?;otRWUcp;lR$!CmPJtJ4cGmj$!sQNVq)uLI!>4O]FVEWF2r=BG!mE1E;EnH&iW.+Kb&"Ek,IEa@kSm=m$CO)aagdY-s=IfAL[Z=7t(X&&3Rg:@`]"2<)b!pW^<\O/"X55/IS)!6Fl5-(M\'Gl"hR5WkhrgdmSo4)L((N&1-:2S4kW.$sfXa:UL"s2shDGF9*+:OO?1/X%YdZQn3oAP$kkr`9F_Tg$]+HLm>mm?\)F=$t[C7A:$Ss*<SL4]G:i<bjECI/aB)=]9Kd;2X>26Q[HeIW-ds[W.0sYV05,ojs_@cA(u#&QZMXCk3GVsN3N7T,cuE)=*7)rb*k!t,%\S<c#[DGOmjR-X)$RX':@,Fd'8^Q7Bh'Tf0\.m[KXj-1lBj<p5[.ppLJW*2,aQYpL^'CF:VdS=WqHr]]'B:1+n#-=G*Us1^XUa]B"[#+qcX?Z,J#Y$kYLN!irtFpJ_9OY)j)]l/P]*0S/H`7tZ%Dk/W#"^q/PHJ54S!FA`a>'dlVR``,YTAMp6EUR4CEZt'M.b@3dH9,)6<SlhtsG'6mN:5H)#aFZB2@_S!Rb)u[.%;^h!!Pki`,.(@jM&aN^9\W$lhmY6/FB!g&Dm<JY-8`Bqoo.^MB40C!%Uh'p/+/+LcEX2[)[_M;)>'*gRUt*8RVX9\anj7gW<"8/NfFo2/4]KFUpFjdDR(4[#f?`PeXl08A\+_)GY\L4g*rd\=RhPaeHcf=J'Q`26GRM^5uU(:lK2W/c23o#nVuOMD-tOYer]bU\=DcephHTAAr6WtY"CF"\m6*LTuF,B)qR3i.cj>G-Im-.&XZ2W^S<-U)lb$8oNbtDb_q[[0q4)q*F!")Hj$kMOr:Lqp1F4EATpdD<'ODGYNGdc[o9do;j7tlP9ER*j-iQBLU8\)FZ@N9R%W4"7[>ulr\=?aLa0.$YnmUC\G_udgmhJFip)6i2$'O\,HgaDK(DD1"k2,p]Yk&$(fcsHZd.L#p\s*"mrF24J2#F:@Rs@>BeOA\Fo$;jFlTCFb(@GMNI@m$4[rN=aO<)U1u6S.+_dUj\_\Hr"j^:oYoSU616r&$VsKX)DQJ!/'$>(^(>G^.W`i0B67b!>9p\+hO+nB"$IQ,-3Fm?]S*G.9o3m:a=doou#,gH%Z/+87_iotbMA>U/bJ=*`bC(so^NY?PMH_g(]6J=MVf:6E[CWU0c1mLAikdTMjZ<^GH8b3FF=o%S12"T61Qa.Ka/7fq:=#Y4QC4[piWE0+7,!qf`!>*_-MEig3;F)F*)Ap~>endstream
+endobj
+9 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
 endobj
 xref
-0 9
+0 10
 0000000000 65535 f 
-0000000061 00000 n 
-0000000102 00000 n 
-0000000209 00000 n 
-0000000321 00000 n 
-0000000524 00000 n 
-0000000592 00000 n 
-0000000870 00000 n 
-0000000929 00000 n 
+0000000015 00000 n 
+0000000054 00000 n 
+0000000113 00000 n 
+0000000162 00000 n 
+0000000457 00000 n 
+0000005708 00000 n 
+0000005815 00000 n 
+0000005922 00000 n 
+0000006034 00000 n 
 trailer
 <<
-/ID 
-[<dcc8b065941aff12854f7bcdd740fafe><dcc8b065941aff12854f7bcdd740fafe>]
-% ReportLab generated PDF document -- digest (opensource)
-
-/Info 6 0 R
-/Root 5 0 R
-/Size 9
+/Size 10
+/Root 3 0 R
+/Info 1 0 R
 >>
 startxref
-2506
+6146
 %%EOF

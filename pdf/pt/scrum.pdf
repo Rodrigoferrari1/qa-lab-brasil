@@ -1,99 +1,535 @@
 %PDF-1.4
-%“Œ‹ž ReportLab Generated PDF document (opensource)
+%âãÏÓ
 1 0 obj
 <<
-/F1 2 0 R /F2 3 0 R /F3 4 0 R
+/Producer (pypdf)
 >>
 endobj
 2 0 obj
 <<
-/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
+/Type /Pages
+/Count 2
+/Kids [ 4 0 R 11 0 R ]
 >>
 endobj
 3 0 obj
 <<
-/BaseFont /Helvetica-BoldOblique /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
+/Type /Catalog
+/Pages 2 0 R
 >>
 endobj
 4 0 obj
 <<
-/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F3 /Subtype /Type1 /Type /Font
+/Contents 5 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/ExtGState <<
+/gRLs0 <<
+/ca 0.035
+>>
+>>
+/Font <<
+/F1 6 0 R
+/F1-0 7 0 R
+/F2 8 0 R
+/F2-0 9 0 R
+/F3 10 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
 >>
 endobj
 5 0 obj
 <<
-/Contents 10 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 9 0 R /Resources <<
-/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
->> /Rotate 0 /Trans <<
-
->> 
-  /Type /Page
+/Length 6467
 >>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 51.35433 779.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 12 Tf 14 TL (QA Lab Brasil) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 749.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F3 20 Tf 24 TL 215.1635 0 Td (Scrum) Tj T* -215.1635 0 Td ET
+Q
+Q
+q
+1 0 0 1 51.35433 724.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Framework \341gil para desenvolver produtos complexos com ciclos curtos de inspe\347\343o e adapta\347\343o.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 714.3701 cm
+Q
+q
+1 0 0 1 51.35433 688.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Scrum em linguagem simples) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 643.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 29.5 Tm /F1 9.5 Tf 13 TL (Scrum \351 um framework leve para gerar valor em problemas complexos. O trabalho acontece em Sprints, com) Tj T* (transpar\352ncia, inspe\347\343o e adapta\347\343o. Product Owner, Scrum Master e Developers possuem responsabilidades) Tj T* (distintas, mas qualidade \351 responsabilidade de todo o Scrum Team.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 617.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Sprint Planning \227 como fazer uma boa cerim\364nia) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 572.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 29.5 Tm /F1 9.5 Tf 13 TL (A Planning define por que a Sprint \351 valiosa, o que pode ser feito e como o trabalho ser\341 realizado. Chegue com) Tj T* (backlog refinado, depend\352ncias e riscos vis\355veis. QA deve questionar crit\351rios de aceite, testabilidade, massa de) Tj T* (dados, ambientes, integra\347\365es e impacto de regress\343o antes do compromisso.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 546.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Daily Scrum \227 curta e orientada ao Sprint Goal) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 501.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 29.5 Tm /F1 9.5 Tf 13 TL (A Daily \351 um evento de 15 minutos para os Developers inspecionarem progresso em dire\347\343o ao Sprint Goal e) Tj T* (adaptarem o Sprint Backlog. Evite transform\341-la em presta\347\343o de contas ao gestor. Discuss\365es longas e) Tj T* (troubleshooting devem continuar depois apenas com as pessoas necess\341rias.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 475.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Sprint Review \227 produto, feedback e pr\363ximos passos) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 430.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 29.5 Tm /F1 9.5 Tf 13 TL (A Review inspeciona o resultado da Sprint com stakeholders e discute mudan\347as relevantes no ambiente e no) Tj T* (Product Backlog. Demonstre incremento funcionando e evid\352ncias \372teis; evite reduzir a Review a uma apresenta\347\343o) Tj T* (de slides ou simples aceite formal.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 404.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Sprint Retrospective \227 melhorar o sistema de trabalho) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 359.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 29.5 Tm /F1 9.5 Tf 13 TL (A Retrospective busca aumentar qualidade e efetividade. Use dados e fatos para discutir processo, colabora\347\343o,) Tj T* (ferramentas, Definition of Done, automa\347\343o, ambientes e causas de retrabalho. Termine com poucas a\347\365es claras,) Tj T* (respons\341veis e acompanhamento na Sprint seguinte.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 333.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Refinamento do Product Backlog) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 288.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 29.5 Tm /F1 9.5 Tf 13 TL (Refinamento \351 uma atividade cont\355nua, n\343o um evento formal do Scrum. \311 um \363timo momento para QA antecipar) Tj T* (exemplos, riscos, depend\352ncias, crit\351rios de aceite, dados, observabilidade e cen\341rios negativos antes de a hist\363ria) Tj T* (chegar \340 Planning.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 262.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Artefatos e compromissos) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 217.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 29.5 Tm /F1 9.5 Tf 13 TL (Product Backlog se relaciona ao Product Goal; Sprint Backlog ao Sprint Goal; Increment \340 Definition of Done. Esses) Tj T* (compromissos aumentam transpar\352ncia e ajudam QA a discutir qualidade com base em objetivos e crit\351rios) Tj T* (expl\355citos.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 191.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Ferramentas para cerim\364nias e colabora\347\343o) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 146.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 29.5 Tm /F1 9.5 Tf 13 TL -0.095475 Tw (Jira ou Azure DevOps ajudam no backlog e Sprint; Confluence ou Notion registram decis\365es; Miro ou FigJam apoiam) Tj T* 0 Tw (retrospectivas e workshops; Teams ou Slack facilitam comunica\347\343o; ferramentas de Planning Poker podem apoiar) Tj T* (estimativas quando o time utiliza essa pr\341tica. A ferramenta deve apoiar a conversa, n\343o substituir a colabora\347\343o.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 120.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Anti-patterns que QA deve reconhecer) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 75.37008 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 29.5 Tm /F1 9.5 Tf 13 TL (Sinais de alerta incluem QA receber tudo no \372ltimo dia, hist\363rias sem crit\351rios claros, Daily longa, Sprint com) Tj T* (mudan\347as constantes sem negocia\347\343o, Review sem stakeholders, Retrospective sem a\347\365es e bugs recorrentes) Tj T* (ignorados. Trate esses sintomas como riscos do sistema de entrega, n\343o como culpa individual.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 49.37008 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Exemplo de Sprint com QA integrado) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+0.843137 0.901961 0.960784 RG
+0.6 w
+n
+36 815.8898 m
+559.2756 815.8898 l
+S
+0.070588 0.207843 0.356863 rg
+BT
+/F2-0 8.2 Tf
+9.84 TL
+ET
+BT
+1 0 0 1 40 821.8898 Tm
+(QA LAB BRASIL) Tj
+T*
+ET
+0.356863 0.45098 0.564706 rg
+BT
+/F1-0 6.8 Tf
+8.16 TL
+ET
+BT
+1 0 0 1 398.216 821.8898 Tm
+(QUALITY ENGINEERING \174 DOCUMENTO OFICIAL) Tj
+T*
+ET
+q
+0.848048 0.529919 -0.529919 0.848048 297.6378 420.9449 cm
+0.08 0.21 0.36 rg
+/gRLs0 gs
+BT
+/F2-0 42 Tf
+50.4 TL
+ET
+BT
+1 0 0 1 -164.493 0 Tm
+(QA LAB BRASIL) Tj
+T*
+ET
+Q
+0.843137 0.901961 0.960784 RG
+n
+36 24 m
+559.2756 24 l
+S
+0.356863 0.45098 0.564706 rg
+BT
+/F1-0 6.6 Tf
+7.92 TL
+ET
+BT
+1 0 0 1 40 14 Tm
+(qualityassurancebrasil\056com\056br) Tj
+T*
+ET
+BT
+1 0 0 1 210.9996 14 Tm
+(QA Lab Brasil v2\0562 \174 PT\055BR \174 Atualizado\072 setembro de 2026) Tj
+T*
+ET
+BT
+1 0 0 1 514.547 14 Tm
+(Pagina 1 de 2) Tj
+T*
+ET
+Q
+
+
+endstream
 endobj
 6 0 obj
 <<
-/Contents 11 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 9 0 R /Resources <<
-/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
->> /Rotate 0 /Trans <<
-
->> 
-  /Type /Page
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
 >>
 endobj
 7 0 obj
 <<
-/PageMode /UseNone /Pages 9 0 R /Type /Catalog
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
 >>
 endobj
 8 0 obj
 <<
-/Author (\(anonymous\)) /CreationDate (D:20260918234448+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20260918234448+00'00') /Producer (ReportLab PDF Library - \(opensource\)) 
-  /Subject (\(unspecified\)) /Title (\(anonymous\)) /Trapped /False
+/BaseFont /Helvetica-BoldOblique
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
 >>
 endobj
 9 0 obj
 <<
-/Count 2 /Kids [ 5 0 R 6 0 R ] /Type /Pages
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
 >>
 endobj
 10 0 obj
 <<
-/Filter [ /ASCII85Decode /FlateDecode ] /Length 2340
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F3
+/Subtype /Type1
+/Type /Font
 >>
-stream
-GatU4gN)%,&:O:Sm%`<t<Dh6l*^;Z)ghA*PDX*]u+;0hLP5k]HEpBjs=b&F]G0#M1P=QHSlsf_Ufs?QLL0*I9:NE2])uASUU1d;k*CYnNJi<)^mH3Ka8Q>.`7alUmLgsVlc_p;Z(?%8)cht*)TAYC$4VYrt3,m^qaN'j#\to(09<YI:.f52`?YT*n)u50=;hc(*L).U%9_0,@RX7EnBK;&QnIk/WPYSt=[`TP1B9*jY@XYs-ZlW#0_1"f8r"1lIrCsJtaQ:+?GB=KOU:n^J&6;UWS^[n.*MfOKR^=Q(UVu4^-GP=3Pc,kfO-Sh7<0G\4O>pg2J$C.g+r*Nqg2Ei5!Z?,^H#ggfeZ7Z@2Nd,Pih@rQ;'0#*3FthO/$[,BVt`GnfWE[J*X:'gF!2$ZDrP=rGi,n0cf@BHB^_c4Q4>)pQ9@XO\!bH/0B,q,5c#3"OkgogM:&.n,k(\0=J\YLiN:?n:9bJC&/I1e3`0?AS/_=G=\_TcE3H+/:iQ8LiCY4XdM7/S9HgO5_DkW5ZB_RHg52rS<%?<KNi/js-(GV;MD+M%&n+:d_=;RTS^O<g9Pnkr76Uc'X(_I4;"-37O."?5@%a"bI*M1;ZkEt[DNtU`)F94e._ggA$a%@O5Ki`t"X(ABge$U&BcmLcpf8P:FcJi]!"ri_12?_r@1YR,T6F1uS6(1LdpWDq>hFin*deMJ1B$?9mOS)=0O'[pAS.!/0TAd?3)N5;2?7bWfd`>]ck":XgZ:^NJ.au415b#t;Jn<fS6/dsVcEt%&.(I_'.U8^c++(6A")XI"1%udaL=bCh2X3ob.Xo3\lq^L!Ym3u>SIEI/5#(,TERPH!"i:k27[aF%,WTPX'`flPu-.`2.-N8^k2\0)U&,T]L\D:F+5)_U5LR8d>Iu=>\\KfC!e)#d?8OH4bJ*i_0`AU4Yn?IGCb'f<"3nAWbd_P*aa]6bQTKTVqW5q".lC^p424fkG+TQ3CE<f'7o3]&Dck*,EbWN%ILE4m$+Z'\VbIpe"7MkB.3Iuc;\1DGABki.d)>Gq&%m'=9OG>_L[5X+B--]_:QT:#(q6s!33nq!6\ibHl:mjQ3S`)"'k,g3^M`IPfjTa.8[%Fpq+[sVVpQlf!L6G0*4l8;hkE"&XfUR5T!(,abPM(I,2nKPGO3Wn2;X!g!-QsBMKh)C*gGp-q8(-@`E"sg8m0&V?P),bg?tob7Z!"N]_9)Q1k4@P\CS5p;lGE?I)7Ucino+1)6V8K<h/mqDuK7\6t880t&LrfESD`.Y=.eC32^8<Q%-;fbcuu7L62i!s/bj^m>BRl>_qZYVrN_:cI)V<.OFu24Y9T'JDsihOif$n'\Xb$0#',8qcSSEkHQ.>Pqi,qUY`X9]0%*M3_iW6Bmgu>\o.+8g_!dFt&id3S@!Ig*d5^/+,f_HO?/]>oAWn+]'k<n&__8E8qUs'.u+r-<sJ_$(GulAb[%<8siq2%40-SVX%Kc[0`#u2`TA[ge`[<'`jT2/I7+YarP4":?$M#5!Fsicb:J+e#7noar.WM+!HuC7ml0[h,XN1-L779=UK[o-_pj&GE!tL&UWo7j:it0^+h@_Q/FXE9fUio"\OA\,>n6:9o&X!;4/sCK)#+,Q;!m8)mu1i>6plhV`!G@e:I3#[t$VK#G5c0^hW0NA]I!g:@t)(OA*GS*h9W!D+*CHX'nTpFQ+rj.759#^8)Xo&EY3Jnae1o65WPEPV,:8&01gT!aH^fq]gf66%:b.*Wl(G8OFRZf,G_+2f2YEVrMKGX7@ce:@:EsO\Eej>jYbSr.&=d?Y.<`Hj#`VaGPpbS3T?#OTEl*YY9C)WRi0,"jluKN0*9KEZF&_#R1*A]$G!;g%c8lL,SdJqG+:TXQ]5KZ@:g1:q.k#B]dQu+R::[cl8a(=X>pP;*=Q5nYq3n7fhS?W2;u5dd;Yc<n?cCCUJYI2$%,4gA,7@mFtt5n_rCT);;7/j#e"O?Mu0[XgA0S1WA9;W[k37/n>dJlQ]Z^m9K>3h!qQcR$_Xc4efdbP)E]a0[bCg`E/4Q/=r>%o!hTm=fR.c.:)Z6KHVb6#t0@^&!0=&/%TI'"(e=Gl;<_b?uA00nt%!;B]69aPSiGgo-7a$ZWRT!D]s`"Yl15BB<QdS#7tth("bC-4=*;UAc*2C>_*]3MmS]`@]k]WG+!7Z.K=;5,@^s6arg4<[r5mS0_tM6@+#^iD0l'd2.<I%kap*f$S^M'SuAS6,VSipn)R"XnbV;!FBe.'O/fToPdKT'?6e>Vs,+.fK&n\m*qZ"84laE'?B<_&,Me,r:er*nr6D+\$BAQ;NOTn)<6p?kpG@?UL)/"YoHjSaY+Eqf@ud:IrrGrg:F#~>endstream
 endobj
 11 0 obj
 <<
-/Filter [ /ASCII85Decode /FlateDecode ] /Length 645
+/Contents 12 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/ExtGState <<
+/gRLs0 <<
+/ca 0.035
+>>
+>>
+/Font <<
+/F1 6 0 R
+/F1-0 13 0 R
+/F2 8 0 R
+/F2-0 14 0 R
+/F3 10 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+12 0 obj
+<<
+/Length 2012
 >>
 stream
-Gat='9lJc?%)(h*nCS2$'?;1tHgB&G1^n0ch0NLGg0nVc/gY0-q4j0*LLEW/_6?X1dc2S0;\!Sko(6c.^rHX[T6&(4d.EEd=UE=hps^j$(AVZWQ"NNc('SNT1+Tg!>gM[*3\AOZ:k\`T]"-*9BM?9:Tn4$lo'4d1o$AOB:;Sn?iVjV^H.IXk+Om_d6T2F_^*7qDd9<ur&mApp(5!ar>N^QfHk6]^7?nCB);NJg$4RJ+nmi8K4E(@*^4YPcReLctK`_D2<[b(pR-8*.l[6VmET[H^0S"4`#+pcnX)Ht(R+lnL6Tc?%OOI*5O\[eUkeQgHOUT+=R1kH)4/KEk/YbOoTOS5\Won9>nH9EA/Re@Om!I_'.J4qb?qW[A/%Pb*3:7e\W%9<9P7oXG),^1q&&(YZYKssogO-LZ>B//o87JQ/Fcu*OgW3$Q\m2)GXtNhtldsAN>m9(F'nM$t%_/m)&4hbki]'l-^[7&u`e4gHn@6LkMDU/2.=SOYb+eY,CI]):,"7\)63Dg*p2Igpa]XejS!GG/MK0D$"#Yg:Ca)I8=c)h8$)0Z)3/hMtHHY+0mJ9'1r]oj%Ym]0iHAMM=MT+dWZ.GlQaRT8*>2p(Y6^[erC?8ZfbqQJ1X3A\iqMPJ-IKRAA2DY~>endstream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 51.35433 754.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 29.5 Tm /F1 9.5 Tf 13 TL (Antes da Sprint, QA ajuda no refinamento. Na Planning, confirma riscos e estrat\351gia. Durante o desenvolvimento,) Tj T* (testa incrementos pequenos, colabora com automa\347\343o e observa integra\347\365es. Na Review, contribui com evid\352ncias) Tj T* (e risco residual. Na Retro, usa defeitos, flakiness e retrabalho para propor melhorias.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 728.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Dica de QA) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 696.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Uma boa cerim\364nia termina com entendimento compartilhado e pr\363ximos passos claros. QA agrega mais valor) Tj T* (antecipando risco do que esperando uma fase final de testes.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 670.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Recursos oficiais) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 651.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Site oficial: https://scrumguides.org/) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+0.843137 0.901961 0.960784 RG
+0.6 w
+n
+36 815.8898 m
+559.2756 815.8898 l
+S
+0.070588 0.207843 0.356863 rg
+BT
+/F2-0 8.2 Tf
+9.84 TL
+ET
+BT
+1 0 0 1 40 821.8898 Tm
+(QA LAB BRASIL) Tj
+T*
+ET
+0.356863 0.45098 0.564706 rg
+BT
+/F1-0 6.8 Tf
+8.16 TL
+ET
+BT
+1 0 0 1 398.216 821.8898 Tm
+(QUALITY ENGINEERING \174 DOCUMENTO OFICIAL) Tj
+T*
+ET
+q
+0.848048 0.529919 -0.529919 0.848048 297.6378 420.9449 cm
+0.08 0.21 0.36 rg
+/gRLs0 gs
+BT
+/F2-0 42 Tf
+50.4 TL
+ET
+BT
+1 0 0 1 -164.493 0 Tm
+(QA LAB BRASIL) Tj
+T*
+ET
+Q
+0.843137 0.901961 0.960784 RG
+n
+36 24 m
+559.2756 24 l
+S
+0.356863 0.45098 0.564706 rg
+BT
+/F1-0 6.6 Tf
+7.92 TL
+ET
+BT
+1 0 0 1 40 14 Tm
+(qualityassurancebrasil\056com\056br) Tj
+T*
+ET
+BT
+1 0 0 1 210.9996 14 Tm
+(QA Lab Brasil v2\0562 \174 PT\055BR \174 Atualizado\072 setembro de 2026) Tj
+T*
+ET
+BT
+1 0 0 1 514.547 14 Tm
+(Pagina 2 de 2) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+13 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+14 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
 endobj
 xref
-0 12
+0 15
 0000000000 65535 f 
-0000000061 00000 n 
-0000000112 00000 n 
-0000000219 00000 n 
-0000000338 00000 n 
-0000000450 00000 n 
-0000000654 00000 n 
-0000000858 00000 n 
-0000000926 00000 n 
-0000001206 00000 n 
-0000001271 00000 n 
-0000003703 00000 n 
+0000000015 00000 n 
+0000000054 00000 n 
+0000000120 00000 n 
+0000000169 00000 n 
+0000000475 00000 n 
+0000006994 00000 n 
+0000007101 00000 n 
+0000007208 00000 n 
+0000007327 00000 n 
+0000007439 00000 n 
+0000007552 00000 n 
+0000007862 00000 n 
+0000009927 00000 n 
+0000010035 00000 n 
 trailer
 <<
-/ID 
-[<1258071d198e93f1b2e427fc8cab4058><1258071d198e93f1b2e427fc8cab4058>]
-% ReportLab generated PDF document -- digest (opensource)
-
-/Info 8 0 R
-/Root 7 0 R
-/Size 12
+/Size 15
+/Root 3 0 R
+/Info 1 0 R
 >>
 startxref
-4439
+10148
 %%EOF

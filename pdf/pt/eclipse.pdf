@@ -1,74 +1,303 @@
 %PDF-1.4
-%“Œ‹ž ReportLab Generated PDF document (opensource)
+%âãÏÓ
 1 0 obj
 <<
-/F1 2 0 R /F2 3 0 R
+/Producer (pypdf)
 >>
 endobj
 2 0 obj
 <<
-/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
+/Type /Pages
+/Count 1
+/Kids [ 4 0 R ]
 >>
 endobj
 3 0 obj
 <<
-/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
+/Type /Catalog
+/Pages 2 0 R
 >>
 endobj
 4 0 obj
 <<
-/Contents 8 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 7 0 R /Resources <<
-/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
->> /Rotate 0 /Trans <<
-
->> 
-  /Type /Page
+/Contents 5 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/ExtGState <<
+/gRLs0 <<
+/ca 0.035
+>>
+>>
+/Font <<
+/F1 6 0 R
+/F1-0 7 0 R
+/F2 8 0 R
+/F2-0 9 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
 >>
 endobj
 5 0 obj
 <<
-/PageMode /UseNone /Pages 7 0 R /Type /Catalog
+/Length 4271
 >>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 57.02362 762.8661 cm
+q
+.043137 .184314 .356863 rg
+BT 1 0 0 1 0 0 Tm /F2 22 Tf 22 TL 180.6972 0 Td (Eclipse IDE) Tj T* -180.6972 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.02362 741.8661 cm
+q
+.294118 .419608 .560784 rg
+BT 1 0 0 1 0 4.5 Tm /F1 10.5 Tf 15 TL (IDE para Java com Git, Maven/Gradle, debugging e execu\347\343o de testes.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 713.8661 cm
+q
+.043137 .184314 .356863 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (O que \351) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 662.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 34.5 Tm /F1 10.5 Tf 15 TL (Eclipse IDE \351 um ambiente de desenvolvimento extens\355vel muito usado no ecossistema Java. Para QA) Tj T* (Automation, permite importar projetos, executar JUnit/TestNG, depurar testes e trabalhar com Maven,) Tj T* (Gradle e Git.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 634.8661 cm
+q
+.043137 .184314 .356863 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (Pr\351-requisitos) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 598.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 19.5 Tm /F1 10.5 Tf 15 TL (Use uma vers\343o suportada do JDK quando o projeto exigir. O instalador atual do Eclipse pode incluir) Tj T* (runtime para a pr\363pria IDE, mas o projeto Java ainda deve usar o JDK adequado \340 sua stack.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 570.8661 cm
+q
+.043137 .184314 .356863 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (Instala\347\343o no Windows) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 534.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 19.5 Tm /F1 10.5 Tf 15 TL (Baixe o Eclipse Installer no site oficial, execute o instalador, escolha Eclipse IDE for Java Developers) Tj T* (ou Enterprise Java and Web Developers, defina a pasta e conclua. Depois selecione um workspace.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 506.8661 cm
+q
+.043137 .184314 .356863 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (macOS e Linux) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 455.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 34.5 Tm /F1 10.5 Tf 15 TL (Baixe o instalador/pacote correspondente \340 arquitetura do sistema. No macOS, mova/instale o) Tj T* (aplicativo conforme indicado; no Linux, use o instalador oficial ou pacote disponibilizado pela Eclipse) Tj T* (Foundation.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 427.8661 cm
+q
+.043137 .184314 .356863 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (Configura\347\343o para QA) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 391.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 19.5 Tm /F1 10.5 Tf 15 TL (Configure o JDK em Installed JREs, importe o projeto Maven/Gradle, aguarde depend\352ncias, configure) Tj T* (Git e execute uma classe de teste. Use breakpoints e Debug para investigar falhas.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 363.8661 cm
+q
+.043137 .184314 .356863 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (Valida\347\343o e solu\347\343o de problemas) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 327.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 19.5 Tm /F1 10.5 Tf 15 TL (Confirme o JDK do projeto, encoding, proxy corporativo, Maven/Gradle e resolu\347\343o das depend\352ncias.) Tj T* (Se o projeto n\343o compilar, valide primeiro a vers\343o Java e o build fora da IDE.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 272.8661 cm
+q
+.219608 .741176 .972549 RG
+1 w
+.913725 .968627 1 rg
+n -8 -8 497.2283 61 re B*
+Q
+q
+BT 1 0 0 1 0 34.5 Tm 15 TL /F2 10.5 Tf 0 0 0 rg (QA Tip) Tj /F1 10.5 Tf  T* (Relacione sempre a pr\341tica ao risco do produto e \340s evid\352ncias necess\341rias para a decis\343o de) Tj T* (qualidade.) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+0.843137 0.901961 0.960784 RG
+0.6 w
+n
+36 815.8898 m
+559.2756 815.8898 l
+S
+0.070588 0.207843 0.356863 rg
+BT
+/F2-0 8.2 Tf
+9.84 TL
+ET
+BT
+1 0 0 1 40 821.8898 Tm
+(QA LAB BRASIL) Tj
+T*
+ET
+0.356863 0.45098 0.564706 rg
+BT
+/F1-0 6.8 Tf
+8.16 TL
+ET
+BT
+1 0 0 1 398.216 821.8898 Tm
+(QUALITY ENGINEERING \174 DOCUMENTO OFICIAL) Tj
+T*
+ET
+q
+0.848048 0.529919 -0.529919 0.848048 297.6378 420.9449 cm
+0.08 0.21 0.36 rg
+/gRLs0 gs
+BT
+/F2-0 42 Tf
+50.4 TL
+ET
+BT
+1 0 0 1 -164.493 0 Tm
+(QA LAB BRASIL) Tj
+T*
+ET
+Q
+0.843137 0.901961 0.960784 RG
+n
+36 24 m
+559.2756 24 l
+S
+0.356863 0.45098 0.564706 rg
+BT
+/F1-0 6.6 Tf
+7.92 TL
+ET
+BT
+1 0 0 1 40 14 Tm
+(qualityassurancebrasil\056com\056br) Tj
+T*
+ET
+BT
+1 0 0 1 210.9996 14 Tm
+(QA Lab Brasil v2\0562 \174 PT\055BR \174 Atualizado\072 setembro de 2026) Tj
+T*
+ET
+BT
+1 0 0 1 514.547 14 Tm
+(Pagina 1 de 1) Tj
+T*
+ET
+Q
+
+
+endstream
 endobj
 6 0 obj
 <<
-/Author (\(anonymous\)) /CreationDate (D:20260919000505+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20260919000505+00'00') /Producer (ReportLab PDF Library - \(opensource\)) 
-  /Subject (\(unspecified\)) /Title (\(anonymous\)) /Trapped /False
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
 >>
 endobj
 7 0 obj
 <<
-/Count 1 /Kids [ 4 0 R ] /Type /Pages
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
 >>
 endobj
 8 0 obj
 <<
-/Filter [ /ASCII85Decode /FlateDecode ] /Length 1495
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
 >>
-stream
-Gatm:?!#cM&:N_CbbLY;K_92S5!^?^:`9CTRMT;]dc,/+G/^U0BRbI!8<uK':u$_6A"2$:cHNtCB?$hU?@MX:Psd!@3dU+U+40qGr5ae0IS"2DK80PY[51Rk8J!3LV+KT>PJkL%4SC+!k_CU4rY.R@o"mAS-6_((!UfThbfi_I#Unn1nE2+ndtsF8dX[tP1ciee<B3Y>:="B_q%oL7Tu5\<nE:doms,ZDgKk&iaS2Un7K+j+i&a[\kqr7VX2p3G^C^6pIj=`U4WD3BWe;+/+^.1".Ht*fA,8R";BMH6OV`%3\Qgu7V:&#",bJVugkJ[`^X1mNe^EFD%AE]Tmsb$6LdhK@fY`/6427u_TojF9`r=/)P8ttth;b]@K[3#m79=,`RZ^(L:f>o.j3OQc\hupW8h:i&<(lV_1N$biAYZK\30>0.GaKB3'EBY1a?BC8k[,DB@>p59g6A=47ZXO3[T'K*b0&@?=K8Iu,&?5Y4V,2InO]eXBFY[3T/0JIA$OaO!krD"(8CR392'6DlZd9I-Q'H\qAobd5j>Z^r*UDc6Rs5sjT(EifmGoO^<!'6H^;]Ji337KXgG6,?Is;'k(5kD`Tcj4.A?:\$oe?#[8b_P.oP*OU&^+;7,<ZNNsqFR)5Mi3=j\Y0`n!&Z7Rm%8'"IHi9Z"q%_21"G;Re;?Sbe#fm##U*kDQ1n-]nKTc5uaCJ]iZ'89V`Q?#_oN27hZ;iGXC1>lG.]c/V"+mGuOl-LO:#-V58eHX@+ofa5^q0R#!FU)6kGRl>_'eR\ptTPZ"4J]J>o;rCpu-uC!Ga>@uCEEfZ$h*!\XVpBCg[@=RIVf]t]J1[]J1RnQooVnpNEo^aS1C0E?NZO1nGEp8150Q`a=(ABIg!rSPGH#]UoWm^0Ndmp.%U<l/5=3SkAoOi:Xti',$>5^M_F"4/XAQ9*:TM@rd<e6OgQ78+`DM+&Y$Eh/W^:8FP-&0>_.C^ibd!J'?TB^LBZJKIXtrGB&1Cl\Pq.#M/QAGC@@:-$=D,e1hHSGoRp;3P?nVl8=(C\X7&Q?dB;<+S[p_Df7l^*i7WsDu\LL"Q>UqJ*MjlLNT^PNoX,u]Y%V")sgU5*pl5Tslcp/ZXZf1=H.oQ$o?.=:nc3iO#>Yc1XE<0EK.IJ?3?#t'Kjh[_t7-PK!e.QoqNr.Wr!so>*WtG$&-rdq"OsF[th*D>a/ILS5*YgKd8YI6$N]#3?Q`p3N/_$311!5K$l03,P,rk7eZodt)!pFbc#5#"#W*H)[qRE(#\j(_-UJce2$#UV%L&`f&=[Uq\\1=e2HI8Z8kK8`ud'^tY3"46+0g/VJ_O-Pc1a*ASFWAZijr>`j&%ibc%UpuAfc\6s!*.M,Pi'k>on$Qi&hZQ"T=jCsI^eh>0R#O]!e-eu7b>[;=&nGY2DZ@C2lJ<V6ZB?4@&0D&,/6V/,%1`d-Sm9enqIC2Y#$=o>I=L&[*5=UoR+j^Y""?ic,L4G[cRb2"(u6F:#DXsIfV#cN55~>endstream
+endobj
+9 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
 endobj
 xref
-0 9
+0 10
 0000000000 65535 f 
-0000000061 00000 n 
-0000000102 00000 n 
-0000000209 00000 n 
-0000000321 00000 n 
-0000000524 00000 n 
-0000000592 00000 n 
-0000000872 00000 n 
-0000000931 00000 n 
+0000000015 00000 n 
+0000000054 00000 n 
+0000000113 00000 n 
+0000000162 00000 n 
+0000000457 00000 n 
+0000004780 00000 n 
+0000004887 00000 n 
+0000004994 00000 n 
+0000005106 00000 n 
 trailer
 <<
-/ID 
-[<9ea4b4f242c3e2e15d65a4fddbe60750><9ea4b4f242c3e2e15d65a4fddbe60750>]
-% ReportLab generated PDF document -- digest (opensource)
-
-/Info 6 0 R
-/Root 5 0 R
-/Size 9
+/Size 10
+/Root 3 0 R
+/Info 1 0 R
 >>
 startxref
-2517
+5218
 %%EOF

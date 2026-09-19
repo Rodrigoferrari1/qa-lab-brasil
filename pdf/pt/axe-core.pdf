@@ -1,74 +1,328 @@
 %PDF-1.4
-%“Œ‹ž ReportLab Generated PDF document (opensource)
+%âãÏÓ
 1 0 obj
 <<
-/F1 2 0 R /F2 3 0 R
+/Producer (pypdf)
 >>
 endobj
 2 0 obj
 <<
-/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
+/Type /Pages
+/Count 1
+/Kids [ 4 0 R ]
 >>
 endobj
 3 0 obj
 <<
-/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
+/Type /Catalog
+/Pages 2 0 R
 >>
 endobj
 4 0 obj
 <<
-/Contents 8 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 7 0 R /Resources <<
-/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
->> /Rotate 0 /Trans <<
-
->> 
-  /Type /Page
+/Contents 5 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/ExtGState <<
+/gRLs0 <<
+/ca 0.035
+>>
+>>
+/Font <<
+/F1 6 0 R
+/F1-0 7 0 R
+/F2 8 0 R
+/F2-0 9 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
 >>
 endobj
 5 0 obj
 <<
-/PageMode /UseNone /Pages 7 0 R /Type /Catalog
+/Length 4514
 >>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 57.02362 757.8661 cm
+q
+.043137 .184314 .356863 rg
+BT 1 0 0 1 0 5 Tm /F2 22 Tf 27 TL 167.8492 0 Td (axe / axe-core) Tj T* -167.8492 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.02362 732.8661 cm
+q
+.294118 .419608 .560784 rg
+BT 1 0 0 1 0 4.5 Tm /F1 10.5 Tf 15 TL (Motor de testes automatizados de acessibilidade para detectar viola\347\365es comuns em aplica\347\365es Web.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 700.8661 cm
+q
+.043137 .184314 .356863 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (O que \351?) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 679.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.5 Tm /F1 10.5 Tf 15 TL (Motor de testes automatizados de acessibilidade para detectar viola\347\365es comuns em aplica\347\365es Web.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 651.8661 cm
+q
+.043137 .184314 .356863 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (Aplica\347\343o em QA) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 615.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 19.5 Tm /F1 10.5 Tf 15 TL (Use axe / axe-core para apoiar investiga\347\343o, valida\347\343o t\351cnica e produ\347\343o de evid\352ncias durante) Tj T* (testes.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 587.8661 cm
+q
+.043137 .184314 .356863 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (Primeiros passos) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 551.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 19.5 Tm /F1 10.5 Tf 15 TL (Comece pelo site oficial, confira os pr\351-requisitos e siga o guia de instala\347\343o/configura\347\343o de axe /) Tj T* (axe-core.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 523.8661 cm
+q
+.043137 .184314 .356863 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (Fluxo pr\341tico) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 487.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 19.5 Tm /F1 10.5 Tf 15 TL (Defina o objetivo da an\341lise, reproduza o cen\341rio, colete evid\352ncias com axe / axe-core, compare o) Tj T* (comportamento esperado e registre conclus\365es.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 459.8661 cm
+q
+.043137 .184314 .356863 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (Boas pr\341ticas) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 423.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 19.5 Tm /F1 10.5 Tf 15 TL (Use dados de teste seguros, preserve evid\352ncias relevantes e documente ambiente, vers\343o, hor\341rio e) Tj T* (passos de reprodu\347\343o.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 395.8661 cm
+q
+.043137 .184314 .356863 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (Solu\347\343o de problemas) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 359.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 19.5 Tm /F1 10.5 Tf 15 TL (Valide permiss\365es, depend\352ncias, certificados, drivers, conectividade e vers\365es quando a ferramenta) Tj T* (n\343o capturar ou apresentar os dados esperados.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 304.8661 cm
+q
+.219608 .741176 .972549 RG
+1 w
+.913725 .968627 1 rg
+n -8 -8 497.2283 61 re B*
+Q
+q
+BT 1 0 0 1 0 34.5 Tm 15 TL /F2 10.5 Tf 0 0 0 rg (QA Tip) Tj /F1 10.5 Tf  T* (Combine automa\347\343o com valida\347\343o manual e interprete os resultados no contexto do risco e da) Tj T* (experi\352ncia real do usu\341rio.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 276.8661 cm
+q
+.043137 .184314 .356863 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (Recursos oficiais) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 255.8661 cm
+q
+BT 1 0 0 1 0 4.5 Tm 15 TL /F2 10.5 Tf 0 0 0 rg (Site oficial:) Tj /F1 10.5 Tf ( https://www.deque.com/axe/) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 232.8661 cm
+q
+BT 1 0 0 1 0 4.5 Tm 15 TL /F2 10.5 Tf 0 0 0 rg (Instala\347\343o / download:) Tj /F1 10.5 Tf ( https://github.com/dequelabs/axe-core) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 209.8661 cm
+q
+BT 1 0 0 1 0 4.5 Tm 15 TL /F2 10.5 Tf 0 0 0 rg (Documenta\347\343o:) Tj /F1 10.5 Tf ( https://github.com/dequelabs/axe-core) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+0.843137 0.901961 0.960784 RG
+0.6 w
+n
+36 815.8898 m
+559.2756 815.8898 l
+S
+0.070588 0.207843 0.356863 rg
+BT
+/F2-0 8.2 Tf
+9.84 TL
+ET
+BT
+1 0 0 1 40 821.8898 Tm
+(QA LAB BRASIL) Tj
+T*
+ET
+0.356863 0.45098 0.564706 rg
+BT
+/F1-0 6.8 Tf
+8.16 TL
+ET
+BT
+1 0 0 1 398.216 821.8898 Tm
+(QUALITY ENGINEERING \174 DOCUMENTO OFICIAL) Tj
+T*
+ET
+q
+0.848048 0.529919 -0.529919 0.848048 297.6378 420.9449 cm
+0.08 0.21 0.36 rg
+/gRLs0 gs
+BT
+/F2-0 42 Tf
+50.4 TL
+ET
+BT
+1 0 0 1 -164.493 0 Tm
+(QA LAB BRASIL) Tj
+T*
+ET
+Q
+0.843137 0.901961 0.960784 RG
+n
+36 24 m
+559.2756 24 l
+S
+0.356863 0.45098 0.564706 rg
+BT
+/F1-0 6.6 Tf
+7.92 TL
+ET
+BT
+1 0 0 1 40 14 Tm
+(qualityassurancebrasil\056com\056br) Tj
+T*
+ET
+BT
+1 0 0 1 210.9996 14 Tm
+(QA Lab Brasil v2\0562 \174 PT\055BR \174 Atualizado\072 setembro de 2026) Tj
+T*
+ET
+BT
+1 0 0 1 514.547 14 Tm
+(Pagina 1 de 1) Tj
+T*
+ET
+Q
+
+
+endstream
 endobj
 6 0 obj
 <<
-/Author (\(anonymous\)) /CreationDate (D:20260919000504+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20260919000504+00'00') /Producer (ReportLab PDF Library - \(opensource\)) 
-  /Subject (\(unspecified\)) /Title (axe / axe-core) /Trapped /False
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
 >>
 endobj
 7 0 obj
 <<
-/Count 1 /Kids [ 4 0 R ] /Type /Pages
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
 >>
 endobj
 8 0 obj
 <<
-/Filter [ /ASCII85Decode /FlateDecode ] /Length 1311
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
 >>
-stream
-Gb!<N?$#!`'Sc)P($CbJ&E@]h^$-fuDPo;XCpQdhS(n9R&FJ*cO^sX.?f+r%I$dWbPB,-'!Fn^PX62W,7g.o5'tDSa-G#VooOC-P8Fn,2Yntme2u7e`H5HfkcQr,[0M4^TE&C;;!9;Gmq/I*:)0s%,(GU24P0VL3e7sYL#5`*IRb*oNUsMgJAp/bK`M;ET7/OWm0mhn:-%'#6;XkiBrfuX7kc3MJU2KLI:082O$OcPc#\N/:6([rJ:/X<G`SUu[]hTJHn(VWZ5I'4f^IoddQ(/97GS=kPXI0[X==LYkcO-h_=GTS6$pW?;1#+\"0MKk`aGSeBEHW.p#t>`:DAu<_-FU'FESU1F?[035SlqZR^O^aEj,Q<HBf!6*:\<"S\r2a0a-S/KZi"KGh_kFP.Af[U0oFRQ'&lGc<O^Q^,Qu5I4G3Q=Jc;W/olnQE)-]`7@\VNUZre>j9k_Eqgk/F5SM(n;-Oa%]C_(BeJ8[i4*aqtQ#)c[()RJ=]j/n@E:a`TY,`:b^s.Mj*KgN_ZRFY7HR([/)X""&oCL-uNY9[gj36@usNbX.WCmG.8XVPJ6?7Gm#$?X-*Nm9/^dAdp>N+%K"X?*SX]&>.nm3-\.mLeoH*<J6[/dD,]eNQR6W&QK*O>"p$pFLbNj:?Ve)G<^U^2bGV5_1n4m/3-qHpW_&kko&i'\kPo+ftta1;lbW+uc$.%,8&,k(%f*[e>_\L=NpkfWohJ'f$A[;g]mu6!lTN<3>#SPlVZ=8U`B%DC![9#M=PdO*^osVJK/u;R,!1UcH:jl3VQOc.1s@Zf2_WfT]d]]p(s$;'L\ZKs2@a2dGT"oA!!hR7;r?ZJEB@_Tq';<Z"(`b*.b2rZ\Clk(B*k`Tn]&UZCO:G_Z*&2C7,UU2$C6=IVRmRPtK$LgR<D5j#<]Tih]Ff&\%(8$Ua59\pA*AalC)%H<f'Ot5XgSF+-OgP$DZD308^aVImoRbZP!CFsOgYhKjZJj8hdhP$u3Ch5SQALVnM(++#rT7=\ua,u_+X"_A,R"Q\l@#6a_27)a2cb(s%7Au9'$bCWH-LC8]\mraGTsM)#]&QTHgM<79[1e"Jh5qbjI3BNcSO!b2gWXY@,AYl;X<O.M%9K35COckCh,_O(C@"2B4s>u;\.ZBWH)*Rlk"bt+G'7=G*f-DiDS&Ut!-"=%(Q8%6]P*SdHJ;mU#)%8h*,i=Lc@"g!pi9=ohgah2R-or:lhAlmj5Zn9U5Et%<_SXiVZW1VNr-"[p?P:U7b&pK@oGs"SeJ[Jk.Y+\Ptl8:(4(<'O6)=45Q;7_5BOI0T__PaC%MoT[%Vd~>endstream
+endobj
+9 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
 endobj
 xref
-0 9
+0 10
 0000000000 65535 f 
-0000000061 00000 n 
-0000000102 00000 n 
-0000000209 00000 n 
-0000000321 00000 n 
-0000000524 00000 n 
-0000000592 00000 n 
-0000000873 00000 n 
-0000000932 00000 n 
+0000000015 00000 n 
+0000000054 00000 n 
+0000000113 00000 n 
+0000000162 00000 n 
+0000000457 00000 n 
+0000005023 00000 n 
+0000005130 00000 n 
+0000005237 00000 n 
+0000005349 00000 n 
 trailer
 <<
-/ID 
-[<1ab57f43d17bb6caabe7ddeabe25978b><1ab57f43d17bb6caabe7ddeabe25978b>]
-% ReportLab generated PDF document -- digest (opensource)
-
-/Info 6 0 R
-/Root 5 0 R
-/Size 9
+/Size 10
+/Root 3 0 R
+/Info 1 0 R
 >>
 startxref
-2334
+5461
 %%EOF

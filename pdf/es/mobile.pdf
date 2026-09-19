@@ -1,80 +1,368 @@
 %PDF-1.4
-%“Œ‹ž ReportLab Generated PDF document (opensource)
+%âãÏÓ
 1 0 obj
 <<
-/F1 2 0 R /F2 3 0 R /F3 4 0 R
+/Producer (pypdf)
 >>
 endobj
 2 0 obj
 <<
-/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
+/Type /Pages
+/Count 1
+/Kids [ 4 0 R ]
 >>
 endobj
 3 0 obj
 <<
-/BaseFont /Helvetica-BoldOblique /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
+/Type /Catalog
+/Pages 2 0 R
 >>
 endobj
 4 0 obj
 <<
-/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F3 /Subtype /Type1 /Type /Font
+/Contents 5 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/ExtGState <<
+/gRLs0 <<
+/ca 0.035
+>>
+>>
+/Font <<
+/F1 6 0 R
+/F1-0 7 0 R
+/F2 8 0 R
+/F2-0 9 0 R
+/F3 10 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
 >>
 endobj
 5 0 obj
 <<
-/Contents 9 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 8 0 R /Resources <<
-/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
->> /Rotate 0 /Trans <<
-
->> 
-  /Type /Page
+/Length 5283
 >>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 51.35433 779.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 12 Tf 14 TL (QA Lab Brasil) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 749.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F3 20 Tf 24 TL 176.2735 0 Td (Mobile Testing) Tj T* -176.2735 0 Td ET
+Q
+Q
+q
+1 0 0 1 51.35433 724.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Android, iOS, dispositivos reales, emuladores, Appium y plataformas de device cloud.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 714.3701 cm
+Q
+q
+1 0 0 1 51.35433 688.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Qu\351 cambia en Mobile Testing) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 656.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Las aplicaciones m\363viles trabajan con diferentes sistemas operativos, tama\361os de pantalla, hardware, permisos,) Tj T* (redes e interrupciones. Probar solo el flujo funcional no es suficiente.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 630.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Nativo, h\355brido, WebView y PWA) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 598.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Apps nativas usan tecnolog\355as espec\355ficas de la plataforma. H\355bridas combinan tecnolog\355as web y un contenedor) Tj T* (nativo. WebView incorpora contenido web. PWA es una aplicaci\363n web con capacidades progresivas.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 572.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Dispositivo real vs emulador/simulador) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 540.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Emuladores y simuladores son \372tiles para velocidad y cobertura inicial. Dispositivos reales son importantes para) Tj T* (hardware, rendimiento, c\341mara, biometr\355a, notificaciones y comportamiento real de red.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 514.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Escenarios esenciales) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 482.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Instalaci\363n, actualizaci\363n, login, permisos, rotaci\363n, background/foreground, llamadas, bater\355a, GPS, c\341mara,) Tj T* (teclado, offline/online, redes lentas e interrupciones deben considerarse seg\372n el producto.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 456.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Appium) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 424.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Appium es un framework de automatizaci\363n mobile que controla aplicaciones mediante APIs de automatizaci\363n de) Tj T* (las plataformas. Puede combinarse con Python, Java y JavaScript.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 398.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (BrowserStack y device clouds) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 366.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Plataformas de device cloud ofrecen acceso remoto a browsers y dispositivos reales. No reemplazan Appium;) Tj T* (pueden alojar ejecuciones automatizadas y manuales en m\372ltiples combinaciones.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 340.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Android e iOS) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 308.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Android utiliza artefactos como APK/AAB y herramientas como ADB/Android Studio. iOS utiliza IPA y el ecosistema) Tj T* (Xcode. Restricciones, permisos y distribuci\363n son diferentes.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 282.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Estrategia mobile) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 250.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Priorice combinaciones seg\372n usuarios, analytics, riesgo y soporte oficial. La cobertura infinita no es posible;) Tj T* (construya una matriz justificable.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 224.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Consejo de QA) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 192.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL -0.117291 Tw (Combine emuladores/simuladores con una muestra de dispositivos reales para riesgos que dependen del hardware y) Tj T* 0 Tw (del sistema operativo.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 166.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Recursos oficiales) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 147.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Site oficial: https://appium.io/) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+0.843137 0.901961 0.960784 RG
+0.6 w
+n
+36 815.8898 m
+559.2756 815.8898 l
+S
+0.070588 0.207843 0.356863 rg
+BT
+/F2-0 8.2 Tf
+9.84 TL
+ET
+BT
+1 0 0 1 40 821.8898 Tm
+(QA LAB BRASIL) Tj
+T*
+ET
+0.356863 0.45098 0.564706 rg
+BT
+/F1-0 6.8 Tf
+8.16 TL
+ET
+BT
+1 0 0 1 398.216 821.8898 Tm
+(QUALITY ENGINEERING \174 DOCUMENTO OFICIAL) Tj
+T*
+ET
+q
+0.848048 0.529919 -0.529919 0.848048 297.6378 420.9449 cm
+0.08 0.21 0.36 rg
+/gRLs0 gs
+BT
+/F2-0 42 Tf
+50.4 TL
+ET
+BT
+1 0 0 1 -164.493 0 Tm
+(QA LAB BRASIL) Tj
+T*
+ET
+Q
+0.843137 0.901961 0.960784 RG
+n
+36 24 m
+559.2756 24 l
+S
+0.356863 0.45098 0.564706 rg
+BT
+/F1-0 6.6 Tf
+7.92 TL
+ET
+BT
+1 0 0 1 40 14 Tm
+(qualityassurancebrasil\056com\056br) Tj
+T*
+ET
+BT
+1 0 0 1 212.28 14 Tm
+(QA Lab Brasil v2\0562 \174 ES \174 Actualizado\072 septiembre de 2026) Tj
+T*
+ET
+BT
+1 0 0 1 514.547 14 Tm
+(Pagina 1 de 1) Tj
+T*
+ET
+Q
+
+
+endstream
 endobj
 6 0 obj
 <<
-/PageMode /UseNone /Pages 8 0 R /Type /Catalog
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
 >>
 endobj
 7 0 obj
 <<
-/Author (\(anonymous\)) /CreationDate (D:20260918234449+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20260918234449+00'00') /Producer (ReportLab PDF Library - \(opensource\)) 
-  /Subject (\(unspecified\)) /Title (\(anonymous\)) /Trapped /False
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
 >>
 endobj
 8 0 obj
 <<
-/Count 1 /Kids [ 5 0 R ] /Type /Pages
+/BaseFont /Helvetica-BoldOblique
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
 >>
 endobj
 9 0 obj
 <<
-/Filter [ /ASCII85Decode /FlateDecode ] /Length 1731
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
 >>
-stream
-GatU3?$Fae&:N_CbTlLpA]sWLTheFW/StiLplmu3ZBE5Q#"^=g=31c`^3<VdCr"%Oj<TKdmI&3b]eak%0obZ9LOZXnk]0,0hd_PaZs$BjM'fU@U6ho.T:X!US^TPjVNW:!q>;F/k+`dVYWN99G4PhPim&srPV>)b%#VTnD\mMl;S'6Xl/F'oh9tS$EUjl0`uIh!4.<O:&fQhLd5X+CkHeha:Sq6$jn/0ePNma6`QmdaZh+(;Qb0sF`cuM^N$Ok#J])XRO193CY.U]RCNM`_rT8Dk\TYB#g?Ui\aKd;J%>`3):q<k%]VoW%Pk74`TtFPJ>:N-'j7c;]9Nbem4R.K&]FXi%L=rnGkO5d1<j%#^butUH&'5OK<1.Ji>g[P5:WGA_cHa"]B;b73!Zn?oFJ^g1.X"d?87osa,&lVF9%C&D-o2U2?F/b9j1WpeZN+]S[OQel+KnCkUTk.#euJ;@.+EcbPg/Z^jT/e2W?(^#me#"L%Wb;^B!#q82M?mPetgHO1PHu)BO*I(L=T'Fl`-TbD\5FEesVh[H4W&/7R+u?lYo/F"#N_NX)gD<kO`-+pIM@Hqo*jDdu3h>ELJ&HYbOgb!9/t?*M0SEctjsO]OP#a-I9K&c0dn=jEj:EmR"s/ArpZU[modG`H@Wb[HEEE593J7\V[n5lRF^!2HFZR!u![:#o^ZS;lMCI,b(fA?'6U72;[FeBWnPkTLS$H4U@S'a$3,QMnMR_M4cr^8]9!?m8K&O-Ke=k1lF"K;$+t4=%Qo;nfaE^I42X0!S'7a9L&ng1R#-;%Gp@Wl)oo"?@48L_29k]M-$B=`D4J2^'%<K\Ls^lON#;/8R,`bJ5U5Vp,;!K!;5IHHERSe6u0@sfqO9Z6i$Fa0('nW8""_g19Qkl7WP"L\NRRr%O]TJVoi_J?<%KX[EI>+WQ[<$d%C&N:c,aEO>F2^moNGQIG@rR<;@*ea6b)](!oGbTPT/2D3=g-H%!b$`u'\4nmaps]e4EG6W;)K+](e/!"J3ti<1MWLC/2cLGE)SjEMp&<Jca1ipnGfV?^h!*_k`UBl1oXiM":+n6JnU^)k4IelJ&`DsTtc9%A/b6EiMfW,*F<VhTh1=];9&=ruj1b(^\T=73SXS3(Tq+Fc(>5kQ%WZ4g9T>a0.%i,9%Pi@f>O:dO[83jZEk4hsj>oS_bf?WqO>fNodE5JlaFPgcCHP1a=lM<3t.$YaDp[>\S;fSP-C#!/J,D;u@j3AS`GoNLs/$+N3pA[S?6g+cG4n1\%5>>,EPb?;/_FAJS%]E]odeHDG]p/:1Ln@FqcDctg)*^(Y2d0*4o76A"OdD!0ZiFqk^R:5E_6!"'mUo``:Pg"e")^P:;_o:UJaP9$F>$Y4A[251Ih>(jDj;OR2+a:A$/JgAO3T81u-c(h*s"]dZ7.2hA>+N("mZk(h)(TF-X"3q`AD)TcE=[%ReP.aDHJW&PDAAk#Zftt'rXtdFL)N$FZFqG@XpN>^4U+jPK@cO`'$Y<(A4A9$EZ(^[D>RE"Md^"QH,-KJ/1d'M(;):0klKX!%k7ut-j?Y9dr".!`f@0LT^MEBFqj6!i12U.6O)E@R#g9c7l9R>7St/O`tpJ4m_uLtbm3-V_o#nUPW8`l8;=.;;b*^a0SQo.\Bm0TXt_rAoRWb6U7m@ueOIBaXDJ>Ss(0[^kI?<6*ln's'[KB[D3LdAF;.O55Q:>(XnN_/S8Q!Ch=KT%"^R.q)1L\=T)9+UI(UF~>endstream
+endobj
+10 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F3
+/Subtype /Type1
+/Type /Font
+>>
 endobj
 xref
-0 10
+0 11
 0000000000 65535 f 
-0000000061 00000 n 
-0000000112 00000 n 
-0000000219 00000 n 
-0000000338 00000 n 
-0000000450 00000 n 
-0000000653 00000 n 
-0000000721 00000 n 
-0000001001 00000 n 
-0000001060 00000 n 
+0000000015 00000 n 
+0000000054 00000 n 
+0000000113 00000 n 
+0000000162 00000 n 
+0000000468 00000 n 
+0000005803 00000 n 
+0000005910 00000 n 
+0000006017 00000 n 
+0000006136 00000 n 
+0000006248 00000 n 
 trailer
 <<
-/ID 
-[<949afc0454c2742bd8ca66d2ec4b4c9a><949afc0454c2742bd8ca66d2ec4b4c9a>]
-% ReportLab generated PDF document -- digest (opensource)
-
-/Info 7 0 R
-/Root 6 0 R
-/Size 10
+/Size 11
+/Root 3 0 R
+/Info 1 0 R
 >>
 startxref
-2882
+6361
 %%EOF

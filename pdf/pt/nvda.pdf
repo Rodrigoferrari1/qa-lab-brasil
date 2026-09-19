@@ -1,74 +1,328 @@
 %PDF-1.4
-%“Œ‹ž ReportLab Generated PDF document (opensource)
+%âãÏÓ
 1 0 obj
 <<
-/F1 2 0 R /F2 3 0 R
+/Producer (pypdf)
 >>
 endobj
 2 0 obj
 <<
-/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
+/Type /Pages
+/Count 1
+/Kids [ 4 0 R ]
 >>
 endobj
 3 0 obj
 <<
-/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
+/Type /Catalog
+/Pages 2 0 R
 >>
 endobj
 4 0 obj
 <<
-/Contents 8 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 7 0 R /Resources <<
-/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
->> /Rotate 0 /Trans <<
-
->> 
-  /Type /Page
+/Contents 5 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/ExtGState <<
+/gRLs0 <<
+/ca 0.035
+>>
+>>
+/Font <<
+/F1 6 0 R
+/F1-0 7 0 R
+/F2 8 0 R
+/F2-0 9 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
 >>
 endobj
 5 0 obj
 <<
-/PageMode /UseNone /Pages 7 0 R /Type /Catalog
+/Length 4521
 >>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 57.02362 757.8661 cm
+q
+.043137 .184314 .356863 rg
+BT 1 0 0 1 0 5 Tm /F2 22 Tf 27 TL 209.4512 0 Td (NVDA) Tj T* -209.4512 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.02362 717.8661 cm
+q
+.294118 .419608 .560784 rg
+BT 1 0 0 1 0 19.5 Tm /F1 10.5 Tf 15 TL (Leitor de tela gratuito para Windows, essencial para valida\347\365es manuais de acessibilidade com) Tj T* (tecnologia assistiva.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 685.8661 cm
+q
+.043137 .184314 .356863 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (O que \351?) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 649.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 19.5 Tm /F1 10.5 Tf 15 TL (Leitor de tela gratuito para Windows, essencial para valida\347\365es manuais de acessibilidade com) Tj T* (tecnologia assistiva.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 621.8661 cm
+q
+.043137 .184314 .356863 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (Aplica\347\343o em QA) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 600.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.5 Tm /F1 10.5 Tf 15 TL (Use NVDA para apoiar investiga\347\343o, valida\347\343o t\351cnica e produ\347\343o de evid\352ncias durante testes.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 572.8661 cm
+q
+.043137 .184314 .356863 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (Primeiros passos) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 551.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.5 Tm /F1 10.5 Tf 15 TL (Comece pelo site oficial, confira os pr\351-requisitos e siga o guia de instala\347\343o/configura\347\343o de NVDA.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 523.8661 cm
+q
+.043137 .184314 .356863 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (Fluxo pr\341tico) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 487.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 19.5 Tm /F1 10.5 Tf 15 TL (Defina o objetivo da an\341lise, reproduza o cen\341rio, colete evid\352ncias com NVDA, compare o) Tj T* (comportamento esperado e registre conclus\365es.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 459.8661 cm
+q
+.043137 .184314 .356863 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (Boas pr\341ticas) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 423.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 19.5 Tm /F1 10.5 Tf 15 TL (Use dados de teste seguros, preserve evid\352ncias relevantes e documente ambiente, vers\343o, hor\341rio e) Tj T* (passos de reprodu\347\343o.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 395.8661 cm
+q
+.043137 .184314 .356863 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (Solu\347\343o de problemas) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 359.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 19.5 Tm /F1 10.5 Tf 15 TL (Valide permiss\365es, depend\352ncias, certificados, drivers, conectividade e vers\365es quando a ferramenta) Tj T* (n\343o capturar ou apresentar os dados esperados.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 304.8661 cm
+q
+.219608 .741176 .972549 RG
+1 w
+.913725 .968627 1 rg
+n -8 -8 497.2283 61 re B*
+Q
+q
+BT 1 0 0 1 0 34.5 Tm 15 TL /F2 10.5 Tf 0 0 0 rg (QA Tip) Tj /F1 10.5 Tf  T* (Combine automa\347\343o com valida\347\343o manual e interprete os resultados no contexto do risco e da) Tj T* (experi\352ncia real do usu\341rio.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 276.8661 cm
+q
+.043137 .184314 .356863 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (Recursos oficiais) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 255.8661 cm
+q
+BT 1 0 0 1 0 4.5 Tm 15 TL /F2 10.5 Tf 0 0 0 rg (Site oficial:) Tj /F1 10.5 Tf ( https://www.nvaccess.org/) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 232.8661 cm
+q
+BT 1 0 0 1 0 4.5 Tm 15 TL /F2 10.5 Tf 0 0 0 rg (Instala\347\343o / download:) Tj /F1 10.5 Tf ( https://www.nvaccess.org/download/) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 209.8661 cm
+q
+BT 1 0 0 1 0 4.5 Tm 15 TL /F2 10.5 Tf 0 0 0 rg (Documenta\347\343o:) Tj /F1 10.5 Tf ( https://www.nvaccess.org/files/nvda/documentation/userGuide.html) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+0.843137 0.901961 0.960784 RG
+0.6 w
+n
+36 815.8898 m
+559.2756 815.8898 l
+S
+0.070588 0.207843 0.356863 rg
+BT
+/F2-0 8.2 Tf
+9.84 TL
+ET
+BT
+1 0 0 1 40 821.8898 Tm
+(QA LAB BRASIL) Tj
+T*
+ET
+0.356863 0.45098 0.564706 rg
+BT
+/F1-0 6.8 Tf
+8.16 TL
+ET
+BT
+1 0 0 1 398.216 821.8898 Tm
+(QUALITY ENGINEERING \174 DOCUMENTO OFICIAL) Tj
+T*
+ET
+q
+0.848048 0.529919 -0.529919 0.848048 297.6378 420.9449 cm
+0.08 0.21 0.36 rg
+/gRLs0 gs
+BT
+/F2-0 42 Tf
+50.4 TL
+ET
+BT
+1 0 0 1 -164.493 0 Tm
+(QA LAB BRASIL) Tj
+T*
+ET
+Q
+0.843137 0.901961 0.960784 RG
+n
+36 24 m
+559.2756 24 l
+S
+0.356863 0.45098 0.564706 rg
+BT
+/F1-0 6.6 Tf
+7.92 TL
+ET
+BT
+1 0 0 1 40 14 Tm
+(qualityassurancebrasil\056com\056br) Tj
+T*
+ET
+BT
+1 0 0 1 210.9996 14 Tm
+(QA Lab Brasil v2\0562 \174 PT\055BR \174 Atualizado\072 setembro de 2026) Tj
+T*
+ET
+BT
+1 0 0 1 514.547 14 Tm
+(Pagina 1 de 1) Tj
+T*
+ET
+Q
+
+
+endstream
 endobj
 6 0 obj
 <<
-/Author (\(anonymous\)) /CreationDate (D:20260919000504+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20260919000504+00'00') /Producer (ReportLab PDF Library - \(opensource\)) 
-  /Subject (\(unspecified\)) /Title (NVDA) /Trapped /False
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
 >>
 endobj
 7 0 obj
 <<
-/Count 1 /Kids [ 4 0 R ] /Type /Pages
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
 >>
 endobj
 8 0 obj
 <<
-/Filter [ /ASCII85Decode /FlateDecode ] /Length 1322
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
 >>
-stream
-Gb!TU9lo&I&;KZQ'mk$Y%`N@D\TI2La`JlYeqoi%I"A8^N!p$6!%E3alh`;'=dG7.FKJJ3)@Iklmd@En0+_!::XoEH)PW--:#8>R`ACdqPQiS]hUA[7PIm#l=IBmi(ajT&"\-s'O0B/D6'rur;G[p!0h<`aZ@&)gjH_0<BCoRYUKI[40u^h_\.Aa^=9`IDUERnEFSbm4bO_?>p6fNrkk3mS>e.`7>OFlam_iZT78jQAW6@X,ApIKPe$%P`b$a]E6&.3bfU;MVqOVhF*R1!UXq`OZC-+POQ#_c]en/eYrf#KV2O.>9pA%nBHEOE7[(&m%N'0&@F@pn*NN03bhe6/DIk0:?Jimn\1:FVaX[ll[DtR9;]@lYnS56KkOFhS@!j%N'VgZ()cs=\6SRg-o,7LL3,K!qSrBEXg7n5pn^8c<5Gb-7J\=otp&MAaq%j@k.Ac.m-P"+0B;_+o6,Al!?!mA85B*V\\]2i[>1@UZu<mK"&r>aJ\>0jGtQHXl-kEK[,Num0j>dGV<)V73EDHK!d&Yo*OO0G3E00oAlD7BW\Xt=pYW9loEI@d.jbX)E<\Di2!CWCXi`ZdNR/7)eGQ5tho#ds3)WqXR^rUqO6*fu]SN?K2f7jIl=md=p665m8CZ9Pdh:5bGe_'LbA&N9@F1SZf>3/Z7BrE=P3,KG3=IZZK&pCg;++^T6eZl7?d4Z/XF;"r&XK+>s9lWViCJ^Uc0Yu>]P?ss@AE2"8JW]RsqQP&0)X?7Er$`j2s],FPhks=$q%:8)r>&!q9L!dTp)'rr>]IV$oh>/R+a#1&sgSL_/[d!uA[(!Tn14YOlo7O!s=uW77p`Tgq/es"+<ZfJ4"RW!IhHBU#eq]t(Df0<-`c+_Z(EIpr6u>@[>bh6oCM.Tp`Fb/LoujMg:`%4bVO\L2^!:SN2VB-m4:psW_n/\&ga#;rG-8#ho`3ib"0L(QKuc6Z*=`3D1);k^X_fBNRUSt\-Xh=?h&<G!"`@U7:-i%$=^'7/GM'Gd#tj8.cL;ZB_Ncbe@YS2bjdVQ)&BE7Qn1o+E`N.kR!RG<'j=S85SHIC_Ilb8(VjUlaN^(P?`t..Cd0?H$[C1?+ZD&.2O2(Zp;3Rr#b79b)kG@s%=1:=>,9&@_%ik[jVgTjP1>h]cH[sVXFCHn0Lm=P"L8Gdg3%jcseb]TS3[_&=4g=R7168c^mImXao&#W#n^6Urk,Y#BdV[aAr0tf=Ze5InXX^lq"kG7Q,90A9(HD-CPG=Hk8Bf*'<m@8ukAJ`cLVrZd%UT],]6F'RIP,`eIU^lL2;'FeC:,p_%LW6=K+nKuD,WZUJkl:G]%s9V~>endstream
+endobj
+9 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
 endobj
 xref
-0 9
+0 10
 0000000000 65535 f 
-0000000061 00000 n 
-0000000102 00000 n 
-0000000209 00000 n 
-0000000321 00000 n 
-0000000524 00000 n 
-0000000592 00000 n 
-0000000863 00000 n 
-0000000922 00000 n 
+0000000015 00000 n 
+0000000054 00000 n 
+0000000113 00000 n 
+0000000162 00000 n 
+0000000457 00000 n 
+0000005030 00000 n 
+0000005137 00000 n 
+0000005244 00000 n 
+0000005356 00000 n 
 trailer
 <<
-/ID 
-[<a38d7928dd7ee31b33eb5383938cb6a8><a38d7928dd7ee31b33eb5383938cb6a8>]
-% ReportLab generated PDF document -- digest (opensource)
-
-/Info 6 0 R
-/Root 5 0 R
-/Size 9
+/Size 10
+/Root 3 0 R
+/Info 1 0 R
 >>
 startxref
-2335
+5468
 %%EOF

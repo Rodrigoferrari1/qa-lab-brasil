@@ -1,80 +1,353 @@
 %PDF-1.4
-%“Œ‹ž ReportLab Generated PDF document (opensource)
+%âãÏÓ
 1 0 obj
 <<
-/F1 2 0 R /F2 3 0 R /F3 4 0 R
+/Producer (pypdf)
 >>
 endobj
 2 0 obj
 <<
-/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
+/Type /Pages
+/Count 1
+/Kids [ 4 0 R ]
 >>
 endobj
 3 0 obj
 <<
-/BaseFont /Helvetica-BoldOblique /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
+/Type /Catalog
+/Pages 2 0 R
 >>
 endobj
 4 0 obj
 <<
-/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F3 /Subtype /Type1 /Type /Font
+/Contents 5 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/ExtGState <<
+/gRLs0 <<
+/ca 0.035
+>>
+>>
+/Font <<
+/F1 6 0 R
+/F1-0 7 0 R
+/F2 8 0 R
+/F2-0 9 0 R
+/F3 10 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
 >>
 endobj
 5 0 obj
 <<
-/Contents 9 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 8 0 R /Resources <<
-/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
->> /Rotate 0 /Trans <<
-
->> 
-  /Type /Page
+/Length 4743
 >>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 51.35433 779.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 12 Tf 14 TL (QA Lab Brasil) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 749.3701 cm
+q
+BT 1 0 0 1 0 4 Tm 104.5735 0 Td 24 TL /F3 20 Tf 0 0 0 rg (SQL, Database & Data Quality) Tj T* -104.5735 0 Td ET
+Q
+Q
+q
+1 0 0 1 51.35433 724.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Data validation, SQL, relational/NoSQL databases, ETL/ELT and pipeline quality.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 714.3701 cm
+Q
+q
+1 0 0 1 51.35433 688.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Databases for QA) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 656.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (QA uses databases to validate persistence, integrations, business rules and consistency between UI, API and) Tj T* (storage. Query safely and avoid unintended data changes.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 630.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Essential SQL) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 598.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (SELECT reads data; WHERE filters; ORDER BY sorts; GROUP BY aggregates; JOIN combines tables. Before) Tj T* (UPDATE or DELETE, confirm environment, permissions and impact.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 572.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (JOIN in practice) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 540.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (INNER JOIN returns matching rows. LEFT JOIN keeps all rows from the left and adds matches from the right. They) Tj T* (are useful for validating orders, customers and relationships.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 514.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Transactions and ACID) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 482.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Atomicity, Consistency, Isolation and Durability help explain guarantees in transactional databases. Concurrent) Tj T* (scenarios and rollback deserve attention in critical operations.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 456.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Data Quality) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 424.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL -0.08539 Tw (Data quality includes dimensions such as completeness, accuracy, consistency, uniqueness and freshness. A system) Tj T* 0 Tw (may work technically while still delivering wrong data.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 398.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (ETL, ELT, Data Lake and Warehouse) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 366.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Pipelines move and transform data between sources and destinations. QA can validate counts, schema,) Tj T* (transformations, duplicates, reconciliation and freshness.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 340.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (NoSQL) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 308.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (NoSQL databases use models different from relational databases, such as documents and key-value. Testing should) Tj T* (consider consistency, flexible schema and query patterns.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 282.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Test-data security) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 250.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Avoid real personal data when it is not necessary. Prefer synthetic data, masking and anonymization according to) Tj T* (applicable policies and laws.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 224.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (QA tip) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 205.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Compare data at different points in the flow; a correct UI value does not prove the entire integration is correct.) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+0.843137 0.901961 0.960784 RG
+0.6 w
+n
+36 815.8898 m
+559.2756 815.8898 l
+S
+0.070588 0.207843 0.356863 rg
+BT
+/F2-0 8.2 Tf
+9.84 TL
+ET
+BT
+1 0 0 1 40 821.8898 Tm
+(QA LAB BRASIL) Tj
+T*
+ET
+0.356863 0.45098 0.564706 rg
+BT
+/F1-0 6.8 Tf
+8.16 TL
+ET
+BT
+1 0 0 1 399.3516 821.8898 Tm
+(QUALITY ENGINEERING \174 OFFICIAL DOCUMENT) Tj
+T*
+ET
+q
+0.848048 0.529919 -0.529919 0.848048 297.6378 420.9449 cm
+0.08 0.21 0.36 rg
+/gRLs0 gs
+BT
+/F2-0 42 Tf
+50.4 TL
+ET
+BT
+1 0 0 1 -164.493 0 Tm
+(QA LAB BRASIL) Tj
+T*
+ET
+Q
+0.843137 0.901961 0.960784 RG
+n
+36 24 m
+559.2756 24 l
+S
+0.356863 0.45098 0.564706 rg
+BT
+/F1-0 6.6 Tf
+7.92 TL
+ET
+BT
+1 0 0 1 40 14 Tm
+(qualityassurancebrasil\056com\056br) Tj
+T*
+ET
+BT
+1 0 0 1 221.4507 14 Tm
+(QA Lab Brasil v2\0562 \174 EN \174 Updated\072 September 2026) Tj
+T*
+ET
+BT
+1 0 0 1 519.6818 14 Tm
+(Page 1 de 1) Tj
+T*
+ET
+Q
+
+
+endstream
 endobj
 6 0 obj
 <<
-/PageMode /UseNone /Pages 8 0 R /Type /Catalog
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
 >>
 endobj
 7 0 obj
 <<
-/Author (\(anonymous\)) /CreationDate (D:20260918234448+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20260918234448+00'00') /Producer (ReportLab PDF Library - \(opensource\)) 
-  /Subject (\(unspecified\)) /Title (\(anonymous\)) /Trapped /False
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
 >>
 endobj
 8 0 obj
 <<
-/Count 1 /Kids [ 5 0 R ] /Type /Pages
+/BaseFont /Helvetica-BoldOblique
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
 >>
 endobj
 9 0 obj
 <<
-/Filter [ /ASCII85Decode /FlateDecode ] /Length 1604
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
 >>
-stream
-GatU3gMZ%0&:Ml+bYsW>NahgM"F5##Dk"VbD&"Vu84t1s%4*JL'sIN-4f!JI0&j:C$Nl,o;0+a1k0,f^/j=:M:(*esKMFbN'_a#t.3:kZ8u=F:Na@e+ouUV^onS0KT?b_7UAe:S`d;sc%?Jd3#SuF%;4&e?YdZLRboK$/Be!_:AV??6G=qk2j:C_?&YG+(%Gj2C`r<d.O1U$XGh*tr509`>I%5ZN;m5M8D??Tnc]?Nbh$>B?_D;'*0'TVV9"NP"MN_t<r?/&qi*c9WB\;AfdtPO>!;um_nGEL2R;c&j*=AJX<oI)XdlWOr-sO`,3s]AC3gh<?b)@fQZ'$E^CD2'E!lB0um=tp9kN@WLBp._9/<J%gRnF$MEc(#[HoRM@E-0H.4PGQ2MPp1)[c!7r)_@C,2HF#%A]c$VV;o)mQib--D#p*5A86h-4H_-71oFD3A%,u$l1qbTj+gk=I$;^XFkVX38#R1]/$^@3[0d\fS!FrBV0>pOS;"0q?&3OH[KSC\IeP40T30:5P=#*)3UCF(EL>\_TRWP,-eAYS<+HI/Qh9CCajYo`W>m%qV#.'ZaV.tY6WP.]q`g_@T-+!ER*Q5f_$tkkqu6:!TGKC["G&cK&^_>gEd.uco>Ag4R1P8?#%!Kba4$8G;\5:6dcdu%hAspa+g(Fm"t!kXM:Aq`I!F6>8]X9oZD>XYP>&N@YJFXnpS31aG6^fo=2V1!aKuL2?-%%]7P=euFRgkp%_OJs!(*[SKQ<gqEXO55\SEZPbLWlg]>mCd(G;Fm_-74.(5@6qjg>FI^!S8geKtCO+J_Is'Y"R;2nEQ:Z>*>0_mkDBIRl_56tngX)q)dY[l9'_%aGS@^7U*6;O&\Q[R8Y.^$*hFeP4mDP+10]RIkMn$W\#4f1HA!b.JJqg+bk5S_GH@`na6hj=R:;0rXH0kbMGj,P;scXjg%?09i_Qo>W&GoDK3oYaZPfJqQ^T[V3`q6,]FM&FUG6mmlOOr3ViVHgs>b7c!ZEs+6Eqg@'@S+n&C\R3)SFP0bV.Xj[F[lU@[K%"obu*>0g:'qVf)4bJj`f/alX&Eef8_V[d=-G.-o@Zt"TGV@!mQJ0!5j)e.E]J0SU$`TMpPA%W<F8:fTDj;W%C*"405t&JA3:E7:#o3as#0gV0[H`H5/mluD$]QcViI(8Jj7m&rN'LV>>N7dZ3L$:PL>caK>$[V>4a=d]"D(l;=;iS&j_fmP\h5":Zd>^=FLE3p27sgk=^<K'i;A=?(u2"P^g0b(#]5,Z$`3iiK!;;`E7"QK!W:b?kk,gDUY^Ckk;dnNBN0Dh7D@Y$2gphQ[.a*tU#C],-U>AbAs3?ek%%=HC:F"lIY$^4gGlb'YB&dK4tm[e]nY(9o!2e0WDB^O.dn5WM"N%CQ=Vmr.h1bQIq97R_jZAR7thCnM_;R_Pq="J9;Qf21+M&dZ\mt_0PH#tPaJcgkA\.f$#Es2c=%ub\m-!@^NIMm.H[[\k4EO,=/!Joes47?>W7`Wb>oIhq3UXq`oouAWtlbf_k6rNF:FN/gI?]k\9FcSC$CQ*O%a@=\^JYo_Hs?!,#a7;SO2#(S@J[711#D,=[*U/o%ia&a]ZCS4_/[,5N+gCKE~>endstream
+endobj
+10 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F3
+/Subtype /Type1
+/Type /Font
+>>
 endobj
 xref
-0 10
+0 11
 0000000000 65535 f 
-0000000061 00000 n 
-0000000112 00000 n 
-0000000219 00000 n 
-0000000338 00000 n 
-0000000450 00000 n 
-0000000653 00000 n 
-0000000721 00000 n 
-0000001001 00000 n 
-0000001060 00000 n 
+0000000015 00000 n 
+0000000054 00000 n 
+0000000113 00000 n 
+0000000162 00000 n 
+0000000468 00000 n 
+0000005263 00000 n 
+0000005370 00000 n 
+0000005477 00000 n 
+0000005596 00000 n 
+0000005708 00000 n 
 trailer
 <<
-/ID 
-[<7dfa6d88005974fbe3398fe8e8ef8bd2><7dfa6d88005974fbe3398fe8e8ef8bd2>]
-% ReportLab generated PDF document -- digest (opensource)
-
-/Info 7 0 R
-/Root 6 0 R
-/Size 10
+/Size 11
+/Root 3 0 R
+/Info 1 0 R
 >>
 startxref
-2755
+5821
 %%EOF

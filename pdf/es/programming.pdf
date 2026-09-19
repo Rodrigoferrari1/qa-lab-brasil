@@ -1,80 +1,354 @@
 %PDF-1.4
-%“Œ‹ž ReportLab Generated PDF document (opensource)
+%âãÏÓ
 1 0 obj
 <<
-/F1 2 0 R /F2 3 0 R /F3 4 0 R
+/Producer (pypdf)
 >>
 endobj
 2 0 obj
 <<
-/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
+/Type /Pages
+/Count 1
+/Kids [ 4 0 R ]
 >>
 endobj
 3 0 obj
 <<
-/BaseFont /Helvetica-BoldOblique /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
+/Type /Catalog
+/Pages 2 0 R
 >>
 endobj
 4 0 obj
 <<
-/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F3 /Subtype /Type1 /Type /Font
+/Contents 5 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/ExtGState <<
+/gRLs0 <<
+/ca 0.035
+>>
+>>
+/Font <<
+/F1 6 0 R
+/F1-0 7 0 R
+/F2 8 0 R
+/F2-0 9 0 R
+/F3 10 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
 >>
 endobj
 5 0 obj
 <<
-/Contents 9 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 8 0 R /Resources <<
-/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
->> /Rotate 0 /Trans <<
-
->> 
-  /Type /Page
+/Length 4662
 >>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 51.35433 779.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 12 Tf 14 TL (QA Lab Brasil) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 749.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F3 20 Tf 24 TL 155.1435 0 Td (Lenguajes para QA) Tj T* -155.1435 0 Td ET
+Q
+Q
+q
+1 0 0 1 51.35433 724.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Python, JavaScript, TypeScript, Java, C#, SQL y shells en el contexto de calidad y automatizaci\363n.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 714.3701 cm
+Q
+q
+1 0 0 1 51.35433 688.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Por qu\351 QA aprende programaci\363n) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 656.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Programaci\363n ayuda a QA a automatizar verificaciones, preparar datos, llamar APIs, analizar archivos y comprender) Tj T* (mejor el sistema. El objetivo depende del rol; no todo QA necesita dominar todas las lenguas.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 630.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Python) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 598.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Python tiene sintaxis accesible y amplio ecosistema. Se utiliza con Playwright, Selenium, Pytest, Robot Framework,) Tj T* (scripts, APIs y procesamiento de datos.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 572.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (JavaScript y TypeScript) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 540.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (JavaScript es nativo del ecosistema web; TypeScript agrega tipado est\341tico. Playwright y Cypress tienen fuerte) Tj T* (adopci\363n en este ecosistema.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 514.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Java) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 482.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Java es com\372n en sistemas corporativos y automatizaci\363n con Selenium, REST Assured, JUnit/TestNG y) Tj T* (herramientas JVM.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 456.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (C#) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 437.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (C# aparece en entornos .NET y puede usarse con Selenium, Playwright y frameworks de prueba de Microsoft.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 411.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (SQL no es lenguaje de automatizaci\363n UI) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 379.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (SQL es un lenguaje para consultar y manipular datos relacionales. Para QA es fundamental en validaci\363n de) Tj T* (persistencia e integraciones.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 353.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Conceptos fundamentales) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 321.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Variables, tipos, condiciones, loops, funciones, colecciones, excepciones, m\363dulos y orientaci\363n a objetos forman) Tj T* (una base \372til para mantener automatizaciones.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 295.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Elegir un lenguaje) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 263.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Considere stack del producto, conocimiento del equipo, librer\355as, mantenimiento y CI/CD. Para aprender, dominar) Tj T* (bien un lenguaje suele ser mejor que coleccionar sintaxis.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 237.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Consejo de QA) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 218.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Un profesional QA no necesita dominar todos los lenguajes; comience por el que se adapte a su stack y objetivos.) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+0.843137 0.901961 0.960784 RG
+0.6 w
+n
+36 815.8898 m
+559.2756 815.8898 l
+S
+0.070588 0.207843 0.356863 rg
+BT
+/F2-0 8.2 Tf
+9.84 TL
+ET
+BT
+1 0 0 1 40 821.8898 Tm
+(QA LAB BRASIL) Tj
+T*
+ET
+0.356863 0.45098 0.564706 rg
+BT
+/F1-0 6.8 Tf
+8.16 TL
+ET
+BT
+1 0 0 1 398.216 821.8898 Tm
+(QUALITY ENGINEERING \174 DOCUMENTO OFICIAL) Tj
+T*
+ET
+q
+0.848048 0.529919 -0.529919 0.848048 297.6378 420.9449 cm
+0.08 0.21 0.36 rg
+/gRLs0 gs
+BT
+/F2-0 42 Tf
+50.4 TL
+ET
+BT
+1 0 0 1 -164.493 0 Tm
+(QA LAB BRASIL) Tj
+T*
+ET
+Q
+0.843137 0.901961 0.960784 RG
+n
+36 24 m
+559.2756 24 l
+S
+0.356863 0.45098 0.564706 rg
+BT
+/F1-0 6.6 Tf
+7.92 TL
+ET
+BT
+1 0 0 1 40 14 Tm
+(qualityassurancebrasil\056com\056br) Tj
+T*
+ET
+BT
+1 0 0 1 212.28 14 Tm
+(QA Lab Brasil v2\0562 \174 ES \174 Actualizado\072 septiembre de 2026) Tj
+T*
+ET
+BT
+1 0 0 1 514.547 14 Tm
+(Pagina 1 de 1) Tj
+T*
+ET
+Q
+
+
+endstream
 endobj
 6 0 obj
 <<
-/PageMode /UseNone /Pages 8 0 R /Type /Catalog
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
 >>
 endobj
 7 0 obj
 <<
-/Author (\(anonymous\)) /CreationDate (D:20260918234449+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20260918234449+00'00') /Producer (ReportLab PDF Library - \(opensource\)) 
-  /Subject (\(unspecified\)) /Title (\(anonymous\)) /Trapped /False
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
 >>
 endobj
 8 0 obj
 <<
-/Count 1 /Kids [ 5 0 R ] /Type /Pages
+/BaseFont /Helvetica-BoldOblique
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
 >>
 endobj
 9 0 obj
 <<
-/Filter [ /ASCII85Decode /FlateDecode ] /Length 1460
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
 >>
-stream
-Gat=+>uTK;'Rf.GgmPm\45#/E3.^%FZ?1j3m6Cu+i^L+jJuC4<aTg1#^IN=7K\ZcX1)V4Cjnj&C\K=4]N)(.:V`E/f#p"GN-lUHC7a\G)UrbK":(Ej+U?0KBlGq"#NbLU>mDn8I#k-aBEHl<_#I"cAN5A6uK7fFTDsm,gS?Bhq5$R!AqL^+j2#5T^\]&3NULCd0@I5J?_6J2@#`bW)ksrWN_=L5fLY&WjQ$?b.Ks6/HcPtJc]g)9X,_KN@,]Q&J@u9F!Imqq.aSKLG4rW7PYMr"+V,e@CO!]d:S+$?*O"NWhkjJ/5(??N>.7^Ir'r=Bdr)O`YQr9Vg-8HPQ<G?JNb24D.&+M(!r=3L1lQ!>S(nI2(-eZ<&F$k\W3^[EA\U''q#iLjo/8KoC=>RE1DaJ9$E0Q;b",KE.@=I[*`1kBWM%J&=@$Y-Ob*bqCctISc`5u=%Q82;U>Uot.QHjEOE$7&'pMUA-50=]%J:;8(3^qfaFI;Y50E>HT\rq-^Vb9HjqSX]:!I$st,f9Xue/;sfV9+[W9lnHPQ@^lU9+=C9+<2j1'6NP$E'&r<pSBKuZe[uhg+JBr\-ZK?PcP`6ku,/c7j@W*:DJ4FkCo(R3&N2hn!L+QHLuV#d#AZr="EHp.%*.$2R:JP"O$.NkD,IoP.j0]r+bT%hMN0eWXMRI52cdIKNF9\Pe*jrlQ%ZS`e-E/?5Gg'Y:IA?b@*K7]0Y=nMq4fF;Mo2kA:!A%fg\LXk*G036kodo"L8R.0IgXKqA]2SMi.`g^q#n29s]^oaXbU*DUF]BDe&:Ea_ZaNUCR6G-e@\YLF;IoILN<5'Rem_*Y1StbM<"i>8S<pG2#'#d.1AT5;)COFRECF3Q!8Tf<RN-!3kqlcsh^l,?nA&((S(Xr71nb@>A1#*PmY0*N[<ArTE.Y-]A=>dJ&5P:ki!QX8_k:M6G6_;3[=Zf("6oHDeP];sKC[XJpFor3pT"[DnV;f`e0"g(P_rWO4C@AWqT6c$]uQpK-`Z`#\QNh.$#=+H/pr,7.QaTQ?AJ0i/XM$S@9/2'\,4X"aL*@Y_h'QQg?Z<p:$s6>+G^o+Dh!-C8OSi!%jXGb%H+!hl;DAoBh/45_/-n\4!>3p"6AYRr@s%PA"R<::%eVm'',:go<U2>SU"n7JuZ+I"SarZJ$!:21K@bltj*k2ml^?tPZ2h8.`?e>nk2?5\-6`e(Q4hN\j5'ds@FD_Mi?MK&\3Y^NF]NYDmsP<CA)<'6Lj;fEbiNS4]rNBTmW'&+1&#@R3TbV5"GX@c,!QnYLEc#X0b\H59/78>F=Co*!X\-K7,F-p?:7i-Y.`P:21D6I*Z<kqLNr*=0M$LNWh5d+8'kDIl%UVN>[V@*Q5Rcpn(E:E:"cMF0$%ie"Y(AhCqheS;G%#^SC(L^f2>F/Bher.+*b+8A(#l)d/Mg@>U=@'hK'*T-Q!A'Rj/lo%Ds)=`cIfY!rp4<~>endstream
+endobj
+10 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F3
+/Subtype /Type1
+/Type /Font
+>>
 endobj
 xref
-0 10
+0 11
 0000000000 65535 f 
-0000000061 00000 n 
-0000000112 00000 n 
-0000000219 00000 n 
-0000000338 00000 n 
-0000000450 00000 n 
-0000000653 00000 n 
-0000000721 00000 n 
-0000001001 00000 n 
-0000001060 00000 n 
+0000000015 00000 n 
+0000000054 00000 n 
+0000000113 00000 n 
+0000000162 00000 n 
+0000000468 00000 n 
+0000005182 00000 n 
+0000005289 00000 n 
+0000005396 00000 n 
+0000005515 00000 n 
+0000005627 00000 n 
 trailer
 <<
-/ID 
-[<aafb507dfd89f31e933bf48680dfd02a><aafb507dfd89f31e933bf48680dfd02a>]
-% ReportLab generated PDF document -- digest (opensource)
-
-/Info 7 0 R
-/Root 6 0 R
-/Size 10
+/Size 11
+/Root 3 0 R
+/Info 1 0 R
 >>
 startxref
-2611
+5740
 %%EOF

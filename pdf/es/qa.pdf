@@ -1,80 +1,354 @@
 %PDF-1.4
-%“Œ‹ž ReportLab Generated PDF document (opensource)
+%âãÏÓ
 1 0 obj
 <<
-/F1 2 0 R /F2 3 0 R /F3 4 0 R
+/Producer (pypdf)
 >>
 endobj
 2 0 obj
 <<
-/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
+/Type /Pages
+/Count 1
+/Kids [ 4 0 R ]
 >>
 endobj
 3 0 obj
 <<
-/BaseFont /Helvetica-BoldOblique /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
+/Type /Catalog
+/Pages 2 0 R
 >>
 endobj
 4 0 obj
 <<
-/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F3 /Subtype /Type1 /Type /Font
+/Contents 5 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/ExtGState <<
+/gRLs0 <<
+/ca 0.035
+>>
+>>
+/Font <<
+/F1 6 0 R
+/F1-0 7 0 R
+/F2 8 0 R
+/F2-0 9 0 R
+/F3 10 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
 >>
 endobj
 5 0 obj
 <<
-/Contents 9 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 8 0 R /Resources <<
-/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
->> /Rotate 0 /Trans <<
-
->> 
-  /Type /Page
+/Length 5829
 >>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 51.35433 779.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 12 Tf 14 TL (QA Lab Brasil) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 749.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F3 20 Tf 24 TL 158.4735 0 Td (Quality Assurance) Tj T* -158.4735 0 Td ET
+Q
+Q
+q
+1 0 0 1 51.35433 724.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Fundamentos de calidad de software, prevenci\363n de defectos y actuaci\363n de QA durante todo el ciclo.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 714.3701 cm
+Q
+q
+1 0 0 1 51.35433 688.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Que es Quality Assurance?) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 643.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 29.5 Tm /F1 9.5 Tf 13 TL (Quality Assurance \(QA\) es un enfoque sistematico para aumentar la confianza en la calidad del producto y del) Tj T* (proceso. QA actua antes, durante y despues de la ejecucion de pruebas: revisa requisitos, identifica riesgos, mejora) Tj T* (procesos, promueve la testabilidad y aporta evidencias para la toma de decisiones.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 617.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (QA, QC y Testing) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 572.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 29.5 Tm /F1 9.5 Tf 13 TL (QA se orienta a la prevencion y al proceso. Quality Control \(QC\) observa el producto y sus resultados. Testing es) Tj T* (una actividad de verificacion y validacion que revela informacion sobre comportamiento, riesgos y defectos. La) Tj T* (terminologia puede variar entre organizaciones, por lo que el contexto importa.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 546.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Error, defecto y falla) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 501.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 29.5 Tm /F1 9.5 Tf 13 TL -0.060425 Tw (Un error es una accion humana incorrecta; un defecto es una imperfeccion introducida en un artefacto; una falla es el) Tj T* 0 Tw (comportamiento incorrecto observado cuando un defecto se manifiesta. Ejemplo: interpretar 15% como 5% es un) Tj T* (error; implementar 5% es el defecto; que el cliente reciba 5% es la falla observada.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 475.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Verificacion y validacion) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 430.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 29.5 Tm /F1 9.5 Tf 13 TL (La verificacion pregunta si construimos el producto de acuerdo con especificaciones y requisitos. La validacion) Tj T* (pregunta si construimos el producto adecuado para la necesidad real. QA utiliza ambas para evitar que una solucion) Tj T* (tecnicamente correcta resuelva el problema equivocado.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 404.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Calidad durante todo el ciclo) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 359.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 29.5 Tm /F1 9.5 Tf 13 TL (QA puede participar en refinamiento, criterios de aceptacion, diseno, desarrollo, pruebas, release y produccion.) Tj T* (Cuanto antes se identifica un riesgo, mas opciones existen para corregirlo con menor impacto. Esto se relaciona con) Tj T* (Shift Left, Quality by Design y Whole Team Quality.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 333.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Quality Engineering) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 288.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 29.5 Tm /F1 9.5 Tf 13 TL (Quality Engineering amplia la calidad hacia arquitectura, automatizacion, CI/CD, observabilidad, testabilidad, datos y) Tj T* (produccion. El objetivo no es solo encontrar bugs, sino construir mecanismos que permitan evaluar la calidad) Tj T* (continuamente.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 262.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Que hace un QA en el dia a dia?) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 217.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 29.5 Tm /F1 9.5 Tf 13 TL (Analiza requisitos, identifica riesgos, disena escenarios, prepara datos, ejecuta pruebas, investiga logs y APIs,) Tj T* (registra defectos, retesta correcciones, ejecuta regresion, acompana metricas y colabora con desarrollo, producto y) Tj T* (otros stakeholders.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 191.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Errores comunes al comenzar) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 146.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 29.5 Tm /F1 9.5 Tf 13 TL (Confundir QA con solo ejecutar casos; probar unicamente el happy path; registrar bugs sin evidencia; ignorar riesgo) Tj T* (y contexto; creer que 100% de casos ejecutados equivale a 100% de cobertura del producto; y automatizar antes de) Tj T* (comprender el comportamiento que debe validarse.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 120.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Consejo de QA) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 101.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (La calidad es responsabilidad de todo el equipo; QA ayuda a hacer visibles los riesgos y las evidencias.) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+0.843137 0.901961 0.960784 RG
+0.6 w
+n
+36 815.8898 m
+559.2756 815.8898 l
+S
+0.070588 0.207843 0.356863 rg
+BT
+/F2-0 8.2 Tf
+9.84 TL
+ET
+BT
+1 0 0 1 40 821.8898 Tm
+(QA LAB BRASIL) Tj
+T*
+ET
+0.356863 0.45098 0.564706 rg
+BT
+/F1-0 6.8 Tf
+8.16 TL
+ET
+BT
+1 0 0 1 398.216 821.8898 Tm
+(QUALITY ENGINEERING \174 DOCUMENTO OFICIAL) Tj
+T*
+ET
+q
+0.848048 0.529919 -0.529919 0.848048 297.6378 420.9449 cm
+0.08 0.21 0.36 rg
+/gRLs0 gs
+BT
+/F2-0 42 Tf
+50.4 TL
+ET
+BT
+1 0 0 1 -164.493 0 Tm
+(QA LAB BRASIL) Tj
+T*
+ET
+Q
+0.843137 0.901961 0.960784 RG
+n
+36 24 m
+559.2756 24 l
+S
+0.356863 0.45098 0.564706 rg
+BT
+/F1-0 6.6 Tf
+7.92 TL
+ET
+BT
+1 0 0 1 40 14 Tm
+(qualityassurancebrasil\056com\056br) Tj
+T*
+ET
+BT
+1 0 0 1 212.28 14 Tm
+(QA Lab Brasil v2\0562 \174 ES \174 Actualizado\072 septiembre de 2026) Tj
+T*
+ET
+BT
+1 0 0 1 514.547 14 Tm
+(Pagina 1 de 1) Tj
+T*
+ET
+Q
+
+
+endstream
 endobj
 6 0 obj
 <<
-/PageMode /UseNone /Pages 8 0 R /Type /Catalog
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
 >>
 endobj
 7 0 obj
 <<
-/Author (\(anonymous\)) /CreationDate (D:20260918234449+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20260918234449+00'00') /Producer (ReportLab PDF Library - \(opensource\)) 
-  /Subject (\(unspecified\)) /Title (\(anonymous\)) /Trapped /False
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
 >>
 endobj
 8 0 obj
 <<
-/Count 1 /Kids [ 5 0 R ] /Type /Pages
+/BaseFont /Helvetica-BoldOblique
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
 >>
 endobj
 9 0 obj
 <<
-/Filter [ /ASCII85Decode /FlateDecode ] /Length 2059
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
 >>
-stream
-GatU4bAQ&o']%q&\1*LL<7eGRB^3PZ9iI]M(/p0)B%,#46p&U`Ue6O4UgH@LP*0XjE@msl&3hH150g]oLJGf*Iqe\M=$jQ(M:WhIO\Wi0,LYgi.TUcQG'3?:,&Qe=V5%ibbqcP+>`H&.35osK4:[_Fp&Zb?rM!Dk_Ldu#6!j!Me$Z]\[<Q?+WUclf4c%X,*97e4SdI;;+(uPpAR[FW5a)a-S\5n8(YK5K<s?He.TQ'gY+>0MF=t2PYE!Q!8LBYcfhA^!/EW+Q.t3DVZV^<"Y7%A+DN#6_'KM=*W8P/1CmqP<AKkk>G>dVhF#M?$?Rk,+k5</mTY0f:E!]f$\;j%9`Y:n`;WK;\c"K@4dsW64hCsHNk'Wk.bIKf93KMg=.ARVAo_S=R=j<ktGsYf-C@;ZF`FfbLo1RBKCE`AjHpMXF\OKWLW8*2t/.(m+$!C,gaGo%)dbb>>LX/+Q-(luH#8BE)+1l8?nT?IT))3*3+i/uEUrS4.GI<b<FK?o5AF=MM!f",UE_Yu(!:IuA?G:[G'ECp^.Zg"NW#T.pl*gLq,p/)Bmt3\KNi>.N_\!HoTs]cWK/^3C%H?f#_-E+\Fn:TiU.DR06&h1J!-dSiijmRK:;j%LA@+[T8oN%rROol$_ME!dUbHI'n.hYVDSFJG1a[b,U=Z^6`otF2P.>W9m[1DGG":O/J*.i6EkZ@g0Q,Cj"/bb4GYLj:[HhFP-Z-Z)NP,_D$6PY#S/0OO+K;L&f?UHL<5MT8^5@h&8]QM"Wi-=NBPAQsOg\0AP\-smXHsooX9-$(\E.==8ZQbQ!g==6Mpd7m=?]Qor!t*R(j#`sB%-Q3fl1`/Yt8"$$JJ<ZdX[/6o_G#%2'.b?j66\RI2/)u5o)G<-kQkikkr,t82D*nYnkI/Op.XS[(R8-Oqur.-PVaKli<i_*4VJS,<$`q=baOUD>`U(3Q<4r@sn#*9h.>PHgXJcjWFfT)C^864R")1q]MrN1iGAbBu+eTZZPnmfjb.k6d@hd6Hr0+TTlSP`Hsk$2Subt7*19?6$'H2p:dg_W69/d;l5K+1R[h.WR2Rp1`QIHJDAQBfV5]VcW]<Bc\cM>=-[bql@=_dge5i#i=SUF3nLJVH#WKrc_LA*3L<+m&4G8/4$#+J&kWqh`_%_uIcMGa!nb_q>'I!-?%DHWFIAK@Pl<(Q,BJiTWrRIdrucKjlud7VhV^Q>fU3^>$pfA*^c=Q7r_9j,5NR%5#L6o`>jBYDOJnme*\;rDK9DrN)l7mUcE4t9WG(TGQZWu"KXN<W[:,&9KUF>`PB8lMP['N;*;bAE.6l6>o'uu@cR?,di,Lt8"42V/$c!5P<`?KOP5hepd1POAh,`2adL^XijtQ<V8Iu:H70GW(<.jf,A,ghX2N>51RjRCo`V$!N%si)<!<9SgV8T6$<Hi]g!OD()\NAn$@g]\kX0b9iLH((2!!@T)9-/c)&CmVO6W\MnhI3oFjoAo?J=d/',b(g2h-q%;oC;LuqkOnJes%IN((L27i:%7o>t50?>N4TH#q'/7%_E6`(9a/cCC<2+r>'3if_'TnYeW?@rnpm8GgpN;"V!bXTJjOW]!7,V.'KPUO/"o>d)l3u2`lFU5jqg+=J\8chKZPqr-uLJ@5>WMSd+pm;c(GS?9:h6Dq[3XGeCra/50+F/;[EAU&@Y8]jiS&"\m4,[Jp#`O"T[$bS(;5W:t22!eC]\e98:%>8Rl9H39:cSH@Q/8i@H1o'3b7Bl1_olgI6=o;[4T",?sG2"[uip_M9fnbVM#H*?lSG6bDtCX;!.ln1T+De'*+*FL?misQ70_,2.M!-72;8b9a9Q<Nc!#Gu(b`ph+=G<:oUT'@5?9[3N6FC<&oirRmVTjXJ#&6)nmD!AS0fR)g.[KS'L(r(/TIM%Y=Nd(#\8\o=j$RLTXmI)cFBj")h%\66VY4U.OgO5cW#Lcn.S/Sn,,Cec(3JTr(Aa;4T)`$=8jLfUrZ"$.UE))D-;%*^e^sJ_O;<;[Ka"eXWC'<u9^W#%^E3!dHOcSaf^0n3S%C-&uD?WB0<sq:ea/]gd[QcNsh_0!>5ANEP0)~>endstream
+endobj
+10 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F3
+/Subtype /Type1
+/Type /Font
+>>
 endobj
 xref
-0 10
+0 11
 0000000000 65535 f 
-0000000061 00000 n 
-0000000112 00000 n 
-0000000219 00000 n 
-0000000338 00000 n 
-0000000450 00000 n 
-0000000653 00000 n 
-0000000721 00000 n 
-0000001001 00000 n 
-0000001060 00000 n 
+0000000015 00000 n 
+0000000054 00000 n 
+0000000113 00000 n 
+0000000162 00000 n 
+0000000468 00000 n 
+0000006349 00000 n 
+0000006456 00000 n 
+0000006563 00000 n 
+0000006682 00000 n 
+0000006794 00000 n 
 trailer
 <<
-/ID 
-[<fbc7357a85ed57195868b0ab5aeb2e5f><fbc7357a85ed57195868b0ab5aeb2e5f>]
-% ReportLab generated PDF document -- digest (opensource)
-
-/Info 7 0 R
-/Root 6 0 R
-/Size 10
+/Size 11
+/Root 3 0 R
+/Info 1 0 R
 >>
 startxref
-3210
+6907
 %%EOF

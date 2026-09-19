@@ -1,74 +1,328 @@
 %PDF-1.4
-%“Œ‹ž ReportLab Generated PDF document (opensource)
+%âãÏÓ
 1 0 obj
 <<
-/F1 2 0 R /F2 3 0 R
+/Producer (pypdf)
 >>
 endobj
 2 0 obj
 <<
-/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
+/Type /Pages
+/Count 1
+/Kids [ 4 0 R ]
 >>
 endobj
 3 0 obj
 <<
-/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
+/Type /Catalog
+/Pages 2 0 R
 >>
 endobj
 4 0 obj
 <<
-/Contents 8 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 7 0 R /Resources <<
-/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
->> /Rotate 0 /Trans <<
-
->> 
-  /Type /Page
+/Contents 5 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/ExtGState <<
+/gRLs0 <<
+/ca 0.035
+>>
+>>
+/Font <<
+/F1 6 0 R
+/F1-0 7 0 R
+/F2 8 0 R
+/F2-0 9 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
 >>
 endobj
 5 0 obj
 <<
-/PageMode /UseNone /Pages 7 0 R /Type /Catalog
+/Length 4515
 >>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 57.02362 757.8661 cm
+q
+.043137 .184314 .356863 rg
+BT 1 0 0 1 0 5 Tm /F2 22 Tf 27 TL 181.3352 0 Td (Lighthouse) Tj T* -181.3352 0 Td ET
+Q
+Q
+q
+1 0 0 1 57.02362 732.8661 cm
+q
+.294118 .419608 .560784 rg
+BT 1 0 0 1 0 4.5 Tm /F1 10.5 Tf 15 TL (Auditoria automatizada do Chrome para acessibilidade, performance, boas pr\341ticas e qualidade Web.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 700.8661 cm
+q
+.043137 .184314 .356863 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (O que \351?) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 679.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.5 Tm /F1 10.5 Tf 15 TL (Auditoria automatizada do Chrome para acessibilidade, performance, boas pr\341ticas e qualidade Web.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 651.8661 cm
+q
+.043137 .184314 .356863 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (Aplica\347\343o em QA) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 630.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.5 Tm /F1 10.5 Tf 15 TL (Use Lighthouse para apoiar investiga\347\343o, valida\347\343o t\351cnica e produ\347\343o de evid\352ncias durante testes.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 602.8661 cm
+q
+.043137 .184314 .356863 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (Primeiros passos) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 566.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 19.5 Tm /F1 10.5 Tf 15 TL (Comece pelo site oficial, confira os pr\351-requisitos e siga o guia de instala\347\343o/configura\347\343o de) Tj T* (Lighthouse.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 538.8661 cm
+q
+.043137 .184314 .356863 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (Fluxo pr\341tico) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 502.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 19.5 Tm /F1 10.5 Tf 15 TL (Defina o objetivo da an\341lise, reproduza o cen\341rio, colete evid\352ncias com Lighthouse, compare o) Tj T* (comportamento esperado e registre conclus\365es.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 474.8661 cm
+q
+.043137 .184314 .356863 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (Boas pr\341ticas) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 438.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 19.5 Tm /F1 10.5 Tf 15 TL (Use dados de teste seguros, preserve evid\352ncias relevantes e documente ambiente, vers\343o, hor\341rio e) Tj T* (passos de reprodu\347\343o.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 410.8661 cm
+q
+.043137 .184314 .356863 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (Solu\347\343o de problemas) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 374.8661 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 19.5 Tm /F1 10.5 Tf 15 TL (Valide permiss\365es, depend\352ncias, certificados, drivers, conectividade e vers\365es quando a ferramenta) Tj T* (n\343o capturar ou apresentar os dados esperados.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 319.8661 cm
+q
+.219608 .741176 .972549 RG
+1 w
+.913725 .968627 1 rg
+n -8 -8 497.2283 61 re B*
+Q
+q
+BT 1 0 0 1 0 34.5 Tm 15 TL /F2 10.5 Tf 0 0 0 rg (QA Tip) Tj /F1 10.5 Tf  T* (Combine automa\347\343o com valida\347\343o manual e interprete os resultados no contexto do risco e da) Tj T* (experi\352ncia real do usu\341rio.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 291.8661 cm
+q
+.043137 .184314 .356863 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (Recursos oficiais) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 270.8661 cm
+q
+BT 1 0 0 1 0 4.5 Tm 15 TL /F2 10.5 Tf 0 0 0 rg (Site oficial:) Tj /F1 10.5 Tf ( https://developer.chrome.com/docs/lighthouse/) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 247.8661 cm
+q
+BT 1 0 0 1 0 4.5 Tm 15 TL /F2 10.5 Tf 0 0 0 rg (Instala\347\343o / download:) Tj /F1 10.5 Tf ( https://developer.chrome.com/docs/lighthouse/overview/) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 224.8661 cm
+q
+BT 1 0 0 1 0 4.5 Tm 15 TL /F2 10.5 Tf 0 0 0 rg (Documenta\347\343o:) Tj /F1 10.5 Tf ( https://developer.chrome.com/docs/lighthouse/) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+0.843137 0.901961 0.960784 RG
+0.6 w
+n
+36 815.8898 m
+559.2756 815.8898 l
+S
+0.070588 0.207843 0.356863 rg
+BT
+/F2-0 8.2 Tf
+9.84 TL
+ET
+BT
+1 0 0 1 40 821.8898 Tm
+(QA LAB BRASIL) Tj
+T*
+ET
+0.356863 0.45098 0.564706 rg
+BT
+/F1-0 6.8 Tf
+8.16 TL
+ET
+BT
+1 0 0 1 398.216 821.8898 Tm
+(QUALITY ENGINEERING \174 DOCUMENTO OFICIAL) Tj
+T*
+ET
+q
+0.848048 0.529919 -0.529919 0.848048 297.6378 420.9449 cm
+0.08 0.21 0.36 rg
+/gRLs0 gs
+BT
+/F2-0 42 Tf
+50.4 TL
+ET
+BT
+1 0 0 1 -164.493 0 Tm
+(QA LAB BRASIL) Tj
+T*
+ET
+Q
+0.843137 0.901961 0.960784 RG
+n
+36 24 m
+559.2756 24 l
+S
+0.356863 0.45098 0.564706 rg
+BT
+/F1-0 6.6 Tf
+7.92 TL
+ET
+BT
+1 0 0 1 40 14 Tm
+(qualityassurancebrasil\056com\056br) Tj
+T*
+ET
+BT
+1 0 0 1 210.9996 14 Tm
+(QA Lab Brasil v2\0562 \174 PT\055BR \174 Atualizado\072 setembro de 2026) Tj
+T*
+ET
+BT
+1 0 0 1 514.547 14 Tm
+(Pagina 1 de 1) Tj
+T*
+ET
+Q
+
+
+endstream
 endobj
 6 0 obj
 <<
-/Author (\(anonymous\)) /CreationDate (D:20260919000504+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20260919000504+00'00') /Producer (ReportLab PDF Library - \(opensource\)) 
-  /Subject (\(unspecified\)) /Title (Lighthouse) /Trapped /False
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
 >>
 endobj
 7 0 obj
 <<
-/Count 1 /Kids [ 4 0 R ] /Type /Pages
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
 >>
 endobj
 8 0 obj
 <<
-/Filter [ /ASCII85Decode /FlateDecode ] /Length 1292
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
 >>
-stream
-Gb!<M9lo&I&;KZQ'mk$Y2F[+6b,&Sq9rBe8Bq;3i`>=>8aiKQs%"PW2^V2?L8sGi&VJBHuOsO:6Ed+/3I/uVW?D@<JC81#S9g/gq&^?XfOs$Io8,?eGG(1ibb;9aH.*a$ZEAburJbuYkKLm`SS,tFa77';1B%&:XZT>u[`SO<]o,95*ME2PNmN%+_#i[h'YWa`)r1dHO\NAVNre]cEB`<`=O"Cpi%:7p".ZP!kMIq\V;[O-lb<gTS=dW!KDh:T54tL4cqJ5/`qS:C[g/9qJPU+pC>t_*0b#2-:l.qoX2:G_IX;,QR>,Y&YZK)BsZWV$AbGN'>$S<s4c#&sVV[?Zbh7%E?8q6FVfHp?GXMXHkTMB[/@H0/4FrC5gmnC31.Xlj'EL+o\*/EA@rs`;#MNblg>$$L]dH((\2/u>L=!L%f_cL7DdkV@Wd6h,R,n6hc_q(g;&CL`!3]ocgcI]X@&3&OLN@rso%1mf[8m"JUTn'UgNGKSu_dhA[Tc6HKU\fgD2(PG!EG;P`c[/HolrgQ%p9/#aTa;)liC];686[_^0N8ifk[pg0=`:o*'pj[D>6Q8=HdDgSBj.q.D(nqKFg;pQ:V,:^@!RQSQd1/rN<#Kgdush3:pl@1(ahJ`qb_WG%/;t=<T?[8`><]4!t=DL`qus(`I&Wm3qB>\.C`S98pgOP];NnVkk\Zu]MXYs5h5R=r@cka=``UWSJGBQ+ZBfo.qK`;;44.nm;8AiU\['oPEXt?INiAK]H7mg`V@,e5Uk*dAO"UR)/Z?)ACdtrZ['^GE5`bL!PZfO?*kY!PH5SC?U.rMfNr:[[-7rf6Z[09f/r>7],uSY[)M8f]$IrK<]WXTW43nd4[,nBMn/lL-.qO@WKljtm/eH4\J\5=J(Zdb`UO\[Z;I31V`e9m=LO\=pVd"dr8-%uT-Z)BR'+Wo*dk:g[#f&.iA%-4lk7%R0JZtU[[jWAMD<?tMqQKlW]rr63)nuW"g^<`P8SfF'mDj3"Z+XX9(=]pKQE^R`#?4WqKF^<K.*2.KSNtCYMXF3O*J\C%_-*&Q*[C"j%nhs=#="E0(;6p?2bE,Kke+^CCHL&Wpt1,`9@?$#kH.*fRT.:Ic((3X^$X\nMaqI&NU!Q7bPZE83-2%7t=RNEoLCf&=0G8qk4i-31?E+D"<F@f(dYIDIR?KRn*;5\:*g*ntTZA51hUIIT)GO\oVb+hbGLEDm7%Z<`!nY^&Sn95[*NMg5Gc;7'K8^MI:p\Z:34F`Hl2I/^%59XtcUh`=HIALltgbn\3W8+cTEAVmCjQ1YJbI~>endstream
+endobj
+9 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
 endobj
 xref
-0 9
+0 10
 0000000000 65535 f 
-0000000061 00000 n 
-0000000102 00000 n 
-0000000209 00000 n 
-0000000321 00000 n 
-0000000524 00000 n 
-0000000592 00000 n 
-0000000869 00000 n 
-0000000928 00000 n 
+0000000015 00000 n 
+0000000054 00000 n 
+0000000113 00000 n 
+0000000162 00000 n 
+0000000457 00000 n 
+0000005024 00000 n 
+0000005131 00000 n 
+0000005238 00000 n 
+0000005350 00000 n 
 trailer
 <<
-/ID 
-[<c4048b06b57801297b7ed3125f47d22b><c4048b06b57801297b7ed3125f47d22b>]
-% ReportLab generated PDF document -- digest (opensource)
-
-/Info 6 0 R
-/Root 5 0 R
-/Size 9
+/Size 10
+/Root 3 0 R
+/Info 1 0 R
 >>
 startxref
-2311
+5462
 %%EOF

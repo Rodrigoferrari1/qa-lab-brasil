@@ -1,80 +1,340 @@
 %PDF-1.4
-%“Œ‹ž ReportLab Generated PDF document (opensource)
+%âãÏÓ
 1 0 obj
 <<
-/F1 2 0 R /F2 3 0 R /F3 4 0 R
+/Producer (pypdf)
 >>
 endobj
 2 0 obj
 <<
-/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
+/Type /Pages
+/Count 1
+/Kids [ 4 0 R ]
 >>
 endobj
 3 0 obj
 <<
-/BaseFont /Helvetica-BoldOblique /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
+/Type /Catalog
+/Pages 2 0 R
 >>
 endobj
 4 0 obj
 <<
-/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F3 /Subtype /Type1 /Type /Font
+/Contents 5 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/ExtGState <<
+/gRLs0 <<
+/ca 0.035
+>>
+>>
+/Font <<
+/F1 6 0 R
+/F1-0 7 0 R
+/F2 8 0 R
+/F2-0 9 0 R
+/F3 10 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
 >>
 endobj
 5 0 obj
 <<
-/Contents 9 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 8 0 R /Resources <<
-/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
->> /Rotate 0 /Trans <<
-
->> 
-  /Type /Page
+/Length 4462
 >>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 51.35433 779.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 12 Tf 14 TL (QA Lab Brasil) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 749.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F3 20 Tf 24 TL 132.9035 0 Td (Teste de Acessibilidade) Tj T* -132.9035 0 Td ET
+Q
+Q
+q
+1 0 0 1 51.35433 711.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Como validar que aplica\347\365es possam ser utilizadas por pessoas com diferentes necessidades e tecnologias) Tj T* (assistivas.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 701.3701 cm
+Q
+q
+1 0 0 1 51.35433 675.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (O que \351 acessibilidade) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 643.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Acessibilidade busca permitir que pessoas com defici\352ncias visuais, auditivas, motoras, cognitivas e outras utilizem) Tj T* (produtos digitais com autonomia.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 617.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (WCAG) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 585.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Web Content Accessibility Guidelines organiza crit\351rios de sucesso em princ\355pios como percept\355vel, oper\341vel,) Tj T* (compreens\355vel e robusto. O QA deve conhecer os crit\351rios aplic\341veis ao produto.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 559.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Testes pr\341ticos) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 527.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Navega\347\343o por teclado, foco vis\355vel, labels, contraste, zoom, estrutura sem\342ntica, texto alternativo e leitores de tela) Tj T* (s\343o exemplos importantes.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 501.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Automa\347\343o e manual) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 469.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL -0.094089 Tw (Ferramentas automatizadas detectam parte dos problemas, mas n\343o substituem valida\347\365es humanas de navega\347\343o,) Tj T* 0 Tw (compreens\343o e experi\352ncia com tecnologias assistivas.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 443.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Quando usar) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 411.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Use este conhecimento quando o risco, a arquitetura ou a etapa do ciclo de desenvolvimento exigir valida\347\343o) Tj T* (espec\355fica. Antes de aplicar, confirme objetivo, ambiente, dados necess\341rios e evid\352ncias esperadas.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 385.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Como o QA aplica na pr\341tica) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 353.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Comece pelo comportamento ou risco que precisa ser validado, prepare dados e ambiente, execute a t\351cnica ou) Tj T* (ferramenta de forma reproduz\355vel e registre evid\352ncias que permitam explicar o resultado ao time.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 327.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Dica de QA) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 308.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Uma p\341gina passar em um scanner autom\341tico n\343o significa que esteja acess\355vel.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 282.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Recursos oficiais) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 263.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Site oficial: https://www.w3.org/WAI/standards-guidelines/wcag/) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+0.843137 0.901961 0.960784 RG
+0.6 w
+n
+36 815.8898 m
+559.2756 815.8898 l
+S
+0.070588 0.207843 0.356863 rg
+BT
+/F2-0 8.2 Tf
+9.84 TL
+ET
+BT
+1 0 0 1 40 821.8898 Tm
+(QA LAB BRASIL) Tj
+T*
+ET
+0.356863 0.45098 0.564706 rg
+BT
+/F1-0 6.8 Tf
+8.16 TL
+ET
+BT
+1 0 0 1 398.216 821.8898 Tm
+(QUALITY ENGINEERING \174 DOCUMENTO OFICIAL) Tj
+T*
+ET
+q
+0.848048 0.529919 -0.529919 0.848048 297.6378 420.9449 cm
+0.08 0.21 0.36 rg
+/gRLs0 gs
+BT
+/F2-0 42 Tf
+50.4 TL
+ET
+BT
+1 0 0 1 -164.493 0 Tm
+(QA LAB BRASIL) Tj
+T*
+ET
+Q
+0.843137 0.901961 0.960784 RG
+n
+36 24 m
+559.2756 24 l
+S
+0.356863 0.45098 0.564706 rg
+BT
+/F1-0 6.6 Tf
+7.92 TL
+ET
+BT
+1 0 0 1 40 14 Tm
+(qualityassurancebrasil\056com\056br) Tj
+T*
+ET
+BT
+1 0 0 1 210.9996 14 Tm
+(QA Lab Brasil v2\0562 \174 PT\055BR \174 Atualizado\072 setembro de 2026) Tj
+T*
+ET
+BT
+1 0 0 1 514.547 14 Tm
+(Pagina 1 de 1) Tj
+T*
+ET
+Q
+
+
+endstream
 endobj
 6 0 obj
 <<
-/PageMode /UseNone /Pages 8 0 R /Type /Catalog
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
 >>
 endobj
 7 0 obj
 <<
-/Author (\(anonymous\)) /CreationDate (D:20260918234448+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20260918234448+00'00') /Producer (ReportLab PDF Library - \(opensource\)) 
-  /Subject (\(unspecified\)) /Title (\(anonymous\)) /Trapped /False
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
 >>
 endobj
 8 0 obj
 <<
-/Count 1 /Kids [ 5 0 R ] /Type /Pages
+/BaseFont /Helvetica-BoldOblique
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
 >>
 endobj
 9 0 obj
 <<
-/Filter [ /ASCII85Decode /FlateDecode ] /Length 1475
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
 >>
-stream
-GatU3?#S^l'Re<2\;t>m^r@4SI:LaoWm[oJZrD=mbJh2WM/85/1PU"$rLOmZ6WR%=NK>@Ra8J!\hK("u7JOg[DcRL!>gV\59_"Jc.uG^l#q`m<mu*+eMg4u,)@r$ROsDlRh$fKM']V@3Nl#Y>^-I@]$]6Va!fjmC52>8USA+KU4rUl0pk9JZ[.r0!\\mT4U<34!P;Z9)j2`SdLI?,;*o9:VMYi=%/f.uf:bFTN`*0QJKuuEBI0!Df+9.CJiqR=QnT:/,-,jud^S:NL1k2Q!9cNf:%6ZX:>SemMLL`/e8>`@gWjT6>Oqg?D6]p7cB7JH.NOh!]B=amDXi*cln3SFp+lA5)+X^Eh$b]SWpUsifmTZSICkk.RO'WbfqS73=SjadT1ZJ:$pX@Lff?j(UP/bF1=ZB^;FHX9=p:$R@ZEY8L:K&a@=ruON.k?l6PW>m%^doDU)ch,IguKs#31s/2D>]_oYH.@@^t4R``>rqrFp-;akDdq+]WIGdXH83WWR@X&*ir&qfh[3KIlm[X5(7g+T%)6ahTM("29)nAfWPd$pFgr4<%`m)0Updt\\^I-AsDmS@$F/La>X#,9i=l+<0cEK>5NZ7h\OS'8aTkU2c:&Tir\p#p-1TgnRQK)._C$9>Smp=SK?3\K&l!u&]C^kYq:]Xm)($a(:HNF%3oR[=:\lhoXm@.-RL5S<]bE`<2OMnCub+sE13XgGpDXGfLunu<!@SFE39GQd[Bg(h>ppO;Mm0eQ(Me="8\m;3?Zgg)V5g\8sP2hY#%7l&F.5KikgPO(b5VVW=XbPOhe;eJigtg>CsLY=Vm_rQ)M^-QaArT8*<nI39kS3=rq&o<-$N.%k!f>cSKt^ql=BIh+XR/)d7(Bnrjp.-+3td_4`!\'Dbs!Lk>`XCqO+h59P8T8/YA3:K22e[TPrF?%\tfrT(a]*ZO_cJl23,nnqs3:rgE+ZrkBW[]>V+TMc#L6N>5"-9WXO3(J0%=1P3JZK[M6?&&9<'ac=@<Z@8N7Df^(!LetQ)0UXhc#]YMKW3Q4/r8PV_%1*,/$t'Mr[ZMg(Rn\AH%FV;2s^P*D?7],&u6"L_aBjt1XGeC!Yb9FV+_1s=[%[L-e)!GQ$<0-_8l3)qn7F])+,nnQ+n6(:LX0'ojB<7@0"@$$>1:E7CFcg1\WA6g`pn:*c"8hJ,ko9$%ADXLpZr0VEeMSmfqiV%d0jX&[-JiMER.DRW<p3F=CuZ(/2OjZH>,'RuY0^\&"ZBPr9p%JpH,GG2PZl`kIf^H"dd/rq(b1a3"S&rNqDu$AVft"Z_N=+5V<'_K"F]o.?[2]6TGgdIm;d-[-!Oe:&Iib)Z`p"PlDR)B<fSXt!6\6u_UIS\ursXo*>F_#0K^EI2Z[+l!0knb)Z)iV<i`?nB;aqpQ\5Cd!qUHRR`"Pl?EMluEg_kg?rpIMe'Qg[/sL$upG/h9Z*<=Z@]+Fi`t#\iX#R[Mc8=5?(,hhZ9Js`T7~>endstream
+endobj
+10 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F3
+/Subtype /Type1
+/Type /Font
+>>
 endobj
 xref
-0 10
+0 11
 0000000000 65535 f 
-0000000061 00000 n 
-0000000112 00000 n 
-0000000219 00000 n 
-0000000338 00000 n 
-0000000450 00000 n 
-0000000653 00000 n 
-0000000721 00000 n 
-0000001001 00000 n 
-0000001060 00000 n 
+0000000015 00000 n 
+0000000054 00000 n 
+0000000113 00000 n 
+0000000162 00000 n 
+0000000468 00000 n 
+0000004982 00000 n 
+0000005089 00000 n 
+0000005196 00000 n 
+0000005315 00000 n 
+0000005427 00000 n 
 trailer
 <<
-/ID 
-[<7a407935bbff07230af0d103890a612c><7a407935bbff07230af0d103890a612c>]
-% ReportLab generated PDF document -- digest (opensource)
-
-/Info 7 0 R
-/Root 6 0 R
-/Size 10
+/Size 11
+/Root 3 0 R
+/Info 1 0 R
 >>
 startxref
-2626
+5540
 %%EOF

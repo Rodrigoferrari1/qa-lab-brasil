@@ -1,80 +1,326 @@
 %PDF-1.4
-%“Œ‹ž ReportLab Generated PDF document (opensource)
+%âãÏÓ
 1 0 obj
 <<
-/F1 2 0 R /F2 3 0 R /F3 4 0 R
+/Producer (pypdf)
 >>
 endobj
 2 0 obj
 <<
-/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
+/Type /Pages
+/Count 1
+/Kids [ 4 0 R ]
 >>
 endobj
 3 0 obj
 <<
-/BaseFont /Helvetica-BoldOblique /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
+/Type /Catalog
+/Pages 2 0 R
 >>
 endobj
 4 0 obj
 <<
-/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F3 /Subtype /Type1 /Type /Font
+/Contents 5 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/ExtGState <<
+/gRLs0 <<
+/ca 0.035
+>>
+>>
+/Font <<
+/F1 6 0 R
+/F1-0 7 0 R
+/F2 8 0 R
+/F2-0 9 0 R
+/F3 10 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
 >>
 endobj
 5 0 obj
 <<
-/Contents 9 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 8 0 R /Resources <<
-/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
->> /Rotate 0 /Trans <<
-
->> 
-  /Type /Page
+/Length 4105
 >>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 51.35433 779.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 12 Tf 14 TL (QA Lab Brasil) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 749.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F3 20 Tf 24 TL 175.1535 0 Td (QA Workspace) Tj T* -175.1535 0 Td ET
+Q
+Q
+q
+1 0 0 1 51.35433 711.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Atajos para actividades recurrentes: analizar historias, crear checklists, estructurar bugs, calcular ejecuci\363n y) Tj T* (consultar herramientas.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 701.3701 cm
+Q
+q
+1 0 0 1 51.35433 675.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Analizar una User Story) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 643.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL -0.08539 Tw (Revise objetivo, actores, reglas, criterios de aceptaci\363n, dependencias, datos, estados, errores, permisos y requisitos) Tj T* 0 Tw (no funcionales antes de crear casos.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 617.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Checklist r\341pido) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 585.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Use checklists para Smoke, Go-Live, deploy, upload, login y otras rutinas. Los checklists reducen olvidos, pero no) Tj T* (reemplazan la exploraci\363n.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 559.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (M\351tricas r\341pidas) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 527.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Calcule progreso, Pass/Fail/Blocked Rate y cobertura con denominadores claros. Muestre siempre el per\355odo y la) Tj T* (poblaci\363n analizada.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 501.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Pr\363ximas evoluciones) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 469.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (El Workspace podr\341 reunir generador de Bug Report, JSON tools, Risk Matrix, datos sint\351ticos e integraci\363n con QA) Tj T* (Assistant.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 443.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Cu\341ndo utilizarlo) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 411.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Utilice este conocimiento cuando el riesgo, la arquitectura o la etapa de entrega requieran este tipo de validaci\363n.) Tj T* (Confirme objetivo, ambiente, datos necesarios y evidencias esperadas antes de comenzar.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 385.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (C\363mo lo aplica QA) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 353.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL -0.098269 Tw (Parta del comportamiento o riesgo que debe validarse, prepare datos y ambiente, ejecute la t\351cnica o herramienta de) Tj T* 0 Tw (forma reproducible y registre evidencias que ayuden al equipo a comprender el resultado.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 327.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Consejo de QA) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 308.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Las herramientas r\341pidas deben reducir trabajo mec\341nico y liberar tiempo para an\341lisis e investigaci\363n.) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+0.843137 0.901961 0.960784 RG
+0.6 w
+n
+36 815.8898 m
+559.2756 815.8898 l
+S
+0.070588 0.207843 0.356863 rg
+BT
+/F2-0 8.2 Tf
+9.84 TL
+ET
+BT
+1 0 0 1 40 821.8898 Tm
+(QA LAB BRASIL) Tj
+T*
+ET
+0.356863 0.45098 0.564706 rg
+BT
+/F1-0 6.8 Tf
+8.16 TL
+ET
+BT
+1 0 0 1 398.216 821.8898 Tm
+(QUALITY ENGINEERING \174 DOCUMENTO OFICIAL) Tj
+T*
+ET
+q
+0.848048 0.529919 -0.529919 0.848048 297.6378 420.9449 cm
+0.08 0.21 0.36 rg
+/gRLs0 gs
+BT
+/F2-0 42 Tf
+50.4 TL
+ET
+BT
+1 0 0 1 -164.493 0 Tm
+(QA LAB BRASIL) Tj
+T*
+ET
+Q
+0.843137 0.901961 0.960784 RG
+n
+36 24 m
+559.2756 24 l
+S
+0.356863 0.45098 0.564706 rg
+BT
+/F1-0 6.6 Tf
+7.92 TL
+ET
+BT
+1 0 0 1 40 14 Tm
+(qualityassurancebrasil\056com\056br) Tj
+T*
+ET
+BT
+1 0 0 1 212.28 14 Tm
+(QA Lab Brasil v2\0562 \174 ES \174 Actualizado\072 septiembre de 2026) Tj
+T*
+ET
+BT
+1 0 0 1 514.547 14 Tm
+(Pagina 1 de 1) Tj
+T*
+ET
+Q
+
+
+endstream
 endobj
 6 0 obj
 <<
-/PageMode /UseNone /Pages 8 0 R /Type /Catalog
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
 >>
 endobj
 7 0 obj
 <<
-/Author (\(anonymous\)) /CreationDate (D:20260918234449+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20260918234449+00'00') /Producer (ReportLab PDF Library - \(opensource\)) 
-  /Subject (\(unspecified\)) /Title (\(anonymous\)) /Trapped /False
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
 >>
 endobj
 8 0 obj
 <<
-/Count 1 /Kids [ 5 0 R ] /Type /Pages
+/BaseFont /Helvetica-BoldOblique
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
 >>
 endobj
 9 0 obj
 <<
-/Filter [ /ASCII85Decode /FlateDecode ] /Length 1371
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
 >>
-stream
-GatU29lJcG&A@7.bV?_K*QtaYA8b&d0!IlioAO.3\W!MEbCh&S;Td#XomNWPf>5J7d)(<M8^n13]f0ksd0Q?qIB/7hHq$Vu1<RTnH_>11SC$Vc50aY0&$ja.+rf[`,gY`MpiMlFO#"A'a.r:Z0+JO:gB9s4$3A2:J2,j<bo'gXSBa8&D1885,L([u8T+$C0@=<[U.L\"Vsu/^)Q-!VEA>[p]YO,ARF;*#r)9OsaZAaC[qgGsM(IDnM/54(\p\+2)ZQPk4B6d[n=p@jZY*atkSINF.=o.1epFZ]KKk8E)uZ$bIF4a.??6sFnq%hGMl8"U]=9)ZnZ?P0O8JNl&_F6aXhghr,+R*Uq)#Rf>aK]6S.2T7@US_t.ueorL-:&/IBWJ&"]Kr\&!VId9S<It9KPMj[C2CcEtD,k.!`@Q:X_o7o/qC;%7_d7IS-sHkjVVZF:`Ka7facN&;bC5!2u6<l+ko1GR`Y)_,I<P?D0HrSQ]hY<[F2,DHt3kQg'S*?)UqSV#qnm&bW]b6"Albb#-lJFnF$)NWUPg"@k2bKIc=*Dti1)RN;DR'c1Y*Oh]3i=fk?+5@&97TD@=1!5c3%h6k4-jdp!JJ%?/WqF)%4`[qGFieP\X)7Rsh27Wq"6,%3CKo"t+fPZE6;RT1K3J/)g*<D2eVP6F2;UpN:Z6dC6YDDVuXS.1T./&#8q_2C5k=*sHXlAbM5]c.OEP.prh+1luD\/q^><n9Hq)*qHoSKt93]Bes8P-DH#_5om/jB+=r`R$T>m6&-W+/`0(W_]@g1W];5m'RRMMV>.ZGMk:0aquNY2.m7JR)JaaaG9Qm<@:Y+hmY)gT.IWZ+N'F`hnn?(f.%+=l#)-8+V/3;!lED/sP!lm:d_EHpf]toQe'A>H+03#5$O'5CZVlS:O4LFa0W2L,rXB?35dsP8'c,Y(UaCMiCUJ75niuYg5Xdr*^U/n=B2jclGm/`l]j"7e\5+2Ee-Nnk52<F3FblTf\*24/LC+F/3!">CcpjQEYnHdEq5gZAk[U81q;p__jsRnIgeO4!+YS[Yri&g;V)c:h]Yh-TJbXp-JT@c((`pE<ieHb)2@tBhg4Q42%'i#[^*eH/$eR,o4#`TIK?gYWHNU,uc;L&_@#D\!6H9I)R`Kf$fiQ[%"/Km$e9kM=j?Go85<4U5GOH_=RI@FWUT1quhX;<hM(S?r#l':^&aU:FI0?EneVP7!h!q+.TMYf.]B^"?e],7dr_ls4Up2DM=E//r:$+D*SW%G4+CDpISeV:/IeQ6X1/>hE`+kC@[bAfSd#^ao4]?qW\]iD]]4nAl<*XG,#`]L3Yl$l'3_qWVp6rdHNNc"jSJiS-3_PZF+ZQ#-mS9lNI`p(V?Op*IItH,A+.~>endstream
+endobj
+10 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F3
+/Subtype /Type1
+/Type /Font
+>>
 endobj
 xref
-0 10
+0 11
 0000000000 65535 f 
-0000000061 00000 n 
-0000000112 00000 n 
-0000000219 00000 n 
-0000000338 00000 n 
-0000000450 00000 n 
-0000000653 00000 n 
-0000000721 00000 n 
-0000001001 00000 n 
-0000001060 00000 n 
+0000000015 00000 n 
+0000000054 00000 n 
+0000000113 00000 n 
+0000000162 00000 n 
+0000000468 00000 n 
+0000004625 00000 n 
+0000004732 00000 n 
+0000004839 00000 n 
+0000004958 00000 n 
+0000005070 00000 n 
 trailer
 <<
-/ID 
-[<a6e2a8c6e888823b9acc2292f72e1cb8><a6e2a8c6e888823b9acc2292f72e1cb8>]
-% ReportLab generated PDF document -- digest (opensource)
-
-/Info 7 0 R
-/Root 6 0 R
-/Size 10
+/Size 11
+/Root 3 0 R
+/Info 1 0 R
 >>
 startxref
-2522
+5183
 %%EOF

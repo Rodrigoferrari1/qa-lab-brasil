@@ -1,99 +1,535 @@
 %PDF-1.4
-%“Œ‹ž ReportLab Generated PDF document (opensource)
+%âãÏÓ
 1 0 obj
 <<
-/F1 2 0 R /F2 3 0 R /F3 4 0 R
+/Producer (pypdf)
 >>
 endobj
 2 0 obj
 <<
-/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
+/Type /Pages
+/Count 2
+/Kids [ 4 0 R 11 0 R ]
 >>
 endobj
 3 0 obj
 <<
-/BaseFont /Helvetica-BoldOblique /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
+/Type /Catalog
+/Pages 2 0 R
 >>
 endobj
 4 0 obj
 <<
-/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F3 /Subtype /Type1 /Type /Font
+/Contents 5 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/ExtGState <<
+/gRLs0 <<
+/ca 0.035
+>>
+>>
+/Font <<
+/F1 6 0 R
+/F1-0 7 0 R
+/F2 8 0 R
+/F2-0 9 0 R
+/F3 10 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
 >>
 endobj
 5 0 obj
 <<
-/Contents 10 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 9 0 R /Resources <<
-/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
->> /Rotate 0 /Trans <<
-
->> 
-  /Type /Page
+/Length 5860
 >>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 51.35433 779.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 12 Tf 14 TL (QA Lab Brasil) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 749.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F3 20 Tf 24 TL 79.01346 0 Td (Agile, Scrum and Delivery Methods) Tj T* -79.01346 0 Td ET
+Q
+Q
+q
+1 0 0 1 51.35433 724.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Waterfall, Agile, Scrum, Kanban, XP, Lean and hybrid ways to organize development and delivery.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 714.3701 cm
+Q
+q
+1 0 0 1 51.35433 688.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Agile is not the same as Scrum) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 656.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Agile is a set of values and principles for adaptive value delivery. Scrum is a specific framework. Kanban, XP, Lean) Tj T* (and hybrid approaches are also used.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 630.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Scrum in simple terms) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 598.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Work starts from a Product Backlog. In each Sprint, the team selects work into a Sprint Backlog and aims to produce) Tj T* (an Increment that meets the Definition of Done.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 572.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Accountabilities and stakeholders) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 540.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Current Scrum defines Product Owner, Scrum Master and Developers. Stakeholders are people interested in the) Tj T* (product. QA specialists can be part of Developers and collaborate on quality throughout the Sprint.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 514.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Scrum events) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 482.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Sprint Planning establishes a goal and plan; Daily Scrum inspects progress; Sprint Review evaluates the Increment) Tj T* (with stakeholders; Retrospective improves how the team works.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 456.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Backlog, User Story and Acceptance Criteria) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 424.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (A backlog organizes needs. A User Story is a common way to express user value. Acceptance Criteria make) Tj T* (acceptance conditions explicit and help QA identify examples, risks and gaps.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 398.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Kanban) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 366.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Kanban emphasizes workflow visualization, work-in-progress limits and continuous improvement. Lead time and) Tj T* (cycle time help teams understand flow.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 340.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Waterfall and V-Model) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 308.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Waterfall organizes work in more sequential phases. The V-Model relates specification/development activities to) Tj T* (corresponding test levels. Real projects may combine practices from multiple models.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 282.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (QA in agile teams) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 250.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (QA participates in refinement, discusses testability, prepares data and environments, tests during development,) Tj T* (automates appropriate checks and communicates risk before delivery.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 224.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Agile in practice) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 192.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Agility does not mean no process or documentation. It means learning and adapting through feedback, prioritizing) Tj T* (value and making work visible. QA contributes by surfacing risk, testability and technical feedback early.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 166.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Choosing an approach) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 134.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Scrum helps when Sprint cadence and goals fit; Kanban emphasizes continuous flow; XP deepens engineering) Tj T* (practices; Lean targets waste. Teams may combine practices when they understand why they use them.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 108.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (QA tip) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 76.37008 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (In current Scrum, QA is not a separate role defined by the framework; quality specialists may be part of the) Tj T* (Developers.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 50.37008 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Official resources) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+0.843137 0.901961 0.960784 RG
+0.6 w
+n
+36 815.8898 m
+559.2756 815.8898 l
+S
+0.070588 0.207843 0.356863 rg
+BT
+/F2-0 8.2 Tf
+9.84 TL
+ET
+BT
+1 0 0 1 40 821.8898 Tm
+(QA LAB BRASIL) Tj
+T*
+ET
+0.356863 0.45098 0.564706 rg
+BT
+/F1-0 6.8 Tf
+8.16 TL
+ET
+BT
+1 0 0 1 399.3516 821.8898 Tm
+(QUALITY ENGINEERING \174 OFFICIAL DOCUMENT) Tj
+T*
+ET
+q
+0.848048 0.529919 -0.529919 0.848048 297.6378 420.9449 cm
+0.08 0.21 0.36 rg
+/gRLs0 gs
+BT
+/F2-0 42 Tf
+50.4 TL
+ET
+BT
+1 0 0 1 -164.493 0 Tm
+(QA LAB BRASIL) Tj
+T*
+ET
+Q
+0.843137 0.901961 0.960784 RG
+n
+36 24 m
+559.2756 24 l
+S
+0.356863 0.45098 0.564706 rg
+BT
+/F1-0 6.6 Tf
+7.92 TL
+ET
+BT
+1 0 0 1 40 14 Tm
+(qualityassurancebrasil\056com\056br) Tj
+T*
+ET
+BT
+1 0 0 1 221.4507 14 Tm
+(QA Lab Brasil v2\0562 \174 EN \174 Updated\072 September 2026) Tj
+T*
+ET
+BT
+1 0 0 1 519.6818 14 Tm
+(Page 1 de 2) Tj
+T*
+ET
+Q
+
+
+endstream
 endobj
 6 0 obj
 <<
-/Contents 11 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 9 0 R /Resources <<
-/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
->> /Rotate 0 /Trans <<
-
->> 
-  /Type /Page
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
 >>
 endobj
 7 0 obj
 <<
-/PageMode /UseNone /Pages 9 0 R /Type /Catalog
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
 >>
 endobj
 8 0 obj
 <<
-/Author (\(anonymous\)) /CreationDate (D:20260918234448+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20260918234448+00'00') /Producer (ReportLab PDF Library - \(opensource\)) 
-  /Subject (\(unspecified\)) /Title (\(anonymous\)) /Trapped /False
+/BaseFont /Helvetica-BoldOblique
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
 >>
 endobj
 9 0 obj
 <<
-/Count 2 /Kids [ 5 0 R 6 0 R ] /Type /Pages
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
 >>
 endobj
 10 0 obj
 <<
-/Filter [ /ASCII85Decode /FlateDecode ] /Length 1924
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F3
+/Subtype /Type1
+/Type /Font
 >>
-stream
-GatU49lo&I&A@sBlnRnKMC?TP4[(0344@n!q,3\g+V57uK)c"(<g6tK[ie*oNGPliGU?pa`9uWuh7(#<BS)j-r@:O8QV2Z(HUc\QQ>=Y*j#J\udr3F905"Gbj[D)!?-Hq;]"GZscRpR_cJeFA^%RpO=NEOu0N5jHZnoecT"TV>YJlB*H4dO[KpJ?Fq("OPO.TpBk,06E)b2]Q:>!rN3C87[Cc5YYrA(9`0/hO_&UfnX/kO]cDO&WDb4"PRMM96k5*Y[-%mCWZFFH!Ng%_:u/Yd+\'e%9=$D0^cIP$Kr;*V>ur@.)*fFe)RDFC[nYUS.4\+2SXXk3f7Nh"u4X1p++e\*`@.[?"X]=bi+GQ=o"+o7rU/?Z-N?Z-H;h[4R3Uq<H2OUbo-Uf]#PU/WC)F2cV%/M7ed4_K\.OR9[g$7_3Ce%IHC$43BJCFaO=nE8MN'"Oqb&8OHi^t5GTA#*"#YI116a#1<Nhi3+.Bn*$n4gIIUGpd.=Sis5pJtkB*HiQ*`g#ONSDr\8?FGX37P,o(i*F<!Ck5&N)562E);>:Dr]gI(m47D`D7X?NEST1,RrF&7u%/S$R`)0-bW'grPN060A^`m`.[qJ"[+&9`\?)H,TP$ulC*2]Q6W<?ZR,*bd:*8A5.CMe4Dc>j]U3i`HmIrRLIfsI*oeM`;M2K7@s*+6<UKep:16[4uj-N7Ep?Idmg$r%AqI!\8dVrI*p._ce82^0A%=rg9TK(tH$]kC?q<m#D#JIU]UNoZ^7^p_.qi?O?hZCWO7(`e.A">MEs7oCW%4"&.JFN0-%o+41h4'u`mME;[KY20kqDIfM6K-?ar"-iSCH9lL.%\RH`FZMH&VPh](G=G]8m=p.h=95P"&@?Go1_PN:2fpRWg$N@l19plp?uJ:t\Cjs)#Bd6#(@ac+J7Xr<>s39TD07DDbJY?iN8>ke/:S3=n*Y20E8*`oE_1udnBV@'ol9c]$6RZ&!SR6&3j`D:!2ZKk.'-D?b%p(0('DDjd#T8_)mjAAB&?nA^Qcl<'efFBV4Jf8=X%e3O'.[rf8<^>Fn\TX)'?HkPp#!->_`icZ[%_5^o!'V]'8@21)8E+c9\=6n*jA^WeV13*U]@og5'JL8$`4'J"3:2f+%5RGY6S*]T=VD!coN;ce5ccaN&WJ=<G6`L1lgCT5/ef0*X2Ce8_ZB!6Wlq%f;LQ3Z)q!c7*M"6>YLU+EruQ,X5%#F4,\0b7tZC*4m;Em/Y[#Nbp]YVWe%DJ)`57$ue1O;S2@e*\tFr^/R.LISaBdc8Z(BZ_:1s95$X2*dM=[f'EX:`67c@7T!3OV?]S7JD6b\Ko2'7l3@]Z$m1)s%uPd\pGp?#M6]I%XjFfOOGui^:)7DX,*-XJ2!:(#Z'l0Lm,R/Gj^J'^j((cA!R<<hd_Fb&q^(OB8cZc@:JI?F*DrtlX@$Al;sW?r@lFHU$E*AM(K$tj;YFFDBDE7;Jj78ug,&"WQ:;*.WhV).a#(,s[;]Kmj=9WlAQ>&(AZ"u,9+P5'RPX&Tll4CsgX9TtK^Eg=['T,q.?0c:ni2doea+t9mpS*`T99ooRmZUSbp]IMa*??d">NfkVs^.2f!Jb&Z8[CFXjKtTbqNqeTeGVJGhitZCa"0=Xb+lqZ@r5APu286@Y+,s<AP5f*JGDc/GVqNA^jM7A0rd/0Q3i[N%*PO+adi'jSUuEY6sGZ"$sC!%Ic<'9)!3--!##!=eY225`u2^;`:$6KEW7@nV2MZ2SIDPWdfZO%b[s6`D,$':k[!cWTnTiVV0D&rG6`If^`DZ]hGQh\<*Q^0P'SIX_(f(g1N_A0BEb&#./pdV%#1@i'.NG%SX$SNYLi-ZG2Q]dP0.7'JJX2/J]8nN,#heS<KE)cYh@Kl'?u$G/:uf[Yt,OdT^>g/.RlmpH+DngGM#6G=X-cX$(_+O#K,s(TTQ3o`~>endstream
 endobj
 11 0 obj
 <<
-/Filter [ /ASCII85Decode /FlateDecode ] /Length 180
+/Contents 12 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/ExtGState <<
+/gRLs0 <<
+/ca 0.035
+>>
+>>
+/Font <<
+/F1 6 0 R
+/F1-0 13 0 R
+/F2 8 0 R
+/F2-0 14 0 R
+/F3 10 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+12 0 obj
+<<
+/Length 1077
 >>
 stream
-GappW_$\%5&4H!_ME.\l,\p;X4UQN+,45t4Chpsc:"0,$#pKJh_TY2uTX1T.$c%=e:'B:&#EY2dI)_;f8'nHmO>MqS#45/Ydq[$T3S$'JUW<T76]GotTd'6mbY1rkX/f#ZVSP?DHZaS/oU\.@Af$df0)j_REf-VqK:h'r)0!]Lp]B`C.9Q~>endstream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 51.35433 780.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Site oficial: https://scrumguides.org/) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+0.843137 0.901961 0.960784 RG
+0.6 w
+n
+36 815.8898 m
+559.2756 815.8898 l
+S
+0.070588 0.207843 0.356863 rg
+BT
+/F2-0 8.2 Tf
+9.84 TL
+ET
+BT
+1 0 0 1 40 821.8898 Tm
+(QA LAB BRASIL) Tj
+T*
+ET
+0.356863 0.45098 0.564706 rg
+BT
+/F1-0 6.8 Tf
+8.16 TL
+ET
+BT
+1 0 0 1 399.3516 821.8898 Tm
+(QUALITY ENGINEERING \174 OFFICIAL DOCUMENT) Tj
+T*
+ET
+q
+0.848048 0.529919 -0.529919 0.848048 297.6378 420.9449 cm
+0.08 0.21 0.36 rg
+/gRLs0 gs
+BT
+/F2-0 42 Tf
+50.4 TL
+ET
+BT
+1 0 0 1 -164.493 0 Tm
+(QA LAB BRASIL) Tj
+T*
+ET
+Q
+0.843137 0.901961 0.960784 RG
+n
+36 24 m
+559.2756 24 l
+S
+0.356863 0.45098 0.564706 rg
+BT
+/F1-0 6.6 Tf
+7.92 TL
+ET
+BT
+1 0 0 1 40 14 Tm
+(qualityassurancebrasil\056com\056br) Tj
+T*
+ET
+BT
+1 0 0 1 221.4507 14 Tm
+(QA Lab Brasil v2\0562 \174 EN \174 Updated\072 September 2026) Tj
+T*
+ET
+BT
+1 0 0 1 519.6818 14 Tm
+(Page 2 de 2) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+13 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+14 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
 endobj
 xref
-0 12
+0 15
 0000000000 65535 f 
-0000000061 00000 n 
-0000000112 00000 n 
-0000000219 00000 n 
-0000000338 00000 n 
-0000000450 00000 n 
-0000000654 00000 n 
-0000000858 00000 n 
-0000000926 00000 n 
-0000001206 00000 n 
-0000001271 00000 n 
-0000003287 00000 n 
+0000000015 00000 n 
+0000000054 00000 n 
+0000000120 00000 n 
+0000000169 00000 n 
+0000000475 00000 n 
+0000006387 00000 n 
+0000006494 00000 n 
+0000006601 00000 n 
+0000006720 00000 n 
+0000006832 00000 n 
+0000006945 00000 n 
+0000007255 00000 n 
+0000008385 00000 n 
+0000008493 00000 n 
 trailer
 <<
-/ID 
-[<1e6625f1a177e5084f4c6c520eb19456><1e6625f1a177e5084f4c6c520eb19456>]
-% ReportLab generated PDF document -- digest (opensource)
-
-/Info 8 0 R
-/Root 7 0 R
-/Size 12
+/Size 15
+/Root 3 0 R
+/Info 1 0 R
 >>
 startxref
-3558
+8606
 %%EOF

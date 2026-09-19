@@ -1,80 +1,326 @@
 %PDF-1.4
-%“Œ‹ž ReportLab Generated PDF document (opensource)
+%âãÏÓ
 1 0 obj
 <<
-/F1 2 0 R /F2 3 0 R /F3 4 0 R
+/Producer (pypdf)
 >>
 endobj
 2 0 obj
 <<
-/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
+/Type /Pages
+/Count 1
+/Kids [ 4 0 R ]
 >>
 endobj
 3 0 obj
 <<
-/BaseFont /Helvetica-BoldOblique /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
+/Type /Catalog
+/Pages 2 0 R
 >>
 endobj
 4 0 obj
 <<
-/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F3 /Subtype /Type1 /Type /Font
+/Contents 5 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/ExtGState <<
+/gRLs0 <<
+/ca 0.035
+>>
+>>
+/Font <<
+/F1 6 0 R
+/F1-0 7 0 R
+/F2 8 0 R
+/F2-0 9 0 R
+/F3 10 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
 >>
 endobj
 5 0 obj
 <<
-/Contents 9 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 8 0 R /Resources <<
-/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
->> /Rotate 0 /Trans <<
-
->> 
-  /Type /Page
+/Length 4224
 >>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 51.35433 779.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 12 Tf 14 TL (QA Lab Brasil) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 749.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F3 20 Tf 24 TL 114.5835 0 Td (Artificial Intelligence for QA) Tj T* -114.5835 0 Td ET
+Q
+Q
+q
+1 0 0 1 51.35433 724.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (AI types, LLMs, generative tools and responsible applications across the quality lifecycle.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 714.3701 cm
+Q
+q
+1 0 0 1 51.35433 688.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (AI, Machine Learning and Deep Learning) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 656.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (AI is the broad field. Machine Learning uses data to learn patterns; Deep Learning uses deep neural networks.) Tj T* (Generative AI produces new content, and LLMs are models specialized in language.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 630.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Tools and uses) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 585.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 29.5 Tm /F1 9.5 Tf 13 TL (ChatGPT, Claude, Gemini, DeepSeek, Copilot and other tools have different capabilities and integrations. In QA they) Tj T* (can support requirements analysis, scenario brainstorming, code, documentation and investigation, always with) Tj T* (human review.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 559.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (RAG and agents) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 527.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (RAG retrieves relevant information from a knowledge base and supplies it to the model to ground answers. Agents) Tj T* (can combine models with tools and decision steps to execute more complex workflows.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 501.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (When to use it) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 469.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Use this knowledge when product risk, architecture or the delivery stage requires this type of validation. Confirm the) Tj T* (goal, environment, required data and expected evidence before starting.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 443.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (How QA applies it) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 411.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Start from the behavior or risk to validate, prepare data and environment, execute the technique or tool reproducibly) Tj T* (and capture evidence that helps the team understand the result.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 385.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Good practices) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 353.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Prioritize high-impact scenarios, keep data and environments controlled, record important decisions and review the) Tj T* (approach periodically to avoid redundant or outdated coverage.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 327.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (QA tip) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 295.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Never send credentials, personal data, confidential code or client information to AI services without proper) Tj T* (authorization and controls.) Tj T* ET
+Q
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+0.843137 0.901961 0.960784 RG
+0.6 w
+n
+36 815.8898 m
+559.2756 815.8898 l
+S
+0.070588 0.207843 0.356863 rg
+BT
+/F2-0 8.2 Tf
+9.84 TL
+ET
+BT
+1 0 0 1 40 821.8898 Tm
+(QA LAB BRASIL) Tj
+T*
+ET
+0.356863 0.45098 0.564706 rg
+BT
+/F1-0 6.8 Tf
+8.16 TL
+ET
+BT
+1 0 0 1 399.3516 821.8898 Tm
+(QUALITY ENGINEERING \174 OFFICIAL DOCUMENT) Tj
+T*
+ET
+q
+0.848048 0.529919 -0.529919 0.848048 297.6378 420.9449 cm
+0.08 0.21 0.36 rg
+/gRLs0 gs
+BT
+/F2-0 42 Tf
+50.4 TL
+ET
+BT
+1 0 0 1 -164.493 0 Tm
+(QA LAB BRASIL) Tj
+T*
+ET
+Q
+0.843137 0.901961 0.960784 RG
+n
+36 24 m
+559.2756 24 l
+S
+0.356863 0.45098 0.564706 rg
+BT
+/F1-0 6.6 Tf
+7.92 TL
+ET
+BT
+1 0 0 1 40 14 Tm
+(qualityassurancebrasil\056com\056br) Tj
+T*
+ET
+BT
+1 0 0 1 221.4507 14 Tm
+(QA Lab Brasil v2\0562 \174 EN \174 Updated\072 September 2026) Tj
+T*
+ET
+BT
+1 0 0 1 519.6818 14 Tm
+(Page 1 de 1) Tj
+T*
+ET
+Q
+
+
+endstream
 endobj
 6 0 obj
 <<
-/PageMode /UseNone /Pages 8 0 R /Type /Catalog
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
 >>
 endobj
 7 0 obj
 <<
-/Author (\(anonymous\)) /CreationDate (D:20260918234448+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20260918234448+00'00') /Producer (ReportLab PDF Library - \(opensource\)) 
-  /Subject (\(unspecified\)) /Title (\(anonymous\)) /Trapped /False
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
 >>
 endobj
 8 0 obj
 <<
-/Count 1 /Kids [ 5 0 R ] /Type /Pages
+/BaseFont /Helvetica-BoldOblique
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
 >>
 endobj
 9 0 obj
 <<
-/Filter [ /ASCII85Decode /FlateDecode ] /Length 1442
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
 >>
-stream
-GatU2?$"aY&:F5U\4=$'W1k]^p@LpJ>;n?5-Z7Gu1IRg*e0%!YTOdlMGE:6DgrQ2/*I0Is#i$GDDtfXG#bRpkc75R_$i9+sKT\&A<g6:4'3a2=YD\=ZMe';<RLI[0,YdOgl=QDiN=qc!j&,^+(Dhmh*.fA.Kn/2N5RDX[5GpTNV"\1!D18.s5IC2_P2,)=.ab%VdA0F"dWd$o`bhFQ(RSO,;`nFJF?0(mYB6Y,ToV+;0tLb^0s-tDqt[sdG:ua?Vl]Ea\#a[2m0ZMM7XbDj["VoeOlEh30VH%i:\[C*lrDPNVWaNVUhiet6g\^:9>dRjg?8r,YWs]0/d.%Xdpo/3Na"8b`S!.*4?N_mjB26"%C>Bdri>DuQQ+miZe`;!oLWVj[S1nH][aH(n+$j-I9>_eEAjB\<fkP>K<FY#=aHud>%onjnCtgK^k$M@'gO,kX&Q,:g"Z#fbDLLJA]\uQd6a/Z`qbC/_#*]ra<:nh]uulRLFd?lF(dNP#;$Y,3%<0Q\XYs.W*,Qe5BBTRP#8Z$<,iD1ZZPh/Sed).PDf*HRU/ee`I@Cs+!4)iDa,lZoYIIQk5jCZV6(fG(k5tC^_9dbj'l5U"*8phK2M`q>d%2p!?bsR<_JF4fA)Xp!Gp^V>n!EB-s;A`*a$OKV9m`"o+?S#Cp`@4OlWl)gRo_(OKhel4*6D/2FQ_*>ql=p;JY^+7S^<NFue.oU+Y.7E,%:G)ec!VH,s/I(%QZWCYkRIjE0*oEMnZkF+2lpKSI=>cH%iVqB*S;Cn@ER$j?(Cn61AXD;h0g#LLW*MA/3U[kXBhOIus9Q7+:$iCuhiS&hp9JG`>jf>oO[fWYUCo,$"m8^(GI'_Uln,B/.oPrUZ8,_(VT#78LJS2F1;6Y\Sc)h&unm)lh43/<_qnjZOV0%ii'ck\7gT4p(HVuLm;r^)oQ_XNSQDkqp/J^F'N5[_aPr$#dY!?@JO!^D3g>PTj96iZN7&\;X2T?+-J%;X*jDMM&f?"mZfi<)#m;eA:2f@i;j[4\orP]tt6o^EMf/n,!AaP3]+jHU:/bS\O33.m:6,^gmZ^UoL#Ji`P])9J%jnmA<UMqk=r69Bl<2PpL9re(aFN?,)SR+cU5j5:3of3%Iq=Q4kFdd"lM,7qO!UcXn4Nc;?fM#jAfR6KOLiPAL!WP^?QWX+c?g7mr#2,N1tGQniG):RM#'=Z9K\?O,McH_h>l*R)Sf4k!g;tlXocV1/fb'1FsOnmr0Yl4lqkbiqAmEG:L5Z#nURI`-39#cZHhVN/D05BM<03!L/_lH:.;U*:Ij42DAXmiLE:<SJ6i(G?[MC(qCJ2@KgSi?Mp1OT*W"Yq3Ch4J,'dnfQ#d/SY'i@2"<+ta6knVRFa!Cq*r]Ii>&@UU[sVsV,34>Nl-5>qa$iLMI&?VB:`jq#t[iXkSbH@oe4T9#an8)cIN:Da$4W(*NK~>endstream
+endobj
+10 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F3
+/Subtype /Type1
+/Type /Font
+>>
 endobj
 xref
-0 10
+0 11
 0000000000 65535 f 
-0000000061 00000 n 
-0000000112 00000 n 
-0000000219 00000 n 
-0000000338 00000 n 
-0000000450 00000 n 
-0000000653 00000 n 
-0000000721 00000 n 
-0000001001 00000 n 
-0000001060 00000 n 
+0000000015 00000 n 
+0000000054 00000 n 
+0000000113 00000 n 
+0000000162 00000 n 
+0000000468 00000 n 
+0000004744 00000 n 
+0000004851 00000 n 
+0000004958 00000 n 
+0000005077 00000 n 
+0000005189 00000 n 
 trailer
 <<
-/ID 
-[<85f983660b72863b3c64369b89ff28ca><85f983660b72863b3c64369b89ff28ca>]
-% ReportLab generated PDF document -- digest (opensource)
-
-/Info 7 0 R
-/Root 6 0 R
-/Size 10
+/Size 11
+/Root 3 0 R
+/Info 1 0 R
 >>
 startxref
-2593
+5302
 %%EOF
