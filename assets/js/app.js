@@ -384,16 +384,33 @@ function qaEnhanceHome(){
   }
 }
 function qaGoHomeSection(id){
-  const go=()=>window.setTimeout(()=>{
-    const el=document.getElementById(id);if(!el)return;
-    const header=document.querySelector('.top');
-    const offset=(header?.getBoundingClientRect().height||0)+20;
-    const y=Math.max(0,el.getBoundingClientRect().top+window.scrollY-offset);
-    window.scrollTo({top:y,behavior:'smooth'});
-    if(window.matchMedia('(max-width: 820px)').matches && typeof qaLabResetNavigation==='function')qaLabResetNavigation();
-  },80);
+  const positionSection=()=>{
+    const mobile=window.matchMedia('(max-width: 820px)').matches;
+    /* On mobile the open navigation changes the document height. Collapse it BEFORE
+       measuring the destination, otherwise the section moves after the scroll. */
+    if(mobile && typeof qaLabResetNavigation==='function')qaLabResetNavigation();
+    const align=()=>{
+      const el=document.getElementById(id);if(!el)return;
+      const header=document.querySelector('.top');
+      const headerBottom=header?Math.max(0,header.getBoundingClientRect().bottom):0;
+      const safety=mobile?20:16;
+      const y=Math.max(0,el.getBoundingClientRect().top+window.scrollY-headerBottom-safety);
+      window.scrollTo({top:y,behavior:'smooth'});
+      /* Mobile browsers can reflow after the menu closes. Correct the final position
+         once more so the section icon/title always remains fully visible. */
+      if(mobile)window.setTimeout(()=>{
+        const target=document.getElementById(id);if(!target)return;
+        const sticky=document.querySelector('.top');
+        const bottom=sticky?Math.max(0,sticky.getBoundingClientRect().bottom):0;
+        const delta=target.getBoundingClientRect().top-bottom-20;
+        if(Math.abs(delta)>4)window.scrollBy({top:delta,behavior:'smooth'});
+      },260);
+    };
+    window.requestAnimationFrame(()=>window.requestAnimationFrame(align));
+  };
+  const go=()=>window.setTimeout(positionSection,100);
   if(location.hash && location.hash!=='#/' && location.hash!=='#'){
-    location.hash='#/';window.setTimeout(go,80);
+    location.hash='#/';window.setTimeout(go,100);
   }else go();
 }
 function qaAppendAuthorNav(){
