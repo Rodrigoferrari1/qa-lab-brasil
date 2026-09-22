@@ -1,342 +1,93 @@
 %PDF-1.4
-%âãÏÓ
+%“Œ‹ž ReportLab Generated PDF document (opensource)
 1 0 obj
 <<
-/Producer (pypdf)
+/F1 2 0 R /F2 3 0 R
 >>
 endobj
 2 0 obj
 <<
-/Type /Pages
-/Count 1
-/Kids [ 4 0 R ]
+/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
 >>
 endobj
 3 0 obj
 <<
-/Type /Catalog
-/Pages 2 0 R
+/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
 >>
 endobj
 4 0 obj
 <<
-/Contents 5 0 R
-/MediaBox [ 0 0 595.2756 841.8898 ]
-/Resources <<
-/ExtGState <<
-/gRLs0 <<
-/ca 0.035
->>
->>
-/Font <<
-/F1 6 0 R
-/F1-0 7 0 R
-/F2 8 0 R
-/F2-0 9 0 R
->>
-/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
->>
-/Rotate 0
-/Trans <<
->>
-/Type /Page
-/Annots [ ]
-/Parent 2 0 R
+/Contents 9 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 8 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
 >>
 endobj
 5 0 obj
 <<
-/Length 5319
+/Contents 10 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 8 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
 >>
-stream
-q
-1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
-q
-1 0 0 1 57.02362 757.8661 cm
-q
-.043137 .184314 .356863 rg
-BT 1 0 0 1 0 5 Tm /F2 22 Tf 27 TL 177.6722 0 Td (Spring Boot) Tj T* -177.6722 0 Td ET
-Q
-Q
-q
-1 0 0 1 57.02362 732.8661 cm
-q
-.294118 .419608 .560784 rg
-BT 1 0 0 1 0 4.5 Tm /F1 10.5 Tf 15 TL (Cria\347\343o e execu\347\343o simplificada de aplica\347\365es Spring prontas para produ\347\343o.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 57.02362 700.8661 cm
-q
-.043137 .184314 .356863 rg
-BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (O que \351) Tj T* ET
-Q
-Q
-q
-1 0 0 1 57.02362 664.8661 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 19.5 Tm /F1 10.5 Tf 15 TL (Spring Boot facilita criar aplica\347\365es Spring standalone com configura\347\343o opinativa, starters, servidor) Tj T* (embutido e recursos de produ\347\343o como health checks e m\351tricas.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 57.02362 636.8661 cm
-q
-.043137 .184314 .356863 rg
-BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (Pr\351-requisitos) Tj T* ET
-Q
-Q
-q
-1 0 0 1 57.02362 600.8661 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 19.5 Tm /F1 10.5 Tf 15 TL (Instale um JDK compat\355vel com a vers\343o do projeto. Maven ou Gradle pode ser usado como build) Tj T* (system; projetos podem ser gerados pelo Spring Initializr.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 57.02362 572.8661 cm
-q
-.043137 .184314 .356863 rg
-BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (Criar primeiro projeto) Tj T* ET
-Q
-Q
-q
-1 0 0 1 57.02362 536.8661 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 19.5 Tm /F1 10.5 Tf 15 TL (Abra Spring Initializr, escolha Java, Maven ou Gradle, vers\343o est\341vel adequada, Group/Artifact e) Tj T* (depend\352ncias como Spring Web. Gere e extraia o projeto.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 57.02362 508.8661 cm
-q
-.043137 .184314 .356863 rg
-BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (Executar) Tj T* ET
-Q
-Q
-q
-1 0 0 1 57.02362 472.8661 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 19.5 Tm /F1 10.5 Tf 15 TL (Abra na IDE e execute a classe principal ou use o wrapper Maven/Gradle do projeto. Valide a porta,) Tj T* (logs de startup e endpoint criado.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 57.02362 444.8661 cm
-q
-.043137 .184314 .356863 rg
-BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (Aplica\347\343o em QA) Tj T* ET
-Q
-Q
-q
-1 0 0 1 57.02362 408.8661 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 19.5 Tm /F1 10.5 Tf 15 TL (QA pode executar servi\347os localmente, validar APIs, profiles, vari\341veis, banco, health endpoints, logs e) Tj T* (comportamento de integra\347\343o antes da automa\347\343o E2E.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 57.02362 380.8661 cm
-q
-.043137 .184314 .356863 rg
-BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (Solu\347\343o de problemas) Tj T* ET
-Q
-Q
-q
-1 0 0 1 57.02362 344.8661 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 19.5 Tm /F1 10.5 Tf 15 TL (Erros comuns envolvem JDK incompat\355vel, porta em uso, profile incorreto, vari\341vel ausente, banco) Tj T* (indispon\355vel ou depend\352ncia n\343o resolvida. Leia o primeiro erro relevante do log.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 57.02362 316.8661 cm
-q
-.043137 .184314 .356863 rg
-BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (Instala\347\343o e configura\347\343o - vis\343o geral) Tj T* ET
-Q
-Q
-q
-1 0 0 1 57.02362 250.8661 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 49.5 Tm /F1 10.5 Tf 15 TL (Use sempre o site e a documenta\347\343o oficiais. Verifique pr\351-requisitos e vers\343o compat\355vel, instale a) Tj T* (ferramenta conforme o sistema operacional, configure vari\341veis de ambiente ou PATH somente) Tj T* (quando exigidos, valide a instala\347\343o com o comando ou tela recomendada e fa\347a um primeiro) Tj T* (projeto/teste antes de integrar ao fluxo de QA.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 57.02362 195.8661 cm
-q
-.219608 .741176 .972549 RG
-1 w
-.913725 .968627 1 rg
-n -8 -8 497.2283 61 re B*
-Q
-q
-BT 1 0 0 1 0 34.5 Tm 15 TL /F2 10.5 Tf 0 0 0 rg (QA Tip) Tj /F1 10.5 Tf  T* (Relacione sempre a pr\341tica ao risco do produto e \340s evid\352ncias necess\341rias para a decis\343o de) Tj T* (qualidade.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 57.02362 167.8661 cm
-q
-.043137 .184314 .356863 rg
-BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (Recursos oficiais) Tj T* ET
-Q
-Q
-q
-1 0 0 1 57.02362 146.8661 cm
-q
-BT 1 0 0 1 0 4.5 Tm 15 TL /F2 10.5 Tf 0 0 0 rg (Site oficial:) Tj /F1 10.5 Tf ( https://spring.io/projects/spring-boot) Tj T* ET
-Q
-Q
-q
-1 0 0 1 57.02362 123.8661 cm
-q
-BT 1 0 0 1 0 4.5 Tm 15 TL /F2 10.5 Tf 0 0 0 rg (Instala\347\343o / download:) Tj /F1 10.5 Tf ( https://start.spring.io/) Tj T* ET
-Q
-Q
-q
-1 0 0 1 57.02362 100.8661 cm
-q
-BT 1 0 0 1 0 4.5 Tm 15 TL /F2 10.5 Tf 0 0 0 rg (Documenta\347\343o:) Tj /F1 10.5 Tf ( https://docs.spring.io/spring-boot/) Tj T* ET
-Q
-Q
- 
-
-Q
-
-q
-0.0 0.0 595.2756 841.8898 re
-W
-n
-1 0 0 1 0 0 cm
-BT
-/F1-0 12 Tf
-14.4 TL
-ET
-0.843137 0.901961 0.960784 RG
-0.6 w
-n
-36 815.8898 m
-559.2756 815.8898 l
-S
-0.070588 0.207843 0.356863 rg
-BT
-/F2-0 8.2 Tf
-9.84 TL
-ET
-BT
-1 0 0 1 40 821.8898 Tm
-(QA LAB BRASIL) Tj
-T*
-ET
-0.356863 0.45098 0.564706 rg
-BT
-/F1-0 6.8 Tf
-8.16 TL
-ET
-BT
-1 0 0 1 398.216 821.8898 Tm
-(QUALITY ENGINEERING \174 DOCUMENTO OFICIAL) Tj
-T*
-ET
-q
-0.848048 0.529919 -0.529919 0.848048 297.6378 420.9449 cm
-0.08 0.21 0.36 rg
-/gRLs0 gs
-BT
-/F2-0 42 Tf
-50.4 TL
-ET
-BT
-1 0 0 1 -164.493 0 Tm
-(QA LAB BRASIL) Tj
-T*
-ET
-Q
-0.843137 0.901961 0.960784 RG
-n
-36 24 m
-559.2756 24 l
-S
-0.356863 0.45098 0.564706 rg
-BT
-/F1-0 6.6 Tf
-7.92 TL
-ET
-BT
-1 0 0 1 40 14 Tm
-(qualityassurancebrasil\056com\056br) Tj
-T*
-ET
-BT
-1 0 0 1 210.9996 14 Tm
-(QA Lab Brasil v2\0562 \174 PT\055BR \174 Atualizado\072 setembro de 2026) Tj
-T*
-ET
-BT
-1 0 0 1 514.547 14 Tm
-(Pagina 1 de 1) Tj
-T*
-ET
-Q
-
-
-endstream
 endobj
 6 0 obj
 <<
-/BaseFont /Helvetica
-/Encoding /WinAnsiEncoding
-/Name /F1
-/Subtype /Type1
-/Type /Font
+/PageMode /UseNone /Pages 8 0 R /Type /Catalog
 >>
 endobj
 7 0 obj
 <<
-/BaseFont /Helvetica
-/Encoding /WinAnsiEncoding
-/Name /F1
-/Subtype /Type1
-/Type /Font
+/Author (\(anonymous\)) /CreationDate (D:20260922123402+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20260922123402+00'00') /Producer (ReportLab PDF Library - \(opensource\)) 
+  /Subject (\(unspecified\)) /Title (Spring Boot) /Trapped /False
 >>
 endobj
 8 0 obj
 <<
-/BaseFont /Helvetica-Bold
-/Encoding /WinAnsiEncoding
-/Name /F2
-/Subtype /Type1
-/Type /Font
+/Count 2 /Kids [ 4 0 R 5 0 R ] /Type /Pages
 >>
 endobj
 9 0 obj
 <<
-/BaseFont /Helvetica-Bold
-/Encoding /WinAnsiEncoding
-/Name /F2
-/Subtype /Type1
-/Type /Font
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 2055
 >>
+stream
+Gatm;9lo&I&A@C2m*X)10EDga85F9cVG>r]*38HQ(Pm`\Ua3bVV!<'uj1>:?MKWN'bpXVpdLoeIm!JU1$3C-&s#7+]/f&F*'*ZNdYlYi+#Su$2\X7f5OWY$F('BCA9k"SXG5i1/GI)V8;aP36,"T#,n;p.:bn<KJ)Fj8J<mHkqYTV"6l]R3[8J%]m+X9S:QOfB=#YE5WjKktF-7$]XkZj**7S,oaHIt2Q=[^]&AhZOg/bp1IBId^X+uEfOA0%Qn?t%9fhRAd[#4se,#,pY71nJ?%5+_T)B]ZStg$7)r"-5Y`;,7;*-/A)'&2s$.&*Q7rH9lL!a3A*,EMR&@_9't"#?ZA.`@JEd"A-DX'F9Wd6\aC$,i[8nZ=*u!1-O;69h:^@JNGV5S7crr!NtT%E:IpsHZ_L-/-<\Z6n&&,VC^fg4qnX=9D\3+!@8VY@D>A]9%ABEbPFua;ArQm9t*_^)C?Vh1rIDp\[%"r=UH8.c"`V"&<J_<3#-HF&]Q2q&oO=m7\V&<4N:0qpGbQ?nSjd'l3Lg>7)1e@Pc!3VLa?:C@9!X'0*%Pn^;2'5\P"gt3Qd^Z.&Q9t"^s/=pbE6Tj2XstLtqEY9q&Z"0J=31AuIKW&AY#jPM=*r&2(>-2jhl30C]Tt@pnOBOMMVVTlH0iW!8PrXh[IsmVDS,Cu3'!aTl.)gqc1"A!Ha&7LB'K)C3B/R<Mkf<E2ttQ-)N=TTC;c><]\2F(o&BBOc/?$4DhI_L3lA50+sHFri'O`-h*n=S\gAIPK/l&_1N"k"kmoI-Do($9:6L=@g1OdOa#glA6iq-$"\W-QpJ)RqKWR>>Z32e?ss7=86"'e6Q]6N9Ng^U/buKl5#ji)N15`=fXlYblLUN[Hq)(+Me9X2-*r%k$t.@()lV;.,0*imq)Kb`V#LS<,3&:4bQBB^<@kKU8'GgX'-2g'KY\4M=R-("Vn(kZMOYIPj`!>gmq-R>M08/aH\S!3*%74E*VP*&LFr?6HhU*dSV\1`G;u%gW$rk5I]K?PWhTl50LUHKB[3/lNiGDkN(=&46LDDPQ2ai,o(%S$F<_*8ZHOT9=]K>'\94R6%67XZtV8X;+stkLtXEo?8GX@D@[TY&]:QG>-ITB,/G>57jLBJ1m*0)4O>l/^N9g8Y7Jt_DKEIl^[cB1crKT7m4V3UNG&n:?d$kF[28u6\AJaJN457kY@9)!clKbTU-JsC/p]]C.uGKQQ^oT6Y[;5tWujhu"rGk*;YbP),W]o\=mD"/Y%lL]:t._l!7%=+^!'UnL.C:jNA$0AC<)G&#8q.2dhn]#DSF%?q'K(=+Dn:)HNESh/%SMY3h;?]/b0lYa0R0jI[Em.\4h+kq:r=a><k9lU-^cD/iGT)pA>ETs!a9;hFSr?K5Q[aU9[eA!HC^*N'1Sh*0%U(2aLh%3WKqRN_EM+i9K^kArOQ(LCL[+f#h\9mP'9t#/f=f1_&T%Vso)TZ=sOBJW.4/#CJ6gKi6g=&i`eO)fF9;mHUFn=;ZHJ0+O_0mMU:PHG#AQ4rH#d1+RTkEHqa5j%#VgE*DuN9FgXWLD5LMb>P<\;7\sR'$*K^T?f`,@J<&C<iVD8fo>:g8`@.TW,q<._mH_+^E#l!EocMfA'[0eY(,C[GrM:e"<*A&!MX@P20j/_/e9(f7=-@&7ZTP!k]/G^ob6,dPa+5$X3i1U*h/M9BO@OG)P^TAFh*fdK>TO8[^adMH(<qVX%,AP11N#_VSlr;`74E/nGJ:tWk)$8dIjAT@LbW*QVdE"1"%6[e.7+G3E4+oMb&M[cV(flN4VJJW>n/WSP0-t(I[n/"CF<[b!>A5qTiQOL*kq!Hb'.f8O%4nh^d`)o%f[KA^qX.)/*<<HsmH(;CW.4,2L5=Grh#FbM/Wa6p#-#T#@Q1S?%WFB&Nie:"=l8'+iTOoc.mN\eb)3-?/NQl0u17C8m`IS;oeW(I*Q&^A-X2&FWh-fuXJALUSTl'I@tGVdm%TiV['WVK:D4;RfqsF'6"gZc(UiT:apJpiNGpa5Z.U<*t=>7.IubiUj9]<H\m:gMc50>euRTeMf:Or<FU@5>h~>endstream
+endobj
+10 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 1805
+>>
+stream
+Gatm:9lo&I&A@C2m*X'+-p\LDkUfQ#:1eOfLO.,I-6X6EP#+DAFZo]nI1&U\PrQ2_MC1-b"Ets]4hQKE#X:*B>I?lN/,K48,T5'G9emG4XZk+VC@Q]qU,%mC7O"*QcP24ps5`6"Mf,3q+_;@cPa@e7M+XaQjKXN!,gB)hAs$^MNhUR&/h]YV7o=hm;WL\WIY\\8,-j2*C2jU&>i__R37S_$V9!5,%*.EtS;O&&,u"rJ89KMF`L;KQKe283[SBC+`CUi;ZC`=2%*1<F%T&WnB\LdsI+n2<h5V67MtO+S)NPt^1sgc[63SDS&Kc85$[JBR=TGU$.%Z8pJVmH#=.e@I7]UI7HGupRPXh`%8Alqu8oPU0WL?m:%i+0DoW1BAM]tqAhQdhfQ1@b&5.nG'ld'L`]`0Z=QBG&q&W,C6&LV=n,:Ve*`R@7".EYa>q]_eQm-l[aF;rsPj))8nQRWW9j9^[;7-ChY10%1Sd-&.Z*R,FW7$.LF$P$&HX')Bp0>E#adR2>[L*u1J97SKRm,a$a"`+>FYnB[Oim\io9@mME[NYL..%Z"hKL7S9QQIqK*K%g5[Gd'-`L!+?C<GY*5.P=0AF*B9?0eG0XneE]\b>ql^"J?NG9M!]j`*,=nI1E$U:^K,EJZI^<%7i+q$@Ld%WJ)s.)8\M32SI<23"Bf%YbDBXr:Nn%@ZhFDrSj?D.U-BWAaB[b<47]F+^-pY$5,f,(]c_./DSdn"W;mf.W8h+&&`WD2m/4Fe*E9a5(%gN:6MOqf1s"TPI71_md(pMbKP13[!J_Us`K'$[NU#C!rql>@Y?9pJ@KOGJ\)u)I(YWXi2=i,<#KSf%@o#<Sr,sbm_f`2gEqf][^+(p8>BZX[#S$UB(lE;b5t=P]_ojht[hjPnVL8Q'H+DlgY-]Ftn8jgipcc#ainY&&Rbub]8/d<3"+jl_^jjF/MA=#OTbSZp>_0A"l9(Kr16lSS;c<_56"7e()Ia(&#\d0F4>;]A?[1TXco7UoN%/LsW7DB(6C;R<qkl+:`/%A%N0Wa"PeUp1[[>NkFVsL:\_p:U>1?\Mm_S!)PI:\K0C*j)**L^h:(2CQ0Vikbdg2bZ9]bJqub`C@ol>r\i?/=&re_R\mL_?AIQ`P+6(uf&MD%K%k`6W];%#'ZFjo3=E9C(?$7cbWS_@$^cqEV_tFDiaNi(]+:h/Gf[PFc1;3<r.<W1*cM+`7#TY4Z3,;`p;OC(GFbLO1YuU^eCgS*h8!>$%sc*"QJD2/+O"@EPrH,8p)_m+^NUkI+85$o+1_BH[Fm=t;>\2hYTPR^IA#?mTG9DrcW&ELZbs)j!VXf$Y`pV>V%736%sDT:'CtGAi\ZUblOQ&/,2g9d?6C77bGV2#@U*843nI.$@@!]%m]-#9>e@!6cbiJ@no?efW,(i_q[a2%30qd`Z8bTRSiDuuY(bd&E8uSb,dZM3gG?Ak!9amsQmK/ri4K3KRI3hrkRFC(lmUKg]ALn98E;R)ojM*/=//Rg_Yq$VH+;OF%.<0#-5bE22\)UBQQhGm]q&liFaOd045)tIForni2,q\$D6^51hSX(Ao^t)`isrJJ!i"0t:f<b'B9X+L(EA+r[__V]puL'^D(sWTZ2P6h3PVTn!\dm;Ea$=kR2O?\fFDa-=,\#*bL9:VDF_l;gHg83p&Yu"h3#Q5VE,dkjc@F"'/>gWp;012\eIl&#@CQWLq*WRUV3;(F2BU?/o`Gi+MGUrju.H)HjOiZo`jW"_8+<&2f'l2.[Dfr4[/*$@2Q9Q2V?(>2)JF'mP)A)co5hENjfgr?_AmUBr3@`r!t`e&G6~>endstream
 endobj
 xref
-0 10
+0 11
 0000000000 65535 f 
-0000000015 00000 n 
-0000000054 00000 n 
-0000000113 00000 n 
-0000000162 00000 n 
-0000000457 00000 n 
-0000005828 00000 n 
-0000005935 00000 n 
-0000006042 00000 n 
-0000006154 00000 n 
+0000000061 00000 n 
+0000000102 00000 n 
+0000000209 00000 n 
+0000000321 00000 n 
+0000000524 00000 n 
+0000000728 00000 n 
+0000000796 00000 n 
+0000001074 00000 n 
+0000001139 00000 n 
+0000003285 00000 n 
 trailer
 <<
-/Size 10
-/Root 3 0 R
-/Info 1 0 R
+/ID 
+[<b398c7fa3abe4a99424bc4bfcbf38809><b398c7fa3abe4a99424bc4bfcbf38809>]
+% ReportLab generated PDF document -- digest (opensource)
+
+/Info 7 0 R
+/Root 6 0 R
+/Size 11
 >>
 startxref
-6266
+5182
 %%EOF

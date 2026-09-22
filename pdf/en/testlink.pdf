@@ -1,364 +1,93 @@
 %PDF-1.4
-%âãÏÓ
+%“Œ‹ž ReportLab Generated PDF document (opensource)
 1 0 obj
 <<
-/Producer (pypdf)
+/F1 2 0 R /F2 3 0 R
 >>
 endobj
 2 0 obj
 <<
-/Type /Pages
-/Count 1
-/Kids [ 4 0 R ]
+/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
 >>
 endobj
 3 0 obj
 <<
-/Type /Catalog
-/Pages 2 0 R
+/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
 >>
 endobj
 4 0 obj
 <<
-/Contents 5 0 R
-/MediaBox [ 0 0 595.2756 841.8898 ]
-/Resources <<
-/ExtGState <<
-/gRLs0 <<
-/ca 0.035
->>
->>
-/Font <<
-/F1 6 0 R
-/F1-0 7 0 R
-/F2 8 0 R
-/F2-0 9 0 R
-/F3 10 0 R
-/F4 11 0 R
->>
-/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
->>
-/Rotate 0
-/Trans <<
->>
-/Type /Page
-/Annots [ ]
-/Parent 2 0 R
+/Contents 9 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 8 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
 >>
 endobj
 5 0 obj
 <<
-/Length 4666
+/Contents 10 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 8 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
 >>
-stream
-q
-1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
-q
-1 0 0 1 51.35433 779.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F2 12 Tf 14 TL (QA Lab Brasil) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 749.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 4 Tm /F3 20 Tf 24 TL 205.1635 0 Td (TestLink) Tj T* -205.1635 0 Td ET
-Q
-Q
-q
-1 0 0 1 51.35433 724.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Open-source Test Management for requirements, test cases, plans, builds, executions and reports.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 714.3701 cm
-Q
-q
-1 0 0 1 51.35433 688.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (What it is) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 656.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (TestLink is an open-source web application for test management and execution. It organizes projects, requirements,) Tj T* (test specifications, plans, builds, platforms and results.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 630.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Workflow) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 598.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Create a Test Project, organize Test Suites and Test Cases, build a Test Plan, associate builds/platforms, assign) Tj T* (cases and record execution results.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 572.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Installation) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 540.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (TestLink is a server application rather than a simple desktop program. A typical setup requires a web server, PHP) Tj T* (and a compatible database. Follow the documentation for the selected version.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 514.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Cases and steps) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 495.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Cases can record objectives, preconditions, steps and expected results, while suites organize the library.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 469.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Execution and reporting) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 450.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Plans and builds let teams execute selected sets and track Passed, Failed, Blocked and other statuses.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 424.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Integrations and cautions) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 392.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Bug tracker and automation integrations depend on version/configuration. Review maintenance, security,) Tj T* (compatibility and backups before corporate use.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 366.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (QA tip) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 347.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Practice Project ) Tj /F4 9.5 Tf 13 TL (\256) Tj /F1 9.5 Tf 13 TL ( Suite ) Tj /F4 9.5 Tf 13 TL (\256) Tj /F1 9.5 Tf 13 TL ( Case ) Tj /F4 9.5 Tf 13 TL (\256) Tj /F1 9.5 Tf 13 TL ( Plan ) Tj /F4 9.5 Tf 13 TL (\256) Tj /F1 9.5 Tf 13 TL ( Build ) Tj /F4 9.5 Tf 13 TL (\256) Tj /F1 9.5 Tf 13 TL ( Execution to learn classic Test Management concepts.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 321.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Official resources) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 302.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Site oficial: https://testlink.org/) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 283.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Download / instala\347\343o: https://github.com/TestLinkOpenSourceTRMS/testlink-code) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 264.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Documenta\347\343o: https://github.com/TestLinkOpenSourceTRMS/testlink-documentation/wiki) Tj T* ET
-Q
-Q
- 
-
-Q
-
-q
-0.0 0.0 595.2756 841.8898 re
-W
-n
-1 0 0 1 0 0 cm
-BT
-/F1-0 12 Tf
-14.4 TL
-ET
-0.843137 0.901961 0.960784 RG
-0.6 w
-n
-36 815.8898 m
-559.2756 815.8898 l
-S
-0.070588 0.207843 0.356863 rg
-BT
-/F2-0 8.2 Tf
-9.84 TL
-ET
-BT
-1 0 0 1 40 821.8898 Tm
-(QA LAB BRASIL) Tj
-T*
-ET
-0.356863 0.45098 0.564706 rg
-BT
-/F1-0 6.8 Tf
-8.16 TL
-ET
-BT
-1 0 0 1 399.3516 821.8898 Tm
-(QUALITY ENGINEERING \174 OFFICIAL DOCUMENT) Tj
-T*
-ET
-q
-0.848048 0.529919 -0.529919 0.848048 297.6378 420.9449 cm
-0.08 0.21 0.36 rg
-/gRLs0 gs
-BT
-/F2-0 42 Tf
-50.4 TL
-ET
-BT
-1 0 0 1 -164.493 0 Tm
-(QA LAB BRASIL) Tj
-T*
-ET
-Q
-0.843137 0.901961 0.960784 RG
-n
-36 24 m
-559.2756 24 l
-S
-0.356863 0.45098 0.564706 rg
-BT
-/F1-0 6.6 Tf
-7.92 TL
-ET
-BT
-1 0 0 1 40 14 Tm
-(qualityassurancebrasil\056com\056br) Tj
-T*
-ET
-BT
-1 0 0 1 221.4507 14 Tm
-(QA Lab Brasil v2\0562 \174 EN \174 Updated\072 September 2026) Tj
-T*
-ET
-BT
-1 0 0 1 519.6818 14 Tm
-(Page 1 de 1) Tj
-T*
-ET
-Q
-
-
-endstream
 endobj
 6 0 obj
 <<
-/BaseFont /Helvetica
-/Encoding /WinAnsiEncoding
-/Name /F1
-/Subtype /Type1
-/Type /Font
+/PageMode /UseNone /Pages 8 0 R /Type /Catalog
 >>
 endobj
 7 0 obj
 <<
-/BaseFont /Helvetica
-/Encoding /WinAnsiEncoding
-/Name /F1
-/Subtype /Type1
-/Type /Font
+/Author (\(anonymous\)) /CreationDate (D:20260922123402+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20260922123402+00'00') /Producer (ReportLab PDF Library - \(opensource\)) 
+  /Subject (\(unspecified\)) /Title (TestLink) /Trapped /False
 >>
 endobj
 8 0 obj
 <<
-/BaseFont /Helvetica-BoldOblique
-/Encoding /WinAnsiEncoding
-/Name /F2
-/Subtype /Type1
-/Type /Font
+/Count 2 /Kids [ 4 0 R 5 0 R ] /Type /Pages
 >>
 endobj
 9 0 obj
 <<
-/BaseFont /Helvetica-Bold
-/Encoding /WinAnsiEncoding
-/Name /F2
-/Subtype /Type1
-/Type /Font
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 1990
 >>
+stream
+Gau0CgJZfd&:O:SoHTio#YVURaW"&bP:F!B@CGl4j3c(!p_Lu+OP5cQQ@,M1bj7(m'XhRUIC`5K;2^$e^XW5.$@q^oS6f*d%$hj*+UMS&"Ws)fGE;Nu:X]S?880&`+HcVZ6#XHbisDF/B-G3-7!QL7.(koZQ3:VQNTFId&a&uTCgNWp+SPa:Dc.5FDL+O1p]63gK?Tg>BM@EM#Bm(dN):3dL+<[j-S-N76;n^EN$I!YFWARf*YOpIGW(U]ij0b:e*>E'J-"7?a*O][1c5%b/jB.0CU>j8kAB($(jPttLcQGn=i)0i5%-Sbpk&4(i@5*ciFk=t+\+#J"e=A<r<CG`Y^C(r'0l29OoSo6hPA45MaK\;OS0IRaRm\C&sFRNIHrX7S>Wa'!*<grE;oOsp@Hhi=9sT7'VTbG&f0ua%Y`P=8R=@8;j&mSF@KGrX6(!XQ<R?]WE$L"Rn<`#_uYrF`Q4f]Bup60JZlh8--R4q8J32:!]^Mmj0PF!DI7o`_EMQo_E6!9-pUa/n&p5B7+`Ik0MXU(aV5VtJo`N&aoVJGTJOqR=@=BXnUQa3)Y4N(WH_i<&<@L=HbOk*'T*Ep[;OZnM=lS5A77ABI9aUDjVgm[dPP%*]GgjaJ,8$\HQE/[p)s"j#RQLg35JR%.1-650sm"X0:7$?)=u[.$-4^\P:s<phj^XrR08EbrXbpYb!MC'CaoltIW(KpcXm3;SWO4'n\3:;M3h5Cnhjb8&"0hbW_*Af>iU$NV&Mdnd.+1r&XMLYm\8jgh0l]JSti6b\(%tcf1n/qnBW'S/>3"dbfkPpc9jL_AW..!Z`l[8'o9HH<@2P[>hE>TMhqc[dP8TA4uZ=&XXM^qBqX&-2jkgPK1dT<OCi6qWD.<j=8)-g6+b*$Sn[f6aCE'PjRG&h)L5[Jk^X:+(tD.^FBrI[p!S,n+"cZtnJM5R88*/ZWWCX@ER1[>mX;3;+nQu`FX+:F1\h&p9iIMlVl,iK*5<Uejsbl/^F*oMfi;n'*m%]1AiE=d>!#Y@AQ3@^Olu/%"dla,"XquA0=C%(2ikK0&'/pggrbZA;EhlcMP`hb&"oD5Ih1@o*j8TpICI>!L]+HoKHH9,$]X[Ap,Y4HmYYd7elt(\gL:M5+`u$HSL1pg)F)1R>@856$;&2O]379:95U\1S>3N(-`h^sAsJrfr4f2O0TKM<-k)<7;=o."EsFt*m!fXI0N)DP5ESepYY7kb1#)'u<ReR4[5<)%<Em`'C/GO%KBBGY:Jb#$e(2EcB@jN%goWXmFoCRY&L8L"MAcr+m%U3d/*)`+AX-cB])$eX_bS[#eArW9Br]<C#kc*e#n:?m1dWk8'JtfN&(i/TnBlQEc?L\Y+oeU.XZ^gqg'p,EY#W5d3I(M2=EbqUCLdGV4,'c'Y!g=A[GfH^8u!.D&9U+Qm"mbd?<?];XRiE6HJ3k`J<J0'Vmf.Qb#K8*:8f;%%JC85H\,"JB%`*MdS4ScaR7t)"\c'8E%*L1GWjBRljfrH)3q6hP_l7p#OO5sg!fr+=U4tM!G`qf_:5r+U2+3K^c?1YhQ1>PmC%qL'euaBD,V1?FJq4<[D^&sK3A`dEf*;j;;8OK5iA]U=1G.E_L>MmCcAS!O?JS9]1L!HnP\erk;Yud/QU@nU/X]`2iUCBG:d@m&CMtVSMZd'7jIDbQ.X7APf=2(Ch3OT+!I2_/oRWQesYCYWd(KHI'uBgE+.GJKiKq<e(As.q/-Y&#aWt3##<AeWa=(gK\NBTJ<L=Oga<6-UsM#.h"F]*)L!Er,0P>0X4!O`H?reJlah/!Ru>DI[_R[4j#V^0)R;MZe)4nm?b0S<k3RMm'mbEp@92g:fQT[&U&8)fcrDBL@"B?E_@hRc.:MuN7[Q7VaasBo$q6#P;<EqL+k]el_/;>u`o%'.!8Yr3')=o).l'1:d4S@&I^KVcXL-M`@rhtfWnG3lD;9]:EW$.1F"m!B"4(Gi[R?%=Z/XbL*HWKtica@5pCHe9=q1~>endstream
 endobj
 10 0 obj
 <<
-/BaseFont /Helvetica-Bold
-/Encoding /WinAnsiEncoding
-/Name /F3
-/Subtype /Type1
-/Type /Font
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 1194
 >>
-endobj
-11 0 obj
-<<
-/BaseFont /Symbol
-/Name /F4
-/Subtype /Type1
-/Type /Font
->>
+stream
+Gatn$;01JM%*.8u.I`_tEZ@Z-,5%=>?*AHtBG9k.X@TS?L(ZY4G1te:r#f..Pr3E"]>Sp%"@9gFp]6<R:*23>2]]^,$@_q@J<7!=K.'h&WuH;qb5T['YILN'@"f0'<5?Z8:IEcFIARDdK$+4;<AKi?!kM&u-;@g2B:I(daX$'"_G=5af:3ekW0l_Bqd_EDB;Lj>A7q+Q9NN\c6HqD;Qkki/S:V\_0OmKSZ\7#[S>FLhQ`5Rn9'V,&&rb#HPiq7Cb=MfTRVe6fG;d_=be`J2^[5'cD6ro)N#GJ6lKF%T_D3uhi(Qlck^f+_;%sXU'I>D8Ta8W;K8Ydl^VK+JXPOBBN,,ST!@A2cW/."oKj&)eV@6o\]uXS<1V2L3aatsAM(&P^>[>8?mFC%iRq8l,Ql8F^d'#/Z=*#D`HH9QES:h8N8Wb*Ylt^7_(O4\QCl]EL^KIEh\]An'bZ*);WiIT`Y704#bBd8%i67E2V]uBLPA4NHE;(AeXI+=29"LaB06:#k::6Tk(F34I!i_P"_ON\dhnsT8UNHS:!6BlXO0h;24+5OJe"MNTBY&3(I`+n']35X-#(5E$Y8XcTr#)J,?k_06C'[p'fEM9]S+K+fo/_P-l4>8nL3Uju[[m%)_eoC4%`sbuBPR>k7#aN^a#-/8a"7LK'uk?*qZg6X'JISl_*@W*)W.acAfp;KI=DQ-rs2?7(AhWX(SU8$B^8Vb9ej(ukHGtdK4D^,G:B-+\eohSQG-Q-n,%bWMMfGL,S+UIOKe02d>*LbU\AUIaj>WH%lm2^or[Yu7doP0b0qV_T^cMFBcN`apT-_r`2aKaCAi$`(Mpa&$1=Im_>&):AYEE@mp.+IF_L/DKEHs"Jr[MCK=(<r^*B4W]:BK);M#Z'48N=$"6'e7;ZBYu^J?'_hr52]#.l,.(_0*TBp@A#A+(E>I]g;R_oUaOlPM@r@Fb^*3)<aPeiCn9llZlM[G+XD3"Eh\<!#1,GG$WCk[1KB6CF<EU\pVM3^6;JguGZE.JQ%@*k1"(V^LGIoI?^;#B)Z.TB#n%(Al&hf@CNtlDe->RJ@M5ggO"EgK:8`*JTR]3'O(Ik]'e*bA"#V.dR[(pjO3FHX-GukCoee]5]?6==p[)#(mGaOVgXc@-R[n*HW-M%qAR""SU+1l.A:h:4V!IN`qgAN7+6#W?],b%TH:WjoD]:!QG1EDu~>endstream
 endobj
 xref
-0 12
+0 11
 0000000000 65535 f 
-0000000015 00000 n 
-0000000054 00000 n 
-0000000113 00000 n 
-0000000162 00000 n 
-0000000479 00000 n 
-0000005197 00000 n 
-0000005304 00000 n 
-0000005411 00000 n 
-0000005530 00000 n 
-0000005642 00000 n 
-0000005755 00000 n 
+0000000061 00000 n 
+0000000102 00000 n 
+0000000209 00000 n 
+0000000321 00000 n 
+0000000524 00000 n 
+0000000728 00000 n 
+0000000796 00000 n 
+0000001071 00000 n 
+0000001136 00000 n 
+0000003217 00000 n 
 trailer
 <<
-/Size 12
-/Root 3 0 R
-/Info 1 0 R
+/ID 
+[<2885cabb4f610657df1c55616580257f><2885cabb4f610657df1c55616580257f>]
+% ReportLab generated PDF document -- digest (opensource)
+
+/Info 7 0 R
+/Root 6 0 R
+/Size 11
 >>
 startxref
-5833
+4503
 %%EOF

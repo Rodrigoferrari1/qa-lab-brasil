@@ -1,328 +1,93 @@
 %PDF-1.4
-%âãÏÓ
+%“Œ‹ž ReportLab Generated PDF document (opensource)
 1 0 obj
 <<
-/Producer (pypdf)
+/F1 2 0 R /F2 3 0 R
 >>
 endobj
 2 0 obj
 <<
-/Type /Pages
-/Count 1
-/Kids [ 4 0 R ]
+/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
 >>
 endobj
 3 0 obj
 <<
-/Type /Catalog
-/Pages 2 0 R
+/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
 >>
 endobj
 4 0 obj
 <<
-/Contents 5 0 R
-/MediaBox [ 0 0 595.2756 841.8898 ]
-/Resources <<
-/ExtGState <<
-/gRLs0 <<
-/ca 0.035
->>
->>
-/Font <<
-/F1 6 0 R
-/F1-0 7 0 R
-/F2 8 0 R
-/F2-0 9 0 R
->>
-/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
->>
-/Rotate 0
-/Trans <<
->>
-/Type /Page
-/Annots [ ]
-/Parent 2 0 R
+/Contents 9 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 8 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
 >>
 endobj
 5 0 obj
 <<
-/Length 4438
+/Contents 10 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 8 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
 >>
-stream
-q
-1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
-q
-1 0 0 1 57.02362 757.8661 cm
-q
-.043137 .184314 .356863 rg
-BT 1 0 0 1 0 5 Tm /F2 22 Tf 27 TL 173.3822 0 Td (Spring Tools) Tj T* -173.3822 0 Td ET
-Q
-Q
-q
-1 0 0 1 57.02362 732.8661 cm
-q
-.294118 .419608 .560784 rg
-BT 1 0 0 1 0 4.5 Tm /F1 10.5 Tf 15 TL (Herramientas oficiales de Spring para Eclipse, VS Code y otros entornos.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 57.02362 700.8661 cm
-q
-.043137 .184314 .356863 rg
-BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (Qu\351 es) Tj T* ET
-Q
-Q
-q
-1 0 0 1 57.02362 664.8661 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 19.5 Tm /F1 10.5 Tf 15 TL (Spring Tools agrega soporte especializado para aplicaciones Spring y Spring Boot, incluyendo) Tj T* (navegaci\363n, asistencia de c\363digo, propiedades y recursos de desarrollo.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 57.02362 636.8661 cm
-q
-.043137 .184314 .356863 rg
-BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (Elegir entorno) Tj T* ET
-Q
-Q
-q
-1 0 0 1 57.02362 600.8661 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 19.5 Tm /F1 10.5 Tf 15 TL (La p\341gina oficial ofrece Spring Tools para Eclipse y editores soportados. Elija seg\372n la IDE del) Tj T* (proyecto.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 57.02362 572.8661 cm
-q
-.043137 .184314 .356863 rg
-BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (Instalaci\363n) Tj T* ET
-Q
-Q
-q
-1 0 0 1 57.02362 536.8661 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 19.5 Tm /F1 10.5 Tf 15 TL (Abra la descarga oficial, seleccione la distribuci\363n/integraci\363n y siga el instalador o marketplace) Tj T* (indicado.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 57.02362 508.8661 cm
-q
-.043137 .184314 .356863 rg
-BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (Requisitos) Tj T* ET
-Q
-Q
-q
-1 0 0 1 57.02362 472.8661 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 19.5 Tm /F1 10.5 Tf 15 TL (Mantenga un JDK compatible con Spring Boot y confirme Maven o Gradle. JAVA_HOME/PATH deben) Tj T* (apuntar al JDK correcto cuando el terminal dependa de ellos.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 57.02362 444.8661 cm
-q
-.043137 .184314 .356863 rg
-BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (Uso para QA) Tj T* ET
-Q
-Q
-q
-1 0 0 1 57.02362 408.8661 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 19.5 Tm /F1 10.5 Tf 15 TL (Abra un proyecto Spring Boot, ejecute la aplicaci\363n, revise logs, navegue por controllers/services y use) Tj T* (debugging para investigar APIs e integraciones.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 57.02362 380.8661 cm
-q
-.043137 .184314 .356863 rg
-BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (Soluci\363n de problemas) Tj T* ET
-Q
-Q
-q
-1 0 0 1 57.02362 344.8661 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 19.5 Tm /F1 10.5 Tf 15 TL (Si la aplicaci\363n no inicia, valide JDK, puertos, profile, properties/YAML, dependencias y variables de) Tj T* (entorno.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 57.02362 289.8661 cm
-q
-.219608 .741176 .972549 RG
-1 w
-.913725 .968627 1 rg
-n -8 -8 497.2283 61 re B*
-Q
-q
-BT 1 0 0 1 0 34.5 Tm 15 TL /F2 10.5 Tf 0 0 0 rg (Consejo de QA) Tj /F1 10.5 Tf  T* (Relacione siempre la pr\341ctica con el riesgo del producto y la evidencia necesaria para decisiones de) Tj T* (calidad.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 57.02362 261.8661 cm
-q
-.043137 .184314 .356863 rg
-BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (Recursos oficiales) Tj T* ET
-Q
-Q
-q
-1 0 0 1 57.02362 240.8661 cm
-q
-BT 1 0 0 1 0 4.5 Tm 15 TL /F2 10.5 Tf 0 0 0 rg (Sitio oficial:) Tj /F1 10.5 Tf ( https://spring.io/tools) Tj T* ET
-Q
-Q
-q
-1 0 0 1 57.02362 217.8661 cm
-q
-BT 1 0 0 1 0 4.5 Tm 15 TL /F2 10.5 Tf 0 0 0 rg (Instalaci\363n / descarga:) Tj /F1 10.5 Tf ( https://spring.io/tools) Tj T* ET
-Q
-Q
-q
-1 0 0 1 57.02362 194.8661 cm
-q
-BT 1 0 0 1 0 4.5 Tm 15 TL /F2 10.5 Tf 0 0 0 rg (Documentaci\363n:) Tj /F1 10.5 Tf ( https://github.com/spring-projects/spring-tools/wiki) Tj T* ET
-Q
-Q
- 
-
-Q
-
-q
-0.0 0.0 595.2756 841.8898 re
-W
-n
-1 0 0 1 0 0 cm
-BT
-/F1-0 12 Tf
-14.4 TL
-ET
-0.843137 0.901961 0.960784 RG
-0.6 w
-n
-36 815.8898 m
-559.2756 815.8898 l
-S
-0.070588 0.207843 0.356863 rg
-BT
-/F2-0 8.2 Tf
-9.84 TL
-ET
-BT
-1 0 0 1 40 821.8898 Tm
-(QA LAB BRASIL) Tj
-T*
-ET
-0.356863 0.45098 0.564706 rg
-BT
-/F1-0 6.8 Tf
-8.16 TL
-ET
-BT
-1 0 0 1 398.216 821.8898 Tm
-(QUALITY ENGINEERING \174 DOCUMENTO OFICIAL) Tj
-T*
-ET
-q
-0.848048 0.529919 -0.529919 0.848048 297.6378 420.9449 cm
-0.08 0.21 0.36 rg
-/gRLs0 gs
-BT
-/F2-0 42 Tf
-50.4 TL
-ET
-BT
-1 0 0 1 -164.493 0 Tm
-(QA LAB BRASIL) Tj
-T*
-ET
-Q
-0.843137 0.901961 0.960784 RG
-n
-36 24 m
-559.2756 24 l
-S
-0.356863 0.45098 0.564706 rg
-BT
-/F1-0 6.6 Tf
-7.92 TL
-ET
-BT
-1 0 0 1 40 14 Tm
-(qualityassurancebrasil\056com\056br) Tj
-T*
-ET
-BT
-1 0 0 1 212.28 14 Tm
-(QA Lab Brasil v2\0562 \174 ES \174 Actualizado\072 septiembre de 2026) Tj
-T*
-ET
-BT
-1 0 0 1 514.547 14 Tm
-(Pagina 1 de 1) Tj
-T*
-ET
-Q
-
-
-endstream
 endobj
 6 0 obj
 <<
-/BaseFont /Helvetica
-/Encoding /WinAnsiEncoding
-/Name /F1
-/Subtype /Type1
-/Type /Font
+/PageMode /UseNone /Pages 8 0 R /Type /Catalog
 >>
 endobj
 7 0 obj
 <<
-/BaseFont /Helvetica
-/Encoding /WinAnsiEncoding
-/Name /F1
-/Subtype /Type1
-/Type /Font
+/Author (\(anonymous\)) /CreationDate (D:20260922123402+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20260922123402+00'00') /Producer (ReportLab PDF Library - \(opensource\)) 
+  /Subject (\(unspecified\)) /Title (Spring Tools) /Trapped /False
 >>
 endobj
 8 0 obj
 <<
-/BaseFont /Helvetica-Bold
-/Encoding /WinAnsiEncoding
-/Name /F2
-/Subtype /Type1
-/Type /Font
+/Count 2 /Kids [ 4 0 R 5 0 R ] /Type /Pages
 >>
 endobj
 9 0 obj
 <<
-/BaseFont /Helvetica-Bold
-/Encoding /WinAnsiEncoding
-/Name /F2
-/Subtype /Type1
-/Type /Font
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 2074
 >>
+stream
+Gatm;CN%rc'`IH,EBe&(b)"QZhjcT?dj8,E\-3'N(`8Zafu]sT8_I#.a6uifAJodGkhH/t6;bDYhK'coS36`=pA\qtF?61\?TE*lZN]lL"Z3iaZe=DW_S"CYBgaN14H;a;Oo#rY>u$8KQnZfK&Q"ue/G-i1<g-W>On_5L=j&14`.[<MUO@.)r7LTR4JXP%g?ni2iqY,<K!NL1M8q/B6f/nAX9m0]/o\](n3dC18U*i0KOH1]5TSGH8Jj.QMKlK]jNJ9d,W;Q=<n8+,f!*^mbr8:J5JuH4c]=id9tj=;Y9jN;ILsnm"rth'Q3WJ-Sd2pd4_6SVi0"Yk,8Ps*@^`#+lfg&ZqbFJ!DE%/r02*!f,/?PQmR/%J@gd!hJIbG8/0lrCikTUfEu'KZmk)o*oTW*89lJ<1`l8'hTh>uXhao$iE3R5/G#jcmNHgtiK);+$7cq:2TX/+,$`0pWQ=EjMci)KDQDB=!r(;Ug9,%0oIT"OK!KSN=i2j^[^dL.cb3A%+BIr@W(.NO8^.1@`7D1?ie,`s45TiB/Eh7(k,B)hrb"Chbrt=i6k\Cm[^g4Um(a=sW!6MToAqM09)t#%Zqg'3=7tJ#7f]7n\7C:0gb[?Qg'0M`.l0,!d0r13lH*mkLH@&GGnS&OYfn%QjULZLXiWSKg;D\c712qa>O)TjpDWJI^-=Q+W++6u:b*?!r/LrRaSS=LmMWTeB+%g5nSRo>a.s4NmDWn4=b6Kf12&5(3@gc5?XjB:h3^WYUkSF$LfW>sjkp\[)g.GSYY+)UY2QLR'>X&1EBF=4ME/oc&\[6*#WA:<T[/u^n\a\l+Ec/IuathS:bd8f1oD[L"ou!a`oeG\TbF8`:i0-Laj1J'8ocq42?@-jKr3'j8i+PVbk2+DVdMu2"9rZZJc>iU]=d:kQ1+ft;Ok,s`2u=.6r0N6Je)4WPh<8#]TUhRR=h1X#h;./SDSUen'9)c`(WbbH0f:J6paq`t_X.'>F=D:R,qU%N<,6lVb%['t%=P;CZ?gS4;RNQ!S!2R>@-CpX]GroeS9Cs3;Uu`&pFBe[K5C\SU8hcgj949h>BSU%bb_E6/L#@3R9\S5NquAcgcsM(7+%r[3Q1N&d1fk5mZA0MUH<M5M[l$dB=V2\]C%Pg_$*DTYl4okb--900c9#fZ!!`e[X$`pPDH?0CS1hA?1juP_>%09^S;mLj]=Y^L#_h'h&/c*?)^#dXPTipK/e<?oKeQY/G/+0q6^GeEOaCQ]gY>1f@6fog>rnF@mi"P=duJZHaH#<Djqg/#ngJpmEdg6ORi/`610YBDCcZ/8c+jS9DGCR@ZE?/h^ePNLP5.?H4C\g:[5+1'bY5AV?`TG)e53I0e<mDVP'"=IN(-X4;QrXL%&P_U$YJ"-0>jZ28-J>Sh!8PVdH<NIe`m4m,VnBqp>&B9o"pDK19AXjj[G;eeJ0rNHDK:FOeO::j&oIQC*0hFAj#Zqt)7@6[$hp%js8!=8b,9\dgiT9I'k-)f:F^UNQIdQ4E1A7Xj1EaBE9LA&>6mNAd&k-&+c;.iJg1e-3@`SM%\p3Pj@Yf3,-pRS"%-J];<4*2K8\mT!8^_CSEbcCkMXW4tK.M26B>$P=@T?^Q5s-sSqZE(K8ZgnVZ<p_d*%A8?PZ0eU>]a49-e-[?af7"moD?+7^BLLLBa'F>IZUF`uB/+"*5=.R@KRT@t\+4JDkj1\W!S`6$KQWD;a?IJQ]FPt)Yp0[<VmhkUX3S]^GlPt](6E<u&&)!hS)jQE5:p@RriVq.3rF\OU>N;kS=]Z8M79-N`o>d$]3T8"t;<n$fBlV65>5:^b%5kO>elk)K_RK]Q=M/j49@jP%V]i3>=gbtZ*1O,'S[*&(?sgM5DW/0N96^Q,&'WkT7G`DN)j;$rUp/G'5#[N#*L\5?,f`2+iMtG=^i%6Gp1ESpg8hbR@LL3UCTa43CS:PYV\F4q-rf,p9353;C(Ti+bCt/ar,FY-Oh"<C-9#VE<'W*g$Z.e-)3!Kn<T7klnS?T^7jAbZ#8,YM/d@7uWD_?RXc2]E4dS\fE^f"&9IK`Co"438-L<>VOj*ONp;&)3f+XVN#DGN6[f~>endstream
+endobj
+10 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 1031
+>>
+stream
+Gatm9_/A!e&A@B[k*R_%/kM0LH&RZg=<NB9iaXVM7Ct)rdA8*uZe1>rTd7egRMNkO/\huh_g-1_4k^;m?>TI]/\l67^OKY,3:%0k";.kfJGXcbXWZ+iAh"pT0i^df<W4C;a.b)[-B(eS5adMN;@7(F`<k.mW33D&:_hrRRSBA/Uf<RnHn[t9.=I%d>*=baE5a]Q'N%>c\^VPXN$u]N_POd)JnWC;X;'6A]2DpE9d'[KL9"%?A;'NZin*JIaFs`I>%7rjjr.G#=c9IHIm5MdHmoQo$6207371;%/5,'""!r?B!FN'"19?)gZpaD@#`2IG>IaKNpD`J6_Z!id-<*jA2%VD0_4YsV$+WJY$NaOthB6K#Zk>4)b_VL</I:ib[tEMsh:!GV>;-(GArA@UCX#M_i\41H7K4?\11E3nB9:M!@<dA#mMJ"R;s96G-sa,VPsD^ma^\[I889tDIOmP4-pWWlOA:]P#f>[MeA0NDW"H;Y9NLqAI]l@S<@tmh=::oVOTCe:18_7=Z-TXI[LWh_56-'uq@apE<BG?^M!gAX*3PjXf['2!lWFr?0$D:Ioh=LsZQ"=*HT7kJV-n0H%MuMX>K;p8T?F8$?EndF&(=`HXJ/=^Y2%s77p[AmbO>4F3YOjSdYX'U#i56-m:r,Bo5OE&&$b^h]RYpr+WSO5(L":E7lRlj)a"aV@8=H=Ih!=[]h<g14noM7""nMk__GVof&E"`BJ4eipohCp240m2.E-UTiOSJAJO_9AHT7^]k3^I>E.*87;g&uD@r-Hr+%MA_6h3b.*oUq)R)lH>Nin"]1SN7`IoH3i'X=hWol[M[kFiA7Nk*gr0b1B_b7>Fk-2e?Pj/IK#lM'<qX]MhkfV\2JZeDD7=9/$f-f<IgF2?iCASFLRq^L-lF3gPg2.kMmq[;'M3FoNuRBu7D[kZbt@n?)@X7fWY;:;_e2[:lIn_V(JK-:kP+1pC-Zd18p.E)EE"oNYN%:USiO+05!o8[Or@%.lCh1GHIU>d\=rIQcnDdd,a./jB8N7aj~>endstream
 endobj
 xref
-0 10
+0 11
 0000000000 65535 f 
-0000000015 00000 n 
-0000000054 00000 n 
-0000000113 00000 n 
-0000000162 00000 n 
-0000000457 00000 n 
-0000004947 00000 n 
-0000005054 00000 n 
-0000005161 00000 n 
-0000005273 00000 n 
+0000000061 00000 n 
+0000000102 00000 n 
+0000000209 00000 n 
+0000000321 00000 n 
+0000000524 00000 n 
+0000000728 00000 n 
+0000000796 00000 n 
+0000001075 00000 n 
+0000001140 00000 n 
+0000003305 00000 n 
 trailer
 <<
-/Size 10
-/Root 3 0 R
-/Info 1 0 R
+/ID 
+[<bf3a69e50c0500294842d00fff24ce6b><bf3a69e50c0500294842d00fff24ce6b>]
+% ReportLab generated PDF document -- digest (opensource)
+
+/Info 7 0 R
+/Root 6 0 R
+/Size 11
 >>
 startxref
-5385
+4428
 %%EOF

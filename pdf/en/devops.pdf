@@ -1,353 +1,93 @@
 %PDF-1.4
-%âãÏÓ
+%“Œ‹ž ReportLab Generated PDF document (opensource)
 1 0 obj
 <<
-/Producer (pypdf)
+/F1 2 0 R /F2 3 0 R
 >>
 endobj
 2 0 obj
 <<
-/Type /Pages
-/Count 1
-/Kids [ 4 0 R ]
+/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
 >>
 endobj
 3 0 obj
 <<
-/Type /Catalog
-/Pages 2 0 R
+/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
 >>
 endobj
 4 0 obj
 <<
-/Contents 5 0 R
-/MediaBox [ 0 0 595.2756 841.8898 ]
-/Resources <<
-/ExtGState <<
-/gRLs0 <<
-/ca 0.035
->>
->>
-/Font <<
-/F1 6 0 R
-/F1-0 7 0 R
-/F2 8 0 R
-/F2-0 9 0 R
-/F3 10 0 R
->>
-/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
->>
-/Rotate 0
-/Trans <<
->>
-/Type /Page
-/Annots [ ]
-/Parent 2 0 R
+/Contents 9 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 8 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
 >>
 endobj
 5 0 obj
 <<
-/Length 4818
+/Contents 10 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 8 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
 >>
-stream
-q
-1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
-q
-1 0 0 1 51.35433 779.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F2 12 Tf 14 TL (QA Lab Brasil) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 749.3701 cm
-q
-BT 1 0 0 1 0 4 Tm 168.4935 0 Td 24 TL /F3 20 Tf 0 0 0 rg (DevOps & CI/CD) Tj T* -168.4935 0 Td ET
-Q
-Q
-q
-1 0 0 1 51.35433 724.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Continuous integration, continuous delivery/deployment, pipelines, Quality Gates, Docker and environments.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 714.3701 cm
-Q
-q
-1 0 0 1 51.35433 688.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (What DevOps is) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 656.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (DevOps combines cultural and technical practices to bring development and operations closer, reduce delivery) Tj T* (friction and increase feedback. QA contributes continuous quality throughout the flow.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 630.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (CI \227 Continuous Integration) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 598.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (CI integrates changes frequently and runs automated checks such as builds, tests and static analysis. Fast failures) Tj T* (help teams fix problems before they accumulate.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 572.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (CD \227 Delivery and Deployment) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 540.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Continuous Delivery keeps software releasable; Continuous Deployment also automates release to production when) Tj T* (criteria are met. The terms should be used with context.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 514.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Pipeline) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 482.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (A pipeline may run checkout, dependency installation, build, unit/API/UI/security tests, artifact generation and) Tj T* (deployment. Quality Gates can stop the flow when criteria fail.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 456.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (GitHub Actions) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 424.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (GitHub Actions defines workflows versioned with the repository. QA can run Pytest/Playwright, publish reports and) Tj T* (store evidence.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 398.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Environments and configuration) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 366.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (DEV, QA, SIT, UAT, Staging and Production may have different purposes. Environment variables and secrets) Tj T* (separate configuration from code and avoid hardcoded credentials.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 340.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Docker and reproducibility) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 308.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Containers help run applications and dependencies consistently. QA can use them to reproduce services, databases) Tj T* (and tools in pipelines.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 282.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Shift Left, Shift Right and Continuous Testing) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 250.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Shift Left brings feedback earlier; Shift Right observes quality in production; Continuous Testing integrates) Tj T* (appropriate checks into delivery. None means running every test at every stage.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 224.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (QA tip) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 205.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (CI/CD is not just \223deploying\224: it is a feedback and delivery flow that can include multiple quality controls.) Tj T* ET
-Q
-Q
- 
-
-Q
-
-q
-0.0 0.0 595.2756 841.8898 re
-W
-n
-1 0 0 1 0 0 cm
-BT
-/F1-0 12 Tf
-14.4 TL
-ET
-0.843137 0.901961 0.960784 RG
-0.6 w
-n
-36 815.8898 m
-559.2756 815.8898 l
-S
-0.070588 0.207843 0.356863 rg
-BT
-/F2-0 8.2 Tf
-9.84 TL
-ET
-BT
-1 0 0 1 40 821.8898 Tm
-(QA LAB BRASIL) Tj
-T*
-ET
-0.356863 0.45098 0.564706 rg
-BT
-/F1-0 6.8 Tf
-8.16 TL
-ET
-BT
-1 0 0 1 399.3516 821.8898 Tm
-(QUALITY ENGINEERING \174 OFFICIAL DOCUMENT) Tj
-T*
-ET
-q
-0.848048 0.529919 -0.529919 0.848048 297.6378 420.9449 cm
-0.08 0.21 0.36 rg
-/gRLs0 gs
-BT
-/F2-0 42 Tf
-50.4 TL
-ET
-BT
-1 0 0 1 -164.493 0 Tm
-(QA LAB BRASIL) Tj
-T*
-ET
-Q
-0.843137 0.901961 0.960784 RG
-n
-36 24 m
-559.2756 24 l
-S
-0.356863 0.45098 0.564706 rg
-BT
-/F1-0 6.6 Tf
-7.92 TL
-ET
-BT
-1 0 0 1 40 14 Tm
-(qualityassurancebrasil\056com\056br) Tj
-T*
-ET
-BT
-1 0 0 1 221.4507 14 Tm
-(QA Lab Brasil v2\0562 \174 EN \174 Updated\072 September 2026) Tj
-T*
-ET
-BT
-1 0 0 1 519.6818 14 Tm
-(Page 1 de 1) Tj
-T*
-ET
-Q
-
-
-endstream
 endobj
 6 0 obj
 <<
-/BaseFont /Helvetica
-/Encoding /WinAnsiEncoding
-/Name /F1
-/Subtype /Type1
-/Type /Font
+/PageMode /UseNone /Pages 8 0 R /Type /Catalog
 >>
 endobj
 7 0 obj
 <<
-/BaseFont /Helvetica
-/Encoding /WinAnsiEncoding
-/Name /F1
-/Subtype /Type1
-/Type /Font
+/Author (\(anonymous\)) /CreationDate (D:20260922123400+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20260922123400+00'00') /Producer (ReportLab PDF Library - \(opensource\)) 
+  /Subject (\(unspecified\)) /Title (DevOps & CI/CD) /Trapped /False
 >>
 endobj
 8 0 obj
 <<
-/BaseFont /Helvetica-BoldOblique
-/Encoding /WinAnsiEncoding
-/Name /F2
-/Subtype /Type1
-/Type /Font
+/Count 2 /Kids [ 4 0 R 5 0 R ] /Type /Pages
 >>
 endobj
 9 0 obj
 <<
-/BaseFont /Helvetica-Bold
-/Encoding /WinAnsiEncoding
-/Name /F2
-/Subtype /Type1
-/Type /Font
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 2152
 >>
+stream
+Gau0C?#Sc5'n,h[\5,Q)n8LdD$[jEYagMI/`F:_ppLR]BRC9XnM&K94@%]`uLQj>?fhCD]\hW-q1rXfdcTR&MS-$@5J$3U]:Fl;:%o,6_eWtI(@Tn2W+'4A=$PjEW02c76k?45b9ANrEB")Fh8^9:+_O.VQAP&-)<%kP=Km=B1k:sBc;AKI&0q4LE/BWPea+o7XJY,,dj?^`40ViH'*o\'\MBm489k,>Z)%X!hC%4<E=e>5:-4&'kFbVr:WC7FU?A.!J?G]hV7VR*RrB,,;J@28Z&ZRl&:&C=oTD&3[CfQDl@f+%EM8ouAoe^&ZQ?XGP(61N8#<l%?<<+XI&3OND!\.5.h0cd3/$48qeIQOU$aLnsF(/R:%gBHNZT+@C.)lO?@X8e5cWHdXJ_Mqm8Q,%4!e%f]7%\qBI=1fP%i,gO>`!Ftcgrh_VDt)$(F=Pm8AJ@?nn8<WQV)EkqQ\_q7L16.h)nXXnL0<OjTRE#I2-`7'KQ-icUC2W"p1*gJ5_)QR"`Xu8C?IATWrac=d%bXl91,W.NS8(66-/O!X)rK'$g)iB$)uZ18U7nkW_I_#5S]q1i\kQ0IA4.,XsN=hjG$edtDX\"9HIo.*hs\##U3FWsscs:)pN$GM<K&bO"HT?6"E//cCCk*^8H:T4!(lrjYJo3fGbB)eW?-1RsE%6'e8g_?+n3AB+%QoHK+mKn8!2GFZJ#@H-e6h"@]5NEB(ob,UYjYZ*M".f2umALDUfQ#7LkT:-d;`'Gg-etVDpUg%:*%(i<R@h#t=Xf-R+^3"^sqq_79J/^%m<I3J*g'Y)fQdo12N3q2\S+CjPOZZ:WRlYr5W+U$FA`9ucbJ*=6=rJgeqZZ0br[54+?=2`%/=]>aCFBc::>AfPWH,+rF??KZGd8PoSZ)7A<dKPn=%6DP`!`ksgHCfkOHNgF*@iEQ4`jZG)SbTp'-fD`L"TAg@C88ToQCU;bGl2t;(O'*r/A5b.SpFD*eYCJ5?@p:)BfQ=/CuN6\0G^cJ;ja=+OFjp^ZdUuZ;Z@^+a\$IF0')6cR$!)`?L;OTKnYaHFlH#/lsQbIg]aV;058X^\qg3>_%$qn,HP)0C_#B:cMj&L]8AO/K>FV0`/</VR%r!abYQ`:G68)kY?'7E\?4Nh"AQ@DXN[Zp&\ck/]t=U&p:K*fkfWgS`qY+\5\_&XT^sIj\B3+98<POs'eE00B"huhW?aLpso/Q4+#IEdtunjhd=8TK:Taf2GTDcHLh4O3e3T[\i&JO%gQ-fpe24ONP$F:lX$U9+Q[>kWio1b:b,56F2!3/J,tJSW$A'Ag1e6gmH`m[4#cgT2_H$4>Y^0JSD\=i*S\t-X1fAA,eLbX]5a;37mU^>LYZWX09L5oBCF3koD]'?pN%^o(Tl+UGJ:a$3(gOC=oW8f^'Xo0S;^]>FtU\,[%7WZ3GTZHfp<GXo_],?0K^T*,TG-sAlAFUn7hKm$V,V`E0;&A+"(Eo8qjQ<ER`]$"CD!2YrOn+SqYQO>J,@A'X/uB"m@R3Egs$sG<nqkn$Qt/'O7ae*hI]pbfVr=c_+q]dce]I`kIKP'lZ;HGUW#'?]4!IOkpoR3h/BT@n)T2>q"$aaRWlNK64N#4l9;ocB8%YY"fE,$nlqT#53U:lQ[sng;=^\*9/lbrRcJ<g@Gi.>A#Vq4ct0o]j[MH9lHD0=/5Mf[2%hCE[TbckXKal`I6or:r>NHkC&-7c[(BG$5,%u)LFGf:g;W]ePb:@^fooUB+eC+I<gq.0`'B(S'")Ie[VG%$"L?Y_?r3J<.9lAXm=iTQ4e?bG>5&UR\8UQ6`W1hG=q1EXER`#QJ`^ZEIkPp4P25#obL'n-/A'8\h]jaY:Du0q'[_7Rd]:rnJ/[>a4"%$CilQ'HK1&SaJ'DWF!.5W7jr<?mRK`gAFYW%m?/N/+'0QQnMY=%YXGOWXJ@gk;`52)M10f0@%Ml%9!!q`2Y%JFjmbF7'^+(`V1.t%+YN%affA460*@QrWB>q$*3=tbHXjVS45W/oOBXT<I_7j1CSNDM%au=40DRo!8">%kQInd;FO+fN2;NM$Y/r]5afW#-LQ+Mhl$sY@nO`[@pQ81("q*>:&fIGZ`44:S'0":p$5_j#bpBoYPD.o*o=+2"R;:Uah_+\Y$u'mJrZg$mn=8l!$X3HEKBR[_~>endstream
 endobj
 10 0 obj
 <<
-/BaseFont /Helvetica-Bold
-/Encoding /WinAnsiEncoding
-/Name /F3
-/Subtype /Type1
-/Type /Font
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 775
 >>
+stream
+GasbW_/>bs&;KY&ME.P22>%e*gW*SG9j:&dP#1hq&p?VEAd`G(<dj`Q/.5EkUOiV\D!(V-I[`Un9uAcf!7hIhGtUC0OtDbb%EUJ4-K;'kkp?-B:_VO7!64tKU"P8FN'eeg1ftipM2[0]=G=md3hBiXYV@UVrF2>j(g/:.%m4#U/0?*37MmWZR@$?Pd<ZK!WMZ%,[%o\!.Ci@qSKeZ/KIN)/;Q!VGN(3B\0%Ln,WM3M>g#pFJ"6Z+^UXX;o:%_3%Vja6%.h`G&HS2huHuhd_)`TF<_$>g3oRSB'[#D>q3+j'LUGcpW;Sh&2l4kRO+?AmlUU8H/#H0Hi4F=!-2G8WD#rFZU+?5;)C>"qIBT/jO!8"8/XD_0an#r'3%;>Si6Mu"%7:tNjfUh)/L.FY7-os[)Bj#OBi%jYVOQT=MG"\'X.'aGXoA"VobA/?9KA.mg@,ZW((UKWh4j^.O,#lG85GXtoHY-_.nU?ND<Y^\'S5a9iD-2?EBSbI!R</Ps->eYRi"poILq_h81jN_0)L6OoIWK&ME5l5TMl*h\HX(J2*Sp>#p9W(ZQT[T^kl-,3*D::,V-$pAp*n=CS+4)iN1OIC4E>_2b(4=4m\cB,JId$N/404P<^.*h%N"rMO*gl;W3aOWJ\$E5U3h+:^aeZ-3j`j5k:M@uK.9Y!UsS4;"oBY.l&988s!&e3?+-Y_cE];!^MJhs^b)]LIp:K"Yg)e:9q"6=QpYQXZ:Hoc%f9_]_nasj!8U"KY`>W3s3i#L[HC#0p^L@*.qJ~>endstream
 endobj
 xref
 0 11
 0000000000 65535 f 
-0000000015 00000 n 
-0000000054 00000 n 
-0000000113 00000 n 
-0000000162 00000 n 
-0000000468 00000 n 
-0000005338 00000 n 
-0000005445 00000 n 
-0000005552 00000 n 
-0000005671 00000 n 
-0000005783 00000 n 
+0000000061 00000 n 
+0000000102 00000 n 
+0000000209 00000 n 
+0000000321 00000 n 
+0000000524 00000 n 
+0000000728 00000 n 
+0000000796 00000 n 
+0000001077 00000 n 
+0000001142 00000 n 
+0000003385 00000 n 
 trailer
 <<
+/ID 
+[<e72b1027ae5fc22357e2c1f5bc63814f><e72b1027ae5fc22357e2c1f5bc63814f>]
+% ReportLab generated PDF document -- digest (opensource)
+
+/Info 7 0 R
+/Root 6 0 R
 /Size 11
-/Root 3 0 R
-/Info 1 0 R
 >>
 startxref
-5896
+4251
 %%EOF

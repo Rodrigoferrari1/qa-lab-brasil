@@ -1,340 +1,93 @@
 %PDF-1.4
-%âãÏÓ
+%“Œ‹ž ReportLab Generated PDF document (opensource)
 1 0 obj
 <<
-/Producer (pypdf)
+/F1 2 0 R /F2 3 0 R
 >>
 endobj
 2 0 obj
 <<
-/Type /Pages
-/Count 1
-/Kids [ 4 0 R ]
+/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
 >>
 endobj
 3 0 obj
 <<
-/Type /Catalog
-/Pages 2 0 R
+/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
 >>
 endobj
 4 0 obj
 <<
-/Contents 5 0 R
-/MediaBox [ 0 0 595.2756 841.8898 ]
-/Resources <<
-/ExtGState <<
-/gRLs0 <<
-/ca 0.035
->>
->>
-/Font <<
-/F1 6 0 R
-/F1-0 7 0 R
-/F2 8 0 R
-/F2-0 9 0 R
-/F3 10 0 R
->>
-/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
->>
-/Rotate 0
-/Trans <<
->>
-/Type /Page
-/Annots [ ]
-/Parent 2 0 R
+/Contents 9 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 8 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
 >>
 endobj
 5 0 obj
 <<
-/Length 4537
+/Contents 10 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 8 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
 >>
-stream
-q
-1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
-q
-1 0 0 1 51.35433 779.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F2 12 Tf 14 TL (QA Lab Brasil) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 749.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 4 Tm /F3 20 Tf 24 TL 188.4935 0 Td (PostgreSQL) Tj T* -188.4935 0 Td ET
-Q
-Q
-q
-1 0 0 1 51.35433 724.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (PostgreSQL: concept, Quality Engineering use cases, first steps and official reference.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 714.3701 cm
-Q
-q
-1 0 0 1 51.35433 688.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (What is it?) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 656.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (PostgreSQL is part of the modern software engineering and quality ecosystem. This guide explains its role, where it) Tj T* (fits in the delivery flow, and how QA professionals can use it with the right context.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 630.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Why should QA know it?) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 585.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 29.5 Tm /F1 9.5 Tf 13 TL (Understanding PostgreSQL helps QA collaborate with development, DevOps, data and product teams. The goal is) Tj T* (not to memorize commands, but to understand how the tool affects testability, automation, evidence, diagnostics and) Tj T* (delivery quality.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 559.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Getting started) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 514.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 29.5 Tm /F1 9.5 Tf 13 TL (Start with the official documentation, verify prerequisites and install only from the official source. In corporate) Tj T* (environments, confirm internal policies, supported versions, permissions and environment variables before) Tj T* (configuring PostgreSQL.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 488.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Practical QA use) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 456.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Use PostgreSQL in a small reproducible exercise. Record the goal, configuration, expected result, evidence and) Tj T* (issues. Then connect the learning to a real testing, automation, integration, data or continuous-delivery scenario.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 430.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Good practices) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 398.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Prefer official documentation, never expose credentials, version configuration when appropriate, keep dependencies) Tj T* (current and document important decisions. A tool without context does not replace a quality strategy.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 372.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (When to use it) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 340.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Use this knowledge when product risk, architecture or the delivery stage requires this type of validation. Confirm the) Tj T* (goal, environment, required data and expected evidence before starting.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 314.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (QA tip) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 295.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Always connect the practice to product risk and the evidence needed for quality decisions.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 269.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Official resources) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 250.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Site oficial: https://www.postgresql.org/download/) Tj T* ET
-Q
-Q
- 
-
-Q
-
-q
-0.0 0.0 595.2756 841.8898 re
-W
-n
-1 0 0 1 0 0 cm
-BT
-/F1-0 12 Tf
-14.4 TL
-ET
-0.843137 0.901961 0.960784 RG
-0.6 w
-n
-36 815.8898 m
-559.2756 815.8898 l
-S
-0.070588 0.207843 0.356863 rg
-BT
-/F2-0 8.2 Tf
-9.84 TL
-ET
-BT
-1 0 0 1 40 821.8898 Tm
-(QA LAB BRASIL) Tj
-T*
-ET
-0.356863 0.45098 0.564706 rg
-BT
-/F1-0 6.8 Tf
-8.16 TL
-ET
-BT
-1 0 0 1 399.3516 821.8898 Tm
-(QUALITY ENGINEERING \174 OFFICIAL DOCUMENT) Tj
-T*
-ET
-q
-0.848048 0.529919 -0.529919 0.848048 297.6378 420.9449 cm
-0.08 0.21 0.36 rg
-/gRLs0 gs
-BT
-/F2-0 42 Tf
-50.4 TL
-ET
-BT
-1 0 0 1 -164.493 0 Tm
-(QA LAB BRASIL) Tj
-T*
-ET
-Q
-0.843137 0.901961 0.960784 RG
-n
-36 24 m
-559.2756 24 l
-S
-0.356863 0.45098 0.564706 rg
-BT
-/F1-0 6.6 Tf
-7.92 TL
-ET
-BT
-1 0 0 1 40 14 Tm
-(qualityassurancebrasil\056com\056br) Tj
-T*
-ET
-BT
-1 0 0 1 221.4507 14 Tm
-(QA Lab Brasil v2\0562 \174 EN \174 Updated\072 September 2026) Tj
-T*
-ET
-BT
-1 0 0 1 519.6818 14 Tm
-(Page 1 de 1) Tj
-T*
-ET
-Q
-
-
-endstream
 endobj
 6 0 obj
 <<
-/BaseFont /Helvetica
-/Encoding /WinAnsiEncoding
-/Name /F1
-/Subtype /Type1
-/Type /Font
+/PageMode /UseNone /Pages 8 0 R /Type /Catalog
 >>
 endobj
 7 0 obj
 <<
-/BaseFont /Helvetica
-/Encoding /WinAnsiEncoding
-/Name /F1
-/Subtype /Type1
-/Type /Font
+/Author (\(anonymous\)) /CreationDate (D:20260922123401+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20260922123401+00'00') /Producer (ReportLab PDF Library - \(opensource\)) 
+  /Subject (\(unspecified\)) /Title (PostgreSQL) /Trapped /False
 >>
 endobj
 8 0 obj
 <<
-/BaseFont /Helvetica-BoldOblique
-/Encoding /WinAnsiEncoding
-/Name /F2
-/Subtype /Type1
-/Type /Font
+/Count 2 /Kids [ 4 0 R 5 0 R ] /Type /Pages
 >>
 endobj
 9 0 obj
 <<
-/BaseFont /Helvetica-Bold
-/Encoding /WinAnsiEncoding
-/Name /F2
-/Subtype /Type1
-/Type /Font
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 2014
 >>
+stream
+Gatm;>Ar7S'Roe[30.A(0r"+$bKt._"Xq`eLHR.#D0(t5Kr!^?fT4o[ad2$?M2fdeO>mqscJeROLZ&s*Rh%`aQKZSNDLU`d6X$UKa"4+<4*nMBgauW)"M@9^`LLRT67he:)4A`9/WuWD*eZ7Z7EUcAM5ack+Udli:6028,"l&U"N>1a<j3t[JfGj>Q3G2"rCS,!/.FtH(<7_mZ)gJ?+)4se3QlZ'#`%>`(pc?f"\g::/(LoSBrtM`1#k]ic1WHR"_!XMa6:R/6Oei/XmJbuN_@iHVVopks4aYjZ!FG<0$nijUS@o"#g8A3LOb)**:SLI+[ZqXQR>=qZ8_k!X-R(>I/P(frhS(;^RGC0OQ8F,0ZJkLfS*IubVKt1%"(BfQ6FRVT#H7F11s0Vn9kLep\G?4q=OOTDsui1@Ub1l#flBr&#3[X_^Y1[o&l2>S/!3.`[#uc8G>AfeOD#3N)Z9lW]]9<((n^tF<9TpiZopmqXhrtd0tSVjXJ>dJO.MsA@C"7k9il3n\/X-MGN/W)PO0QJ!NIP1!36f6("m0oDI7/ns8."d`R=.D^%@qqBJBb@@&!L9L.V`#+=0m2FQ6*iGK59O&&CT./)=WRQU=W#m[d*4D/@>Km:>3l,<mEh8Y8s+",.D5M\%npim*RI\t+m?6eKEOQ@TP=MQE5aOpM1rMSpkX;[$."pu]kl<0[]W7%[YSQjMeCnTVlW_+f.P1J&`8(NOB;Q4EZla<g)foQe]@0D1d'-&&V6jbM0HV0[]r05N"lS33FTbYHos4EWtUa>8S\=g-`Im\S#i(SWKriS'fm39"SeEU3S796VJXu(aKXP(=gGC'lhV<nARh(i/N&S';5)S<b-9du>lOsQkBYrj#m`GQ%pYR[2m9WB7?/K/mfbQFsd]itsQ[X(H*:hTE(==^d/)[hJP!&\*?8[f_s20-$GSfLRRFdG?47aFGk'_0_HI=EB3PthbNWcck$6FkP'9]rHF*T$j@oXLE?8*bQG-:uGN\%4L59!lKrcH*Es*g:2BdFPkR^:Ll.m<5QMhm7M9dq3Z"l^_d4=l1no*-f?tjLf$4\o2>p*UD?NFj.ML#'@)PCmnf$P&0#ug,MqC\D\k:Fk[.SqF];H<#[P!>`%:$D(SB3UTb,NJ5LZJ#=3Z)M*E!*%T7dR+SS<>O-AX^n1//j%9Bl<nI5;sBOI,SXO:e]XYqKH3XDf&pS-'+#B37!M>R#f0W7WG%\8A7lb7E#7+ka^!+H"=UHpR.J^SeEW>2Nnnh6B;DHjc2.(B0EUn<M_,k#I+Zu2gIY=/VMDupPgV)K>16go-/B8=!Pdt!iVCT1mU;)jiB7Uf&oZ8\fl8.inqo;%1fIPk%$,+S6qi..E\kGsNhD],ZQYi2q7HF2)A'2A\Bo[8rh#=&_?\Eg!cZ*CofXcc]oI,!lY1sDn57_^B[DRtBt'2h0Q9;@bJ""(gqi<1_V3m8SVgZ\o.r%NWE!]jan3K/WrOBF9K09%N$)jGRt?ms'S6]OlZ:76S4,GK7'Z7$'_`eY/&X?^."!+Nm>4'u<]("\ueo.,BdP&0GM2Ib1I6uOg9KrLjO\=YJS9g&LF"i#g*D*DY*CBkFR4]la^\>*^b>QuNXgPaHD4B[m]hGXul&Z&>G1&+.n)!Hme"0A"rJLAb*OE5@gbS#CMOK-pGrVg1-;c[*/"fCJkn..>S4T8b/?I'4jp9$H<5hP\In`!b*K280?@2S]6)M,aR0HO*Yn(L527u(r)H'%/;ppBX+Q5t4&b65buUb>&V8$`u%:nA'A3E<aI?G?"='$8]t^Vm$RJ8S]^N*_Ro_:t:DVe[A\''$%o;4H"k@h,Ac`8#VGg0?B:G^ee4aHPpq&c_?Knq1nkf3V;/klgj4rrA!:6Hj.n-##c\&L21Ka_mpQ!j.l*$fA/ce]LPNjN<K3J@C9l!0rVmgdC6p!UR=Yog";3lS!_B]D^,6Ad5t3"KINlN6+Htk-=[SEGiW%/jY^,cQem>6FmMu^\W;9*m5d4Y!qsOY6o"6%jiD?fD~>endstream
 endobj
 10 0 obj
 <<
-/BaseFont /Helvetica-Bold
-/Encoding /WinAnsiEncoding
-/Name /F3
-/Subtype /Type1
-/Type /Font
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 1512
 >>
+stream
+Gatm:9lo&I&A@[:lnQb`-ianX38/)pac$aMXA$qo#tg"F630?Nme"PD!DsPr`f?s,Bh"i4jmM-AI1KdPn]g'+h#gociO9=+(l*5A/0c%6DrCRTq3DRq;-)dD1<,2V!6N-Z!4tgW7$N?ZatkHGS;:-TcmJuE]M,[0][eAt:,o*#,-Ik8>#8D^77@P%_l&c_VBk=ElK#Ur$;shI%B8JIc:Gc2AiM(iGt,r><A:m9YLM`9kHuoS).=75(3+p<b0ulQZ_(;o4^bF<D/-I?0?sB^PL"UT03WM(:"m&_!fq7f1t$ngM248j_C$Do#+I$Y/D+2VY]rnuJQ/^tG]S6)$`q+[qJD$8[%O-EJaa($.ccU+R93LgV@%-OH;U@e86KI[CmbkY.Q1:WS#^>7rd8k_nRboT"!YU<0`3OrSr1&gK-F8DT.`MKWAmP377PsErs8(KN?4=iHIscAPpo@a'M)@Mo!kkQ'=97Jo,l'S$O/".F)7aE%Pko?@]>!l-X%bJKUKpO$KjQJZ)`9+bGje9gD8EB(ITrXSro00E,DH#*Pal>I*qR<MJ2.T3;(@Tj"MHq+#LuX>*OgfY>Af_6Pb-JhpnTScsj[:<#Y!7U%pWk?<RlA2*L`:!n4Thf!9p(`qbToGIKNhZr\B*"r^F$]c+QUg'e,@RA&0>LRhFGI2d<bF";4iDJ-%P%IB@&)!P)!*PF0hAb#"n"7FQ^e]5&e@>jZ#Ze$fn6Jt=)4+JA;6>ZpF:"Ng0)YVmR+`mbZW\mhnkX%K#Vc^"5Y%9PY4;dtBG32%B@!r)Y3Wo8sJ@o>ajI]Gp)>WV)4HGRKn5TVjK=9(CmFAD[C>99dD05(+4m#*/&+VaZ+o.aPr;^G+i-O(!X$E%i[CkrBGj-7NU?=O="Wgj\)%gpGFH:Cn8d*tdTPESY[#Z`AA)P/eIYTB%?S['Ta"n\-1c'.&7UMWk&brGN$<%tPha4*m(<6aGD5<M+CoH(O0QHO!\87U!\\*.Cau\C*!P9c)T<QM]=(D!J`DB`lMV;5)<Rq*3NJ`n6*lYmp(<mE$6;X#CDRE!:*ju9s!KfNB)l:6"XZ<&;<.d<+)7ZI<"!8/^D"1TR@T^RaR9Q`IfQe9Cg_N*n!ZuEf2jdScZ1'(qn!37u,YVH4/!(3d:T/QG#DplQVNX:^J`8g2q[5A!7J8ja+qq0"nPs(B!A<"AKB<n=&XDj;/nt!)"J^MYNO4]E>KqmAWVMS&PBd7f'CAp,KrJ5t%2p:Pg4<1Y58&dhN+A=<;S6]8:>*=tH,a91``h8lAaY/1V/p;R@G6fTHZ=jdh/ui)e"K@cbAP8Z/rmh(R0U,Yh-Rc_bP7^gH(M?o^DbGe9])<nO)@oeB^mntEU.LXN5,:WnO1,0B<QMis1).IKp8G%ggo9&k<g'%hPgN%>jH>[0+QUtjQP;f=fj#^%i;/09_ukPEVFl\k"JjO>0K:jdqLA-WEYA^^<l;4[:nF;o,Y`0G9_hr\Ni9!Pk,7b=c??4SU/*tA1V"[![RdI@dI!n~>endstream
 endobj
 xref
 0 11
 0000000000 65535 f 
-0000000015 00000 n 
-0000000054 00000 n 
-0000000113 00000 n 
-0000000162 00000 n 
-0000000468 00000 n 
-0000005057 00000 n 
-0000005164 00000 n 
-0000005271 00000 n 
-0000005390 00000 n 
-0000005502 00000 n 
+0000000061 00000 n 
+0000000102 00000 n 
+0000000209 00000 n 
+0000000321 00000 n 
+0000000524 00000 n 
+0000000728 00000 n 
+0000000796 00000 n 
+0000001073 00000 n 
+0000001138 00000 n 
+0000003243 00000 n 
 trailer
 <<
+/ID 
+[<1da5c2ec295d44cbe4d23b34318c0dc1><1da5c2ec295d44cbe4d23b34318c0dc1>]
+% ReportLab generated PDF document -- digest (opensource)
+
+/Info 7 0 R
+/Root 6 0 R
 /Size 11
-/Root 3 0 R
-/Info 1 0 R
 >>
 startxref
-5615
+4847
 %%EOF

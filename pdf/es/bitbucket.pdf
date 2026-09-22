@@ -1,340 +1,93 @@
 %PDF-1.4
-%âãÏÓ
+%“Œ‹ž ReportLab Generated PDF document (opensource)
 1 0 obj
 <<
-/Producer (pypdf)
+/F1 2 0 R /F2 3 0 R
 >>
 endobj
 2 0 obj
 <<
-/Type /Pages
-/Count 1
-/Kids [ 4 0 R ]
+/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
 >>
 endobj
 3 0 obj
 <<
-/Type /Catalog
-/Pages 2 0 R
+/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
 >>
 endobj
 4 0 obj
 <<
-/Contents 5 0 R
-/MediaBox [ 0 0 595.2756 841.8898 ]
-/Resources <<
-/ExtGState <<
-/gRLs0 <<
-/ca 0.035
->>
->>
-/Font <<
-/F1 6 0 R
-/F1-0 7 0 R
-/F2 8 0 R
-/F2-0 9 0 R
-/F3 10 0 R
->>
-/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
->>
-/Rotate 0
-/Trans <<
->>
-/Type /Page
-/Annots [ ]
-/Parent 2 0 R
+/Contents 9 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 8 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
 >>
 endobj
 5 0 obj
 <<
-/Length 4779
+/Contents 10 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 8 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
 >>
-stream
-q
-1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
-q
-1 0 0 1 51.35433 779.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F2 12 Tf 14 TL (QA Lab Brasil) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 749.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 4 Tm /F3 20 Tf 24 TL 200.7235 0 Td (Bitbucket) Tj T* -200.7235 0 Td ET
-Q
-Q
-q
-1 0 0 1 51.35433 724.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Bitbucket: concepto, aplicaci\363n en Quality Engineering, primeros pasos y referencia oficial.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 714.3701 cm
-Q
-q
-1 0 0 1 51.35433 688.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (\277Qu\351 es?) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 656.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Bitbucket forma parte del ecosistema moderno de ingenier\355a y calidad de software. Esta gu\355a explica su funci\363n,) Tj T* (d\363nde encaja en el flujo de entrega y c\363mo un profesional de QA puede utilizarlo con contexto.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 630.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (\277Por qu\351 QA debe conocerlo?) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 585.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 29.5 Tm /F1 9.5 Tf 13 TL (Conocer Bitbucket ayuda a QA a colaborar con desarrollo, DevOps, datos y producto. El objetivo no es memorizar) Tj T* (comandos, sino comprender c\363mo la herramienta afecta la testabilidad, automatizaci\363n, evidencias, diagn\363stico y) Tj T* (calidad de entrega.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 559.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Primeros pasos) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 514.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 29.5 Tm /F1 9.5 Tf 13 TL (Comience por la documentaci\363n oficial, confirme los requisitos previos e instale \372nicamente desde la fuente oficial.) Tj T* (En entornos corporativos, valide pol\355ticas internas, versiones soportadas, permisos y variables de entorno antes de) Tj T* (configurar Bitbucket.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 488.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Aplicaci\363n pr\341ctica en QA) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 443.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 29.5 Tm /F1 9.5 Tf 13 TL (Utilice Bitbucket en un ejercicio peque\361o y reproducible. Registre el objetivo, configuraci\363n, resultado esperado,) Tj T* (evidencias y problemas encontrados. Despu\351s conecte el aprendizaje con un escenario real de pruebas,) Tj T* (automatizaci\363n, integraci\363n, datos o entrega continua.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 417.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Buenas pr\341cticas) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 372.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 29.5 Tm /F1 9.5 Tf 13 TL (Prefiera documentaci\363n oficial, no exponga credenciales, versione configuraciones cuando corresponda, mantenga) Tj T* (dependencias actualizadas y documente decisiones importantes. Una herramienta sin contexto no sustituye una) Tj T* (estrategia de calidad.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 346.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Cu\341ndo utilizarlo) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 314.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Utilice este conocimiento cuando el riesgo, la arquitectura o la etapa de entrega requieran este tipo de validaci\363n.) Tj T* (Confirme objetivo, ambiente, datos necesarios y evidencias esperadas antes de comenzar.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 288.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Consejo de QA) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 269.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Relacione siempre la pr\341ctica con el riesgo del producto y la evidencia necesaria para decisiones de calidad.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 243.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Recursos oficiales) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 224.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Site oficial: https://bitbucket.org/product/) Tj T* ET
-Q
-Q
- 
-
-Q
-
-q
-0.0 0.0 595.2756 841.8898 re
-W
-n
-1 0 0 1 0 0 cm
-BT
-/F1-0 12 Tf
-14.4 TL
-ET
-0.843137 0.901961 0.960784 RG
-0.6 w
-n
-36 815.8898 m
-559.2756 815.8898 l
-S
-0.070588 0.207843 0.356863 rg
-BT
-/F2-0 8.2 Tf
-9.84 TL
-ET
-BT
-1 0 0 1 40 821.8898 Tm
-(QA LAB BRASIL) Tj
-T*
-ET
-0.356863 0.45098 0.564706 rg
-BT
-/F1-0 6.8 Tf
-8.16 TL
-ET
-BT
-1 0 0 1 398.216 821.8898 Tm
-(QUALITY ENGINEERING \174 DOCUMENTO OFICIAL) Tj
-T*
-ET
-q
-0.848048 0.529919 -0.529919 0.848048 297.6378 420.9449 cm
-0.08 0.21 0.36 rg
-/gRLs0 gs
-BT
-/F2-0 42 Tf
-50.4 TL
-ET
-BT
-1 0 0 1 -164.493 0 Tm
-(QA LAB BRASIL) Tj
-T*
-ET
-Q
-0.843137 0.901961 0.960784 RG
-n
-36 24 m
-559.2756 24 l
-S
-0.356863 0.45098 0.564706 rg
-BT
-/F1-0 6.6 Tf
-7.92 TL
-ET
-BT
-1 0 0 1 40 14 Tm
-(qualityassurancebrasil\056com\056br) Tj
-T*
-ET
-BT
-1 0 0 1 212.28 14 Tm
-(QA Lab Brasil v2\0562 \174 ES \174 Actualizado\072 septiembre de 2026) Tj
-T*
-ET
-BT
-1 0 0 1 514.547 14 Tm
-(Pagina 1 de 1) Tj
-T*
-ET
-Q
-
-
-endstream
 endobj
 6 0 obj
 <<
-/BaseFont /Helvetica
-/Encoding /WinAnsiEncoding
-/Name /F1
-/Subtype /Type1
-/Type /Font
+/PageMode /UseNone /Pages 8 0 R /Type /Catalog
 >>
 endobj
 7 0 obj
 <<
-/BaseFont /Helvetica
-/Encoding /WinAnsiEncoding
-/Name /F1
-/Subtype /Type1
-/Type /Font
+/Author (\(anonymous\)) /CreationDate (D:20260922123400+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20260922123400+00'00') /Producer (ReportLab PDF Library - \(opensource\)) 
+  /Subject (\(unspecified\)) /Title (Bitbucket) /Trapped /False
 >>
 endobj
 8 0 obj
 <<
-/BaseFont /Helvetica-BoldOblique
-/Encoding /WinAnsiEncoding
-/Name /F2
-/Subtype /Type1
-/Type /Font
+/Count 2 /Kids [ 4 0 R 5 0 R ] /Type /Pages
 >>
 endobj
 9 0 obj
 <<
-/BaseFont /Helvetica-Bold
-/Encoding /WinAnsiEncoding
-/Name /F2
-/Subtype /Type1
-/Type /Font
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 2110
 >>
+stream
+Gatm;gN)&i&UihDoV8ahN%hbO?W*'IUf-<SpnE3.b7GZAUAu-G!%@QlIXFm$Y$C;0EbL_,C,hSEe*$AfVPF2Vdf1q8U>%c@reDa:dbUL*/7Q2;:[d^0%iZ)pJLj\3Z'8C[O@]1S7ddKp2G#Ns%)SC;+r*\6`)LZ\:kX*.Vor8Oa\i]T6*].1'dCeP+NKs<A:`W%Y2hkodP.J;ZRj3lA47.$;=ds>74(Bl0HHa?Z,guhcjX>h.2SrS>.$q2+cA$Ym7X5\_C,k[e!H=+"4!@e7]=kC1uDq0I(o35fd\pf2u?r?83D?_;,7:S'oD)s&E1\45*."#3!J72"Mn"K-_TJ%VDfT8r^(i'FS?13(-r]]GtoQBnYQ;1@2:6V#fRWHc:kDcjI+)q38c;[OX,W#,LH=W>IscToD)b^f>1o/#tm\G2:'/gRH$i\3(j0jO?e[IPgL&<=-`$ae%=aM)QfQE%dQr:,bln7OVc)$mT%1s:uq95T::R9$j7bM!N-,,Ym?QD;FR4MJL9A2B1[u)d!HZ3<BAuJ66-/O!X)pU&h3Du1MTRl::6rCqL_>A5^u06c.lkD`WS%l@Yh"4Aj_g-)]gngs7d:#5VYcA2J(0X$,'FdoTqmUq###"Df/:YmE>OnDF4!Idg[AVdg3hg'o9[EU6')Njj6=r^aYAcR/`+o!1aOk+o&i'0O`<9b[7?V9rX2E]cqU#9W:YU,taqeF@/j&j,/lBeCrTANiL(en)X+I45H,jOkgth<8rRk-SL[X,[\294E#Z&(G"i$MM?F-r,'3%=n]-#'&`lIrp:,5Oo1&0LV_05VS.,[6J>\BBr<K0V/8r]Be7hYVd3f;9LuI,N-9`@.&=<T#<T?RO'90ari;P)oWIQq*Vs3*roT'4[\'_rB&>NlO&r^[YBV$,WI)V&,5An;msR=SFA<p*,i2X-l5Ph$pUW5j;&/Oc`>s;b2go<go=K%.A_lkU:4MTr3J<18bCh63HniK&S'G-kBP5N&`W^!PNrml!l[T#t-U\M/?#RKc)Tb<`=2fbX_WqdOXq^8M^sj#]cM=J.^NSG<rUp#54"Ud)%bKWPf9b=$J/eK,dod"#M-C6V3t=05n/N."<0/+G<N0+YO4l>g\n0YeeX8"pFp0bS>D'4o2&_/FB%R0R?9bI`<.4]2)7i(?IRP&=H;Pp^?l_B=AcQ!2Zp;X>e.D9jh@M'Vj^dn)#eY+Nl?g9EU_oO%Y"EQ5;pH36::JA+>?.om^[&pi+$mqBFl%a@/Qau"7<X$]47d+lL9`6+9s&3s\9OE=ea+iY#D^kD$r+TiAda,[^1uh1D-0`4p:A0M<]^bYClPnLFH!rO;&p.;F>HG9O(RQtc7"Z52#MXRRF7[Qg1W]`-man[Q^&3,r*i:oE73iS#8a4$e"!%q"m<QeAQiHEce6qclXFd;Xf2A$V]U66)HI"9I,m'5@pNmH&nPL(/lDM/LR+&!fm!G^(6B+=!1cPS@KUQLU0(;9o9$RnBGG_5&?8n:l-R/3lGYYbMha@$j40oJ[2Giq8*,\=0*-er/41g`36-B(^Xo/ll-HbWL.%cf`k3],/gc^MPB#iCL)nI#oAN3;S(H&B=`M7f_k">C[1,TV:9O&n.m^0=#nO]R=D@`\2HU1<\tDjqJ3h+f*XjCi\6;FjRtB++?\).f0\:n\/6pS#n:MhAi#;'hKHYoUZi[\d*kh6PW#Bo<O/T_g^dRTRnK)gWl39l>L?Y2Z*:W0<]k'q:kWN7,LDAU\*UPuK0G;k,kEnu2ad88,`o4n$FGh>Bm92hh30#P=Ak7>>4WcAE(`j!T[i0-2hi>/(4?>W%m72c-jO\\q#)Ae^%,2#/K-tkXBb*(f3hNh/7rCJBE)bN\=,u1k2-/`Vqc.?"?SSt_'m9pM^GVpK$N4c^9'9;AhY(VG?2koY/=o*;K:P="b'VC[N6Vugb[6cHATG=!p2/,jhukZ"pDFN<Hf4queRe:cjD,`uN6ei$W($5;UY>mn+2('&oUcUn%1/,g+`sWBCAfHr[j^IA):%TmdB8D^pQeBsK&08YD=Jkm5?SRsEPk1h/2FrKX=S&W-.^So;kPG4nJn97n1rDe:j\NPHCVMmI,4s0NC%)WrWt,mrWduT?hX~>endstream
 endobj
 10 0 obj
 <<
-/BaseFont /Helvetica-Bold
-/Encoding /WinAnsiEncoding
-/Name /F3
-/Subtype /Type1
-/Type /Font
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 1362
 >>
+stream
+Gatn$_/c>0&;KX973A'PQ\'knib38#e5lCLl^ci),(jJY#LHS'.o,3bo8B";S?0E,PWc/M)GPGAs12F);LJ93?+!(e)uBA3:0c.X93a5DRqoUh,S(2SbES>R1!+^'.q3f%.k'bI/lA'WSdJ%XR5:*W8Sq?2-?LU+`RZ;'c:"+eX*$kQZ6E"#DG!s*e+08&V]![3TIO)<]O41-ZKQ&3$-il1i8Na%$d#d<--[m_Q>0!6[P`o)N0g8@X](ad,0RsbIBf;_J?RXL9XS"so6t<7o:Gu_<gDGdgCFUD`s7Js(uU^ZM*oG(OTSqZ,;OL0E`sW2cD1N!9hT,+/q0P>4`*C$eLW:MV)9tNEDqI[.&:$:.$"u89R7F>(JGW#NEbO=WKJ>Jd.P@(?/Ah6rH,^_-Ae^(+rj[d7Af3,S;J.P^E+Z^X;!cY";sqoL*sRtG-8/0\8JbcV)+\X))5D`H0hSr.P3O6r0DH3,*4RN,FoSY,SOp(C?XskWA/\J9]`cO^#p9=b)^m0AM'%Q63]b2`OT<>0t26B9^`mo^PTlYkq?_ER9agT;1NX;NiJ(%`q-Racr$%k1?9S<A+m+Y.7%.URi4/Tn>VfQfgjp\gJsR55*0W[GD#MZ7#dno=(?$X_,Ti,Q=h66XfIt+W4$g4L>0!0_[_VhqJPUc$P1(.?lqiC+20t;7iQd;456AcFB83\D[(F?=M4'-5M4PKhqJ.k@uQ<"f(HaioJr:RE"A]igX4Z9BlB-s@&`_Q&:@u&:Bo-nb\$395f/;AgLe+m9??TS;eg9:B?t[J6.p?\p:C_'P-:^3[8e",j["/HBb'7J8bp]K[5K.O:Hl_19j=?)c1jVs\PiI&!^un@$Fjj+]n(-W"r"'="/l^fg].Ts3`%b#(?M*lT19Aq[i9srhD_%qhq?-RK_+A;mqjo`(3&3?h;`A@E3]&B.Y_HhT^%-ra!M//kf3&H@%r#=!"HXHeO2T)C=HTAW.hn;"hQRAb\]S;@LfU!5T5(I"4CGh)sQ72pe[IWi1FgCG\l"h5L*/@nU@!XZ!.ISp!h0-`!OE67+&R/(#DdqGu9Y]%Y5;UdguNSG\mK2`eF-CFArEJ@u+MNJBH?'fS]=lMeN6G!G]j"dHmKU'-Let43S8b:@1:`2,c:5F@1&Pm,-70WfXEZ<DpM?'77)UC\kQIZ(&1_WZC,U]CUJrIKmKIYq4uu%eS.j(aLn=g7"nDa*s$82NQs@kdn7ZJK17V_fo:B.WpfT2YHkPk;%Xem[NIldnHp5d06!$oq-6.a(hgFFt33A&!^L_GaQd7hM0(Mmf=BJ%`TScCs[Vt<Rg&9Q(c)K->?s-i#)#nW@-08%Q_+YVo]mX6L&qu'pSUu\qnHP~>endstream
 endobj
 xref
 0 11
 0000000000 65535 f 
-0000000015 00000 n 
-0000000054 00000 n 
-0000000113 00000 n 
-0000000162 00000 n 
-0000000468 00000 n 
-0000005299 00000 n 
-0000005406 00000 n 
-0000005513 00000 n 
-0000005632 00000 n 
-0000005744 00000 n 
+0000000061 00000 n 
+0000000102 00000 n 
+0000000209 00000 n 
+0000000321 00000 n 
+0000000524 00000 n 
+0000000728 00000 n 
+0000000796 00000 n 
+0000001072 00000 n 
+0000001137 00000 n 
+0000003338 00000 n 
 trailer
 <<
+/ID 
+[<33cfe286b1099efffc53b177efaad6e5><33cfe286b1099efffc53b177efaad6e5>]
+% ReportLab generated PDF document -- digest (opensource)
+
+/Info 7 0 R
+/Root 6 0 R
 /Size 11
-/Root 3 0 R
-/Info 1 0 R
 >>
 startxref
-5857
+4792
 %%EOF

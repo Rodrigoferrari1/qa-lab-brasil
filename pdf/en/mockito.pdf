@@ -1,368 +1,93 @@
 %PDF-1.4
-%âãÏÓ
+%“Œ‹ž ReportLab Generated PDF document (opensource)
 1 0 obj
 <<
-/Producer (pypdf)
+/F1 2 0 R /F2 3 0 R
 >>
 endobj
 2 0 obj
 <<
-/Type /Pages
-/Count 1
-/Kids [ 4 0 R ]
+/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
 >>
 endobj
 3 0 obj
 <<
-/Type /Catalog
-/Pages 2 0 R
+/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
 >>
 endobj
 4 0 obj
 <<
-/Contents 5 0 R
-/MediaBox [ 0 0 595.2756 841.8898 ]
-/Resources <<
-/ExtGState <<
-/gRLs0 <<
-/ca 0.035
->>
->>
-/Font <<
-/F1 6 0 R
-/F1-0 7 0 R
-/F2 8 0 R
-/F2-0 9 0 R
-/F3 10 0 R
->>
-/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
->>
-/Rotate 0
-/Trans <<
->>
-/Type /Page
-/Annots [ ]
-/Parent 2 0 R
+/Contents 9 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 8 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
 >>
 endobj
 5 0 obj
 <<
-/Length 4863
+/Contents 10 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 8 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
 >>
-stream
-q
-1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
-q
-1 0 0 1 51.35433 779.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F2 12 Tf 14 TL (QA Lab Brasil) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 749.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 4 Tm /F3 20 Tf 24 TL 208.5035 0 Td (Mockito) Tj T* -208.5035 0 Td ET
-Q
-Q
-q
-1 0 0 1 51.35433 724.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Mocks, stubs and behavior verification in Java tests.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 714.3701 cm
-Q
-q
-1 0 0 1 51.35433 688.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (What it is) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 656.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Mockito is a Java library for creating mocks, stubbing behavior and verifying interactions in tests. It is commonly used) Tj T* (with JUnit.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 630.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (When to use) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 598.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Use it when a unit should be tested independently from dependencies such as gateways, clients, repositories or) Tj T* (external services.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 572.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Add to project) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 540.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL -0.039171 Tw (Add Mockito through the project build manager \(Maven/Gradle\), using a compatible project-approved version. It is not) Tj T* 0 Tw (a desktop tool installed in PATH.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 514.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Core concepts) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 482.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Learn mock\(\), @Mock, @InjectMocks, when\(...\).thenReturn\(...\), verify\(...\) and argument matchers. Avoid mocking) Tj T* (everything.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 456.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (QA Automation) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 437.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Mockito is useful when QA works close to code, service/component tests or maintains Java suites with developers.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 411.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Common mistakes) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 379.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Too many mocks make tests brittle and unrealistic. Test meaningful behavior and use real integration where risk) Tj T* (requires it.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 353.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Installation and configuration - overview) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 308.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 29.5 Tm /F1 9.5 Tf 13 TL (Always use the official website and documentation. Check prerequisites and compatible versions, install for your) Tj T* (operating system, configure environment variables or PATH only when required, validate the installation with the) Tj T* (recommended command or screen, and run a first project/test before integrating it into the QA workflow.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 282.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (QA tip) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 263.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Always connect the practice to product risk and the evidence needed for quality decisions.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 237.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Official resources) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 218.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Site oficial: https://site.mockito.org/) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 199.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Download / instala\347\343o: https://github.com/mockito/mockito) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 180.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Documenta\347\343o: https://javadoc.io/doc/org.mockito/mockito-core/latest/org.mockito/org/mockito/Mockito.html) Tj T* ET
-Q
-Q
- 
-
-Q
-
-q
-0.0 0.0 595.2756 841.8898 re
-W
-n
-1 0 0 1 0 0 cm
-BT
-/F1-0 12 Tf
-14.4 TL
-ET
-0.843137 0.901961 0.960784 RG
-0.6 w
-n
-36 815.8898 m
-559.2756 815.8898 l
-S
-0.070588 0.207843 0.356863 rg
-BT
-/F2-0 8.2 Tf
-9.84 TL
-ET
-BT
-1 0 0 1 40 821.8898 Tm
-(QA LAB BRASIL) Tj
-T*
-ET
-0.356863 0.45098 0.564706 rg
-BT
-/F1-0 6.8 Tf
-8.16 TL
-ET
-BT
-1 0 0 1 399.3516 821.8898 Tm
-(QUALITY ENGINEERING \174 OFFICIAL DOCUMENT) Tj
-T*
-ET
-q
-0.848048 0.529919 -0.529919 0.848048 297.6378 420.9449 cm
-0.08 0.21 0.36 rg
-/gRLs0 gs
-BT
-/F2-0 42 Tf
-50.4 TL
-ET
-BT
-1 0 0 1 -164.493 0 Tm
-(QA LAB BRASIL) Tj
-T*
-ET
-Q
-0.843137 0.901961 0.960784 RG
-n
-36 24 m
-559.2756 24 l
-S
-0.356863 0.45098 0.564706 rg
-BT
-/F1-0 6.6 Tf
-7.92 TL
-ET
-BT
-1 0 0 1 40 14 Tm
-(qualityassurancebrasil\056com\056br) Tj
-T*
-ET
-BT
-1 0 0 1 221.4507 14 Tm
-(QA Lab Brasil v2\0562 \174 EN \174 Updated\072 September 2026) Tj
-T*
-ET
-BT
-1 0 0 1 519.6818 14 Tm
-(Page 1 de 1) Tj
-T*
-ET
-Q
-
-
-endstream
 endobj
 6 0 obj
 <<
-/BaseFont /Helvetica
-/Encoding /WinAnsiEncoding
-/Name /F1
-/Subtype /Type1
-/Type /Font
+/PageMode /UseNone /Pages 8 0 R /Type /Catalog
 >>
 endobj
 7 0 obj
 <<
-/BaseFont /Helvetica
-/Encoding /WinAnsiEncoding
-/Name /F1
-/Subtype /Type1
-/Type /Font
+/Author (\(anonymous\)) /CreationDate (D:20260922123402+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20260922123402+00'00') /Producer (ReportLab PDF Library - \(opensource\)) 
+  /Subject (\(unspecified\)) /Title (Mockito) /Trapped /False
 >>
 endobj
 8 0 obj
 <<
-/BaseFont /Helvetica-BoldOblique
-/Encoding /WinAnsiEncoding
-/Name /F2
-/Subtype /Type1
-/Type /Font
+/Count 2 /Kids [ 4 0 R 5 0 R ] /Type /Pages
 >>
 endobj
 9 0 obj
 <<
-/BaseFont /Helvetica-Bold
-/Encoding /WinAnsiEncoding
-/Name /F2
-/Subtype /Type1
-/Type /Font
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 1969
 >>
+stream
+Gau0D9lo&I&A@C2lqtka0E;a`aJho]9q64#9qk<7^-EAX+XRL!"Joe/5J@MeU?KV%eQ0'uRfjo$gO8th(^:\h=nl9%!3^!Rq'uQe@C?:SP8Imjn7FTS2BaoT/5Lf7N2;@2P5)3pltTEo6q/#g4GG[gLknG-eKj70B2P0=f?-[R&5Hq'g6^qI8h&$S+t"fKg\[7p7O6q4MTKjpV'O;SjGt513$Tm4Gf&G/N5m3e=:PFd@APqM*S/AiL^D7M3nbquTfbsBnatka!<\oNXS#E5j3ll3E;8A_O3oF(lcJ_n"9X_B(stSN*_SoZJJ-i2J.GaX)4lH<14dFY&dtLE<l+FgeMES@L"UO^S'[CW/-Eb!]Z?3sT#P5U+n%"eJa&;N/1"F;;suId6KG5W!&mu_i74a+cdt*c@kePR;hX,e/E;j0lnCuDQ0`K8P`_KBW&)lE;S,*)WE6Z3b3F:12O-]^8g>H]NfciHnlX7$K26D522iBF,YJ\DKcJ$aMpYE/T76p%`-oitJle?.8VF%*hNn?0(h!e?^]b=/A]Mm53P;Z'd3ZT#!,Mf7,8S\B?$a:70TAM[a]/4L6^/'"^.i9cHli]LfN\)dZHW3_6aC[TMM0qGL"QO)+&$[PSN5VREW:$/pTT(;4TUY)!>:^F1rE#F3VEc<@dJ$.+!?IO18[,Bq'S;c!4'.c`jPCBAA*N(>0F$+(:KS393k)d9b"[gpMqe#WQ$gV?AK\VQsc=Fl3$abYn)mrbsPq.C+'TVr3;Ot2#]<Z!/oLEL`NBX%3@9`L-^"Q.J;Ig]8%[:YcnIe=0J8X`d$q?LCj?-LG82qZEBb(ZLIC%I)*?r_tDZeBjn$aeE%b*7P/#Gh&>."WO4gA'-9<^M9+_`EUqisF%=Cd)XULCFCC'8;RHl=oe]hqZL\\$V,?1%$HrP$J[re-[Qo47GeC;mo'BMe<*%P'H3nBM2U0Fg9CE(a\k`oJ=-j$o(E`9cg8n"QqK`K=0=>ZP_48g]>rPNEAbZ\r7_@=jlVtr\`b,:SmIA9d:on6A;I+:nC'RDUWn+1KW_`ut"QQ#CYmM6.XRV/C1pT(SB4LZ>,rCY2'W9*VUDeKqcD-NK@VNW6#qRNaZ*"mXU[V@PY`b='<,bqf1krSUMm^lfQ#pagpW,d#C>=aa<c&9-K!DiSi$JnfO]1on/%G:EYO#:+-ZOgT+6P&4Za4Xn[9.[22V*7UKf];Tj6%pZDu<FUDJ`+[>5)#5d(m<EaAO="\Pa2\V]Xu#eX(3V>a4OIf``^gmue<f"`CP\k2l*[(NP.0>I><*YHO\7HU;QhIW2!L4(gGg!E1')04Y1_IPlIr$<K'5S?"%QBB/9bYmPou0!oUG%(7S,cUZNFP-tjAlZVP\s,6%Ls'4/>gq@=h-$D?rK\Sa9aCG0?@:)'s>kEZN^CB!lg/[@#aK[8Ha:Np'XjKYi6@VFa'n1>pep)HA.FDh'5J2R<Z]Tico;Zr13cTuG,l(fs#56\\>BW^N+mk6%CTp;H5NWA$bsG\UHI/KA(K:48#=/CCV^dO,"916LBPCWiDG:ZU!u24)TJRT`dKsfK-PS)oq&/M8.j1cIf'f.jTe]^kSWAGl0tp*D4&Ld"GH-_ighQ#p:@#8EC;1Anl@Qe[+%)l8NVVpD]-mW?8aq(ZqHMWJD'Q6-(nss0RlfEsXjoE(i?YDC7cX1#%3deO+kIqb'7@Zo[FD7cGNK':B?!nM];KZ3SR2,iD`0hJ2l3/&+i<u\hbME<(8V.?Y>oRt;alCZ2k_c`O+rd<e7\^_nS2t"C6&E,I+`Va^Y,C=W%Ng\-rBS;>>p;8\<U)f4>YK_+$gI&IAlG&mfiD^9V_h!Ol4/[2%E*n>C_3<Q%(sd3[R+p4EN]s_)Ds[,1GH'f#sd_NV:imdcW8qjjF[0+V"AXM=\2'*.@`\NiDJ*bL5`PaMWrYq0Z:p7e[2g:O2`\m!SQF!*Rg!EiI4[h[mZc07?XfXT~>endstream
 endobj
 10 0 obj
 <<
-/BaseFont /Helvetica-Bold
-/Encoding /WinAnsiEncoding
-/Name /F3
-/Subtype /Type1
-/Type /Font
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 1501
 >>
+stream
+Gatm:gMYe)&:N/3bbH,e/4k]04PFLI"E8qEhP/?'7!TYCieF7Pl_5KY+]g29WT+hLGCdGd7Phr'k0/V^`A`^IFUrH%JR:Sr?lV'VY`*+s\Uk?]jD.(q79PlXaVZOK!@/2Z!pk=j,bcQC;4^'Nj[>mgK0C_DiFSJ>MlfX0S8_*$Q![CN[%OeE*u-5<FIt*19hEVjeB)0/"Xtp`L/>491K#oe&Pg/8Srp<h(!IuJQ?k!&[WRGJ#ci3Tne6sYT&tEW^0",f@'&$>Q.dgeq)i`fq98k-X%p)pq^t1mnVr>o)DE]SOU"MR_uj=R'4i!aM^nrXcUfIFMG4Uof,$ZfjpQ"^"`H^8.`rA0cgXGYh!lR%lO;=.J^$ll16_qkMi<B81Eo6+V@7EdE=%sj(Up$>f#]Zi,.%Wnn$;#RR.E![6C.3(,a=FKZh0VqPb%N/n6riYK2P_\pZkdib0hI;;HAT9Su^!:X\-,!/K%s8!$u3:jn-V[7^uQg3k5,`BdB0%'06'/Ia:ro.\G",W]J&'"]iDB&WDt_1@bo-X`V,Vp]l>QMS;Olc.j&3)RGZacl@0M1raQ>P_^Qf:h<`r(B12gjJK_,a;9P&,CLaMIs1.Sp!?mkKAS.4D6%G(48@X]&)%tAg+/7P"-';#?4C4eD$C(1c-U4[_p0a4^5b8L\T;`MDJ-%P%IB@&k_V4(;\nh*fJmr5cDs-`NAk)68#K\*GRK'Q-1(\Y!"$%N]JWuM/o'$SCPGXhgo8k,"f&uFT`*qe[F[9:Ik^SimEC,D_=Dk.;_b'C]E:c;"o!rG=Q%JbB_.$9U0U3p5AKLH>[RDFXN"2sR7=*'>[q*e[q#?BXrkFf$=#6rmQ;&W>:o;)"^\cqJE0,tGlYV0pEK`VL@,W`>DYm4(f[W-PP4Mdlkk7s]&2KFl7X$iOk?)fH>8\s?)+StY6`p^S\e2.mC1I+[`':S:)iFD(`Tb=3jb;:d4Cb6n1=$u\$D$\?9rG"o9ZH$e+Cn`rSpHs>(p7lZf[1GrJq=$<Uk81ri0-AJ&i@V3m5%`*gM!&)DDDLou(V[o/UX3!O\[@,QY=ANd;4H8.;cBImJM!(`]YuA*;ZAE:@jOr+lXd_OeK^W9OWk-4[D0-2Ui.BL_O8#"MD/)$^8``jRXn%#P>gmW"9%Jm_GV0,#mWqITk;1hIQ^JpV!H>fAlp)8)\9HpDr"Gs+"42Yq>LO4["J2jBoR24u^E+Nkl\<U4?E5:EoAV\"@HJgqu_VKo1H*:6MS]gB`DPFJi.GDjIH&@$<ek<N]<UtI@^_s=JCFI`mV_HqC17Wu$QNfcH&^$57U2(B@mJ!oB-=5ShppSRCRBLXq\,HeP(7Qe07)WRGR;1,:u/C"2"h>$(&*8Q*^eZaj3lHW*+qf0#O)k<c-MRV/F"g8\U*8ifXO+KEb1d*t18JaDIdJKlaRB&fb(k]We;a\K+DDaUiiKR9liljUSEcaNPN<$hks0u_V0"uHQ/IOm+onkZKGe%Pk8H&e'ek>`~>endstream
 endobj
 xref
 0 11
 0000000000 65535 f 
-0000000015 00000 n 
-0000000054 00000 n 
-0000000113 00000 n 
-0000000162 00000 n 
-0000000468 00000 n 
-0000005383 00000 n 
-0000005490 00000 n 
-0000005597 00000 n 
-0000005716 00000 n 
-0000005828 00000 n 
+0000000061 00000 n 
+0000000102 00000 n 
+0000000209 00000 n 
+0000000321 00000 n 
+0000000524 00000 n 
+0000000728 00000 n 
+0000000796 00000 n 
+0000001070 00000 n 
+0000001135 00000 n 
+0000003195 00000 n 
 trailer
 <<
+/ID 
+[<313982ef90762a4d0d13b693fa0bffae><313982ef90762a4d0d13b693fa0bffae>]
+% ReportLab generated PDF document -- digest (opensource)
+
+/Info 7 0 R
+/Root 6 0 R
 /Size 11
-/Root 3 0 R
-/Info 1 0 R
 >>
 startxref
-5941
+4788
 %%EOF

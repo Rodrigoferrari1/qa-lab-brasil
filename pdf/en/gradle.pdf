@@ -1,354 +1,99 @@
 %PDF-1.4
-%âãÏÓ
+%“Œ‹ž ReportLab Generated PDF document (opensource)
 1 0 obj
 <<
-/Producer (pypdf)
+/F1 2 0 R /F2 3 0 R /F3 4 0 R
 >>
 endobj
 2 0 obj
 <<
-/Type /Pages
-/Count 1
-/Kids [ 4 0 R ]
+/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
 >>
 endobj
 3 0 obj
 <<
-/Type /Catalog
-/Pages 2 0 R
+/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
 >>
 endobj
 4 0 obj
 <<
-/Contents 5 0 R
-/MediaBox [ 0 0 595.2756 841.8898 ]
-/Resources <<
-/ExtGState <<
-/gRLs0 <<
-/ca 0.035
->>
->>
-/Font <<
-/F1 6 0 R
-/F1-0 7 0 R
-/F2 8 0 R
-/F2-0 9 0 R
-/F3 10 0 R
->>
-/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
->>
-/Rotate 0
-/Trans <<
->>
-/Type /Page
-/Annots [ ]
-/Parent 2 0 R
+/BaseFont /Courier /Encoding /WinAnsiEncoding /Name /F3 /Subtype /Type1 /Type /Font
 >>
 endobj
 5 0 obj
 <<
-/Length 5000
+/Contents 10 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 9 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
 >>
-stream
-q
-1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
-q
-1 0 0 1 51.35433 779.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F2 12 Tf 14 TL (QA Lab Brasil) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 749.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 4 Tm /F3 20 Tf 24 TL 214.6035 0 Td (Gradle) Tj T* -214.6035 0 Td ET
-Q
-Q
-q
-1 0 0 1 51.35433 724.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Gradle: concept, Quality Engineering use cases, first steps and official reference.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 714.3701 cm
-Q
-q
-1 0 0 1 51.35433 688.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (What is it?) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 656.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Gradle is part of the modern software engineering and quality ecosystem. This guide explains its role, where it fits in) Tj T* (the delivery flow, and how QA professionals can use it with the right context.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 630.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Why should QA know it?) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 585.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 29.5 Tm /F1 9.5 Tf 13 TL (Understanding Gradle helps QA collaborate with development, DevOps, data and product teams. The goal is not to) Tj T* (memorize commands, but to understand how the tool affects testability, automation, evidence, diagnostics and) Tj T* (delivery quality.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 559.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Getting started) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 514.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 29.5 Tm /F1 9.5 Tf 13 TL (Start with the official documentation, verify prerequisites and install only from the official source. In corporate) Tj T* (environments, confirm internal policies, supported versions, permissions and environment variables before) Tj T* (configuring Gradle.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 488.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Practical QA use) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 456.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Use Gradle in a small reproducible exercise. Record the goal, configuration, expected result, evidence and issues.) Tj T* (Then connect the learning to a real testing, automation, integration, data or continuous-delivery scenario.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 430.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Good practices) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 398.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Prefer official documentation, never expose credentials, version configuration when appropriate, keep dependencies) Tj T* (current and document important decisions. A tool without context does not replace a quality strategy.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 372.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Installation and configuration - overview) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 327.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 29.5 Tm /F1 9.5 Tf 13 TL (Always use the official website and documentation. Check prerequisites and compatible versions, install for your) Tj T* (operating system, configure environment variables or PATH only when required, validate the installation with the) Tj T* (recommended command or screen, and run a first project/test before integrating it into the QA workflow.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 301.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (QA tip) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 282.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Always connect the practice to product risk and the evidence needed for quality decisions.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 256.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Official resources) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 237.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Site oficial: https://gradle.org/install/) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 218.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Download / instala\347\343o: https://gradle.org/install/) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 199.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Documenta\347\343o: https://docs.gradle.org/current/userguide/userguide.html) Tj T* ET
-Q
-Q
- 
-
-Q
-
-q
-0.0 0.0 595.2756 841.8898 re
-W
-n
-1 0 0 1 0 0 cm
-BT
-/F1-0 12 Tf
-14.4 TL
-ET
-0.843137 0.901961 0.960784 RG
-0.6 w
-n
-36 815.8898 m
-559.2756 815.8898 l
-S
-0.070588 0.207843 0.356863 rg
-BT
-/F2-0 8.2 Tf
-9.84 TL
-ET
-BT
-1 0 0 1 40 821.8898 Tm
-(QA LAB BRASIL) Tj
-T*
-ET
-0.356863 0.45098 0.564706 rg
-BT
-/F1-0 6.8 Tf
-8.16 TL
-ET
-BT
-1 0 0 1 399.3516 821.8898 Tm
-(QUALITY ENGINEERING \174 OFFICIAL DOCUMENT) Tj
-T*
-ET
-q
-0.848048 0.529919 -0.529919 0.848048 297.6378 420.9449 cm
-0.08 0.21 0.36 rg
-/gRLs0 gs
-BT
-/F2-0 42 Tf
-50.4 TL
-ET
-BT
-1 0 0 1 -164.493 0 Tm
-(QA LAB BRASIL) Tj
-T*
-ET
-Q
-0.843137 0.901961 0.960784 RG
-n
-36 24 m
-559.2756 24 l
-S
-0.356863 0.45098 0.564706 rg
-BT
-/F1-0 6.6 Tf
-7.92 TL
-ET
-BT
-1 0 0 1 40 14 Tm
-(qualityassurancebrasil\056com\056br) Tj
-T*
-ET
-BT
-1 0 0 1 221.4507 14 Tm
-(QA Lab Brasil v2\0562 \174 EN \174 Updated\072 September 2026) Tj
-T*
-ET
-BT
-1 0 0 1 519.6818 14 Tm
-(Page 1 de 1) Tj
-T*
-ET
-Q
-
-
-endstream
 endobj
 6 0 obj
 <<
-/BaseFont /Helvetica
-/Encoding /WinAnsiEncoding
-/Name /F1
-/Subtype /Type1
-/Type /Font
+/Contents 11 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 9 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
 >>
 endobj
 7 0 obj
 <<
-/BaseFont /Helvetica
-/Encoding /WinAnsiEncoding
-/Name /F1
-/Subtype /Type1
-/Type /Font
+/PageMode /UseNone /Pages 9 0 R /Type /Catalog
 >>
 endobj
 8 0 obj
 <<
-/BaseFont /Helvetica-BoldOblique
-/Encoding /WinAnsiEncoding
-/Name /F2
-/Subtype /Type1
-/Type /Font
+/Author (\(anonymous\)) /CreationDate (D:20260922123400+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20260922123400+00'00') /Producer (ReportLab PDF Library - \(opensource\)) 
+  /Subject (\(unspecified\)) /Title (Gradle) /Trapped /False
 >>
 endobj
 9 0 obj
 <<
-/BaseFont /Helvetica-Bold
-/Encoding /WinAnsiEncoding
-/Name /F2
-/Subtype /Type1
-/Type /Font
+/Count 2 /Kids [ 5 0 R 6 0 R ] /Type /Pages
 >>
 endobj
 10 0 obj
 <<
-/BaseFont /Helvetica-Bold
-/Encoding /WinAnsiEncoding
-/Name /F3
-/Subtype /Type1
-/Type /Font
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 2194
 >>
+stream
+Gatm<gN)%.&q/A5oV4>k_ZY51bEfgtP=\cSP"@L<cSPr"S<*jUP#aEI+28'=<BIL_SN'Bt1.ZRIqHOpq-O4#6ISWV2LCN)<_MJZSCl*M_UWj&?H*d@U@SZ:Z3$@@'*X4g5_#+R3moIu]Nu7&?n0j4tk.A>tjXLs<7'7?MCW.b3QuJR?EF0P=2ftPq+(?!Hp@_o@Ea0@c60W,jiZS\>h_h+)28NG:"X8oA,N5mUi\=.R9Io@4lEjTnI#mf"KT#_Tc5bdI@ZEXUN&;a/Zo4.PbY-E6VVopps4XSs[9me.XO)3>Tq`A-KOqm:_-pfg!>kM2)5<e6a@GfOGs7nRP]ZNOrBFue#Ar=b]9s<nIM<A-*^7NX:5#4RbRb:&pk88`6PQgSoGk2Kc?qk=6O*C+s$.*en%ZO8YY=0ko*n,JIR]H=r@&8Tct%u>:?$4.$h!^[\tmF%,Q1m7nk)NF=1`%DaQ7='&rU4@*rCgXhh`TSr,,N^!We'F!QljBJ]EGY==WOX1SlgEka<ON'DNWYW%&YX103e9C`aAtTD>!IF(^Y+HI,6I(I\9HiesO\K8:l@_QcQP2"j(oWI3h42k4d\[W:`rdo%1V9Ql%8O3Cp`-&^]5JRei62]:Gadn*T]Z(0RtX1#V2ks]]f5%e"?j+.k5+G,DX'54+QIWbZgZ/8Uk[QBe(^8Z@UnL^T;8nHh]kmRruCF#`J,F^Q-F5=4Q['FQtWA7B+D4]l]6!A0&Q3b?&qL<Yj!AsT2%UjD$*PNr$F-uS$MsV#S]h_hS)p6ob?;VT][7G*PajJgU-m1E2(5DG-n6lJ0`)%&(6fEA]&sEGK\dcl506Wb6++h/h&3[\2C!T^MKIl>2i:bmWg6qG]DB6`l_"XLj_ha]5;4Znd!)U:o<2rXWMAim>%gb#5"agNPDZd'r<Qu-FQ&IVJ`7T3XL:b4P7?U`L8^5m5a(Ef#OD?oDJLrJUrY@Fm2J"4nr(6/uD$tJggFR\o+=OPHC+Gc#=&i-T?qt8NKZ=UK]=6,OI(+%79K+)$/&/RF0SfNY1WPQ.=(BOrOkWUe9"Vi3V-PON2JKG*bLQI'o/D=PS?kid*A'+MRhRdmTi%@U;-mb9eiGGt?o#jo/a_<$DVj7+mHjdFl.mAQDNgg)@l3TCm+-'C^$:K6*rFH>q"o_KV.k`qT35+Ae[<i-bQtR0kef'B,=6jWFIuMofipol&%%TngM,>G!P.ZU$]oH((!Y`/_k+^)Y8-h[Q#Cnup_uc9k<8Y8$<fo/X3@MdJ9`dU=>#J''cR(MF953@4_=1U(90:NXm%5/oW^mCZ_U<3\"UdB93Z.B;Dq#:P'.1WkEF82.YZ''8m*X7rs>`-AVinhjfu-n\u?gQE'o=[WIg<#<i.R(<oW+KD@?_5d']kn(a5O0/g0,!b*D)1Y#7u`V`bnE',_5D$:8tsh7Z>bn'o:*L_0#cgDUd16,W'4e[_CJH;+*CZHfVPcAHa]jHa_FJ/XUNf&aoSqX+ji,ZPS`Bs#P,0YNVe]russXt?OuUh'._CK6cZ?ihktl7WaS`LOcN[42a+*!sp4^6Z@Sm0)V\=TkLt7-D[%JJ'%N9LLMR^c((mH=m*jCiG"7B*m1<]sGX)SYVo2[LXNjVHkfMSBdlO1^8nhEVrn&:fA9O[HocBUSjL?;Q"dB:d8I>lc]EJ"@#/-p5[l)?:2@j%5uuVm4;9?fRsPrlt#Q(L*TbFNL(c"+VS-!Uu2ai@\>*g#-`,_!JW;?0rK.?bRHAto;Y_pF#t;U4E=>&JKa:clpZ0XUb'1Rope8rj//+BZFO3[O/(;orf`o9cPf'&&YKT-b+-th"HG'OCY#7+:Vf!Q3UipNDfB$5kh#H,b'Gs[=j+s,!W&\#e(VldH2aMM1m1Z(.?gEod5e!!IOZ2H;A^CkW=BF^MO?1AC69?^NFkCbhAY_5?/toHG$`1Y#Q3++J%mu#fERkSnWjmcqio:AjgsK$-N1\4D<K5spVe:92YL*u@d"'mGlFeek[/\)IQ]J20^NT1@_?3Zmr<6\SgTJW(`&oTlq'DQm9@Nq.e4I<LY=uKDgq(DOQE#b!#u/&_1Kn$A'?9cB?;Uer5'T$WPl"r)p]lYF9AhlWdjikSajYtN!a1s!N3LbQ8FPgfniNghF6q7ZD$GGhqT39rbC;%Y2E_&c?MPE-?91_&+T-jF6Z[%+bZ:p.uWHf<(O(i!]8hHAc~>endstream
+endobj
+11 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 1502
+>>
+stream
+Gatm:9lo&I&A@[:m*X(f-ianX38/)0ac$b8X\@%p$!N-V630?Nme"PD!Dt,u3f^+JBgs;5Mqu@!q\E^-n]Tp1h#go"i4"aU(l(fn/0c$KY2I2Eq48.$;-)dD1<,2V!6N-V!.1=HM'r[?P\3fl3>&73TMGniGaW1>@dB1$-_/V"j]>D,/LW4@U*9c#mZXKC.EOT*3a#.X+@RU)&8JXn7LI-i_C9`O1K'O?K"6Qf;D4ll[Or.0@21FrIY&0Se!r)=(X&c^N&B@e;S0n)mq3+on+j_3e]B^`h^&OjIM'su",8*Gnj!MRGeaQ#U(!f)EM^J33QVD%Z0C66qVi=DI"T\Ui([lN79K]N).$:`*A91Qc;74QfZ`t;6WoMVaCs3],=5@GaoGKZQZ.4kEVoQHSLaje6AmPq02%mo3=g`dA1:k\65ca^992Y6fkLHl+,5,*-tW'j^J7e+/1jaBAVJ4c^8alRWe?j;aT*gq-n03gVah4P_Ss[I_<hb*,M@a<aRKW74\r>_I+lcCl3tiO=904+0NKgIa?-o=dch8"DZIL$qAMdZF'"lHbYfWOF4>Wb(s?Vj,*'<&Q!k,)\5!!gRf]K2?PFuLoSHEBfr^Ul6YfC,I]L8kXff(ui00F#Vnd#M5Rn5[VB1(AGj2UR#eW)`X)/A/X/u.]lJUjN_2Z'tZ!K;l=4X&mg<<;p>d]Z5jrU'pI1.&2>P(F`?G!_#^m1(+!'Pjcg'li,Y!X!_m'S]<VulBdCTN-8@9h0.o!R3;)N-fsqp9NK5b:7:4IE+8_0k)?Q*NaR7<L.pB1K1OKGhV/,1n!FFWR\=IPk0d/oXU];a7H?0Bh.&r^GEL?j<F8QX+eVLsiDkG=]0/mNE]ujSh8Lhs1(NEAg2Y#`#NMTH+H@<mF;6GRem*\3&O8E4PgD`rEhiII*#_o%70AY>)2+go-d\:^?Bsd-.pW(.(V4kp7/cQ8UdGR6.Z)RjQK5n!pkmNfRM_CnC6bREa4Qc'\J+U_0`G-JVbq:"B7+Ko2mT4*lBX/Ik#+$:-h3\CDXCGh<og#=S5QCR"BMCs<!GUDi1nL$t%:%pVYaYf45I]jM8/<k5L,/j*A!]Z%L;^h<#tH]4tb3-Z)aMH@*U"c6iU^2.c6KUd$5?u50Ze&e8<5jobLpac+SAb@gn,,]A!mmU`0!A:l@#)?2p6WClPWl2B![iEsd,Aj4U;Y,EEjL.m2)V0GU`,R>\\l>f0Jc)1j%\,l`O[p0t,f;H9\21*DfU]<pKoBLd2e/uY(5]Yr@HeblJ^A+%Z^hU8YIb:NFZL3BHeFAqfYplN#4eG\VVA0'BNVM:AWGf=qF2I>2goU20=k"$@E"FC`,3,g1&gFl`"2.XdenU!NGgu+Z2M^D%C:_ambBY#+'455K;3NRl..m8^T0^Y:2cZP7ld,9MB8?N7;'o.dBSaiS>g7&M_PKb3OM3ojAt:[(61@c/Iq.-3KEOJV\).\e/o2=KnnNrNTPo%FQsTHOR[AA"d&Wa\"ZGn~>endstream
 endobj
 xref
-0 11
+0 12
 0000000000 65535 f 
-0000000015 00000 n 
-0000000054 00000 n 
-0000000113 00000 n 
-0000000162 00000 n 
-0000000468 00000 n 
-0000005520 00000 n 
-0000005627 00000 n 
-0000005734 00000 n 
-0000005853 00000 n 
-0000005965 00000 n 
+0000000061 00000 n 
+0000000112 00000 n 
+0000000219 00000 n 
+0000000331 00000 n 
+0000000436 00000 n 
+0000000640 00000 n 
+0000000844 00000 n 
+0000000912 00000 n 
+0000001185 00000 n 
+0000001250 00000 n 
+0000003536 00000 n 
 trailer
 <<
-/Size 11
-/Root 3 0 R
-/Info 1 0 R
+/ID 
+[<eb2d4a031f486c5d1108cb89eeb9ca15><eb2d4a031f486c5d1108cb89eeb9ca15>]
+% ReportLab generated PDF document -- digest (opensource)
+
+/Info 8 0 R
+/Root 7 0 R
+/Size 12
 >>
 startxref
-6078
+5130
 %%EOF

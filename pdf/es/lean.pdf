@@ -1,340 +1,74 @@
 %PDF-1.4
-%âãÏÓ
+%“Œ‹ž ReportLab Generated PDF document (opensource)
 1 0 obj
 <<
-/Producer (pypdf)
+/F1 2 0 R /F2 3 0 R
 >>
 endobj
 2 0 obj
 <<
-/Type /Pages
-/Count 1
-/Kids [ 4 0 R ]
+/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
 >>
 endobj
 3 0 obj
 <<
-/Type /Catalog
-/Pages 2 0 R
+/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
 >>
 endobj
 4 0 obj
 <<
-/Contents 5 0 R
-/MediaBox [ 0 0 595.2756 841.8898 ]
-/Resources <<
-/ExtGState <<
-/gRLs0 <<
-/ca 0.035
->>
->>
-/Font <<
-/F1 6 0 R
-/F1-0 7 0 R
-/F2 8 0 R
-/F2-0 9 0 R
-/F3 10 0 R
->>
-/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
->>
-/Rotate 0
-/Trans <<
->>
-/Type /Page
-/Annots [ ]
-/Parent 2 0 R
+/Contents 8 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 7 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
 >>
 endobj
 5 0 obj
 <<
-/Length 4171
+/PageMode /UseNone /Pages 7 0 R /Type /Catalog
 >>
-stream
-q
-1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
-q
-1 0 0 1 51.35433 779.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F2 12 Tf 14 TL (QA Lab Brasil) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 749.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 4 Tm /F3 20 Tf 24 TL 222.9435 0 Td (Lean) Tj T* -222.9435 0 Td ET
-Q
-Q
-q
-1 0 0 1 51.35433 724.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Pensamiento orientado a valor, flujo, reducci\363n de desperdicio y mejora continua.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 714.3701 cm
-Q
-q
-1 0 0 1 51.35433 688.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Valor y desperdicio) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 656.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL -0.004067 Tw (Lean busca maximizar valor y reducir espera, handoffs, retrabajo, inventario excesivo y actividades que no ayudan al) Tj T* 0 Tw (cliente.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 630.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Flujo de calidad) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 598.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Grandes colas esperando pruebas, ambientes indisponibles y feedback tard\355o son desperdicios importantes para) Tj T* (QA.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 572.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Mejora continua) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 553.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Use m\351tricas y retrospectivas para experimentar cambios peque\361os y verificar lead time, calidad y previsibilidad.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 527.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (QA en Lean) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 508.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (QA ayuda a prevenir defectos, acortar feedback y hacer visibles los riesgos sin crear colas innecesarias.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 482.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Cu\341ndo utilizarlo) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 450.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Utilice este conocimiento cuando el riesgo, la arquitectura o la etapa de entrega requieran este tipo de validaci\363n.) Tj T* (Confirme objetivo, ambiente, datos necesarios y evidencias esperadas antes de comenzar.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 424.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (C\363mo lo aplica QA) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 392.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL -0.098269 Tw (Parta del comportamiento o riesgo que debe validarse, prepare datos y ambiente, ejecute la t\351cnica o herramienta de) Tj T* 0 Tw (forma reproducible y registre evidencias que ayuden al equipo a comprender el resultado.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 366.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Consejo de QA) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 334.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Observe colas y retrabajo: muchas veces la mayor mejora de calidad viene de mejorar el flujo, no de agregar m\341s) Tj T* (pruebas.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 308.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Recursos oficiales) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 289.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Site oficial: https://www.lean.org/explore-lean/what-is-lean-thinking/) Tj T* ET
-Q
-Q
- 
-
-Q
-
-q
-0.0 0.0 595.2756 841.8898 re
-W
-n
-1 0 0 1 0 0 cm
-BT
-/F1-0 12 Tf
-14.4 TL
-ET
-0.843137 0.901961 0.960784 RG
-0.6 w
-n
-36 815.8898 m
-559.2756 815.8898 l
-S
-0.070588 0.207843 0.356863 rg
-BT
-/F2-0 8.2 Tf
-9.84 TL
-ET
-BT
-1 0 0 1 40 821.8898 Tm
-(QA LAB BRASIL) Tj
-T*
-ET
-0.356863 0.45098 0.564706 rg
-BT
-/F1-0 6.8 Tf
-8.16 TL
-ET
-BT
-1 0 0 1 398.216 821.8898 Tm
-(QUALITY ENGINEERING \174 DOCUMENTO OFICIAL) Tj
-T*
-ET
-q
-0.848048 0.529919 -0.529919 0.848048 297.6378 420.9449 cm
-0.08 0.21 0.36 rg
-/gRLs0 gs
-BT
-/F2-0 42 Tf
-50.4 TL
-ET
-BT
-1 0 0 1 -164.493 0 Tm
-(QA LAB BRASIL) Tj
-T*
-ET
-Q
-0.843137 0.901961 0.960784 RG
-n
-36 24 m
-559.2756 24 l
-S
-0.356863 0.45098 0.564706 rg
-BT
-/F1-0 6.6 Tf
-7.92 TL
-ET
-BT
-1 0 0 1 40 14 Tm
-(qualityassurancebrasil\056com\056br) Tj
-T*
-ET
-BT
-1 0 0 1 212.28 14 Tm
-(QA Lab Brasil v2\0562 \174 ES \174 Actualizado\072 septiembre de 2026) Tj
-T*
-ET
-BT
-1 0 0 1 514.547 14 Tm
-(Pagina 1 de 1) Tj
-T*
-ET
-Q
-
-
-endstream
 endobj
 6 0 obj
 <<
-/BaseFont /Helvetica
-/Encoding /WinAnsiEncoding
-/Name /F1
-/Subtype /Type1
-/Type /Font
+/Author (\(anonymous\)) /CreationDate (D:20260922123402+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20260922123402+00'00') /Producer (ReportLab PDF Library - \(opensource\)) 
+  /Subject (\(unspecified\)) /Title (Lean) /Trapped /False
 >>
 endobj
 7 0 obj
 <<
-/BaseFont /Helvetica
-/Encoding /WinAnsiEncoding
-/Name /F1
-/Subtype /Type1
-/Type /Font
+/Count 1 /Kids [ 4 0 R ] /Type /Pages
 >>
 endobj
 8 0 obj
 <<
-/BaseFont /Helvetica-BoldOblique
-/Encoding /WinAnsiEncoding
-/Name /F2
-/Subtype /Type1
-/Type /Font
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 1920
 >>
-endobj
-9 0 obj
-<<
-/BaseFont /Helvetica-Bold
-/Encoding /WinAnsiEncoding
-/Name /F2
-/Subtype /Type1
-/Type /Font
->>
-endobj
-10 0 obj
-<<
-/BaseFont /Helvetica-Bold
-/Encoding /WinAnsiEncoding
-/Name /F3
-/Subtype /Type1
-/Type /Font
->>
+stream
+Gatm;9lK&M&A@sBb]176=cj?iJKB[O9oG`[]=W(19.mS>43U<k6V6-\d3%6`lGEre)]K1*5\uW@q)IiVR1Y2S?ek\-.tHq#r9t(!/mu'f*jGuO[rAZW4=sZs"[%]o7@Ya1";]Hn!cGWK(G]Ql#9naFMjXub"P"\.9Vc)2+32Mm&i1+&fkarWYqQK9'L-+Z$2j@&,Rm'U$N^(_35cJrA29s_VD5ni_?K?]DOu`AV('_uJhW2F8#Xm=\W@E`R7LrU,\MZ6@r^<&3&4sY]r&%8C3^efmPA]Dh>,6-jbno5k3W3PO"ZHjVZF8<ddn#(1%9],I%Uml6#`gA_daHRUgd??S+g"A_<MV5DeV':P!Gln0G39!%(R$C,j-Oc_[1^"H?MWDYV_1<\h[nrApcQ=DQg5%qSUk>Dn#>U,%-QZ_XTc`74>'T3$`T<qYD?9B:7[dIn6J0diRGEhO7V`BBnm^W&3RD&ct]^N',rIMe%pGnDVtf%5S1iQGs3.64P1djD:cJ]<=J0d1A)Oj!W?'*$VD-\BB[h6J)n_#g"@TkqOr.%G+?4V?HZ)JBpKq7h\VP,pPm916rN0WVXbh0UW\=/HS08*(g2CSPF"lPjTa.=9QrP*2EZ!<s?7IeZ'\,I/eT>@se#jOe+fSbgA-d#>'e.&/cf$$t2P2__:N%*\V7knD]XbpWYd*2l\XEDCns\n#EUbTMkfYb'[5"p8YK;$'ftH%_lo(ma3Z'l(Z@\K0hLYm0]$r$O9KiVs?Z2aDKb%\l0>]W7`sj?G'0pSp^4VR.TNbIaqm\ERYp[o67nb8b0U-&+Kn9!TN=@1D#<=)hK\o(Sa`<_RaOR0*7,!Hm,j+kSeOLNG2R%.@c"@WO7&Z%0!Un]WKGui,4ORG,=n0LO112j2RS%WU@Z[2rNn:B*sRG&Qle_4;!WiConVEqJirZDQAoPV`o!&?#->baJ1_dd8#5*>0c)6KWju#Zfklrs#ea]`jN(@p60On1eK4GbA#mh5Ub8n!*-ERkNQT8&M+[24fGrrRnZ7>)jjqUlPlD(.#(d5!bm`3kD*3m.@1uRp5s:$X%Z5_51!c@R\L9*nl):NS_iV^Zt?K[fQFd@80E=T=.p1IZg"jo9Zj@?P'>1q<")p3atj<g1,qRui"mX1k#%o?/_RuKmPMR)Q'Z"OmomOsX1!)Jq4?-L;lrDP`"L%57e.1r@d,rBn-cC(GM=G14'h83OKfbdS1RC0]C,<_k"StegJ0"0."ZI-"#QHGU751<\1++/(_$kTD,o7N'$Ub`QTqD\hVfl`1UrC,jE3)M.(pIa4uK?GM0[,XU)[C#65?CqL=s%8`UMupL_P,1T^;>Xf01.7k/6CD<R5F<bbASk//0[!baklIelJgDWICUbYu^\@M9sA'jOa^&A#A(O`iR:\4s^bO7Q4Q+0Pkt&S5qpmWI>;%IHNZ)VUU0_[65"Yh+m&G4`UbK9lJRe+:OAq6NCP@U0e8fi*lc__hW1\-"ikadH/%=f=K@Imq^OB=]O<f`a",3'\Qq]I-U@1[`@VFNU!)%8^Pi7C/=tt<*Xko`a#2s0\j1Lkt9iD*@<-0[Rm%-"@(9]M=bh:&m92\^T2[?Q9;rgm^h[?7/V6h*tHu>3gBLOT1<q.UM^A!4LCqKh]oWK+`)hE`KWpdC06.H,#clFc=aKfOqQ3NrqYq%lgKRGROIE8fJr5-5$@X-s&.shmBAZY)gk%/A8"RD/X9`*>.mdYms*_?fuc/4e2tgsV=IV"6\u(#\JC[9kod@67q*tG_&:W`ol.^Qls^$@f?n(/#$\K;Ykj0HL</EEJmD8gW0;5X;jd3#f]--dodC.;+f3\ni:RC\FjpKO&,LCii/5r9?/hh>1g\hI?SYl"3DhN,:`rD0p9h<+fb[J,ma1fj4YO+rl?q*Dh)Ltkq@!S=PVWMPnNZSKV"j~>endstream
 endobj
 xref
-0 11
+0 9
 0000000000 65535 f 
-0000000015 00000 n 
-0000000054 00000 n 
-0000000113 00000 n 
-0000000162 00000 n 
-0000000468 00000 n 
-0000004691 00000 n 
-0000004798 00000 n 
-0000004905 00000 n 
-0000005024 00000 n 
-0000005136 00000 n 
+0000000061 00000 n 
+0000000102 00000 n 
+0000000209 00000 n 
+0000000321 00000 n 
+0000000524 00000 n 
+0000000592 00000 n 
+0000000863 00000 n 
+0000000922 00000 n 
 trailer
 <<
-/Size 11
-/Root 3 0 R
-/Info 1 0 R
+/ID 
+[<8f8b394d3dc20ff7591a73e5f2f385f0><8f8b394d3dc20ff7591a73e5f2f385f0>]
+% ReportLab generated PDF document -- digest (opensource)
+
+/Info 6 0 R
+/Root 5 0 R
+/Size 9
 >>
 startxref
-5249
+2933
 %%EOF

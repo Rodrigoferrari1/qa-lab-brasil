@@ -1,326 +1,74 @@
 %PDF-1.4
-%âãÏÓ
+%“Œ‹ž ReportLab Generated PDF document (opensource)
 1 0 obj
 <<
-/Producer (pypdf)
+/F1 2 0 R /F2 3 0 R
 >>
 endobj
 2 0 obj
 <<
-/Type /Pages
-/Count 1
-/Kids [ 4 0 R ]
+/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
 >>
 endobj
 3 0 obj
 <<
-/Type /Catalog
-/Pages 2 0 R
+/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
 >>
 endobj
 4 0 obj
 <<
-/Contents 5 0 R
-/MediaBox [ 0 0 595.2756 841.8898 ]
-/Resources <<
-/ExtGState <<
-/gRLs0 <<
-/ca 0.035
->>
->>
-/Font <<
-/F1 6 0 R
-/F1-0 7 0 R
-/F2 8 0 R
-/F2-0 9 0 R
-/F3 10 0 R
->>
-/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
->>
-/Rotate 0
-/Trans <<
->>
-/Type /Page
-/Annots [ ]
-/Parent 2 0 R
+/Contents 8 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 7 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
 >>
 endobj
 5 0 obj
 <<
-/Length 3679
+/PageMode /UseNone /Pages 7 0 R /Type /Catalog
 >>
-stream
-q
-1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
-q
-1 0 0 1 51.35433 779.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F2 12 Tf 14 TL (QA Lab Brasil) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 749.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 4 Tm /F3 20 Tf 24 TL 177.9335 0 Td (Sanity Testing) Tj T* -177.9335 0 Td ET
-Q
-Q
-q
-1 0 0 1 51.35433 724.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Focused validation to quickly confirm that a specific change works before broader testing.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 714.3701 cm
-Q
-q
-1 0 0 1 51.35433 688.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Focus) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 669.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Sanity usually targets the changed area and nearby dependencies with enough depth to decide whether to continue.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 643.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Sanity vs Smoke) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 624.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Smoke checks minimum overall stability; Sanity usually checks a specific change after a build or fix.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 598.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Example) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 579.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL -0.005423 Tw (After shipping-calculation changes, validate the main calculation, relevant conditions and immediate checkout impact.) Tj T* 0 Tw ET
-Q
-Q
-q
-1 0 0 1 51.35433 553.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Use) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 534.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Useful when time is limited and quick confidence is needed around a known change.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 508.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (When to use it) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 476.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Use this knowledge when product risk, architecture or the delivery stage requires this type of validation. Confirm the) Tj T* (goal, environment, required data and expected evidence before starting.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 450.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (How QA applies it) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 418.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Start from the behavior or risk to validate, prepare data and environment, execute the technique or tool reproducibly) Tj T* (and capture evidence that helps the team understand the result.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 392.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (QA tip) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 373.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Define the Sanity objective clearly so it does not become an improvised regression.) Tj T* ET
-Q
-Q
- 
-
-Q
-
-q
-0.0 0.0 595.2756 841.8898 re
-W
-n
-1 0 0 1 0 0 cm
-BT
-/F1-0 12 Tf
-14.4 TL
-ET
-0.843137 0.901961 0.960784 RG
-0.6 w
-n
-36 815.8898 m
-559.2756 815.8898 l
-S
-0.070588 0.207843 0.356863 rg
-BT
-/F2-0 8.2 Tf
-9.84 TL
-ET
-BT
-1 0 0 1 40 821.8898 Tm
-(QA LAB BRASIL) Tj
-T*
-ET
-0.356863 0.45098 0.564706 rg
-BT
-/F1-0 6.8 Tf
-8.16 TL
-ET
-BT
-1 0 0 1 399.3516 821.8898 Tm
-(QUALITY ENGINEERING \174 OFFICIAL DOCUMENT) Tj
-T*
-ET
-q
-0.848048 0.529919 -0.529919 0.848048 297.6378 420.9449 cm
-0.08 0.21 0.36 rg
-/gRLs0 gs
-BT
-/F2-0 42 Tf
-50.4 TL
-ET
-BT
-1 0 0 1 -164.493 0 Tm
-(QA LAB BRASIL) Tj
-T*
-ET
-Q
-0.843137 0.901961 0.960784 RG
-n
-36 24 m
-559.2756 24 l
-S
-0.356863 0.45098 0.564706 rg
-BT
-/F1-0 6.6 Tf
-7.92 TL
-ET
-BT
-1 0 0 1 40 14 Tm
-(qualityassurancebrasil\056com\056br) Tj
-T*
-ET
-BT
-1 0 0 1 221.4507 14 Tm
-(QA Lab Brasil v2\0562 \174 EN \174 Updated\072 September 2026) Tj
-T*
-ET
-BT
-1 0 0 1 519.6818 14 Tm
-(Page 1 de 1) Tj
-T*
-ET
-Q
-
-
-endstream
 endobj
 6 0 obj
 <<
-/BaseFont /Helvetica
-/Encoding /WinAnsiEncoding
-/Name /F1
-/Subtype /Type1
-/Type /Font
+/Author (\(anonymous\)) /CreationDate (D:20260922123401+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20260922123401+00'00') /Producer (ReportLab PDF Library - \(opensource\)) 
+  /Subject (\(unspecified\)) /Title (Sanity Testing) /Trapped /False
 >>
 endobj
 7 0 obj
 <<
-/BaseFont /Helvetica
-/Encoding /WinAnsiEncoding
-/Name /F1
-/Subtype /Type1
-/Type /Font
+/Count 1 /Kids [ 4 0 R ] /Type /Pages
 >>
 endobj
 8 0 obj
 <<
-/BaseFont /Helvetica-BoldOblique
-/Encoding /WinAnsiEncoding
-/Name /F2
-/Subtype /Type1
-/Type /Font
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 1482
 >>
-endobj
-9 0 obj
-<<
-/BaseFont /Helvetica-Bold
-/Encoding /WinAnsiEncoding
-/Name /F2
-/Subtype /Type1
-/Type /Font
->>
-endobj
-10 0 obj
-<<
-/BaseFont /Helvetica-Bold
-/Encoding /WinAnsiEncoding
-/Name /F3
-/Subtype /Type1
-/Type /Font
->>
+stream
+Gatm:9lK&M&A@C2bV<C6=cssT&j7O0[On_Mh72[:Q=ubI,V&Y0&thJ'6V3T/-L2M&iukU^eBFEV*f">mn\p6t=UB&ZJtKe3?lW2d@"JYdI>,:5oGA1?.FSS7_-!-s+A)?"U"Mn8,SaaHEWN.7LlA0\1.jRc.Mg,\<^^Xg32Lr+0@_=C.96.4PEZR3Vhh'%8N;JV3ega/;D$pjC6!:';T:H/+h?Ta.)e$e&EZN,KK@/28.*3j:D`mR,F$4T5A!,L%N$nO*1NT:a3`VfS:'c#/R)AbM`.1O,T^=6kTBu)-$%@`&jGQ1$Z(t7ZQM4RZ$8Tg6n)._>^a6[$!)Pnl;Q>0BM,+!5e+Tg)R\V)ONRuWWk`5C(DTnA<%;QpR1Ul*Rju5*Rp3E$IWPP0f4?Z;6jAQ'r3$fqj]mR,)QKab749CLZZn%LS&0;$E*$m^ASpJ-mBVt6=e*JsPXaf?0.eI"$GQNU<No;M&sXT0&iC5Rb=/@[q]A'J@cC'.p^[7o`/#n2H9%W6#[8JS/r=+4*LSWt\8=q*$@mU+fE1\(4@HN!klIPI)bY`o.Y"ZG:?N(I&KR0E6_PVhoq3X1Tbfn[L#E'+>'!qUj`#?\Wkdf?[bZPYc`_O%.,TfreH\(u&gq)o9beRuCE+-]V?e:(2ot*:**l>F)p3^/lAO!bf&j2,&*0U/^4OYJA+-^YiWV)ED-U"+[kf$ABPX*JNQWI!R;-NraYs_^XR4"d(=nI(\S[uYgEs,bGdi_:O6"DPETShl4aFp$PA!'sqUk!LQt#bR\E3?gE[N+(/Y4Y,ZSTkWFtL"6-O+WGNAY+D*%G`moaBih[T.4Gbh3c'>djf>q0op`$hsb1a\d[1\_gQ6K66uX;cfn51>gi-W9<\blD574UOJqGhnjg++7.&3n?cQHi'U)3gLb-LdT*I:9CR;_THqm-B'mJ)qZZtoeb$X]c^RXaX;b:9Y/nF<Y]8!%&2"Xl!TA$=0uECN9j&:q&5DENgjV%5e*^IHj8&_FR3LsTEMSQK[F^0g@tuj:)M^u+D:d.e_X:.KKu&tb&8R'=iQBU2%\Gh/4m:r'%[UpoF_<*F1dA*m8E,OVn7R(Pqa0e1fc1B;qBAT:*8n!,i*%O6l+/QYOMPA"O7PJ-QXLmfqg95H^;h5u*\.23d-;T;A+9Sn<*kO1^P9`jSkk$rI1.`'o];U&jJ$(FZ+s1Eo;s$iXrF#-=U0q%+0LaHCkmCN?&uH<%YeB]g_LB4btFE\pf(a#LW6c4[dL!3NLRoC40sD/l[8;-fQpJ$j#sVjNNYrYFk;C:3T+u=rF)=<:^+8oIStF%Qa(RPk(Od&m'NL,bV,jWn,<X_>F_\Y,2@>(Lrsj\_94k.!h72j,d6U\llF6'^Hp1R[_oJ`7\ss]=7q15V&K'\B)OR9ciC]#4nbWS]J!kg0u`&e\&S:kjN("XG\'olpmSUs7GU_<9F5r#D1`bdrX_HgoYiiNNiV9N8;R6KEaY#X~>endstream
 endobj
 xref
-0 11
+0 9
 0000000000 65535 f 
-0000000015 00000 n 
-0000000054 00000 n 
-0000000113 00000 n 
-0000000162 00000 n 
-0000000468 00000 n 
-0000004199 00000 n 
-0000004306 00000 n 
-0000004413 00000 n 
-0000004532 00000 n 
-0000004644 00000 n 
+0000000061 00000 n 
+0000000102 00000 n 
+0000000209 00000 n 
+0000000321 00000 n 
+0000000524 00000 n 
+0000000592 00000 n 
+0000000873 00000 n 
+0000000932 00000 n 
 trailer
 <<
-/Size 11
-/Root 3 0 R
-/Info 1 0 R
+/ID 
+[<81cc45243f08982c1ef478238c8169b1><81cc45243f08982c1ef478238c8169b1>]
+% ReportLab generated PDF document -- digest (opensource)
+
+/Info 6 0 R
+/Root 5 0 R
+/Size 9
 >>
 startxref
-4757
+2505
 %%EOF

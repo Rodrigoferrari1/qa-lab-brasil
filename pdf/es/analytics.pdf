@@ -1,353 +1,74 @@
 %PDF-1.4
-%âãÏÓ
+%“Œ‹ž ReportLab Generated PDF document (opensource)
 1 0 obj
 <<
-/Producer (pypdf)
+/F1 2 0 R /F2 3 0 R
 >>
 endobj
 2 0 obj
 <<
-/Type /Pages
-/Count 1
-/Kids [ 4 0 R ]
+/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
 >>
 endobj
 3 0 obj
 <<
-/Type /Catalog
-/Pages 2 0 R
+/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
 >>
 endobj
 4 0 obj
 <<
-/Contents 5 0 R
-/MediaBox [ 0 0 595.2756 841.8898 ]
-/Resources <<
-/ExtGState <<
-/gRLs0 <<
-/ca 0.035
->>
->>
-/Font <<
-/F1 6 0 R
-/F1-0 7 0 R
-/F2 8 0 R
-/F2-0 9 0 R
-/F3 10 0 R
->>
-/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
->>
-/Rotate 0
-/Trans <<
->>
-/Type /Page
-/Annots [ ]
-/Parent 2 0 R
+/Contents 8 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 7 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
 >>
 endobj
 5 0 obj
 <<
-/Length 4808
+/PageMode /UseNone /Pages 7 0 R /Type /Catalog
 >>
-stream
-q
-1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
-q
-1 0 0 1 51.35433 779.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F2 12 Tf 14 TL (QA Lab Brasil) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 749.3701 cm
-q
-BT 1 0 0 1 0 4 Tm 118.4535 0 Td 24 TL /F3 20 Tf 0 0 0 rg (M\351tricas, Excel & Power BI) Tj T* -118.4535 0 Td ET
-Q
-Q
-q
-1 0 0 1 51.35433 724.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Indicadores de calidad, interpretaci\363n responsable y dashboards para seguimiento de pruebas y defectos.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 714.3701 cm
-Q
-q
-1 0 0 1 51.35433 688.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Por qu\351 medir calidad) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 656.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Las m\351tricas ayudan a observar tendencias, riesgo y capacidad de entrega. No reemplazan an\341lisis cualitativo y no) Tj T* (deben usarse solas para medir productividad individual.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 630.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Ejecuci\363n de pruebas) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 598.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Execution Progress = ejecutados / planificados. Pass Rate = passed / ejecutados. Failed y Blocked deben analizarse) Tj T* (por separado porque representan problemas distintos.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 572.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (M\351tricas de defectos) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 540.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Defect Aging mide tiempo abierto; Reopen Rate muestra reaperturas; Defect Leakage observa defectos que) Tj T* (escaparon a fases posteriores. Severity y Priority ayudan a segmentar riesgo.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 514.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Cobertura) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 482.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Requirement Coverage, Risk Coverage y Automation Coverage responden preguntas distintas. 100% de casos) Tj T* (ejecutados no significa 100% del producto probado.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 456.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Excel para QA) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 424.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Tablas din\341micas, filtros, formato condicional, COUNTIF/COUNTIFS y XLOOKUP ayudan a consolidar resultados y) Tj T* (crear reportes r\341pidos.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 398.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Power BI para QA) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 366.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Power BI conecta fuentes, transforma datos con Power Query, modela relaciones y crea dashboards. QA puede) Tj T* (consumir CSV, Excel, APIs y exportaciones de herramientas.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 340.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (DAX e indicadores) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 308.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (DAX permite crear measures como Pass Rate y conteos filtrados. Una measure debe reflejar una definici\363n clara; el) Tj T* (mismo KPI puede tener f\363rmulas diferentes entre organizaciones.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 282.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Dashboard ejecutivo) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 250.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Un buen dashboard destaca tendencia, riesgo y acci\363n necesaria. Evite exceso de gr\341ficos. Muestre contexto,) Tj T* (per\355odo, alcance y definiciones para reducir interpretaciones incorrectas.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 224.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Consejo de QA) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 205.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Una tasa de aprobaci\363n alta puede ocultar un riesgo cr\355tico; muestre contexto junto con el n\372mero.) Tj T* ET
-Q
-Q
- 
-
-Q
-
-q
-0.0 0.0 595.2756 841.8898 re
-W
-n
-1 0 0 1 0 0 cm
-BT
-/F1-0 12 Tf
-14.4 TL
-ET
-0.843137 0.901961 0.960784 RG
-0.6 w
-n
-36 815.8898 m
-559.2756 815.8898 l
-S
-0.070588 0.207843 0.356863 rg
-BT
-/F2-0 8.2 Tf
-9.84 TL
-ET
-BT
-1 0 0 1 40 821.8898 Tm
-(QA LAB BRASIL) Tj
-T*
-ET
-0.356863 0.45098 0.564706 rg
-BT
-/F1-0 6.8 Tf
-8.16 TL
-ET
-BT
-1 0 0 1 398.216 821.8898 Tm
-(QUALITY ENGINEERING \174 DOCUMENTO OFICIAL) Tj
-T*
-ET
-q
-0.848048 0.529919 -0.529919 0.848048 297.6378 420.9449 cm
-0.08 0.21 0.36 rg
-/gRLs0 gs
-BT
-/F2-0 42 Tf
-50.4 TL
-ET
-BT
-1 0 0 1 -164.493 0 Tm
-(QA LAB BRASIL) Tj
-T*
-ET
-Q
-0.843137 0.901961 0.960784 RG
-n
-36 24 m
-559.2756 24 l
-S
-0.356863 0.45098 0.564706 rg
-BT
-/F1-0 6.6 Tf
-7.92 TL
-ET
-BT
-1 0 0 1 40 14 Tm
-(qualityassurancebrasil\056com\056br) Tj
-T*
-ET
-BT
-1 0 0 1 212.28 14 Tm
-(QA Lab Brasil v2\0562 \174 ES \174 Actualizado\072 septiembre de 2026) Tj
-T*
-ET
-BT
-1 0 0 1 514.547 14 Tm
-(Pagina 1 de 1) Tj
-T*
-ET
-Q
-
-
-endstream
 endobj
 6 0 obj
 <<
-/BaseFont /Helvetica
-/Encoding /WinAnsiEncoding
-/Name /F1
-/Subtype /Type1
-/Type /Font
+/Author (\(anonymous\)) /CreationDate (D:20260922123400+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20260922123400+00'00') /Producer (ReportLab PDF Library - \(opensource\)) 
+  /Subject (\(unspecified\)) /Title (M\351tricas, Excel & Power BI) /Trapped /False
 >>
 endobj
 7 0 obj
 <<
-/BaseFont /Helvetica
-/Encoding /WinAnsiEncoding
-/Name /F1
-/Subtype /Type1
-/Type /Font
+/Count 1 /Kids [ 4 0 R ] /Type /Pages
 >>
 endobj
 8 0 obj
 <<
-/BaseFont /Helvetica-BoldOblique
-/Encoding /WinAnsiEncoding
-/Name /F2
-/Subtype /Type1
-/Type /Font
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 2020
 >>
-endobj
-9 0 obj
-<<
-/BaseFont /Helvetica-Bold
-/Encoding /WinAnsiEncoding
-/Name /F2
-/Subtype /Type1
-/Type /Font
->>
-endobj
-10 0 obj
-<<
-/BaseFont /Helvetica-Bold
-/Encoding /WinAnsiEncoding
-/Name /F3
-/Subtype /Type1
-/Type /Font
->>
+stream
+Gatn&?#SIU'Sc)T/'cCoCrf^U'(pfb(J0r'6*iFCggM#4TdAE(.u=`^F\T+_^R);QX';#0K4?%$l!p=&o:.IR$Lm'SIo-lM0Bq._:->?6RX!%c>$fUqEcJQr5p#MX+Vo-j-A#@Zr_g%k7C*OCj#dTW9(R^m8AnI\dZB/c'IWdkC69ho%"`jRQf]hkK-8&UB5-;CLRfuP=;$?f/G<:1ASEb@GLWu9EgH8--]Egn@Ec$9k;8S\m1anGVnHgg@`J!nS]M2`JhTg6rTX3Md0?*um1#pnqlT*He)AcHs6HdrnU@bBE<4,?"cms<30jls+^j9E!FP<s),>a&R=Oj]`<%HR24_B?qgk%TB_eEeAjI>k/0bqM=QEj+VQlM(a9N0%,!FD:V(>:"^g3?a+`]b[TW>D?3km\e]tBdaMhq`V+rp&S(.Mc]_^T_3ZH&45SE1oTG"R'`l0b,qRZ23LZF\`5<Flc'dYM"k_t1B>*fD/ekiUJc6SecEb7^1@K0d^J1#&_lp)Bm6Gjq+lYX5uM&ZeTZ]8Te20O)>E:b]_2[eG_cdCGOEY)*'(i\R@e+GhFgl"HhW(lK6I<.@7X8gf2%\HN#Q:+:B&,\`(\bE>16-Oq]RgpI4`Z5Yk#m9Lu^B6>BP;nDa/W/A<eC\*muFFH5Rq:!rnH(uIi.a4J<4.)M^GS6eiiZlZE4lG)II>n0edt!+`Ofq!#O%SAKF)oru0Y9/B[8\V*&/h;q:J!L9Z<O@j=m1',&iBfKX_CtLWYF8f.GOSI,Al,^<a&(sg@Vu-Wp,I(B5;k%P-#BsCK5JRAREi2n6QDVp<een,gJ(BBEJ/@V8p#;a4t&"g/trP*B:'!WU4s'"3c`!s)<H)4Queq32tbi&'=^_PRU2>X&dnLdSd!3;Dj/OZ":=X2[3S?j;)-2Y&cLkDUh33qV?[bWje8kim)5o75:ufX5!/B-\Y?Eg$)<#PfBt3WJ:7Mg/_'d.QR"Rq.+88fb]bDW\e/g.i`O7bV4>_VT@em_7]Q9MLGu`IJ>sBV%D>M=C-B0'qI5l?!FX$^9mMg.;)h>$u>)FJP;ij52f[7f+J]TZ;V=h@]`7Ym,]+uPe+`o4e5ZOpo)=UXU1k@!:u*r[m`-_b)n36qf(.;KEC_R7;s@b!"sQ]K5R[C%`s,q64+;e_(aq?@lQ!5%cLMKT!gE"`:4]DimlHp3obs0%7<19N%uY[>1q1`V]03U8/]aUmT&!b>HEulI+tDV4f@7p.j[F&N>`IU\e(m%RLlLMA[40Gj4CS*&`/rlPukSLbii)U_A]QQ*[-5#\""oN8oF%[g7^&;!&RI"a+;6MFu5jFb\H=)"75%+nIXQU]3\_'Hp]Oq*!cnLFJITOdms3)XRAh7IC;n_],$0:MgRfTK5[Z8OeBOCi&b?%(K8ugk:FGH:KtNcAb[ZZNCD@l,_XqrS:^NU:/NL$=$6GsiiE&["7A*aMk^,oXHj\N]T[cIWco-+>$%7PDIG(-)(LT7;LhA?VtB!AgY\?a0:r^B[p]$pea(hjhHoYL"$]%(6dr=S/?nNB*@A-h,cl+ldb#$iB:\Uq/e9FhdB*:2/.dJ)S5OMtjPb@#,WQp;8Ne&Nie8<$,HDO*T^"D:kCZXY<OK]O4YQf3=8)WXC4kGgV6Q0nSJqGj)]dVu7OQqs\H*E*qAQ-LMq^IN=o+B.XtSV7eRup<4:T0rQ*o$NSam>4Tm1%N%`A3XjF0,dPE[/WL@P+Sqfj/&Z&q=:H;^lmVKUp)/(sW6c7_k.B#D[&F*ab"cmR[foQ]-3nHXO.!695Y52_gBn\%UTH5O0corpcE4sq&.>.7>ul5F[.WFCTN@'#p/XnuDDYEedcZl<AofF;Gf0*C#4B_#<\Ionr]a.kZ7lqm+)59F9A(`\V"gP/a"^4#\T6AoB9qZhf-o78I4Bc),r0\pM,*aF)5_4ZlgXa`mrppu5mjadBn8"!M$F#!3q1T)j_0U`;H@P+WI2MKjJfD-!I\`g)X<G6Hph"d_?s&M(4Z.@HdK=K3=JN!s?qu]5GlJV~>endstream
 endobj
 xref
-0 11
+0 9
 0000000000 65535 f 
-0000000015 00000 n 
-0000000054 00000 n 
-0000000113 00000 n 
-0000000162 00000 n 
-0000000468 00000 n 
-0000005328 00000 n 
-0000005435 00000 n 
-0000005542 00000 n 
-0000005661 00000 n 
-0000005773 00000 n 
+0000000061 00000 n 
+0000000102 00000 n 
+0000000209 00000 n 
+0000000321 00000 n 
+0000000524 00000 n 
+0000000592 00000 n 
+0000000888 00000 n 
+0000000947 00000 n 
 trailer
 <<
-/Size 11
-/Root 3 0 R
-/Info 1 0 R
+/ID 
+[<d093b168a69be5aca09b5f266a81aab4><d093b168a69be5aca09b5f266a81aab4>]
+% ReportLab generated PDF document -- digest (opensource)
+
+/Info 6 0 R
+/Root 5 0 R
+/Size 9
 >>
 startxref
-5886
+3058
 %%EOF

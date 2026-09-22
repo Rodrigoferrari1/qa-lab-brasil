@@ -214,3 +214,21 @@
   .home-final-grid .author-card,
   .home-final-grid .contact-card{width:100%}
 }
+
+/* QA Lab 3.0 - global utility and test data generator */
+.top{gap:14px}.test-data-header-btn{border:1px solid #b8d5ef;background:#fff;color:#0b3b6e;border-radius:14px;padding:12px 16px;font-weight:800;white-space:nowrap;cursor:pointer}.test-data-header-btn:hover{background:#eef7ff}.td-controls{display:grid;grid-template-columns:2fr 1.4fr 1fr auto;gap:14px;align-items:end}.td-controls label{font-weight:700;display:grid;gap:7px}.td-controls select,.td-controls input{padding:12px;border:1px solid #bfd6ea;border-radius:12px;background:#fff;font:inherit}.td-output{min-height:180px;white-space:pre-wrap;background:#f7fbff;border:1px solid #c9dff1;border-radius:14px;padding:18px;font:500 15px/1.7 ui-monospace,SFMono-Regular,Consolas,monospace}.learning-guide{margin-top:28px}.learning-guide h2{margin-bottom:18px}@media(max-width:820px){.test-data-header-btn{padding:10px 12px}.test-data-header-btn span{display:none}.td-controls{grid-template-columns:1fr}.top{gap:8px}}
+
+/* QA Lab 3.0 RC2 - header, level navigation and structured content */
+.top{grid-template-columns:minmax(320px,680px) minmax(150px,230px) auto;gap:12px}
+.search{max-width:680px;width:100%}.test-data-header-btn{width:auto;min-width:150px;padding:10px 14px}.language-picker{justify-self:end}
+.level-filter-sticky{position:sticky;top:74px;z-index:18;display:flex;gap:8px;align-items:center;width:max-content;max-width:100%;margin:8px 0 14px;padding:8px;border:1px solid #c7deef;border-radius:14px;background:rgba(239,248,255,.96);backdrop-filter:blur(10px);box-shadow:0 8px 22px rgba(11,79,156,.08)}
+.topic-section[data-level]{scroll-margin-top:145px}.structured-content{display:grid;gap:10px;margin-top:10px}.structured-row{display:grid;grid-template-columns:minmax(150px,210px) 1fr;gap:14px;padding:10px 12px;border-bottom:1px solid #e1edf6}.structured-row strong{color:#0b3b6e}.structured-row span{color:#34536f;line-height:1.65}.structured-content h3{margin:0 0 4px;color:#0b3b6e}
+.glossary-tools{display:grid;gap:12px;margin:0 0 18px}.glossary-tools input{width:100%;padding:13px 15px;border:1px solid #b7d4eb;border-radius:13px;background:#fff}.glossary-filters{display:flex;gap:8px;flex-wrap:wrap}.glossary-filters .btn.active{outline:2px solid #4777ef;background:#eef4ff}
+@media(max-width:1100px){.top{grid-template-columns:minmax(260px,1fr) auto auto}.search{max-width:none}.test-data-header-btn{min-width:130px}}
+@media(max-width:820px){.top{grid-template-columns:minmax(0,1fr) auto auto}.test-data-header-btn{min-width:auto}.test-data-header-btn span{display:none}.language-picker-btn span{display:none!important}.level-filter-sticky{top:66px;overflow-x:auto;width:100%;max-width:100%}.structured-row{grid-template-columns:1fr;gap:4px}}
+@media(max-width:560px){.top{grid-template-columns:1fr auto}.search{grid-column:1/-1}.test-data-header-btn{grid-column:1}.language-picker{grid-column:2}.language-picker-btn span{display:none!important}}
+
+/* QA Lab 3.0 RC3 refinements */
+.top{grid-template-columns:minmax(320px,1fr) minmax(160px,260px) minmax(220px,1fr);align-items:center}.search{justify-self:start;width:min(100%,760px)}.test-data-header-btn{justify-self:center;width:220px}.language-picker{justify-self:end}.topic-section p{white-space:pre-line}.level-filter-sticky{position:sticky!important;top:74px!important;z-index:25!important}
+@media(max-width:1000px){.top{grid-template-columns:minmax(260px,1fr) auto auto}.test-data-header-btn{width:auto}}
+@media(max-width:560px){.top{grid-template-columns:1fr auto}.search{grid-column:1/-1;width:100%}.test-data-header-btn{grid-column:1;width:auto;justify-self:start}.language-picker{grid-column:2;justify-self:end}}

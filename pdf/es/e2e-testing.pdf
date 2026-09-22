@@ -1,326 +1,74 @@
 %PDF-1.4
-%âãÏÓ
+%“Œ‹ž ReportLab Generated PDF document (opensource)
 1 0 obj
 <<
-/Producer (pypdf)
+/F1 2 0 R /F2 3 0 R
 >>
 endobj
 2 0 obj
 <<
-/Type /Pages
-/Count 1
-/Kids [ 4 0 R ]
+/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
 >>
 endobj
 3 0 obj
 <<
-/Type /Catalog
-/Pages 2 0 R
+/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
 >>
 endobj
 4 0 obj
 <<
-/Contents 5 0 R
-/MediaBox [ 0 0 595.2756 841.8898 ]
-/Resources <<
-/ExtGState <<
-/gRLs0 <<
-/ca 0.035
->>
->>
-/Font <<
-/F1 6 0 R
-/F1-0 7 0 R
-/F2 8 0 R
-/F2-0 9 0 R
-/F3 10 0 R
->>
-/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
->>
-/Rotate 0
-/Trans <<
->>
-/Type /Page
-/Annots [ ]
-/Parent 2 0 R
+/Contents 8 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 7 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
 >>
 endobj
 5 0 obj
 <<
-/Length 3708
+/PageMode /UseNone /Pages 7 0 R /Type /Catalog
 >>
-stream
-q
-1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
-q
-1 0 0 1 51.35433 779.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F2 12 Tf 14 TL (QA Lab Brasil) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 749.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 4 Tm /F3 20 Tf 24 TL 127.3835 0 Td (Prueba End-to-End \(E2E\)) Tj T* -127.3835 0 Td ET
-Q
-Q
-q
-1 0 0 1 51.35433 724.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Validaci\363n de flujos completos atravesando las principales capas e integraciones del producto.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 714.3701 cm
-Q
-q
-1 0 0 1 51.35433 688.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Objetivo) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 669.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Confirmar que un proceso de negocio funciona de inicio a fin.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 643.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Ejemplo) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 624.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (En e-commerce: login/invitado, producto, carrito, checkout, pago, pedido e integraci\363n downstream.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 598.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Costo) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 579.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (E2E suele ser m\341s lento, fr\341gil y costoso; mantenga un conjunto reducido de flujos cr\355ticos.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 553.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Diagn\363stico) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 534.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Combine E2E con logs, APIs y observabilidad para localizar fallas.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 508.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Cu\341ndo utilizarlo) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 476.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Utilice este conocimiento cuando el riesgo, la arquitectura o la etapa de entrega requieran este tipo de validaci\363n.) Tj T* (Confirme objetivo, ambiente, datos necesarios y evidencias esperadas antes de comenzar.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 450.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (C\363mo lo aplica QA) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 418.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL -0.098269 Tw (Parta del comportamiento o riesgo que debe validarse, prepare datos y ambiente, ejecute la t\351cnica o herramienta de) Tj T* 0 Tw (forma reproducible y registre evidencias que ayuden al equipo a comprender el resultado.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 392.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Consejo de QA) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 373.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Use E2E para confianza en jornadas cr\355ticas, no para reemplazar todas las pruebas de componentes y APIs.) Tj T* ET
-Q
-Q
- 
-
-Q
-
-q
-0.0 0.0 595.2756 841.8898 re
-W
-n
-1 0 0 1 0 0 cm
-BT
-/F1-0 12 Tf
-14.4 TL
-ET
-0.843137 0.901961 0.960784 RG
-0.6 w
-n
-36 815.8898 m
-559.2756 815.8898 l
-S
-0.070588 0.207843 0.356863 rg
-BT
-/F2-0 8.2 Tf
-9.84 TL
-ET
-BT
-1 0 0 1 40 821.8898 Tm
-(QA LAB BRASIL) Tj
-T*
-ET
-0.356863 0.45098 0.564706 rg
-BT
-/F1-0 6.8 Tf
-8.16 TL
-ET
-BT
-1 0 0 1 398.216 821.8898 Tm
-(QUALITY ENGINEERING \174 DOCUMENTO OFICIAL) Tj
-T*
-ET
-q
-0.848048 0.529919 -0.529919 0.848048 297.6378 420.9449 cm
-0.08 0.21 0.36 rg
-/gRLs0 gs
-BT
-/F2-0 42 Tf
-50.4 TL
-ET
-BT
-1 0 0 1 -164.493 0 Tm
-(QA LAB BRASIL) Tj
-T*
-ET
-Q
-0.843137 0.901961 0.960784 RG
-n
-36 24 m
-559.2756 24 l
-S
-0.356863 0.45098 0.564706 rg
-BT
-/F1-0 6.6 Tf
-7.92 TL
-ET
-BT
-1 0 0 1 40 14 Tm
-(qualityassurancebrasil\056com\056br) Tj
-T*
-ET
-BT
-1 0 0 1 212.28 14 Tm
-(QA Lab Brasil v2\0562 \174 ES \174 Actualizado\072 septiembre de 2026) Tj
-T*
-ET
-BT
-1 0 0 1 514.547 14 Tm
-(Pagina 1 de 1) Tj
-T*
-ET
-Q
-
-
-endstream
 endobj
 6 0 obj
 <<
-/BaseFont /Helvetica
-/Encoding /WinAnsiEncoding
-/Name /F1
-/Subtype /Type1
-/Type /Font
+/Author (\(anonymous\)) /CreationDate (D:20260922123401+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20260922123401+00'00') /Producer (ReportLab PDF Library - \(opensource\)) 
+  /Subject (\(unspecified\)) /Title (Prueba End-to-End \(E2E\)) /Trapped /False
 >>
 endobj
 7 0 obj
 <<
-/BaseFont /Helvetica
-/Encoding /WinAnsiEncoding
-/Name /F1
-/Subtype /Type1
-/Type /Font
+/Count 1 /Kids [ 4 0 R ] /Type /Pages
 >>
 endobj
 8 0 obj
 <<
-/BaseFont /Helvetica-BoldOblique
-/Encoding /WinAnsiEncoding
-/Name /F2
-/Subtype /Type1
-/Type /Font
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 1546
 >>
-endobj
-9 0 obj
-<<
-/BaseFont /Helvetica-Bold
-/Encoding /WinAnsiEncoding
-/Name /F2
-/Subtype /Type1
-/Type /Font
->>
-endobj
-10 0 obj
-<<
-/BaseFont /Helvetica-Bold
-/Encoding /WinAnsiEncoding
-/Name /F3
-/Subtype /Type1
-/Type /Font
->>
+stream
+Gatm:9lK&M&A@C2bgF$n\0ON.UHKpXZreG9Zb(*N\^1uV0U4&AP#>i<+5[r=OVQs#=?&b_Bgcst]_=Bq!?==5pfl5Jk=bUB])X!_\H\apK&n:`/>Kh5nXPM"!N(N@'+HLdT+o-hnr_4b&6p\Uo7Z@1/#]4B17?*2fuL*@9pk!(T<1b-(8m[8G`f=s&'N!a`ab<*#t;33M3OjINbPOC-3[%r`#TmXc_P#Q-?>Ir9T`cpFc'1]<_VR0SZU@mE>^-E^\^4cL]R7=@O'B;+.DJ_2P4`5c;kP57-fmG&s",FFH?O4AU;^S1HF`N&&]k6mXj@PNQDj21eP$S@Ia$W""\A!q2n]6SoUB5^nei**4;!0ddmnCQpFD<cSB#[b>Q<YAAPXu`L$ZYcd(MIgY)<SQh+_pQmR^sr1@OUel*Uj.:pWX:;R1XV20=eH;hBB!A=;iH#&'(RsD"b(3(5pbAq,7lcPLTGm<1*Lcilqi%.M4:5p/?-M8oh_=q$(0f=!K'>-ZH-S_>f``aE\.tk#:J^d@$OmSPk.l\':FVV]A!+H0/.itEV]CZ]17N6,sAu]3@&?"!/]8-uYT0hM0-p+CW19*bQAe?b$Ot2C8QR+2c6>op0q(,=RjqRj3p#8;E>^pudGl%&d!V"9gAG-LD5)7?M_UAq,+`luiaK)&ipfS2T<s0QE4ucG=&W=EO#,Nd(Fe$Ak8djsb^MR.&RX/2k%^/PBbe7kQ0,pi`$X<6qiO5Vh\B8VB@_qlcD?=_)G`7rs_Gs=`(L=qM#kVRd#p.MRlbtJ9YP69tpQB4%':9='rjfVJS\&eMJ>JF(Z2D0&CDU_!i3'Q9H_RFBD*ru']4m?d=SJE^1DFoe;96Q,q*Q!Xhf2?,o:n$bEGNr?#7u\?AkAW$[,YcNJ)KU7MD;(8H]"DrD(+a(6gd+Z$`G!1@\91*GF^1PPKA5#kg0mrE,fBGJ""*hLLrnHD!B<o1[g>oT_[3K?*L1iJ9[XT[u&_h/<<6tkGIVVTfqO.o.;jSBR<rdBPi:r3`_u/b'G7R*U%[!NVEOd"[[!o?_KC!VV`6]GgZ<@*g]3t-jGesCG5Iget'\p&#!.K[qSlgHo.:AF(XIS$SB2A+.Psb&c4u0_Jp"&446X5DGT3Wl:[$\2_,U$hQ.]>lk4.T$n`s4JcEO*Z8NG@k6&e)M0as$=<Gkq4dgsm8)LiXkTQKAcL[[$<:UhcrJM:)(2V`.+r-SamE!.@oYXMCBbd.TW@:dN9XsCoB8`o_H>2Aim;U41GO_M;dG)Ls&fZeemFf$%=o5J*`Vk1[1)PAQ7K%D)k6)3nN18K6-k2/<DfHV]i#7d3hRh4q.%nE1DD=kB=*1NWYgQdb*bd`%kVsAs$]VpA':Pr'OY<5.>NFPSP:t(^6'OSi@p]iEb(S%K?U!\s97o0ucHW<V0RQO*ZETN@[$F18`KOh&,p$[PfNVSPW%V>I_epb-:M!8o?/4'DFt!W>X;`/Kk`+EbE@Yjo%sY^+1em,4&dn6Wj"6W*a@f_Uo`R<X?XfcV8(tDTBUBea[$Zo(M#IY*=G0f~>endstream
 endobj
 xref
-0 11
+0 9
 0000000000 65535 f 
-0000000015 00000 n 
-0000000054 00000 n 
-0000000113 00000 n 
-0000000162 00000 n 
-0000000468 00000 n 
-0000004228 00000 n 
-0000004335 00000 n 
-0000004442 00000 n 
-0000004561 00000 n 
-0000004673 00000 n 
+0000000061 00000 n 
+0000000102 00000 n 
+0000000209 00000 n 
+0000000321 00000 n 
+0000000524 00000 n 
+0000000592 00000 n 
+0000000884 00000 n 
+0000000943 00000 n 
 trailer
 <<
-/Size 11
-/Root 3 0 R
-/Info 1 0 R
+/ID 
+[<3fbed5744f20a02bbf1e6d1ecbf1790e><3fbed5744f20a02bbf1e6d1ecbf1790e>]
+% ReportLab generated PDF document -- digest (opensource)
+
+/Info 6 0 R
+/Root 5 0 R
+/Size 9
 >>
 startxref
-4786
+2580
 %%EOF

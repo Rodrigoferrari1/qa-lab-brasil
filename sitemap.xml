@@ -744,4 +744,13 @@
     <loc>https://qualityassurancebrasil.com.br/zephyr</loc>
     <changefreq>weekly</changefreq>
   </url>
+  <url><loc>https://qualityassurancebrasil.com.br/test-data-generator</loc><changefreq>monthly</changefreq></url>
+  <url>
+    <loc>https://qualityassurancebrasil.com.br/wiremock</loc>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>https://qualityassurancebrasil.com.br/allure-report</loc>
+    <changefreq>weekly</changefreq>
+  </url>
 </urlset>

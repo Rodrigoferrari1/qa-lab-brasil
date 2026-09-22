@@ -1,364 +1,99 @@
 %PDF-1.4
-%âãÏÓ
+%“Œ‹ž ReportLab Generated PDF document (opensource)
 1 0 obj
 <<
-/Producer (pypdf)
+/F1 2 0 R /F2 3 0 R /F3 4 0 R
 >>
 endobj
 2 0 obj
 <<
-/Type /Pages
-/Count 1
-/Kids [ 4 0 R ]
+/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
 >>
 endobj
 3 0 obj
 <<
-/Type /Catalog
-/Pages 2 0 R
+/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
 >>
 endobj
 4 0 obj
 <<
-/Contents 5 0 R
-/MediaBox [ 0 0 595.2756 841.8898 ]
-/Resources <<
-/ExtGState <<
-/gRLs0 <<
-/ca 0.035
->>
->>
-/Font <<
-/F1 6 0 R
-/F1-0 7 0 R
-/F2 8 0 R
-/F2-0 9 0 R
-/F3 10 0 R
-/F4 11 0 R
->>
-/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
->>
-/Rotate 0
-/Trans <<
->>
-/Type /Page
-/Annots [ ]
-/Parent 2 0 R
+/BaseFont /Courier /Encoding /WinAnsiEncoding /Name /F3 /Subtype /Type1 /Type /Font
 >>
 endobj
 5 0 obj
 <<
-/Length 4319
+/Contents 10 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 9 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
 >>
-stream
-q
-1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
-q
-1 0 0 1 51.35433 779.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F2 12 Tf 14 TL (QA Lab Brasil) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 749.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 4 Tm /F3 20 Tf 24 TL 170.7135 0 Td (Python para QA) Tj T* -170.7135 0 Td ET
-Q
-Q
-q
-1 0 0 1 51.35433 724.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Lenguaje de programaci\363n legible con fuerte ecosistema para automatizaci\363n, APIs, datos y utilidades.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 714.3701 cm
-Q
-q
-1 0 0 1 51.35433 688.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Por qu\351 QA usa Python) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 669.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Python se usa para automatizaci\363n Web/API, scripts, generaci\363n de datos, an\341lisis e integraci\363n de herramientas.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 643.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Instalaci\363n) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 611.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Descargue del sitio oficial. En Windows use la opci\363n del instalador para agregar Python al PATH cuando est\351) Tj T* (disponible. Valide con python --version y pip --version.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 585.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Si PATH falla) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 566.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Localice Python y la carpeta Scripts, agr\351guelas a variables de entorno y vuelva a abrir el terminal.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 540.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Entorno virtual) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 521.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Use python -m venv .venv para aislar dependencias. En PowerShell active con .\\.venv\\Scripts\\Activate.ps1.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 495.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (pip y requirements) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 476.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (pip instala paquetes. requirements.txt registra dependencias reproducibles; instale con pip install -r requirements.txt.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 450.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Fundamentos) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 418.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Aprenda variables, tipos, condiciones, loops, funciones, colecciones, m\363dulos, excepciones y OOP seg\372n el) Tj T* (proyecto.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 392.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (QA en la pr\341ctica) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 373.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Combine Python con Pytest, Playwright, requests y otras bibliotecas manteniendo secretos fuera del c\363digo.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 347.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Consejo de QA) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 328.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL /F4 9.5 Tf 13 TL (n) Tj /F1 9.5 Tf 13 TL ( QA Tip: programar para QA significa entender y mantener la automatizaci\363n, no solo copiar scripts.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 302.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Recursos oficiales) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 283.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Site oficial: https://www.python.org/downloads/) Tj T* ET
-Q
-Q
- 
-
-Q
-
-q
-0.0 0.0 595.2756 841.8898 re
-W
-n
-1 0 0 1 0 0 cm
-BT
-/F1-0 12 Tf
-14.4 TL
-ET
-0.843137 0.901961 0.960784 RG
-0.6 w
-n
-36 815.8898 m
-559.2756 815.8898 l
-S
-0.070588 0.207843 0.356863 rg
-BT
-/F2-0 8.2 Tf
-9.84 TL
-ET
-BT
-1 0 0 1 40 821.8898 Tm
-(QA LAB BRASIL) Tj
-T*
-ET
-0.356863 0.45098 0.564706 rg
-BT
-/F1-0 6.8 Tf
-8.16 TL
-ET
-BT
-1 0 0 1 398.216 821.8898 Tm
-(QUALITY ENGINEERING \174 DOCUMENTO OFICIAL) Tj
-T*
-ET
-q
-0.848048 0.529919 -0.529919 0.848048 297.6378 420.9449 cm
-0.08 0.21 0.36 rg
-/gRLs0 gs
-BT
-/F2-0 42 Tf
-50.4 TL
-ET
-BT
-1 0 0 1 -164.493 0 Tm
-(QA LAB BRASIL) Tj
-T*
-ET
-Q
-0.843137 0.901961 0.960784 RG
-n
-36 24 m
-559.2756 24 l
-S
-0.356863 0.45098 0.564706 rg
-BT
-/F1-0 6.6 Tf
-7.92 TL
-ET
-BT
-1 0 0 1 40 14 Tm
-(qualityassurancebrasil\056com\056br) Tj
-T*
-ET
-BT
-1 0 0 1 212.28 14 Tm
-(QA Lab Brasil v2\0562 \174 ES \174 Actualizado\072 septiembre de 2026) Tj
-T*
-ET
-BT
-1 0 0 1 514.547 14 Tm
-(Pagina 1 de 1) Tj
-T*
-ET
-Q
-
-
-endstream
 endobj
 6 0 obj
 <<
-/BaseFont /Helvetica
-/Encoding /WinAnsiEncoding
-/Name /F1
-/Subtype /Type1
-/Type /Font
+/Contents 11 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 9 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
 >>
 endobj
 7 0 obj
 <<
-/BaseFont /Helvetica
-/Encoding /WinAnsiEncoding
-/Name /F1
-/Subtype /Type1
-/Type /Font
+/PageMode /UseNone /Pages 9 0 R /Type /Catalog
 >>
 endobj
 8 0 obj
 <<
-/BaseFont /Helvetica-BoldOblique
-/Encoding /WinAnsiEncoding
-/Name /F2
-/Subtype /Type1
-/Type /Font
+/Author (\(anonymous\)) /CreationDate (D:20260922123400+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20260922123400+00'00') /Producer (ReportLab PDF Library - \(opensource\)) 
+  /Subject (\(unspecified\)) /Title (Python para QA) /Trapped /False
 >>
 endobj
 9 0 obj
 <<
-/BaseFont /Helvetica-Bold
-/Encoding /WinAnsiEncoding
-/Name /F2
-/Subtype /Type1
-/Type /Font
+/Count 2 /Kids [ 5 0 R 6 0 R ] /Type /Pages
 >>
 endobj
 10 0 obj
 <<
-/BaseFont /Helvetica-Bold
-/Encoding /WinAnsiEncoding
-/Name /F3
-/Subtype /Type1
-/Type /Font
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 2062
 >>
+stream
+Gb!#\bAQ>u']&X:mP5en(m,I(R')Ug9Mlot1JNaE]O<)*iBSS%4d&CaO7/bfbB>7C)hf)&Jln]phT%Y>hQ(T&nBHaGGsugt7i.dXEC"dZ`$6&Fh)0Vl><FK>O9Ib)M+*p^Yp:+^YCr@p_CfBA3"JDF8JX*"b)!&d,+(p=.,M%jM^2mY#dUR\8]JUm#Z=o</.%'udn1O3//Ej.`FarS/BMGdO.+Z'B*fA6@=<AM,*o)gUY1?H-/Z3nYE]J50qO54CS0Z=&7I+JVf,Ve52`MfD0!&>/C!_/LX.])T<3M2\9N8-5iV<nN".Q"==+7m![]66E.^rJi=n8<8f3Ul,QYki7;#s[J"jQYFSF)LAjI'N1aOIm>\(WF,a$ljOA-McN:`Ei1gt)2"[6JBUs/UEJZ^Z0kj%ocgL%.nNCCd]V[1=URYjqeFuUf)9"NnN^f`"/3#_$]Bt@CBA66cch&*cX2O0"Z9L<3&L<LmF/<W;bddOq%/8ZOAYV_(r'ekH2OBY@(h>Y2I(/6fQ0s8=d3.tB''[,4r#]<:[+=*/@Vjko/Hb*rkCJ(>9M>3Cc?Qc'\]4C<("H?sq10$Qk&17"'VaW;phK:-;aBSCPo$k](#-r3057SgsJF3b*]6WcbSY]LIMDcH"^Un:Nnng<RHGIj7gJ>iL+A"j)OeH#&R?@M*r6B@DH4JL2!tD+$r9RVA<Nj,O.Q#\8>;`EY\QOZ,BW9K3F'i\)&^3VGRnf0m?#/.h=)&.>opr-_BDu(!FAA/]^UE<)W6VgC8pt>E;lE$lC^6Rk",il#]of&qDF_EBEc5AE$8<DC^Ms]GoudmWJ4tBlBZ09D2g9M`I'u'+T2+6R*XL^.!l;W&+IES#@p(!djRk=pe^F?Is$U#2"H"R\TY@;(GD"SXq8Xe>a)Jmm8.S&i\XlsUl62J&d@ietr<30^V`&Heh#XI>[^qmqK*;?tkG7H"N-K%:2eb%Ue#RcK3^m]6rhpcT`b=,+UEC>oIY_R$SdaU_dhrB'(,#&+n)6<$pL&$:9&1P3=@W<ZCuO,`qkNh!WZ5Dqd#GJQ!ie'OXAqignhNS0fD^%TG)OHIHL/5SrGZcHo('Z_i?!'blCr5N[WJN_0,P&V#,!&+Ng&oh\C,Vsn=Tgff#@qn`jVEf2l_>X9l$9LXnTR7Vbe5GP$D#]#!t!8CpF4Ge2QF,DgVGa>+CKNrNf#`6\Yi'Zp][5'gFn8c8F2#ZY;HW_8G+uBm-f)la\\N8FJ(if00ieIZMo7D5eH7[FVc'Lse&#BY&1:]"*7=AP"B?bk"r-flB)8]3O3Q\m@!BrE[rf<k&!_]LOF.TD(m6PNBJ92;$=?Vqs8ae+3hc7RI"`Mlr+OOpZ/Tl?*>tmmP1,D]KTokaI$E)c*Q0itd&,B^+^ES.SSf3t#e.0BmoVh8.,3bJep<__aInYb-8H..<]g!n$L%<E9^EWM[iWjg7kVX;[kRg=2PE2_q280Ot&AVp`*o+*0mA[nE9qs/:=Q/,I[YVn_?)*cHS1^\r>.Ek,A.M6Nf=;K2mD?Zk59,EN0AQ+$18V%"Z/[UX=OI2p3K=,1&q-`h5.*En)d)jk7q/p5p>dnQfJ?Q-7s`3lL"(4D2`'[kDmjBu5jF'McR%EW(h-lfOb2qee-IMDHI.OcIt194oj0+J^VEP_eOAXk7UjqL/f743lUe^n:rfVQFK.UA8[XE9iTp5bQh*9'?OXkKBGa:U\DY&mKsPR>;c)I0HX\Z4I9Rb?&l`g6]jfhCk*Z]qoT58d`.pgKL=>huBV<)BCXbTQIjCkq_WFM*Jf]'XY9XO"A>mE;X*>,@"[s6@Y?nZgc=L+hQmk%LTm)D9(^+;EqZeT"ESl?%(Uc[oOhcZm<&`j:^i>`=l6agD!S.F*]-J5tKOh[_fl7<#is(4lcR3O4>t/#9kLVJd0B4_*]j#$aV>SUE1djc^0pq1aZWHpO>ocl'Zj;0;bCl=uOgT]]&0Z8/OL9>5+&q`H1@M;FDf>DHo/)=&2BJnCh0SAP^K#WM,jfX!<cG]KRJ*`I.TU#%l=hUB-`%T>K;GN>2YOZk&Eq'VI%P8=/unWt`H~>endstream
 endobj
 11 0 obj
 <<
-/BaseFont /ZapfDingbats
-/Name /F4
-/Subtype /Type1
-/Type /Font
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 1982
 >>
+stream
+Gatm;968iG&AII3m,[5<*0^H\^"I,RAgT<R@\pd5!gBhs%nSGtWC3<VpjO>7P'.gLc,fV"&d2SYhd`qPjPcI"Y?=G=^8>7dkJRP+DhnWLT_3YX]3]ng0e`3E)A*?:O/%e=jF1RDRoQj''?7R1!fGH_Kmjk8\V^P(M'#.W=L!`.-9Nqeb_oE^a.AXU:!-qKT0A8\T$JT(-sOq`4D&ROqJN?J9Q1bgJK=HR-R)qi_Gcn$Qq"AAeS2*eK`U55L_oYLc91&U@buMSg#mn!VQhl+@NLu`1Mo=Hq0TKSea;YaeI'+P(PqcA?s=E?4EsPY4Q$T2;MJJ=>S86*`.AP"X@kVMGkR<OGI2h\Ahu+6_B^9O!k_+@SVVo;)'L"Fn;6BuKHt/$*-gnmS:tCo`sD>:m$u?cSR&sV^C1kh$_9[Fr[3Ql_^Q(nfL8B'%cVJo$LSEj3a(Zi7rPGfY*?6'g+5T;55/QZ=HW`2S1>%802:ZZ+0187%!X=[OA6)l![be':dLF48<!ctAmp@:d!OguX(XW=53i2_LWD`6/EAp]Oce7;DIoRNU48$<,3b.BdDT>'cS=olkerUKc=9!-iWM5u'J;`_Jc"XqM!^>o>eJpl?;FqlP!=4rkW;@A-)m/18ZL=-:0mZ-QaEM>5ePL4]IjntMCs)>Xf87b<mo$p;p%dVUGn`De<n)ar[O247TsY(8_pAICDF:$Dp,^GqfA;b)BT^fml.Hs2D<.OVCPi<)b-H!X]t&(-.?&H:bGtb)E3iF9UeX3,c_]a\K\ShC*P=Pl__'F)noqY5^XP@5Fc,/HicF9_"gQ/bW#h0bb>=Z0W.(XT,Zf%";nO(4-d2X#F<@#=[oZ?4L0H82]>BQi7G/Qa!hSsNn,kS^@FWt;$i2hWY?1gi`]s*?Oc_bs3a`=gdH94/'=s9<L%9$J=><4pH[VR\KWgUijF;Iik8dm%\/,F([kC-.n`9c&7e'c7<`C[G!XKQY0@"F7ZhqahoPPQ`p\2N.bT@-.mMrp$dT78bY:5%p3a_c)B[AY9e37a<m6f7EANtopBZhjagr*E.jUYL@3Y'MeJN!7.!=U%-t(pGR-TaJ7SXr'g;o-4dH(fSKuW^:djQ/pF7WFbnJ\fG=J!VX>b`B3%jRQ]:aI)ejbC4L0_PLL_^'Z!lS.mi`q>$C3*?QBU#Ks?'kOCda1X@-]moMK-t=q/$*nP85">78Y".dYRQ%N#eEL4K-Q.GU<NBl=.R&EP;E(K;kFsm!Xj1L,8pfI<o%FsY9iOor(\=u-dhXeC]RA8R;"/OKe!E&Wf0Kcrb5*&U29Kh6C(GM-9?(^OeZecXU<1#s1.fB@*abB%is?EPq/DV0-a,n5JJR39B`t\#RP`l$Y[+O.(0q4Y'@]6qgn9te6]-=8q!l;m\`j^X6Ya/a*HsPZZm0N=RD1UIo[Vd(QsQdd<k9_#hN0bIJu)FV22_">AB5"`m6kP<RP72QXp:g3R)E"?^A'[IgraGN,]__jVUAsud5i"CDY7B#j,dJ.b^056'J<?_c^2d2I"2D&mQ[fS57*@IJQg[H'^-B<Tn7"E+F-.@5=gf9rV$Ri@.(,]>,aZT-+OFspuoSW^Mca`lC+D\]75?<([JQ1g(N^YG>%5K22#1f2K5Z,UZh'XJo^p#Ic*@V)!=C6lpH>Mk;jZ^qhqfRT?l[Jip_2'?._nX41R"9\XY9Be[2KYQjrEI[Fs#+p$J"8BOrquqncn%53mPDID6]fL/tihe8_![[^Y\[\[INI[-fbRO/[']dW$cGf1Ub:K11EBR9<h)r<4jXTcaK./:7GL;>`8g_G?2:A*[#qCANl"aGp3n,PHbjfd]ra<>:2<]>98I0Q"!g?JKnuHZA`,'ohaOC#jHPlju.iB,Vna*3TBHs5.FD#Jors!b]"E-L7ga2Wu4p8$ASNZ$=2aY+@5G?/L!*H0*)@BQ`^6:?J/#e[r#0gmDL,oiC_MaX3e^HQrTfq:[l[)"'m%@VGEV,:<QE~>endstream
 endobj
 xref
 0 12
 0000000000 65535 f 
-0000000015 00000 n 
-0000000054 00000 n 
-0000000113 00000 n 
-0000000162 00000 n 
-0000000479 00000 n 
-0000004850 00000 n 
-0000004957 00000 n 
-0000005064 00000 n 
-0000005183 00000 n 
-0000005295 00000 n 
-0000005408 00000 n 
+0000000061 00000 n 
+0000000112 00000 n 
+0000000219 00000 n 
+0000000331 00000 n 
+0000000436 00000 n 
+0000000640 00000 n 
+0000000844 00000 n 
+0000000912 00000 n 
+0000001193 00000 n 
+0000001258 00000 n 
+0000003412 00000 n 
 trailer
 <<
+/ID 
+[<c8a8dc39a24f3eba2ef3cef59b26383b><c8a8dc39a24f3eba2ef3cef59b26383b>]
+% ReportLab generated PDF document -- digest (opensource)
+
+/Info 8 0 R
+/Root 7 0 R
 /Size 12
-/Root 3 0 R
-/Info 1 0 R
 >>
 startxref
-5492
+5486
 %%EOF

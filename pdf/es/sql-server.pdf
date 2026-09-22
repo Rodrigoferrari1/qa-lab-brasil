@@ -1,340 +1,93 @@
 %PDF-1.4
-%âãÏÓ
+%“Œ‹ž ReportLab Generated PDF document (opensource)
 1 0 obj
 <<
-/Producer (pypdf)
+/F1 2 0 R /F2 3 0 R
 >>
 endobj
 2 0 obj
 <<
-/Type /Pages
-/Count 1
-/Kids [ 4 0 R ]
+/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
 >>
 endobj
 3 0 obj
 <<
-/Type /Catalog
-/Pages 2 0 R
+/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
 >>
 endobj
 4 0 obj
 <<
-/Contents 5 0 R
-/MediaBox [ 0 0 595.2756 841.8898 ]
-/Resources <<
-/ExtGState <<
-/gRLs0 <<
-/ca 0.035
->>
->>
-/Font <<
-/F1 6 0 R
-/F1-0 7 0 R
-/F2 8 0 R
-/F2-0 9 0 R
-/F3 10 0 R
->>
-/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
->>
-/Rotate 0
-/Trans <<
->>
-/Type /Page
-/Annots [ ]
-/Parent 2 0 R
+/Contents 9 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 8 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
 >>
 endobj
 5 0 obj
 <<
-/Length 4812
+/Contents 10 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 8 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
 >>
-stream
-q
-1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
-q
-1 0 0 1 51.35433 779.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F2 12 Tf 14 TL (QA Lab Brasil) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 749.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 4 Tm /F3 20 Tf 24 TL 191.8135 0 Td (SQL Server) Tj T* -191.8135 0 Td ET
-Q
-Q
-q
-1 0 0 1 51.35433 724.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (SQL Server: concepto, aplicaci\363n en Quality Engineering, primeros pasos y referencia oficial.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 714.3701 cm
-Q
-q
-1 0 0 1 51.35433 688.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (\277Qu\351 es?) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 656.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (SQL Server forma parte del ecosistema moderno de ingenier\355a y calidad de software. Esta gu\355a explica su funci\363n,) Tj T* (d\363nde encaja en el flujo de entrega y c\363mo un profesional de QA puede utilizarlo con contexto.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 630.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (\277Por qu\351 QA debe conocerlo?) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 585.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 29.5 Tm /F1 9.5 Tf 13 TL (Conocer SQL Server ayuda a QA a colaborar con desarrollo, DevOps, datos y producto. El objetivo no es memorizar) Tj T* (comandos, sino comprender c\363mo la herramienta afecta la testabilidad, automatizaci\363n, evidencias, diagn\363stico y) Tj T* (calidad de entrega.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 559.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Primeros pasos) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 514.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 29.5 Tm /F1 9.5 Tf 13 TL (Comience por la documentaci\363n oficial, confirme los requisitos previos e instale \372nicamente desde la fuente oficial.) Tj T* (En entornos corporativos, valide pol\355ticas internas, versiones soportadas, permisos y variables de entorno antes de) Tj T* (configurar SQL Server.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 488.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Aplicaci\363n pr\341ctica en QA) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 443.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 29.5 Tm /F1 9.5 Tf 13 TL (Utilice SQL Server en un ejercicio peque\361o y reproducible. Registre el objetivo, configuraci\363n, resultado esperado,) Tj T* (evidencias y problemas encontrados. Despu\351s conecte el aprendizaje con un escenario real de pruebas,) Tj T* (automatizaci\363n, integraci\363n, datos o entrega continua.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 417.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Buenas pr\341cticas) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 372.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 29.5 Tm /F1 9.5 Tf 13 TL (Prefiera documentaci\363n oficial, no exponga credenciales, versione configuraciones cuando corresponda, mantenga) Tj T* (dependencias actualizadas y documente decisiones importantes. Una herramienta sin contexto no sustituye una) Tj T* (estrategia de calidad.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 346.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Cu\341ndo utilizarlo) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 314.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Utilice este conocimiento cuando el riesgo, la arquitectura o la etapa de entrega requieran este tipo de validaci\363n.) Tj T* (Confirme objetivo, ambiente, datos necesarios y evidencias esperadas antes de comenzar.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 288.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Consejo de QA) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 269.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Relacione siempre la pr\341ctica con el riesgo del producto y la evidencia necesaria para decisiones de calidad.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 243.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Recursos oficiales) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 224.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Site oficial: https://www.microsoft.com/sql-server/sql-server-downloads) Tj T* ET
-Q
-Q
- 
-
-Q
-
-q
-0.0 0.0 595.2756 841.8898 re
-W
-n
-1 0 0 1 0 0 cm
-BT
-/F1-0 12 Tf
-14.4 TL
-ET
-0.843137 0.901961 0.960784 RG
-0.6 w
-n
-36 815.8898 m
-559.2756 815.8898 l
-S
-0.070588 0.207843 0.356863 rg
-BT
-/F2-0 8.2 Tf
-9.84 TL
-ET
-BT
-1 0 0 1 40 821.8898 Tm
-(QA LAB BRASIL) Tj
-T*
-ET
-0.356863 0.45098 0.564706 rg
-BT
-/F1-0 6.8 Tf
-8.16 TL
-ET
-BT
-1 0 0 1 398.216 821.8898 Tm
-(QUALITY ENGINEERING \174 DOCUMENTO OFICIAL) Tj
-T*
-ET
-q
-0.848048 0.529919 -0.529919 0.848048 297.6378 420.9449 cm
-0.08 0.21 0.36 rg
-/gRLs0 gs
-BT
-/F2-0 42 Tf
-50.4 TL
-ET
-BT
-1 0 0 1 -164.493 0 Tm
-(QA LAB BRASIL) Tj
-T*
-ET
-Q
-0.843137 0.901961 0.960784 RG
-n
-36 24 m
-559.2756 24 l
-S
-0.356863 0.45098 0.564706 rg
-BT
-/F1-0 6.6 Tf
-7.92 TL
-ET
-BT
-1 0 0 1 40 14 Tm
-(qualityassurancebrasil\056com\056br) Tj
-T*
-ET
-BT
-1 0 0 1 212.28 14 Tm
-(QA Lab Brasil v2\0562 \174 ES \174 Actualizado\072 septiembre de 2026) Tj
-T*
-ET
-BT
-1 0 0 1 514.547 14 Tm
-(Pagina 1 de 1) Tj
-T*
-ET
-Q
-
-
-endstream
 endobj
 6 0 obj
 <<
-/BaseFont /Helvetica
-/Encoding /WinAnsiEncoding
-/Name /F1
-/Subtype /Type1
-/Type /Font
+/PageMode /UseNone /Pages 8 0 R /Type /Catalog
 >>
 endobj
 7 0 obj
 <<
-/BaseFont /Helvetica
-/Encoding /WinAnsiEncoding
-/Name /F1
-/Subtype /Type1
-/Type /Font
+/Author (\(anonymous\)) /CreationDate (D:20260922123401+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20260922123401+00'00') /Producer (ReportLab PDF Library - \(opensource\)) 
+  /Subject (\(unspecified\)) /Title (SQL Server) /Trapped /False
 >>
 endobj
 8 0 obj
 <<
-/BaseFont /Helvetica-BoldOblique
-/Encoding /WinAnsiEncoding
-/Name /F2
-/Subtype /Type1
-/Type /Font
+/Count 2 /Kids [ 4 0 R 5 0 R ] /Type /Pages
 >>
 endobj
 9 0 obj
 <<
-/BaseFont /Helvetica-Bold
-/Encoding /WinAnsiEncoding
-/Name /F2
-/Subtype /Type1
-/Type /Font
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 2137
 >>
+stream
+Gatm;>Ar:T'7JbF0op&-0V\"#94=`4;'8,ffR:pN/TE^+,]QOMG#E]Pr]<KL/oH&>U`1Q824*;Bc8frX<`4Gil$o$/dDZj6q-B-ll"WjH(,9+.Vfu43gPlJr5Sbf*=NW0h8>Q/:,IcF7Rj8eJ#%:2.ObtDV@VRf(.)J*(dq,Z<A>oieTNLU)$5$i8OQ0%YZG:BCXQ2YmdP.J;ZRj3lA47.$;=ds>74(Bl0HHa?Z,guhcjX>h.2SrS>.mL:+cA$Ym7X5\_C,k[e!H=+"4!@e%T)J&Btho@pjD8nZW1nWCplQHOEg[GURhZ0.h^/q+Mn3kpcolK_^PSP-O?<$2usaq%DDU_rY&Snd+-IT>6J)jj>i&N`g[%bKisqI,8>n=Eb9V4+jWQJ`;s=KMBjY3+Tf>A^S$K\kEg\4?O)K\,V0Oaf/sS=A<%l`j!a`p5lrKm:e"rV6.Mk47do'%Bsi,]h5s'+Oc6T%6s_#-\5s7i6'9Wo5;k*q(^NO$!_rh-@M'rfV4'$/J0s8CcB8n1T_C8EWq:7s$$?[/#nVcH8>OIrbc#<gE2k]OdJo$`$M6h&dEGlS@8%g(,_h\T-T4BG]]"#Ipl?L`#q4s"bbiV[/tj)>/APD>64W4ZU0!['hp\EFGM5cQ?9d6(&O$[Jb[8.&X>('M#$DEjKE\FYM2_8VkW@;9L`2-]]EAm;]u'RQQ*r:;^:.aNp9c>LBg,%$e<4_6&Ug1shO-hpgX0>Mq#-2BhJ/tCdO;D*K9ob(+QUr)UaXAuY7&rd?h`4lH]4c*iX11kcXE,f*'Ql;5^0sa!A9O"OQnNE+kO*/Y#390lSV\R-=,?NFM5\'@k6qMMe,5@F_e>dhF&O%,tOt6`?05GgYXNZ"hj5J7D!!`UVD-;W#MVG^"Nt`J]KXIr$rfn8a8c"ZO":ILDq=2\%U6P+,Mp7QA-/+gTBn&D,ni-:iuS#j3>r?gAI^ND-8jr^Xlh>HOSqCoK;/*&YG$P9@Fi<)ca<d)I.5^og,:_HPnN1r.#-Ka"-TH:*Wo_mAa>d8U0&9_mQ6+!18)La#RKAktLE0^>F.L]QnRJIkM^=U(!_$JV2j%\+T(4mp<\U?.o+`[]8Tq9_6AB+PJ]k"bkOm:u?#a,S(<`<KJP<=0#J,#f.G,*T(_;H?5(iSjBX+[=L9@@L^2&2=)"DT^PiM?CC`8&Xl#?IR,bUH;^+)?le'`:'&K6Zp<WZe.DNi`XsT?kp5kD%(t!hWGb/#823"+@(!SS:,u[<Q0slX[]X'"^ZiAFp>DWB]m"-(F#B2\;L2E.]tVn-\[)FJ=j#Z&UDrO/ZC+>8<Yj#64R8Dh?suj;5<pN%Zu`6%/1+8!?/c$g]nS_RNV=sqPG-#o4V""c1Ioo<VXd0k.#lrgr-?n`dQTM#K/XeoPrR'\QV&h#P=alRK-'eC\1%<<hYj6&3:A.cde\QDWiFBI(L,o<9f8S)I63hAYTgmG*S72Q'XXa`;&6TR+cW[JBF25A9ke3VC@;uFQl1g:`Kfll7'WOQjrJN`ct[Gm+;>P$$UAW?WY`G6/0=(V`N+@Q)DfYOGKLfB-3=U6=N415E/ljlJ$7\DdU.ml#`V5*c%/_+S4k0j&#Q<hg3G5B:5GODc<j$[B#P)R&,5I3h,G3q)SNl4XotjB1u&QZBVkAhh.R_nk^l"_*Te'6H#B#Ij(tDtmKZL26Od)`_HdCiZ#E0*acDI8K,_JD&nVF+JfaS([X7a[=g`2`+&R=`JW8H0l94F8e1J&ErRCSF3T/a'qO1FW^&*$tmT+9sJ$eeM`(3Q`*+Lp9-D-W&(l'K&dKRciF__F,iAphTj(.`VJ?]8&l#UISmH!Ti[[]jc8#lME0GXOi0B:81E1^P@JSssfV3V>5E3]";Q/6TR)24j.T"gHd_nNCEmb"d:F)VoDG\:Hg&G12DYZ7BlbqnZ*$cop\c)2Yt@DKhqk[H5&BO5tn);EONU6,0Y,Ha^82r_Ol=:Le9AL9VCikmDDhnIf<VLj19js9!YCaWsp][#_YL[mqo;%=VF7o_nXjJN:>X1_\d#OtLq3bublHaC3IiqD2>P+J>U;h&"6M'l)"`)PMG&KZmimk-*u3qs>'C?[4p'%2"5d5#s<k^9JFdh$qp\gDg]"$;K/@Ti[</8b@s)jtF_~>endstream
 endobj
 10 0 obj
 <<
-/BaseFont /Helvetica-Bold
-/Encoding /WinAnsiEncoding
-/Name /F3
-/Subtype /Type1
-/Type /Font
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 1382
 >>
+stream
+Gatn$;0/Kj&BE]('`49SUoG[OLr\SFG&AW;Q](>"?5/JAAH4^ld^mm<hnQB):4()o3f,Ws(0S9Hs6ZrlEI>^s?+!(e/,J?d5sj"79d4'bXfgo'PrpCPQX#b8YtTrt=2a\)=&@Np?(s.hK$0+111r(:)7<$ZRFGr:0=E2VE[Ee":Y$7,9+0$&DG!t!C&,T>H-1.VWCdqi-s0?H1i>2*UgSn<f\s?NQ5S.TPVe.L>H0"!g"%DuA"o4,aZ:^bQYA(=h&"6h#4+5%%\Ye=C!LAJI*VQ&C/rB(ZMoqNG^Q1JKE9g_20%PJ*]W)33$?*k#Ylm0cWR,q@b&o[c,EJcHD&fD\=2r>/$4ZM$o]KbaWaZ]*m0*?0p=fkTF7WTN5q.d;lUN:%s35>8XEd:DEhF!3m3>Y=<[fJX_"ME5D"dV7DJ8D$W]l^m[]<6EPmg>\rH$W%BeHU]$dQKMj0S]Tfhlq1W<!]?[bd33[);,c4NeZ"rWWi`730$$_ailTUErBLO.9F7$Sj73C]P_CkW.j@S-p>-tD]/176oU7"5llPFuj@6o2I7(o%5o=<(<[HVEM5d*PXUkVC)<`Q.UX^,\J_pmW1e:\[ltrp6CuSa@n">9CpEe@WPBg/2@Yp=7gLDD7@QQKDmOIdJUt)QGCFhH\O3%8Sl9qWPQ!$SAdm2?`n:3c*gQF2H\gq9J]SN6Wp1DU%,-)N34\lNc/_nlm&@I#;f]gUc89N'7JF%IS5CA31\k1@6(`*@t4))hN!%mE+:sO5Z&2$&Ei@EnuZbIW67>V+M3"o'DdK01a9!Btq8&0?'paYP-,5IC>JK:81,PEg$ECE30S*h3/@([j`VLer;?$R4Iqp8jMt9Q,(_9M)8;EVUZc1G1F)-!u27S-<L?m5QL`!J.@)je:7S7W:a$kkE3p@D8ot_pPgQuGIFfmiqtgi#@!0Q#<951[s6Xh>V,9&\amjhFY"h<@^,g`6qnMHZ!0/Sk^u"M"1^^KOcPeH2&U1G.0d*bG%1TA]7*!Wm9dU/5'lr.n:c<Mpg6=8?`r/AGIADP&iS!qUJtF2)u?mJmFhS`4nX">TgH"s>g^g[+43pnI8Qdu:51"[j(&/hG\r#^`eF-&FArEJA$TKM!6ae\Cq'&unr%33KE6,;bV9)]JL<uXJ+o<\VO^nD0Ror(#O.!&Yh?aeYuQq"c;nNA*?3b.6X%sZbf4Nm+([ORZ$5[8nGH[?+l]TIhJp]!VSd@U^s^pnNBOXcCq+akT0q85mIoc5FI^G$>1BNuEj_mmO$)U94G04%&F6B/FFg;4rb%bpZ/09.T#s4e6g`JM*i;<#O-.E,#AkGMR#*fCJU<0XW5lY&6i14ag="D"B/l]k^+t-'U&C;ILj;?jA3)q($VLC!cpl73~>endstream
 endobj
 xref
 0 11
 0000000000 65535 f 
-0000000015 00000 n 
-0000000054 00000 n 
-0000000113 00000 n 
-0000000162 00000 n 
-0000000468 00000 n 
-0000005332 00000 n 
-0000005439 00000 n 
-0000005546 00000 n 
-0000005665 00000 n 
-0000005777 00000 n 
+0000000061 00000 n 
+0000000102 00000 n 
+0000000209 00000 n 
+0000000321 00000 n 
+0000000524 00000 n 
+0000000728 00000 n 
+0000000796 00000 n 
+0000001073 00000 n 
+0000001138 00000 n 
+0000003366 00000 n 
 trailer
 <<
+/ID 
+[<9ab414a2675404e32a5df6f3c6d83616><9ab414a2675404e32a5df6f3c6d83616>]
+% ReportLab generated PDF document -- digest (opensource)
+
+/Info 7 0 R
+/Root 6 0 R
 /Size 11
-/Root 3 0 R
-/Info 1 0 R
 >>
 startxref
-5890
+4840
 %%EOF

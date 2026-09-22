@@ -1,326 +1,74 @@
 %PDF-1.4
-%âãÏÓ
+%“Œ‹ž ReportLab Generated PDF document (opensource)
 1 0 obj
 <<
-/Producer (pypdf)
+/F1 2 0 R /F2 3 0 R
 >>
 endobj
 2 0 obj
 <<
-/Type /Pages
-/Count 1
-/Kids [ 4 0 R ]
+/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
 >>
 endobj
 3 0 obj
 <<
-/Type /Catalog
-/Pages 2 0 R
+/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
 >>
 endobj
 4 0 obj
 <<
-/Contents 5 0 R
-/MediaBox [ 0 0 595.2756 841.8898 ]
-/Resources <<
-/ExtGState <<
-/gRLs0 <<
-/ca 0.035
->>
->>
-/Font <<
-/F1 6 0 R
-/F1-0 7 0 R
-/F2 8 0 R
-/F2-0 9 0 R
-/F3 10 0 R
->>
-/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
->>
-/Rotate 0
-/Trans <<
->>
-/Type /Page
-/Annots [ ]
-/Parent 2 0 R
+/Contents 8 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 7 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
 >>
 endobj
 5 0 obj
 <<
-/Length 4036
+/PageMode /UseNone /Pages 7 0 R /Type /Catalog
 >>
-stream
-q
-1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
-q
-1 0 0 1 51.35433 779.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F2 12 Tf 14 TL (QA Lab Brasil) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 749.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 4 Tm /F3 20 Tf 24 TL 200.1635 0 Td (API Tools) Tj T* -200.1635 0 Td ET
-Q
-Q
-q
-1 0 0 1 51.35433 724.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Postman, Bruno, Insomnia, SoapUI, Swagger/OpenAPI, REST Assured and when each category fits.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 714.3701 cm
-Q
-q
-1 0 0 1 51.35433 688.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (API clients) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 656.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Postman, Bruno and Insomnia help create requests and organize environments, authentication and collections.) Tj T* (Compare features, collaboration and versioning model before choosing.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 630.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (SOAP and contracts) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 598.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (SoapUI is well known for SOAP service testing and also supports REST. Swagger/OpenAPI describes HTTP API) Tj T* (contracts and helps documentation, exploration and client/test generation.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 572.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Automation and performance) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 540.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (REST Assured is a Java library for API tests. JMeter can execute HTTP requests but is especially useful for load and) Tj T* (performance scenarios; it should not be treated as equivalent to an API client.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 514.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (When to use it) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 482.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Use this knowledge when product risk, architecture or the delivery stage requires this type of validation. Confirm the) Tj T* (goal, environment, required data and expected evidence before starting.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 456.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (How QA applies it) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 424.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Start from the behavior or risk to validate, prepare data and environment, execute the technique or tool reproducibly) Tj T* (and capture evidence that helps the team understand the result.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 398.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Good practices) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 366.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Prioritize high-impact scenarios, keep data and environments controlled, record important decisions and review the) Tj T* (approach periodically to avoid redundant or outdated coverage.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 340.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (QA tip) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 321.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Different tools may work with APIs without serving the same purpose.) Tj T* ET
-Q
-Q
- 
-
-Q
-
-q
-0.0 0.0 595.2756 841.8898 re
-W
-n
-1 0 0 1 0 0 cm
-BT
-/F1-0 12 Tf
-14.4 TL
-ET
-0.843137 0.901961 0.960784 RG
-0.6 w
-n
-36 815.8898 m
-559.2756 815.8898 l
-S
-0.070588 0.207843 0.356863 rg
-BT
-/F2-0 8.2 Tf
-9.84 TL
-ET
-BT
-1 0 0 1 40 821.8898 Tm
-(QA LAB BRASIL) Tj
-T*
-ET
-0.356863 0.45098 0.564706 rg
-BT
-/F1-0 6.8 Tf
-8.16 TL
-ET
-BT
-1 0 0 1 399.3516 821.8898 Tm
-(QUALITY ENGINEERING \174 OFFICIAL DOCUMENT) Tj
-T*
-ET
-q
-0.848048 0.529919 -0.529919 0.848048 297.6378 420.9449 cm
-0.08 0.21 0.36 rg
-/gRLs0 gs
-BT
-/F2-0 42 Tf
-50.4 TL
-ET
-BT
-1 0 0 1 -164.493 0 Tm
-(QA LAB BRASIL) Tj
-T*
-ET
-Q
-0.843137 0.901961 0.960784 RG
-n
-36 24 m
-559.2756 24 l
-S
-0.356863 0.45098 0.564706 rg
-BT
-/F1-0 6.6 Tf
-7.92 TL
-ET
-BT
-1 0 0 1 40 14 Tm
-(qualityassurancebrasil\056com\056br) Tj
-T*
-ET
-BT
-1 0 0 1 221.4507 14 Tm
-(QA Lab Brasil v2\0562 \174 EN \174 Updated\072 September 2026) Tj
-T*
-ET
-BT
-1 0 0 1 519.6818 14 Tm
-(Page 1 de 1) Tj
-T*
-ET
-Q
-
-
-endstream
 endobj
 6 0 obj
 <<
-/BaseFont /Helvetica
-/Encoding /WinAnsiEncoding
-/Name /F1
-/Subtype /Type1
-/Type /Font
+/Author (\(anonymous\)) /CreationDate (D:20260922123400+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20260922123400+00'00') /Producer (ReportLab PDF Library - \(opensource\)) 
+  /Subject (\(unspecified\)) /Title (API Tools) /Trapped /False
 >>
 endobj
 7 0 obj
 <<
-/BaseFont /Helvetica
-/Encoding /WinAnsiEncoding
-/Name /F1
-/Subtype /Type1
-/Type /Font
+/Count 1 /Kids [ 4 0 R ] /Type /Pages
 >>
 endobj
 8 0 obj
 <<
-/BaseFont /Helvetica-BoldOblique
-/Encoding /WinAnsiEncoding
-/Name /F2
-/Subtype /Type1
-/Type /Font
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 1730
 >>
-endobj
-9 0 obj
-<<
-/BaseFont /Helvetica-Bold
-/Encoding /WinAnsiEncoding
-/Name /F2
-/Subtype /Type1
-/Type /Font
->>
-endobj
-10 0 obj
-<<
-/BaseFont /Helvetica-Bold
-/Encoding /WinAnsiEncoding
-/Name /F3
-/Subtype /Type1
-/Type /Font
->>
+stream
+Gatm:9lo&I&A@[:m*X'+#QPM8R%EY<RQ-L+S622N+VGF8O9?#CEnoo?mt-]N3cQ-68!_2iQb`%DICg"t5k2b3^L[dl[=hV20OPldCL@H?@/0i[/>Kh5d"8PI"d1R*V#j1+IPS-sW/F&=(o'3EX@S2(707=jEPh<,8WU;,b#6)*/S==SK#AP'3Be-&UZ:pY-)WIh3JT@NRTN%b6H$^jAE/VZN2)/\o:.0RcWL8^KZR+5Th`$C&d_tMcXuJG,F$4t5C,Ot%N*READ9IgNi"7tan_1mO4>_T3a0:SYjhG(MN0Nd>9ZNX.,fLon-.QFL0bEr/hhNB&qO"5>IaHMq&:mbL?4>tRa@"N49r_:Hmk(<Sg@heU"DkC'@X8nGt.?UTcmu:KIGJ:!dqMjJud4a\(;_a_%Ik7Zj=S<4Qiu:i\8G?Pl1>"P`^R(GSanPNV3nPVVC<0.BC)*4B*B.3/`@K"]c]9.M>%**'V,s3g_We8Y.,r(-+nk(Getl[m,F5P'tSCMGMmnBoK"=I4bcS$,RI6J.!P<bE%pN/%Dn5km$'Q!&arX$&<3R/j!GTfZ#,OAnlh$+O6hfG7bj&5DDKJ$./jE/.];\Yuqq;+/A%N_QncObF<9L)Ul1uU6goWMu]J>_"1nuUiV?FV)6B#(O1L'JTXZ'^[Vi-`==^_4<6L["OIrD`q`YY$S:;aR0?i>cEs..$b/("s)O+VpN!T;p=72iFdUY[5/4X6_PM=+<>ETXK)8_oTO_1m.D=FPqZ(F!*I5TBPF84+O3a\\Ji?Kug$sBGTA?^dA#b*BZI,]DmK@&Tq]@]XoRnEL2*9;*C=VrQ>(r4DX6p2R]Gjoh]9/Z`7tKs6g7#/R^_\*uO6-'R9<Co)<Z[F7-r&0h170)5f;@r3<Nns=a;"%NYN<pZBd7GZFngp%%]u^0""Uc;\>QEfEG.Lh5or8:TI>u00mNTcnn&#2Ra,,?SjK4aq>#j%blh\bpSqrcCM3&s^llNibUL0SV#l\tL7/=BZ>g*(d.bO(Y@2OopCd^qEi%;:jl"s8Gr*i.p?NmLd95ZJ#F-`ncjV.[$W,aWAkqWo`Erc[YYgtF]fL^:+m:SXjQq933-`mn62/N2)0&,<okU3l0$ZuO,;hht-+oRK$&r7o)2&F?%7Gkii`*Vk;gDqOk>:Z^WH,eJ%@eFdG;]0R7Cc`i=uOV-$r3p[-9.H]D2bR1:E*Q<3bc!A^Ou7<C,7[]FN3?;JfjXdpRp]]6#U=e'S?oo!_6BTJ`A$!T'&()o!<?6=#_!-,ZXnD3WU5\kMu4C#5'iO&VdYieOJrOWSX(Y-p:]"^7q(MZIU'c'Br$+`>o<+Z-fM/&)b+UlpP!OJF:)GLE787!@cCGj2nlWD7[-`mHA(jA@%XrpYt,0!o,.nqJgU31g8C0="6&C?@Xc9oqr+86BgRMNAGQ47c0V\^e:$\HYbZc&ufkUS5Fc'?!qNoY/i+nbH47fn2KhSRVbiZ=s2:/49:N)T!NDRhr"_YT^FX3nCReeBq$M>(Lt5D'i+=uY-K-rAR`m8ddMm8k=W0:F;:CK5-,8QCn@=\ANJl)V;peDPb3rY\&P'@Ku4)?X:l(ASu-/5&Y[QSmDJUoeslN4`le]!jeRG8po7<n,^"!K.#,?/'o&_F(59@0#HU<jXAF,YV8b[0)Hl,oh2cA[o3)e[X!k^9<-XN4.NPm<CNP7?/#4hC$@Of,C)#OQTH^$IS3S87oBSJ+rrK`P'-d~>endstream
 endobj
 xref
-0 11
+0 9
 0000000000 65535 f 
-0000000015 00000 n 
-0000000054 00000 n 
-0000000113 00000 n 
-0000000162 00000 n 
-0000000468 00000 n 
-0000004556 00000 n 
-0000004663 00000 n 
-0000004770 00000 n 
-0000004889 00000 n 
-0000005001 00000 n 
+0000000061 00000 n 
+0000000102 00000 n 
+0000000209 00000 n 
+0000000321 00000 n 
+0000000524 00000 n 
+0000000592 00000 n 
+0000000868 00000 n 
+0000000927 00000 n 
 trailer
 <<
-/Size 11
-/Root 3 0 R
-/Info 1 0 R
+/ID 
+[<9c967d319c3a651ff881b91a769ea523><9c967d319c3a651ff881b91a769ea523>]
+% ReportLab generated PDF document -- digest (opensource)
+
+/Info 6 0 R
+/Root 5 0 R
+/Size 9
 >>
 startxref
-5114
+2748
 %%EOF

@@ -1,340 +1,93 @@
 %PDF-1.4
-%âãÏÓ
+%“Œ‹ž ReportLab Generated PDF document (opensource)
 1 0 obj
 <<
-/Producer (pypdf)
+/F1 2 0 R /F2 3 0 R
 >>
 endobj
 2 0 obj
 <<
-/Type /Pages
-/Count 1
-/Kids [ 4 0 R ]
+/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
 >>
 endobj
 3 0 obj
 <<
-/Type /Catalog
-/Pages 2 0 R
+/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
 >>
 endobj
 4 0 obj
 <<
-/Contents 5 0 R
-/MediaBox [ 0 0 595.2756 841.8898 ]
-/Resources <<
-/ExtGState <<
-/gRLs0 <<
-/ca 0.035
->>
->>
-/Font <<
-/F1 6 0 R
-/F1-0 7 0 R
-/F2 8 0 R
-/F2-0 9 0 R
-/F3 10 0 R
->>
-/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
->>
-/Rotate 0
-/Trans <<
->>
-/Type /Page
-/Annots [ ]
-/Parent 2 0 R
+/Contents 9 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 8 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
 >>
 endobj
 5 0 obj
 <<
-/Length 4097
+/Contents 10 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 8 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
 >>
-stream
-q
-1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
-q
-1 0 0 1 51.35433 779.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F2 12 Tf 14 TL (QA Lab Brasil) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 749.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 4 Tm /F3 20 Tf 24 TL 173.4835 0 Td (OpenTelemetry) Tj T* -173.4835 0 Td ET
-Q
-Q
-q
-1 0 0 1 51.35433 724.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (OpenTelemetry: concept, Quality Engineering use, first steps and official reference.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 714.3701 cm
-Q
-q
-1 0 0 1 51.35433 688.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (What is it?) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 656.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (OpenTelemetry is part of the modern software engineering and quality ecosystem. This guide explains its role, where) Tj T* (it fits and how QA professionals can use it with context.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 630.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (QA use) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 598.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (For QA, OpenTelemetry may support validation, automation, diagnostics, data, integration or operational quality) Tj T* (depending on the domain. Focus on the problem it solves and the risks it helps expose.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 572.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (First steps) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 540.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Start with the official documentation. Confirm prerequisites, supported versions, permissions and environment) Tj T* (policies before installing or configuring it.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 514.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Good practices) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 482.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Use controlled environments, keep credentials out of code, capture evidence and version configuration when) Tj T* (appropriate.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 456.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Next step) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 437.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Practice with a small reproducible scenario before adopting the technology in a corporate suite or pipeline.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 411.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (When to use it) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 379.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Use this knowledge when product risk, architecture or the delivery stage requires this type of validation. Confirm the) Tj T* (goal, environment, required data and expected evidence before starting.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 353.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (QA tip) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 334.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Always connect the practice to product risk and the evidence needed for quality decisions.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 308.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Official resources) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 289.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Site oficial: https://opentelemetry.io/) Tj T* ET
-Q
-Q
- 
-
-Q
-
-q
-0.0 0.0 595.2756 841.8898 re
-W
-n
-1 0 0 1 0 0 cm
-BT
-/F1-0 12 Tf
-14.4 TL
-ET
-0.843137 0.901961 0.960784 RG
-0.6 w
-n
-36 815.8898 m
-559.2756 815.8898 l
-S
-0.070588 0.207843 0.356863 rg
-BT
-/F2-0 8.2 Tf
-9.84 TL
-ET
-BT
-1 0 0 1 40 821.8898 Tm
-(QA LAB BRASIL) Tj
-T*
-ET
-0.356863 0.45098 0.564706 rg
-BT
-/F1-0 6.8 Tf
-8.16 TL
-ET
-BT
-1 0 0 1 399.3516 821.8898 Tm
-(QUALITY ENGINEERING \174 OFFICIAL DOCUMENT) Tj
-T*
-ET
-q
-0.848048 0.529919 -0.529919 0.848048 297.6378 420.9449 cm
-0.08 0.21 0.36 rg
-/gRLs0 gs
-BT
-/F2-0 42 Tf
-50.4 TL
-ET
-BT
-1 0 0 1 -164.493 0 Tm
-(QA LAB BRASIL) Tj
-T*
-ET
-Q
-0.843137 0.901961 0.960784 RG
-n
-36 24 m
-559.2756 24 l
-S
-0.356863 0.45098 0.564706 rg
-BT
-/F1-0 6.6 Tf
-7.92 TL
-ET
-BT
-1 0 0 1 40 14 Tm
-(qualityassurancebrasil\056com\056br) Tj
-T*
-ET
-BT
-1 0 0 1 221.4507 14 Tm
-(QA Lab Brasil v2\0562 \174 EN \174 Updated\072 September 2026) Tj
-T*
-ET
-BT
-1 0 0 1 519.6818 14 Tm
-(Page 1 de 1) Tj
-T*
-ET
-Q
-
-
-endstream
 endobj
 6 0 obj
 <<
-/BaseFont /Helvetica
-/Encoding /WinAnsiEncoding
-/Name /F1
-/Subtype /Type1
-/Type /Font
+/PageMode /UseNone /Pages 8 0 R /Type /Catalog
 >>
 endobj
 7 0 obj
 <<
-/BaseFont /Helvetica
-/Encoding /WinAnsiEncoding
-/Name /F1
-/Subtype /Type1
-/Type /Font
+/Author (\(anonymous\)) /CreationDate (D:20260922123401+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20260922123401+00'00') /Producer (ReportLab PDF Library - \(opensource\)) 
+  /Subject (\(unspecified\)) /Title (OpenTelemetry) /Trapped /False
 >>
 endobj
 8 0 obj
 <<
-/BaseFont /Helvetica-BoldOblique
-/Encoding /WinAnsiEncoding
-/Name /F2
-/Subtype /Type1
-/Type /Font
+/Count 2 /Kids [ 4 0 R 5 0 R ] /Type /Pages
 >>
 endobj
 9 0 obj
 <<
-/BaseFont /Helvetica-Bold
-/Encoding /WinAnsiEncoding
-/Name /F2
-/Subtype /Type1
-/Type /Font
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 1876
 >>
+stream
+Gatm;gMYb8&:N/3bbH+*C[RA/93qt;LslDp;^X'k9Tpu`29D]:PnaE"pn$SA<23!a+WIY^eT0frS2iAM:(D_uq_os[DARDCa,(1-/;\_tUW#BE>g/dPb_[;\q8>D@"()]4m8$"?C0&Vja>eBs7mZ2lkt7"o=Wj(;?-hE!jg2a8_Ju<l]c^d%i&Dld6nE<2lhsE=\BGb@P1f8Z#:t\,CJBe$K!Tt8=;[!P_II#q,8q_a-clk`Ga?[Oa*8k]aZ[b6,@"UBXRAmg%'VU\ohb89d2:2CI#RmuCaHF\D#%t'`8_XOD/"N'-<hN2-@-a&!UhIi'n?Z<SGUNoTOLdFe\fX-[.p++n*FoR"HEmX@`$$@#i(9PP>_uhmt$Nn:HX:2$Nn_[+`euA`-W#:Ire8l?Z*UWG!C-3&X0Xk3<"],E96;=;dd:la.52[7=r.BP>.Q[k*8,rX/o:#cH=\e<TnH^E/B8\168ph:HD?D?Tu_,RP<[(cj-'B*-b/ua\bf?IfPIRIEnXL=/^?#"Y.9JAO,V`[KHXTRH-KcAL;l%gH'5XSEM%=4otT^&WPQL"%J,&Q6(p_pq[+m(b\"tSG(uk-k:OR]4I1]2AX[U$P+L.lNqsQ8EoD\V94M7<M<+b3hUf6J#NTs(ki5k^iZG-)>B[E6p6>3h#b.Zls'3Gi3EHFU3G<@PSX$Xe.7f-1/X=)dt*s\9r$jXbj*2E@oUuT>c+<`b:LcpS8,H2[DLs?O,&?"psA$J&CKjA+Wcp"+`9?77;[j1X^a_$6^dcG$tLu?6Z.U!3k6"m("WX-,I:EMkZ$(Y20ruFENMc+12R^%gbYT9h7Orh"f'$T2HH:u`U.SD*bV=/WYqPBWc\f+[VPA_F&6F/Nn/MLcq@C)V.uGmQZ:kY&snn]HZ>OC[AD`YDrr&5KR94P)0m$.n+0@_9kI?D9raCOTh5t;6uj1tE4ga!pTRp%7)CL#A(C$HguqJ'!+jVcWp6[AEB5T0"0IQ^RLe$%)NU<F0p_'>7RNgnRsT-QZdtU.V8pl2YJST@;V-S"0QE\nGN[IlW_1l4V=^Ks96c)q=.&hRaZ;%UWiM%UD+AM;'q7q"RPX`Z'Ks:Ij'Rape1I]m1aq"jS8dqYd>+4eJ(Q@4f-.Km!cb)c[c<@p7K5Eni`2rsP9ia[0#Vg-A(7OH=G0sVhn>FS4_QuYE1#>hJ@h-1'S`rWd2ctq)%NA#7prXFD05d*PA*7\Zf]B<"BqiGr>A<r2s9gCcPOV>oj%6#N8EqKaD#1&oTiYS"'WGXgOIsq[jU/uV(qg8QdAfb4@?R'S'6&Ik-1f"AWaAP[3]6,<0]+>X\3Go.\4Hd=F*qCWZ%\eZ<Z.m]?F<F[d@_jFC-shZ,O5eF"sg]Bq6FYEIrdCkKkNfbL'mjXdr'$CH8[aaXK"FUf9cSX\ugVlo`adG-iS5X)e]Yb'#R=0,U!ddLD5.[P?m7,V^pl.<6/)&/Y1dCsJ0&b>52o,.u\Lo/h\JX.%MIK^W8a62[K*^QVAc9nD$;84/us9p21^;3Rq6Xtr3TGb"'AfQstM1FcOo3nGl55UE!tF:As.^X/18k`A&p<=3b+-f[ObfStT@0"<kj1gJjT8Z0DpkUi:DOlA<Chg6jG(?N;/D5C-sGLO!HN1N(5,E#,tlpt\L1QY:p3bFY6nPn8[0\AI&k-_LSD_f)IXBuEbcPfsN31itm2]iI)m9"--L%tf%<gnZbq?gnPUI>?V_'m#s+(ph]b:OCB@M&g</Nde-V93/k5j6;4/Weco>1U8E\jmgsFoTcu)G0>J%B-Q/(=AQkWLV0c7e\CP(Qr+$LYD/]n##?H<I_L'cla[ibZ<=kb?Su3@)&?%8%o7`]*js.4<ACslT2B<GC!Z'UtNM)XUne~>endstream
 endobj
 10 0 obj
 <<
-/BaseFont /Helvetica-Bold
-/Encoding /WinAnsiEncoding
-/Name /F3
-/Subtype /Type1
-/Type /Font
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 1349
 >>
+stream
+Gatm9_/A9k&A@B[k*Rb0QD@'.3[X7&=<KkQ',Nef&nQ,OM(U5=:!o$j:mPZ=c";SP2IK0FC?G'"Gp<M-^MNhM4+O@hr:gX%`aR[)'1BY4)Et=15;PVVb,PN!@&tn)O<T*F#b.pAU`tap/tf9Q,',3+b=YO>b!g<1\Z@=fVmKXo.k?dLPUa>E84gkh;af$''V%O]SO9J(AL6r4C6!:'9#`U'.CnGi.)d['+j?)F%!@T@9FAWd?7tqC7OZRjIa3D&S1n?R3As0GkKnUJ3Ve'bs0>X;gT:@8+n>=r7Rn=M/Wle<Pjh6L>[Wb+Qj(;TM8]iH,YG?0i8VrA&$Z$?lOR\gTd>sr!T=)5.b'KF67scf;[#'0]r7SrU.R`#OVs:e@T*H?^:]&uS'0P^f?7V)LeKD;n6[W9bIJ+810%2T(SQdeSE7d8HgU1h#Trr'm>VF\h^hF"SE4;l6rh;jSuWKe<XN_nc$EJ?5`$s%:59_n_W<!&i:\,:LmU/c"^YWP(HJ3>VR)dh$\U)D!LH20VU!EL41GVY=pOO-!+19UJgQqo.o.!N:1S+"\k=)S"YCJ[a=D?M@M%c^Io`$?VlANd<'&/L'DRL3[_<"()i1&.D?U:+XgS#N)&RJ.#M[.744CBm1S#E#isKPY[s#(g"s7oIn?CFFfEf0i9oM.##l>Z"7,.)_Mtp#Ds3mYoFPe':KFW_g-J8p;mgOadZSS!6_%'[_CtkCdq>hKtB^d0.db)D45/Nk)4]^0/K*m7FMaPka\3uobpG.$)SB6,'"$0r.m]14bZR_'snrZru[i3Be4XPi*81\K]7Q]6+s4,W:pOO)+I6X!H2D&)6[6dc`l3XR5iX/aLp]i)=UomIGY$gQ;TFRhb.BI\)P'WlK)A?uXcC&8Qil5-\@,g#PESM5:ptHATe.6/D=j<(h_2mRd7X+@[_gUjTOR47s)XqUDM$T9W4Z8XNp`S-RPn3*J2oo5<r,nEc4F];X0,qZ!FMYuo"r0lmd1"o&.2Dk))WQp,8`SP+FjQheJ",NY3-o.ZgKDtEfD@1'$iT;l5(k7=[2o"Fi80hA7"bE4JEY6T%,[G:BbkrK$Cbugf[AEuc+^W1B;`d\AK<!jK@FigF*Q8VENm_s;.gP;3,#eAr,M(ZA%pV<(ZsZ3_7[b?Z4sK8/qn[3aa`kek>Q09]fEA\"M[GBin""cl'piTGXWq8:]*GcVLNK"D-`Y9qW$?CW'AS\*XuCZK6KBj3]tB$#s/=2psEWQaldn*diWDqI;53RQdZL8!kQdW-fm%3M`D&j4uLGAjb(O=1<r)t!`&?O(!"2*5-Bo&_DDqG(QjQl@[o!<XObe3Tc&M5(<lj4^PY.r49~>endstream
 endobj
 xref
 0 11
 0000000000 65535 f 
-0000000015 00000 n 
-0000000054 00000 n 
-0000000113 00000 n 
-0000000162 00000 n 
-0000000468 00000 n 
-0000004617 00000 n 
-0000004724 00000 n 
-0000004831 00000 n 
-0000004950 00000 n 
-0000005062 00000 n 
+0000000061 00000 n 
+0000000102 00000 n 
+0000000209 00000 n 
+0000000321 00000 n 
+0000000524 00000 n 
+0000000728 00000 n 
+0000000796 00000 n 
+0000001076 00000 n 
+0000001141 00000 n 
+0000003108 00000 n 
 trailer
 <<
+/ID 
+[<333d97ee4cc5ca7b4c354d31ee566bfd><333d97ee4cc5ca7b4c354d31ee566bfd>]
+% ReportLab generated PDF document -- digest (opensource)
+
+/Info 7 0 R
+/Root 6 0 R
 /Size 11
-/Root 3 0 R
-/Info 1 0 R
 >>
 startxref
-5175
+4549
 %%EOF

@@ -1,340 +1,93 @@
 %PDF-1.4
-%âãÏÓ
+%“Œ‹ž ReportLab Generated PDF document (opensource)
 1 0 obj
 <<
-/Producer (pypdf)
+/F1 2 0 R /F2 3 0 R
 >>
 endobj
 2 0 obj
 <<
-/Type /Pages
-/Count 1
-/Kids [ 4 0 R ]
+/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
 >>
 endobj
 3 0 obj
 <<
-/Type /Catalog
-/Pages 2 0 R
+/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
 >>
 endobj
 4 0 obj
 <<
-/Contents 5 0 R
-/MediaBox [ 0 0 595.2756 841.8898 ]
-/Resources <<
-/ExtGState <<
-/gRLs0 <<
-/ca 0.035
->>
->>
-/Font <<
-/F1 6 0 R
-/F1-0 7 0 R
-/F2 8 0 R
-/F2-0 9 0 R
-/F3 10 0 R
->>
-/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
->>
-/Rotate 0
-/Trans <<
->>
-/Type /Page
-/Annots [ ]
-/Parent 2 0 R
+/Contents 9 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 8 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
 >>
 endobj
 5 0 obj
 <<
-/Length 4135
+/Contents 10 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 8 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
 >>
-stream
-q
-1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
-q
-1 0 0 1 51.35433 779.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F2 12 Tf 14 TL (QA Lab Brasil) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 749.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 4 Tm /F3 20 Tf 24 TL 185.7235 0 Td (OWASP ZAP) Tj T* -185.7235 0 Td ET
-Q
-Q
-q
-1 0 0 1 51.35433 724.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Herramienta de seguridad para an\341lisis de aplicaciones Web.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 714.3701 cm
-Q
-q
-1 0 0 1 51.35433 688.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Qu\351 es) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 669.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (ZAP es un proxy de seguridad open source para inspeccionar tr\341fico y apoyar pruebas Web.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 643.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Uso seguro) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 611.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Use ambientes autorizados. Passive Scan observa tr\341fico; Active Scan env\355a ataques y requiere autorizaci\363n) Tj T* (expl\355cita.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 585.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (QA en pipeline) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 566.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (ZAP puede apoyar DAST automatizado en ambientes controlados con criterios para falsos positivos.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 540.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Cu\341ndo utilizarlo) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 508.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Utilice este conocimiento cuando el riesgo, la arquitectura o la etapa de entrega requieran este tipo de validaci\363n.) Tj T* (Confirme objetivo, ambiente, datos necesarios y evidencias esperadas antes de comenzar.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 482.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (C\363mo lo aplica QA) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 450.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL -0.098269 Tw (Parta del comportamiento o riesgo que debe validarse, prepare datos y ambiente, ejecute la t\351cnica o herramienta de) Tj T* 0 Tw (forma reproducible y registre evidencias que ayuden al equipo a comprender el resultado.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 424.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Buenas pr\341cticas) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 392.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Priorice escenarios de mayor impacto, mantenga datos y ambientes controlados, registre decisiones importantes y) Tj T* (revise peri\363dicamente el enfoque para evitar cobertura redundante o desactualizada.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 366.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Consejo de QA) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 347.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Relacione siempre la pr\341ctica con el riesgo del producto y la evidencia necesaria para decisiones de calidad.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 321.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Recursos oficiales) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 302.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Site oficial: https://www.zaproxy.org/download/) Tj T* ET
-Q
-Q
- 
-
-Q
-
-q
-0.0 0.0 595.2756 841.8898 re
-W
-n
-1 0 0 1 0 0 cm
-BT
-/F1-0 12 Tf
-14.4 TL
-ET
-0.843137 0.901961 0.960784 RG
-0.6 w
-n
-36 815.8898 m
-559.2756 815.8898 l
-S
-0.070588 0.207843 0.356863 rg
-BT
-/F2-0 8.2 Tf
-9.84 TL
-ET
-BT
-1 0 0 1 40 821.8898 Tm
-(QA LAB BRASIL) Tj
-T*
-ET
-0.356863 0.45098 0.564706 rg
-BT
-/F1-0 6.8 Tf
-8.16 TL
-ET
-BT
-1 0 0 1 398.216 821.8898 Tm
-(QUALITY ENGINEERING \174 DOCUMENTO OFICIAL) Tj
-T*
-ET
-q
-0.848048 0.529919 -0.529919 0.848048 297.6378 420.9449 cm
-0.08 0.21 0.36 rg
-/gRLs0 gs
-BT
-/F2-0 42 Tf
-50.4 TL
-ET
-BT
-1 0 0 1 -164.493 0 Tm
-(QA LAB BRASIL) Tj
-T*
-ET
-Q
-0.843137 0.901961 0.960784 RG
-n
-36 24 m
-559.2756 24 l
-S
-0.356863 0.45098 0.564706 rg
-BT
-/F1-0 6.6 Tf
-7.92 TL
-ET
-BT
-1 0 0 1 40 14 Tm
-(qualityassurancebrasil\056com\056br) Tj
-T*
-ET
-BT
-1 0 0 1 212.28 14 Tm
-(QA Lab Brasil v2\0562 \174 ES \174 Actualizado\072 septiembre de 2026) Tj
-T*
-ET
-BT
-1 0 0 1 514.547 14 Tm
-(Pagina 1 de 1) Tj
-T*
-ET
-Q
-
-
-endstream
 endobj
 6 0 obj
 <<
-/BaseFont /Helvetica
-/Encoding /WinAnsiEncoding
-/Name /F1
-/Subtype /Type1
-/Type /Font
+/PageMode /UseNone /Pages 8 0 R /Type /Catalog
 >>
 endobj
 7 0 obj
 <<
-/BaseFont /Helvetica
-/Encoding /WinAnsiEncoding
-/Name /F1
-/Subtype /Type1
-/Type /Font
+/Author (\(anonymous\)) /CreationDate (D:20260922123401+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20260922123401+00'00') /Producer (ReportLab PDF Library - \(opensource\)) 
+  /Subject (\(unspecified\)) /Title (OWASP ZAP) /Trapped /False
 >>
 endobj
 8 0 obj
 <<
-/BaseFont /Helvetica-BoldOblique
-/Encoding /WinAnsiEncoding
-/Name /F2
-/Subtype /Type1
-/Type /Font
+/Count 2 /Kids [ 4 0 R 5 0 R ] /Type /Pages
 >>
 endobj
 9 0 obj
 <<
-/BaseFont /Helvetica-Bold
-/Encoding /WinAnsiEncoding
-/Name /F2
-/Subtype /Type1
-/Type /Font
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 1974
 >>
+stream
+Gatm;gMYb*&:O:Sb[\*&1*T0PdX?/A=.m@+NJdjr^<dS]16=nXP+9,9O5D*tbORQrNP[C]b7qoU1ZutN'I*J%n6]/q[kkPiSH<@V>6*c<_sAEA2Ocg'8<cV$:OmCVdmO1-r*KeK3N4AM,EtZV6^fAj`.C?68Jtr>b`i!/3Csn$U*q,N961`D;3^$.:=:P,hl^Ke9G5?1:%h4:-#"u@J(1^B-qPl*'6].DN0>ff3=HIR't&fXXHaI8$-cU6g*\;*=IcVol2-_d#!?['gHmLd97oIHiIfJ67nZRj9GVOn(jPsd6j!mC/.mGgLp/HAG_9l__c%+O-I@!(\3MNU'jSGErWKPtR(`%%8X)[gbCD:,(HHNV;D,s)nuW'V0Kl_'V'J]ZjB\WNLn&?7^q8h_gjYVSr:OrDMusYu+r%euN5]816Qu,'ZK"Cu8odD]NKIP5VH^rVp!V>n4&[fQVQuT/Bac911%OO0c:*t1nDTF"%3l'$OsLC364Pt`@^K+O_^j(>ho8>8G_LH>@RQJtIG(=V#[8DQ-A\<OgIF`YiRZ-%PQ:^bck5L9Qp_%#kmjIR)%2I6Wa=?iVo+7e8JH%a6A^5>l^gh>H!aYb$dFj-1;#h%i9Kc,dt`;FB6q<[o^h$r!:XP&/3<ke)FGc,M:)g?^iHLj(e="D`nu=_)pg#.-n%o:crY^3k@A.Gh+9"O[!LCe;of"Ykp4@HF3J?4>1<>[Z71crb1Kn,n4CsJ6*t";RUF,UFTtLmfU8K@oF_7qFNT4ln,(EcDV"1m\9N&!(a@(8'D`UcB>:S[j(KB;6Yh%HoHpH4DB#^*&>b$)q#E(,ZEV@<g,6#jY1I`?G(ATdC.Y/t@KCp3Saf5YX89tS7[_SB'%^O="XD33+tl@X"-JXO%fOFKK<gaGV\e(O)F7d/%":.@KMo[]8!nUXcVlVFk$.W/F\Vc,k2uL8R=(3L4C[.;VQeBhBk;9OYeKHd\pDV84EU!/GMXAZYI#88mMPD'\U3Z]<nasN*(&kKm*$FOG7@/FF(9Wm%45;3k.Y<qXeG1U$:V5`lV7AL+UoThj3eLkCG-unO0.6:hOXqk1[tP[@*u"fn<*>4DF*ueFlo/ECeN\m[]N\HGYf%+RNk6O3D-hh@&gfs^91O>4TlP6:-S@)a5#pWhOpqS5'Ejm'VN3!V12%(:7a`W:Xe?WE1U@<(f&I)BM>0om-&)4A!cL2^*5JK%P8pTZsT^AZbT:hEqepFCjX`tXZL/gc^MTQj\1Fc#lY/;[#ekbYAK3jB4]E:5,Te)I%3\C$h[fo,up^AI:l1Ec]r-R!F!6G(3maL@W^B#MHF(o6<CXhHKgRV&tIA:dU)f+,onJIe#M^g][j:M:,ZM`^k\Fdb+8<UB)"/De(AYS>2d+rlk4lbSZN^J<ENtuO4oe>4j\NbL$Xo8=tAFO_!2j1aqUOS[s3:QAdZ265n$11l+4kgSj@JB:CJ'p^"e-XkIniP;qgUi":*ue.hGiQ01YZJFCA-!6h@PWA';47ndAR42D&W1O_^)1`bEXB]k(Y9i^Q.IeK_gWJ^.%eWqL<>o"Fm?3$9iTX1U?p=Ve^ASL`43V.ida@ob`"\aBitk9Y@)TmgMPNIACRDWqn8gV3#.mEZoDV=AQ")<Ve\qA.gE3miUeJPAJQ1F=%VrQ&O@)UFd!DNiHTZ+/%h!0pen#6r3QeR=J<5%SKQf)HD1:fFRl$l)s6c1!GACc4$U%s]d/#!4<3A4Z(h?*D*nK66@(@6Lff.-&#O/%`*.m6V\1]'/HHL2dUg[#!)D<+<7"V`1pF`3;SWb7,u64PnVVcub#1rA7X!U<CfcGLi[YIm("Z.GF0NN>["PjP8(dUZ.32j[.eC1Hb'BUcFNb0QH)f?)KEJXY7K(BVSS?X@sS1-\i*KcSt!*^Mh^KAaM!kO-SOFOg&n(p5f(XU7<<f0SdrqE_>#)).]3dE"NuCLLD4.A+ar;`-I]`YN[b:%i0Qu56~>endstream
 endobj
 10 0 obj
 <<
-/BaseFont /Helvetica-Bold
-/Encoding /WinAnsiEncoding
-/Name /F3
-/Subtype /Type1
-/Type /Font
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 1032
 >>
+stream
+Gat='9on$e&A@C2bg?l)L87A&4F2WS:geilFq"R&HJqK'_hB?sPdIQNrqHt7=]3sJ&C`W10c\MdoA0lXMI/8Jb6Hm:%r^>]?l\kF@"J[:hne\DqiVP+-o2#<_3c\tO<T)e`+.A1;A7%u(SFGfA1e$BRGrnc>SKi4c;[(hV.Q!j%*96\)BTAbFA/;NRc^F(*6N((0h%=hGq(\l3$X<#XDfbo\KG'3"#GWk;D(r3=Ii#LR,MeF-Q/U?0DJFnM-N&KXZ8::Xd@DicWkkcq7g[0g#q_k-:?b^Mi*NQ?s+[D+"6*3%sYl:bHM>:dh9J)+s^?sDd`0VpClnc@K.Zc'<8"\)@./S@*h!<KNoah$%^>rY7S&b=p^X$Ajf8/-3Uj5h8%:QmdZXU24+@fdtf]jCX$o\j"O:97=QD411E5d0-GnLI=I"+p?5`DU2Q*..%R\LjZp1=jfpH`,W-J]5%H7H*2#\98>e`a"Q=A9Wo<Iee;0JKP6F//]GET6.]-OTX9I%<aFHo-):OL!p'GW2m<fB42ZR3IreO3(H`+"d78@A3Nj;5<`X8_&lGsEP)0-;Q2?+IN"\o`f\>XMV:F>Wsdkk*aU4Rm1k-k!0(5CC,DkjXXEaK%FHX8B6B6Z^2&&,DH[0,$tYFg!!p[Hr*ILB_#&,nOV#@481i3.:"lYQ3%$gu]56gq6oH>H?$g3L?ACR]F!5$t>.#)h(E>rU9HXTF%YGOiFAV\&\A3iHkUf8q2A07@M>#Ia$i=uih-k`.QQIHpZBbKDX99$u6Jc/l%klNt'T/(),D,`CmGU,a=G7a4ZUHugA3MV-PkHYA/Prs[Q6JALYp#lWA-q[LQ!PlG5#E5>kKK$CpD[T-ElKnHLC[p;*^o=IlC/ZO2=D<9L">C8NCf_@(@A$.>/s5GP5D't[q@%/P4d%+r>S(T:80C-GE^_m7KVsc6*;Rlmq$$`Z4'LOb9$\<Mqm9G#VLVq(J,)#0"c#&FWd8e(kV1m)W7VT]i1LfBJbV*fL0_82jA'tl]"`EpH.NnTn$@KFS~>endstream
 endobj
 xref
 0 11
 0000000000 65535 f 
-0000000015 00000 n 
-0000000054 00000 n 
-0000000113 00000 n 
-0000000162 00000 n 
-0000000468 00000 n 
-0000004655 00000 n 
-0000004762 00000 n 
-0000004869 00000 n 
-0000004988 00000 n 
-0000005100 00000 n 
+0000000061 00000 n 
+0000000102 00000 n 
+0000000209 00000 n 
+0000000321 00000 n 
+0000000524 00000 n 
+0000000728 00000 n 
+0000000796 00000 n 
+0000001072 00000 n 
+0000001137 00000 n 
+0000003202 00000 n 
 trailer
 <<
+/ID 
+[<edd57b996d950e6deb677923a01e69f2><edd57b996d950e6deb677923a01e69f2>]
+% ReportLab generated PDF document -- digest (opensource)
+
+/Info 7 0 R
+/Root 6 0 R
 /Size 11
-/Root 3 0 R
-/Info 1 0 R
 >>
 startxref
-5213
+4326
 %%EOF

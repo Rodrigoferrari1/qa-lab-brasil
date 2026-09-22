@@ -1,340 +1,93 @@
 %PDF-1.4
-%âãÏÓ
+%“Œ‹ž ReportLab Generated PDF document (opensource)
 1 0 obj
 <<
-/Producer (pypdf)
+/F1 2 0 R /F2 3 0 R
 >>
 endobj
 2 0 obj
 <<
-/Type /Pages
-/Count 1
-/Kids [ 4 0 R ]
+/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
 >>
 endobj
 3 0 obj
 <<
-/Type /Catalog
-/Pages 2 0 R
+/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
 >>
 endobj
 4 0 obj
 <<
-/Contents 5 0 R
-/MediaBox [ 0 0 595.2756 841.8898 ]
-/Resources <<
-/ExtGState <<
-/gRLs0 <<
-/ca 0.035
->>
->>
-/Font <<
-/F1 6 0 R
-/F1-0 7 0 R
-/F2 8 0 R
-/F2-0 9 0 R
-/F3 10 0 R
->>
-/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
->>
-/Rotate 0
-/Trans <<
->>
-/Type /Page
-/Annots [ ]
-/Parent 2 0 R
+/Contents 9 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 8 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
 >>
 endobj
 5 0 obj
 <<
-/Length 4860
+/Contents 10 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 8 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
 >>
-stream
-q
-1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
-q
-1 0 0 1 51.35433 779.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F2 12 Tf 14 TL (QA Lab Brasil) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 749.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 4 Tm /F3 20 Tf 24 TL 176.8235 0 Td (REST Assured) Tj T* -176.8235 0 Td ET
-Q
-Q
-q
-1 0 0 1 51.35433 724.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (REST Assured: conceito, aplica\347\343o em Quality Engineering, primeiros passos e refer\352ncia oficial.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 714.3701 cm
-Q
-q
-1 0 0 1 51.35433 688.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (O que \351?) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 643.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 29.5 Tm /F1 9.5 Tf 13 TL (REST Assured faz parte do ecossistema moderno de engenharia e qualidade de software. Este guia apresenta o) Tj T* -0.004671 Tw (papel da ferramenta, onde ela se encaixa no fluxo de desenvolvimento e como um QA pode utiliz\341-la com seguran\347a) Tj T* 0 Tw (e contexto.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 617.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Por que um QA deve conhecer?) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 572.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 29.5 Tm /F1 9.5 Tf 13 TL (Conhecer REST Assured ajuda o QA a colaborar melhor com desenvolvimento, DevOps, dados e produto. O) Tj T* (objetivo n\343o \351 decorar comandos, mas entender como a ferramenta influencia testabilidade, automa\347\343o, evid\352ncias,) Tj T* (diagn\363stico e qualidade de entrega.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 546.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Primeiros passos) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 501.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 29.5 Tm /F1 9.5 Tf 13 TL (Comece pela documenta\347\343o oficial, confirme pr\351-requisitos e instale apenas a partir da fonte oficial. Em ambiente) Tj T* (corporativo, valide pol\355ticas internas, vers\365es suportadas, permiss\365es e vari\341veis de ambiente antes de configurar) Tj T* (REST Assured.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 475.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Aplica\347\343o pr\341tica em QA) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 430.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 29.5 Tm /F1 9.5 Tf 13 TL (Use REST Assured em um exerc\355cio pequeno e reproduz\355vel. Registre o objetivo, configura\347\343o, resultado esperado,) Tj T* (evid\352ncias e problemas encontrados. Depois conecte o aprendizado a um cen\341rio real de testes, automa\347\343o,) Tj T* (integra\347\343o, dados ou entrega cont\355nua.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 404.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Boas pr\341ticas) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 359.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 29.5 Tm /F1 9.5 Tf 13 TL (Prefira documenta\347\343o oficial, n\343o exponha credenciais, versione configura\347\365es quando apropriado, mantenha) Tj T* (depend\352ncias atualizadas e registre decis\365es importantes. Ferramenta sem contexto n\343o substitui estrat\351gia de) Tj T* (qualidade.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 333.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Quando usar) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 301.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Use este conhecimento quando o risco, a arquitetura ou a etapa do ciclo de desenvolvimento exigir valida\347\343o) Tj T* (espec\355fica. Antes de aplicar, confirme objetivo, ambiente, dados necess\341rios e evid\352ncias esperadas.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 275.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Dica de QA) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 256.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Relacione sempre a pr\341tica ao risco do produto e \340s evid\352ncias necess\341rias para a decis\343o de qualidade.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 230.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Recursos oficiais) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 211.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Site oficial: https://rest-assured.io/) Tj T* ET
-Q
-Q
- 
-
-Q
-
-q
-0.0 0.0 595.2756 841.8898 re
-W
-n
-1 0 0 1 0 0 cm
-BT
-/F1-0 12 Tf
-14.4 TL
-ET
-0.843137 0.901961 0.960784 RG
-0.6 w
-n
-36 815.8898 m
-559.2756 815.8898 l
-S
-0.070588 0.207843 0.356863 rg
-BT
-/F2-0 8.2 Tf
-9.84 TL
-ET
-BT
-1 0 0 1 40 821.8898 Tm
-(QA LAB BRASIL) Tj
-T*
-ET
-0.356863 0.45098 0.564706 rg
-BT
-/F1-0 6.8 Tf
-8.16 TL
-ET
-BT
-1 0 0 1 398.216 821.8898 Tm
-(QUALITY ENGINEERING \174 DOCUMENTO OFICIAL) Tj
-T*
-ET
-q
-0.848048 0.529919 -0.529919 0.848048 297.6378 420.9449 cm
-0.08 0.21 0.36 rg
-/gRLs0 gs
-BT
-/F2-0 42 Tf
-50.4 TL
-ET
-BT
-1 0 0 1 -164.493 0 Tm
-(QA LAB BRASIL) Tj
-T*
-ET
-Q
-0.843137 0.901961 0.960784 RG
-n
-36 24 m
-559.2756 24 l
-S
-0.356863 0.45098 0.564706 rg
-BT
-/F1-0 6.6 Tf
-7.92 TL
-ET
-BT
-1 0 0 1 40 14 Tm
-(qualityassurancebrasil\056com\056br) Tj
-T*
-ET
-BT
-1 0 0 1 210.9996 14 Tm
-(QA Lab Brasil v2\0562 \174 PT\055BR \174 Atualizado\072 setembro de 2026) Tj
-T*
-ET
-BT
-1 0 0 1 514.547 14 Tm
-(Pagina 1 de 1) Tj
-T*
-ET
-Q
-
-
-endstream
 endobj
 6 0 obj
 <<
-/BaseFont /Helvetica
-/Encoding /WinAnsiEncoding
-/Name /F1
-/Subtype /Type1
-/Type /Font
+/PageMode /UseNone /Pages 8 0 R /Type /Catalog
 >>
 endobj
 7 0 obj
 <<
-/BaseFont /Helvetica
-/Encoding /WinAnsiEncoding
-/Name /F1
-/Subtype /Type1
-/Type /Font
+/Author (\(anonymous\)) /CreationDate (D:20260922123401+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20260922123401+00'00') /Producer (ReportLab PDF Library - \(opensource\)) 
+  /Subject (\(unspecified\)) /Title (REST Assured) /Trapped /False
 >>
 endobj
 8 0 obj
 <<
-/BaseFont /Helvetica-BoldOblique
-/Encoding /WinAnsiEncoding
-/Name /F2
-/Subtype /Type1
-/Type /Font
+/Count 2 /Kids [ 4 0 R 5 0 R ] /Type /Pages
 >>
 endobj
 9 0 obj
 <<
-/BaseFont /Helvetica-Bold
-/Encoding /WinAnsiEncoding
-/Name /F2
-/Subtype /Type1
-/Type /Font
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 2090
 >>
+stream
+Gatm;gN)%,&:N/3lslKH@=fbLa\0ZLSPEfQe&5;EncDaoN!q?p8?/hj+5[1i.`\tSNT)4H5n\OKkNpkJ-P&GsrLXfmQRb,s`/4Au\g&9%OB/"<C:/:g0JE*D)A*?;O!?qAZ@?==Rmjk!$00h46]0?KM*Q_n/7P7I8J"A?>/#e;k'LDq].Zo^&:7`80.DfBGC.)fGQE_MT<cGC`+'R\,-Y:2CHcAcpT_W?H/aT18U*iPKQ/<-TT3g`6A1;qIQY5<E9?s^jA3B`.g$"B26QUKo4_o$ca`dqjr^pp/aaF!mh\MWIZRDs"1DdXn_c.:k5cBD:Dn<V\3qHa`'OJS<X$26HLVBF^=2A\]pj;P-^'.M+6#p#mef$Yo*B%PJWELN+s\m9im>#%k"LSqpCZW\`?eer?ekSLGoeL^-EKTp5*Nnq`#+8.Cni7o#OscHI3*Jr>++^=+1`p\\l?i9E\e5k"?_JB@S)I$j'6:H]JQ>Jh\RT`)":W?!DWY*6KX3Z;GK0S5\"5p1D/RboH"0$(%l2W:ksQQJA;spE1TakOgfFHA?BpIIu3q/oN)aSaB^o9'TfR*+f=7a)hN=IiF1]UbPP*u$>jn.-;Wu2Hm][N6Y.>0lHs?@n#ij3<ch3jX\nBbeCjga%cb_Tr8[iMDiU"NaGU_Q_,"JT87cIa%=Z)E3o&)pk<p^LmQI?f.'(Kal)%XIgu^Y]hh!Q%^RucNcjM=+damVKBiEQhQ$&&s77Q)^o.:N&R;#7CS]41Fp:,D<=:siic#^c&kN@<#gg9!@/&'N(qbMNO'`fW\oa#(jqB$"S%VM="j:`/=)F\H&332=Jf8V7*("HKUZD+`N<Gkc]0+F)DJ/T]7-'n)1Y3qanV,<2Sn.]_C/Vh6VP?Xes<An4b&[j0e[3Q;nA78Q+<0_Xq>Z,E+A5YWa6GU4GI<8oLp@2FRn$IKCkb*s1U)$)*TIo)]U"W!!q?]4AB@m]<@EVA\A81-Mh1K:6*h2F3&U4Q!0B2V7,.Q%ARSA4]\ti#?mo6@R_go_->(9]pJ(8t5pM1%'L<m!G_.@I<pI/Y-g+VC]VV0NBcHj=TF!eM!VQ4c-(G?bLA8p7@#?<3?E[Ya;`fat'.S5tL,P10q-1-qr^BK`r2:_*&16#P^H:^Q;mb+e7:,Sb0.d%7DCL@fcjKdK>ob"bH^A#&g_N^Zd(LJZPm%Mn>9*uqlY;0[LE/QFB:8`o/IG?uW8Ua0]+U4UG"ddEeb"+mRb3oAe<oC=L?.*Y+pZE=A^cS&ZDb[WWB-djSXDYeR7dhfV]-=KILlF1!2`?pI*X0(s'mhG*L[!;L2\q2P(8@=:)lQTilHZW\;\6."WFlXAG'Z<-h*TV3!shb#2`e"2Ri[.u[?3sm-4KeSR_^+l1<hpsKSSOF^o,[R!L_<c)Z$L`Q7oA#n$FMps-DLtUE3SJ:N;iel<BtXWtH[Nf:''dS\r"Rd*1aSQl8\=X0!AG[=JENWur73AIMG9*+8tp`-uY+oJFb\/%2]_VU5!T7:?k)D-P[Bm<iFM29!QgmYX)lm5b&tEeHsb%'+<(,iIZm,.VqV<ETr$DR8@-XGau8r?sdF]@lcjJ:Qg^7qFGK>G_E5!`<Oj]\@_OPJ+8#&Abd.?s5:H`Fp:8M2>B%5W<G!E',ut<J,'</8;<]4(#SD<Tc)[DQn?8%/.*2+9JXCbR0L!HrI3@'.uYN5b0?>>MNoH4hKQarC>D%cTF-/Vo[+(eBT,9G-DiC]@[d`m4jpeMZYc:n"4KP]r[<l8O>pL%ZaCFaF:se@L%Rqm&'4sl>__GL1EV]Xu5G"">on$/f@agYl&P/=KX?7=J^s-(:NMqDJKEJRYaNm[SK"g06)%"eVOd5#>`a$EuSm6N'9s1X+p2#.CBCD`iIiu1npkt"?F<UXD`!`%6l_I,G`/N"-Y;I:,gjTmF'V;dMt`BFMLZ7.CSU>M5buMkikKLl8l8TQR!"Y:SSiTDT`InfZ:00'4j5J?[`*&e/LQBkFHBCo2en9MR+mj:L`6&H:.EVCM(7uEiYn/%##49;76Kc+0d<LZ`!![-'+I!'5u%]bG-ZH9E.fXrm?a9R)tR3^<I0AA'a)]i]f7\@FG~>endstream
 endobj
 10 0 obj
 <<
-/BaseFont /Helvetica-Bold
-/Encoding /WinAnsiEncoding
-/Name /F3
-/Subtype /Type1
-/Type /Font
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 1566
 >>
+stream
+Gatm:9lo&I&A@[:m*X';-ijtYkflkn:1eN[*;,U*9L0"@,b]aalXp"Rq\G>C.ZGGjClK_J"F&bkHi"pW.:+dD2]^<=MLKt(8Ldn\8EM+oeU+l1-!q=Jeu>_Y'"O6<Th,sr=&RZtIA/58AZBc#lU'f/kL:fS&us+Fij@8`AKb$Aer+rf/[@-+.pUSu9]Pia8sO"_:l:_&Zm8:AeiMhfo9ti:PR8"__(1e/Wff6a&E]8?"Ee$d':fM6X)bI@99H6U:oENTPp6LORb&$GgXFSUcQ%>8q>]8cP0_84<J&6NKoSV@&6A#96RpT:#MbCGaq+a7.ZNMCa>KnuF`d04l5*WPU"([M/^cE)<CK79\>[67.W`;I:`hI6RH[.pWYAI$Vd-MA>1`>,J_ja>e+N+Ya*7!=a`8#_,pMk^<@ZI=*_@YjWLckJ8l7+,m?:5@FlP].dr/N1D/fGsRB"D?<b<VW)P'B(Ffs3)U>%nqSe_a1U+-/@!scA5HEkuJa%)eZr6R6*i!Oc`18$*,[2`',J?=AfBq_B):7X+`F</T`>,$M'e,o7I%+3:)H,QYs0oMgkGfF9VQ507pC.oL!jSUn4/pBp$/b6kH9d>(T_-akFSS]qFD!PeSUErQKhb9U.8+S1Q9DiFor5LV>\:N4sDJq_Ak\:s3@+U"epjV6iLBuj;VWI,O^J58ir,@L;_e;,!IV4:ISF91!GqACChM,G\I$f(@N+Qp_EJ2UH\5?p$:_.7;-'uH96."?lacJeHf3&mu24T.XK`tT5dF=<CmMq+g%+u-NZpkeZS:)4O(HZqlHjm_H\8/</(2.lnCJ<C$0n>%r1]mIZBg!]XF!30I`euXa*[*)*$2`\9U6\GAT:E\1U\UKX'r_>0FX6V*I:kZ:JE[11+BD!F;uR'N,#;Q@=uSh/gWq3)EAYLL5TA3]HR9['4,Ad)]sfT\%(J.+@/I>@B+k)YVAK_<a)19NkKgNoB3DoC7>c8R(sp%^_EQUa!csG*0"YE=3'P-ah1oS'H4"h_>&KOshsJ]VkJ?TA#Xn%cl1X>u)KuFP!$5@V^"?G^Jo6;D_-GIc,D\0'Dl*McR4m$X"j9f&[2I]N&54(JPNEk.E'8VjfPid.7leU=5Z6CGgU"kZVm5bsbQC>p):W9`-R-KSoMQn2CPZJFS?cNsqf@EoWtuIW1k>aZ9=/s(TK@+:DICZrPh199[*o+86D#9egQ1]5E024ZbU*#^W!GIh8qV)khqR4"_qp:_I,+2F5NIT`fG<5/8/"IJEP]5ZGEHh@SQPgV5BBa"^`LZW#MAeE)f)F(=b\nYAp!bW32*O,:!UQ/3WEce0`iE/iYgJ/U[UkBBW5@c_#.Jr@jB-ClFD&)N<sC<BCEn4;uI<DH',k3Pjl;:*Pf$dW5O4\GVgsOFEoX*q,h.Om4e+XO^_>K4?P^\i\S#'13E?*T%M.W=eQZjPPI&)*<T(rm0(1S@VIIt<]l%QEVcu8GO-_&4RL^;EBD;L8fGnhn8U5A=-@9#"csSX+:K*K3B+2[-.9X#_p^eGA,CoGZ;!gC@TSRJm^]uTr<uif#O"KTPl(bTE_+%~>endstream
 endobj
 xref
 0 11
 0000000000 65535 f 
-0000000015 00000 n 
-0000000054 00000 n 
-0000000113 00000 n 
-0000000162 00000 n 
-0000000468 00000 n 
-0000005380 00000 n 
-0000005487 00000 n 
-0000005594 00000 n 
-0000005713 00000 n 
-0000005825 00000 n 
+0000000061 00000 n 
+0000000102 00000 n 
+0000000209 00000 n 
+0000000321 00000 n 
+0000000524 00000 n 
+0000000728 00000 n 
+0000000796 00000 n 
+0000001075 00000 n 
+0000001140 00000 n 
+0000003321 00000 n 
 trailer
 <<
+/ID 
+[<9ba7efefcffc716fbd8f540cbad8daec><9ba7efefcffc716fbd8f540cbad8daec>]
+% ReportLab generated PDF document -- digest (opensource)
+
+/Info 7 0 R
+/Root 6 0 R
 /Size 11
-/Root 3 0 R
-/Info 1 0 R
 >>
 startxref
-5938
+4979
 %%EOF

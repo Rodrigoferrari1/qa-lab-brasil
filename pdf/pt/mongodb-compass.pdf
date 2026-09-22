@@ -1,354 +1,93 @@
 %PDF-1.4
-%âãÏÓ
+%“Œ‹ž ReportLab Generated PDF document (opensource)
 1 0 obj
 <<
-/Producer (pypdf)
+/F1 2 0 R /F2 3 0 R
 >>
 endobj
 2 0 obj
 <<
-/Type /Pages
-/Count 1
-/Kids [ 4 0 R ]
+/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
 >>
 endobj
 3 0 obj
 <<
-/Type /Catalog
-/Pages 2 0 R
+/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
 >>
 endobj
 4 0 obj
 <<
-/Contents 5 0 R
-/MediaBox [ 0 0 595.2756 841.8898 ]
-/Resources <<
-/ExtGState <<
-/gRLs0 <<
-/ca 0.035
->>
->>
-/Font <<
-/F1 6 0 R
-/F1-0 7 0 R
-/F2 8 0 R
-/F2-0 9 0 R
-/F3 10 0 R
->>
-/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
->>
-/Rotate 0
-/Trans <<
->>
-/Type /Page
-/Annots [ ]
-/Parent 2 0 R
+/Contents 9 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 8 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
 >>
 endobj
 5 0 obj
 <<
-/Length 4655
+/Contents 10 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 8 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
 >>
-stream
-q
-1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
-q
-1 0 0 1 51.35433 779.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F2 12 Tf 14 TL (QA Lab Brasil) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 749.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 4 Tm /F3 20 Tf 24 TL 151.2835 0 Td (MongoDB Compass) Tj T* -151.2835 0 Td ET
-Q
-Q
-q
-1 0 0 1 51.35433 724.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Interface gr\341fica oficial do MongoDB para explorar documentos, executar filtros e analisar dados.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 714.3701 cm
-Q
-q
-1 0 0 1 51.35433 688.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (O que \351?) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 656.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (MongoDB Compass permite navegar databases e collections, filtrar documentos, visualizar schemas, \355ndices e) Tj T* (executar opera\347\365es suportadas pela interface.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 630.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Aplica\347\343o em QA) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 598.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (QA pode validar documentos JSON/BSON, campos opcionais, arrays, tipos, duplicidades, timestamps e efeitos de) Tj T* (APIs em collections.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 572.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Instala\347\343o e conex\343o) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 540.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Baixe o Compass pelo site oficial. Conecte usando connection string aprovada para o ambiente. Em Atlas ou) Tj T* (ambientes corporativos, confirme IP allowlist, VPN, TLS e autentica\347\343o.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 514.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Primeira valida\347\343o) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 482.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Selecione database e collection, aplique um filtro simples e limite a an\341lise ao conjunto necess\341rio. Compare) Tj T* (estrutura, tipos e valores com o contrato esperado.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 456.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Boas pr\341ticas) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 424.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (N\343o compartilhe connection strings com credenciais, use usu\341rios de leitura quando poss\355vel e registre filtro,) Tj T* (collection e ambiente nas evid\352ncias.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 398.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Quando usar) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 366.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Use este conhecimento quando o risco, a arquitetura ou a etapa do ciclo de desenvolvimento exigir valida\347\343o) Tj T* (espec\355fica. Antes de aplicar, confirme objetivo, ambiente, dados necess\341rios e evid\352ncias esperadas.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 340.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Dica de QA) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 308.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Confirme sempre o ambiente, o schema/collection e o n\355vel de permiss\343o antes de executar qualquer comando ou) Tj T* (opera\347\343o.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 282.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Recursos oficiais) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 263.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Site oficial: https://www.mongodb.com/products/tools/compass) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 244.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Download / instala\347\343o: https://www.mongodb.com/try/download/compass) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 225.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Documenta\347\343o: https://www.mongodb.com/docs/compass/) Tj T* ET
-Q
-Q
- 
-
-Q
-
-q
-0.0 0.0 595.2756 841.8898 re
-W
-n
-1 0 0 1 0 0 cm
-BT
-/F1-0 12 Tf
-14.4 TL
-ET
-0.843137 0.901961 0.960784 RG
-0.6 w
-n
-36 815.8898 m
-559.2756 815.8898 l
-S
-0.070588 0.207843 0.356863 rg
-BT
-/F2-0 8.2 Tf
-9.84 TL
-ET
-BT
-1 0 0 1 40 821.8898 Tm
-(QA LAB BRASIL) Tj
-T*
-ET
-0.356863 0.45098 0.564706 rg
-BT
-/F1-0 6.8 Tf
-8.16 TL
-ET
-BT
-1 0 0 1 398.216 821.8898 Tm
-(QUALITY ENGINEERING \174 DOCUMENTO OFICIAL) Tj
-T*
-ET
-q
-0.848048 0.529919 -0.529919 0.848048 297.6378 420.9449 cm
-0.08 0.21 0.36 rg
-/gRLs0 gs
-BT
-/F2-0 42 Tf
-50.4 TL
-ET
-BT
-1 0 0 1 -164.493 0 Tm
-(QA LAB BRASIL) Tj
-T*
-ET
-Q
-0.843137 0.901961 0.960784 RG
-n
-36 24 m
-559.2756 24 l
-S
-0.356863 0.45098 0.564706 rg
-BT
-/F1-0 6.6 Tf
-7.92 TL
-ET
-BT
-1 0 0 1 40 14 Tm
-(qualityassurancebrasil\056com\056br) Tj
-T*
-ET
-BT
-1 0 0 1 210.9996 14 Tm
-(QA Lab Brasil v2\0562 \174 PT\055BR \174 Atualizado\072 setembro de 2026) Tj
-T*
-ET
-BT
-1 0 0 1 514.547 14 Tm
-(Pagina 1 de 1) Tj
-T*
-ET
-Q
-
-
-endstream
 endobj
 6 0 obj
 <<
-/BaseFont /Helvetica
-/Encoding /WinAnsiEncoding
-/Name /F1
-/Subtype /Type1
-/Type /Font
+/PageMode /UseNone /Pages 8 0 R /Type /Catalog
 >>
 endobj
 7 0 obj
 <<
-/BaseFont /Helvetica
-/Encoding /WinAnsiEncoding
-/Name /F1
-/Subtype /Type1
-/Type /Font
+/Author (\(anonymous\)) /CreationDate (D:20260922123402+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20260922123402+00'00') /Producer (ReportLab PDF Library - \(opensource\)) 
+  /Subject (\(unspecified\)) /Title (MongoDB Compass) /Trapped /False
 >>
 endobj
 8 0 obj
 <<
-/BaseFont /Helvetica-BoldOblique
-/Encoding /WinAnsiEncoding
-/Name /F2
-/Subtype /Type1
-/Type /Font
+/Count 2 /Kids [ 4 0 R 5 0 R ] /Type /Pages
 >>
 endobj
 9 0 obj
 <<
-/BaseFont /Helvetica-Bold
-/Encoding /WinAnsiEncoding
-/Name /F2
-/Subtype /Type1
-/Type /Font
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 2084
 >>
+stream
+Gatm;9lo&I&A@C2m*Y2K0L6?LkbVduBucdO9kq)6>[Ro)R3;k@+Q]EJ+5[<bU+"'e1`=t&[KM2?h0nbZ/iX%0jo00q'4%g*neY%`Ut%WuR)QFY6a'RLNsc`a!RDEg1$<6pLaDI:-*p`2$^!0hK.s/Z:RHr+9_BS==dVWtZ<sXJBu7_0aCkCuS4.-'AGD7m2"98?Pq7_n&r'@:p.IMZBeCTBC0D!*96gdN46'H\ZRk,s9eK*i`ST-ZX]gOJnN9KXqZLOt(a\.tqL3#=")L\IUT;poBo6OY5/mG2[Yi&Air8fY&s$C1eAD9m9R%NY(61B4!?WJ;'f_Nd*1jB:!/acN([nN@UX]TQIID?c+:U`)&IW)raFRWa`aXB`5+]P;Uh;&c.Eg.!E$99L7*`gdkfqX8?2o%iHh1iu=A2CJMK&L>Z7lp?3Liuk9(qg!!G?]!UZ%;@<b;#n?8n@Z;9G-JAq!\pnL0BQAN;N,\FN`)Gt*;^\nGc35esZ.maT#pAtbSD<HS*Qf2t/t9I0B9^*aN*9#atV?H7"h^k5H;_0NK8N4bp$,AgQqrC=e=:;;F;-LB0ONrh-R1!!=DAOD\W)a5kUs7js+J7<`66^).8QI(hL$NZR4+eGmgFRct\2YuTPqFT;@[!(WaX2Af2c0,$2ZQkJ7F%7*DJi!QS_Ar4Mfo4b=kR6"]i&YNnGTI4TqSc1X.<@-M72th^MYV['8CI9;b)4c=G/:Q685c)68fML6T]g1AFP8@PW/A=,idFsP7U&b9)c4\gI<)GA4$_r]L_?ZX`K3srjrqJf[cc!UUmLt?s.k^hUA'f.5G$e9`4mJI@IS*=T.kn$Aa6R"eB"cGpiLZL:0Qb"=Qlb_79AaY3VKG#P4rg-ST=bLZ7R+s/a[Qpc38e5c+5I=V$S9(o-?Rrha`O=,MT]]FE/t(-^CKJa+[G'$_s%#'7"s``,8kDe.hiu6QG?QWMMcG0O4DX+J\+"o=&iBeXDH.=3up4)n80cMJ#ep:lZmgI%H"ekR$rI9NXH"?#+r"]R5*SA@:1!^14Bqfc%QlMp>XP>$(F'(uAbEp%:GWK=6Z=1?>"*<=.44CZ+I]4IoV5[Zf8@IBZ9\qZSR;<;11]\8C.0K!:o(r8b(9i0:KCH_\%t8K?"L#[r>GCkT?6/(ChPH;mTDh>/Wcii)I**A+;AaOq=Q>p!aHI_5RMO3;>:=]-F/(+ZsJTQC`j8^\IO)?7=SFY[=u/f%Pk/&,1:5ZbE+p4ObP=?<cJm-<ttFj\L7`sLD:8bb&!E>4rQS!te\o<k_uTDY&9^..q-1r&3.H5.Qe,f5)BHDHI7=b>@R<h69Y))FBiOB"`_Pms0,r,.6?PO7/`6kZNU697KKe0O@l&st1=YA:`7.`b0T]-%3*lu%`83<SBbY1u(r@Jmhr[A'/",caO%U8<$+qWBG4Z[-]Yg2,[*`Au=A^cKVuN'U;RS.4en],EM^@.Nml2oGE\0QWh]C$P;<X.TkdVP\N`ctspk#gQ-MI6ETI+@4ga^6_lsDqL5#<TJZ5?T\oaoT1t^%a%uLaHW,&<&3_ME!Y+g?#Sf&EUktR)pa&']JXeX=B!dnm.ErSnfnfIR%8/I]%1b0nFNBLh[/*t'^$F1S8)PX(%BoS@jiP84drOT*n6O^*"lHm[8r8/(R@n%;fP#Gj_JL_.LK-/*I;]-)=-F`Xf?c`gH^3WNKdNd6Fs(UPN=3+N-2pZ>HW2A_'u3?N/u1_+[=jhokoR"e]]$-N$i6ZTV)CJeH=mr)riRB(op85?mpTMbf:cVo=4!*$`]DmF;L.8/5Vo=)u?:D[^t1Q7b">V;bljf4K1GL;h`->h/k>Fq8s($dZ4fK<d45m#N]^jE^Fk.>\FUImRQV(b58n8aS-t8h<",pgj+.Yn`V>Z\j@%P:NjaY_l=0/4Nr,lh+\,mcU.oHK7qPHm>Ib=1W-S<bQDO].LH*s..G6Brh<pH>[3=:=St%tO'C.PmWJ6$Z'WsZ0seKCGRc[JUgLc9E^!u[d^TE$badl>;__D#ju(odNoiL]fAP:`nT>"UTs5RMEj-e1eLD`t0]HG\*oT9B(X(g&(,9-h7uG^RIk'2H`;~>endstream
 endobj
 10 0 obj
 <<
-/BaseFont /Helvetica-Bold
-/Encoding /WinAnsiEncoding
-/Name /F3
-/Subtype /Type1
-/Type /Font
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 1367
 >>
+stream
+Gatn$?Vf`@'ZJu$.IJEd+kLnsr95/BBseS=$9S.)Mb-$`;%h4/$)4JLp`>2a-Hi\#<A5&L\T.%#^?=Yu5o^t$rNA;Wo*tZpLEIaSZR(a=N&I#EYt;YVN)s7`3O)86,$2_RpfER7-%2L[-3TYQ'iiOYW\Wk&68D]@=al=;8WbgNH*pgW<%KU\06'joJksSQ8BFer91a8H%#KQNPtGPd,pidGKLCP^nks)$/4E!cKI'M<V(T#2;&L%4/6;)$?sKS>4D$fI%N:FEM9SrQ@qaQAP'ksSO56h"]4Cd^60%K$7jf7;QDqt2cK+<oDMZt$A:_6gTm4j<"Y2JOSQq`a6CW>UI#+g@0=WK)@PYhi"n,uaWHEo0XrnLX<u&l0Psr^QQ3C3e&p"5f4?KJ4la+p00%\&t@O`QGn6M>8<D+>u7BBD$?A&\e8Wc1O)0K_MJ*<Wag"mQaqq\h_R>S@BM3Sf:O*t#ri`/S%IjR=\*8mpB+fBqt)3\eMC?b=cUp4b(REBLQhX_G]np)kneJVmJ.$0<8+j+;-oIZV\*GeC@09KLr^;;$s]IOI16&1>:eD55d?Lpf@B/PV/U4)%C]ddb]q:jZL=RTo3Nh!SU+*?O6ds"Jj]dtE^bI%nDo:go3ZGLU:TIg(9Ih8@LP7h9H-REM*EY3'<hJ!li9nW.OX(cLdNi(E=kQ,R=D1.U[ik`"/f3XZtHdapndpK98\W>qG]Bf/OK\r_OrRUC+Dobe"P:G,;c5j?7d[SsD&6!l?:<>VeH5m@Y`li8W3XQX0-D9dka`fJ%2dpN4Eu9<^HY3F)HTOJ_3uG/JFKNC85]0h!iUOp^;K7o_aok0M+X!bd;5>93J4AFW%8mc6rj3P;>N<EbU(O15%Fc6#rSUs;I^<-q)[<L,8Pq.t2S4*N;:'"_X^0`.UCQWBT(9kLQP\S]]GH!'!1i@fn(kYp@Z,C+#)/TI&*biO?DO`^`m4]]dH[h;E3RSLa!t6ql?YtTG'q53Yh;kYMa3Zn@,(dpfnV,t,.)g]@^-%9Ggi%o[aCRPr3V]MI$j[`:Ck!T6uKC`HE$jNEE!K^oP(Vf4QFH#/OdmEfUGAML59"!pk/AXZ)YLfIQDIpYR_L1JQd#p#*[;br"'I!f)t0R)t6^iHlX;oVscUXghggf4V9mOZ#r#Q,@]WW\`*G]s"hJX^)p'o"3!9ngDq]iYfOjs56L0B3)qZ`_@0%Hp)!cp8ObD<BQ&92j.)"iH$[K[#Eqn!=.:'Fh;-f,ggt$SJ[ujV0Yf,#R3,92iPslYob/Oo3+/=`RiQBB&:pIHG7]aX!T'Q^NSXc='h?%@P6cph-CFWOH,G9[;f2AVYf>oeNN>*hVjZr3Au=n'E5]'t8!NoV<meM.~>endstream
 endobj
 xref
 0 11
 0000000000 65535 f 
-0000000015 00000 n 
-0000000054 00000 n 
-0000000113 00000 n 
-0000000162 00000 n 
-0000000468 00000 n 
-0000005175 00000 n 
-0000005282 00000 n 
-0000005389 00000 n 
-0000005508 00000 n 
-0000005620 00000 n 
+0000000061 00000 n 
+0000000102 00000 n 
+0000000209 00000 n 
+0000000321 00000 n 
+0000000524 00000 n 
+0000000728 00000 n 
+0000000796 00000 n 
+0000001078 00000 n 
+0000001143 00000 n 
+0000003318 00000 n 
 trailer
 <<
+/ID 
+[<9d79322baccd00d15eedf43186d184f5><9d79322baccd00d15eedf43186d184f5>]
+% ReportLab generated PDF document -- digest (opensource)
+
+/Info 7 0 R
+/Root 6 0 R
 /Size 11
-/Root 3 0 R
-/Info 1 0 R
 >>
 startxref
-5733
+4777
 %%EOF

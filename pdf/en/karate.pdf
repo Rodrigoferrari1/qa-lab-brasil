@@ -1,340 +1,93 @@
 %PDF-1.4
-%âãÏÓ
+%“Œ‹ž ReportLab Generated PDF document (opensource)
 1 0 obj
 <<
-/Producer (pypdf)
+/F1 2 0 R /F2 3 0 R
 >>
 endobj
 2 0 obj
 <<
-/Type /Pages
-/Count 1
-/Kids [ 4 0 R ]
+/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
 >>
 endobj
 3 0 obj
 <<
-/Type /Catalog
-/Pages 2 0 R
+/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
 >>
 endobj
 4 0 obj
 <<
-/Contents 5 0 R
-/MediaBox [ 0 0 595.2756 841.8898 ]
-/Resources <<
-/ExtGState <<
-/gRLs0 <<
-/ca 0.035
->>
->>
-/Font <<
-/F1 6 0 R
-/F1-0 7 0 R
-/F2 8 0 R
-/F2-0 9 0 R
-/F3 10 0 R
->>
-/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
->>
-/Rotate 0
-/Trans <<
->>
-/Type /Page
-/Annots [ ]
-/Parent 2 0 R
+/Contents 9 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 8 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
 >>
 endobj
 5 0 obj
 <<
-/Length 4503
+/Contents 10 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 8 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
 >>
-stream
-q
-1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
-q
-1 0 0 1 51.35433 779.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F2 12 Tf 14 TL (QA Lab Brasil) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 749.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 4 Tm /F3 20 Tf 24 TL 215.1635 0 Td (Karate) Tj T* -215.1635 0 Td ET
-Q
-Q
-q
-1 0 0 1 51.35433 724.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Karate: concept, Quality Engineering use cases, first steps and official reference.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 714.3701 cm
-Q
-q
-1 0 0 1 51.35433 688.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (What is it?) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 656.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Karate is part of the modern software engineering and quality ecosystem. This guide explains its role, where it fits in) Tj T* (the delivery flow, and how QA professionals can use it with the right context.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 630.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Why should QA know it?) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 585.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 29.5 Tm /F1 9.5 Tf 13 TL (Understanding Karate helps QA collaborate with development, DevOps, data and product teams. The goal is not to) Tj T* (memorize commands, but to understand how the tool affects testability, automation, evidence, diagnostics and) Tj T* (delivery quality.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 559.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Getting started) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 514.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 29.5 Tm /F1 9.5 Tf 13 TL (Start with the official documentation, verify prerequisites and install only from the official source. In corporate) Tj T* (environments, confirm internal policies, supported versions, permissions and environment variables before) Tj T* (configuring Karate.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 488.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Practical QA use) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 456.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Use Karate in a small reproducible exercise. Record the goal, configuration, expected result, evidence and issues.) Tj T* (Then connect the learning to a real testing, automation, integration, data or continuous-delivery scenario.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 430.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Good practices) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 398.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Prefer official documentation, never expose credentials, version configuration when appropriate, keep dependencies) Tj T* (current and document important decisions. A tool without context does not replace a quality strategy.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 372.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (When to use it) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 340.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Use this knowledge when product risk, architecture or the delivery stage requires this type of validation. Confirm the) Tj T* (goal, environment, required data and expected evidence before starting.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 314.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (QA tip) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 295.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Always connect the practice to product risk and the evidence needed for quality decisions.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 269.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Official resources) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 250.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Site oficial: https://www.karatelabs.io/) Tj T* ET
-Q
-Q
- 
-
-Q
-
-q
-0.0 0.0 595.2756 841.8898 re
-W
-n
-1 0 0 1 0 0 cm
-BT
-/F1-0 12 Tf
-14.4 TL
-ET
-0.843137 0.901961 0.960784 RG
-0.6 w
-n
-36 815.8898 m
-559.2756 815.8898 l
-S
-0.070588 0.207843 0.356863 rg
-BT
-/F2-0 8.2 Tf
-9.84 TL
-ET
-BT
-1 0 0 1 40 821.8898 Tm
-(QA LAB BRASIL) Tj
-T*
-ET
-0.356863 0.45098 0.564706 rg
-BT
-/F1-0 6.8 Tf
-8.16 TL
-ET
-BT
-1 0 0 1 399.3516 821.8898 Tm
-(QUALITY ENGINEERING \174 OFFICIAL DOCUMENT) Tj
-T*
-ET
-q
-0.848048 0.529919 -0.529919 0.848048 297.6378 420.9449 cm
-0.08 0.21 0.36 rg
-/gRLs0 gs
-BT
-/F2-0 42 Tf
-50.4 TL
-ET
-BT
-1 0 0 1 -164.493 0 Tm
-(QA LAB BRASIL) Tj
-T*
-ET
-Q
-0.843137 0.901961 0.960784 RG
-n
-36 24 m
-559.2756 24 l
-S
-0.356863 0.45098 0.564706 rg
-BT
-/F1-0 6.6 Tf
-7.92 TL
-ET
-BT
-1 0 0 1 40 14 Tm
-(qualityassurancebrasil\056com\056br) Tj
-T*
-ET
-BT
-1 0 0 1 221.4507 14 Tm
-(QA Lab Brasil v2\0562 \174 EN \174 Updated\072 September 2026) Tj
-T*
-ET
-BT
-1 0 0 1 519.6818 14 Tm
-(Page 1 de 1) Tj
-T*
-ET
-Q
-
-
-endstream
 endobj
 6 0 obj
 <<
-/BaseFont /Helvetica
-/Encoding /WinAnsiEncoding
-/Name /F1
-/Subtype /Type1
-/Type /Font
+/PageMode /UseNone /Pages 8 0 R /Type /Catalog
 >>
 endobj
 7 0 obj
 <<
-/BaseFont /Helvetica
-/Encoding /WinAnsiEncoding
-/Name /F1
-/Subtype /Type1
-/Type /Font
+/Author (\(anonymous\)) /CreationDate (D:20260922123401+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20260922123401+00'00') /Producer (ReportLab PDF Library - \(opensource\)) 
+  /Subject (\(unspecified\)) /Title (Karate) /Trapped /False
 >>
 endobj
 8 0 obj
 <<
-/BaseFont /Helvetica-BoldOblique
-/Encoding /WinAnsiEncoding
-/Name /F2
-/Subtype /Type1
-/Type /Font
+/Count 2 /Kids [ 4 0 R 5 0 R ] /Type /Pages
 >>
 endobj
 9 0 obj
 <<
-/BaseFont /Helvetica-Bold
-/Encoding /WinAnsiEncoding
-/Name /F2
-/Subtype /Type1
-/Type /Font
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 2101
 >>
+stream
+Gatm<=``=U&:W67fLIlq+9Y7)a@dmudkoOtjAMl$0F:=L8V..3/+3&MGJRJs`RZ<?B5AG2G8L,s$^sD4hmE9K<rghkGju"Bb$_OZ)Nb:`n)3kNFgiP\(=4T:&lG+9*(]G2&hppt^#CK71ggn@=\O(],H+WL,:j;!G[;n%8PE4tA;g>JN.ab6V"c)X8^Q9WXJA-Q@`BNtbtBl:8]F+>C0G,3,a;_j0mLhbP,:'gWJ"t3T1ba+aq]sCbuh9]O&H[q0P5CuH"F&X@ng`+WTCcLm:QbimJ5LSjfA>pqeUtGa)C<X#6T],]Ybm8Cqp')ciGn\K#OQ+PK+s.#fWZmX,jH5J^$E`H04QB5n`ZD"i;J]O<JcuM>/hn2IrHodYeNJ6II+dr0Aej4JP7JGk^JAY!9Vrr:\r%=TjD)MGX5AVC^e,*X[bMP!5H_THn#(m$"fN<:0cnf/lu*BiMcMVFj2o-6\I-_p7;VZA8`g$D61VC02SiO>Ost.`<GRN%^Jhq#$]282Tsta7ou:*f!it4R?X\3l80_<kp]RPbrM7`!orj@9!X'*roR\r=MIT@@)p1EhkFNOA+2KD?uHjL:^I4>s9keJB2BtB[YE!Klpp7P`[r@#Q\`K\GAi8iT++doAclWFf3]poSNErAUT6O6'<E(=GA_b9oT"BiAVMC^1(W"d*[pOMME*W6E]WZ2JrsO=9,IgO:*T+)Rddj#M.#:JuB((gTAV`.)F!,1_PG&U]-n@5`?V/FGFOMb8ibrWDf2V!mA.qrk0*XPQg/t4eo<Er]k7%n47JGmRA%KXTGtu;!C<8)Q_f,K.mr!U=$]MG67h#fCf4a>nP`U0ug@r"lB3c.>=f#Ft=J9au(14f_BH%=3;[UGYQ^o[R-;F?CD,OQMRiR'(#8l:c=<\>A:4f[4!WD>B_d]is4]>h6TT<p<GJ3afk+P=BYDYX?;Cn#4)/KGZJ76rOrW0\!=%cE4DgDX5uIW*7S?"FhVFN*!Yc3DG?/Qg$WTb<$`*68LlH&mp'@0^3FWW*6<!k9IXj1;>LHIBo=?_G%LEZ/IT)Q1Cq@ho51m$!a$hmZ?p0m[VZq"S1FZni'BjbgBS/_(%T&:GI!QV/J#(N_R2ke1D&_3GQMkS0.>ld)"rp\]rdF:B5&9*r;b4'BtsRDUO'2MFlE!STY-U;g*%5sCM`d*mM7l%(%P[s](+^\iHKSI^;7N"_MPGM.)DY&*B5JtlX_\WV\*iY-]i,'QShaJdRO1n2QWqd+2oWeD0MhI$L3<3WSk-96#="c7iu[_0A\*q.4G5Il"XUZ]LP1P%^)^7KbD"$>Gq%`%$PlDQ?3<SU6n)=LaWZb7Yj"O3KF5ZcnkR`lGAckNX;>+f%DVI8[5G3gsl#uTgm#Y[E?*]hq^SjT^*6Hg$%]\9Wqt.Dem;H1jXG3\<?Nu1:m0nO9t-tW;[,K3h.brCnjW3ilC^@ff.>YW\aXgO@:k5(Ij7N&kfm"BHhN;0#t+P1[E@p6^U9&ZQY;&`Rs[rL`ECPgIEFH.!rNfG!(e6dMQp)N!$g!!OhRW)VJn2@8Cld99UlaTROc:DMepC0DGQ7D""=IY76@*;*u:?9/hdZ"#c3dCKoKhL*oPu9CF/DZ]r>V*\$^dJMFAVh?Ir\fE+0DG%8hCQ#LX9H*?L6\+]W2!;":RAW7,GB40'6-dHsq?g`mI7VhIi*<Ds!UUVG\*:b2_EW05GW,VqWO/VcMBHn*ZLUYt0.*5ugrG`>Cdi`Su\:A[)_l]0JCsoVO[H@VV)tMPs0AGUY#?9e20CVm`O`"Lg"CCb"_:t5mVaDIgKMhZ+6)'[^o4p2[)0=t4]fX:5C%fK7$]VJ#*XAoFIK4Pheh`1FSii?!n):8$+%&Y'lsu13373_k\#;0Jn'UTFJ"6)X3]`@tqr:W2:dC<?dG.+L7f_7^WJZ]G;qJ4%)dIhMNJ2AUa$@Uk\sQ0%16:;@qg"$1E"8V$5E=ss-?g%is7GIjh3S@ICh<E]`_/g@<5?hrg<]D0L[fVX5P_<F@"dZUaIaNf)Q0cXMgqj6oe1SrfEoI7LaMW:]6QV?]PR,7YE[(+Hbd%shXg7HY.rSeIN0E9\b0ljkFC_ggrtg0=T&c`WdRe~>endstream
 endobj
 10 0 obj
 <<
-/BaseFont /Helvetica-Bold
-/Encoding /WinAnsiEncoding
-/Name /F3
-/Subtype /Type1
-/Type /Font
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 1366
 >>
+stream
+Gatn%;/b2I&BE]$.IOGk4H?4*M0_k(FsrZ3-Ln<Q7\X]WP3A$mZOHa#4jpY&U1k5KM1Jbi;0RNHn*Xin'L+/ID[(a82>m$-!TUEPJ/+l1obDjVB7FQIes+]2OFja;'L9h9=+T+:@jWI0N:I%M\g/I9"UnPQ$(#p7SnrgUQ%W(>T<5//P#ml?]VnCje+209Bhh:GTug%V<fsBtH$$IH3$T0uki(`1nq'ESC02`4QKBH8Z1XM5#ci5n[SAMCH!^'*pQO^;!IZQ.=_`FA/c/\@073[^>>;QN](['h*^?%>KE9mAOZ61SB+F]ec,e6>MN\*oQ_Y1K@QhN=l\hBCr<:d@j(^n2.\m3a$bWF#*Nofi*hf/MY_D^P"Bc=>'f9fr&KtmI7t@Xu9=VXF\G^Ml*io>c@Ylf:QBLE?M8Q!D;<7=7-mLT^q'!hTH4q@Y_mhFrf$95Do2%2TH'JJo2.dp(<>U8<&oN0E7Q;VXM(DNLJ.)e%`L3]\gE/s2`LJ_]iYC$kRA6d&hTJc=J[,G/i.;6Sj=)nM%PF=CV?cl,J=h\4`[4mA<C`$N*?l7h1Sc(=NYboG[><cc5'ET#8+#b/)Wq3-?i4`2d::NT9O<2ni+WKkSkEH;XX'Y%2)[Kf.H54DSHM[u)R*U`dNF^-c_e5X4)48;lMD=_&RB&!?*>D"Ih-.E5Eo)4YFr.1B/Yt&\A!HGLTLnk4H-l!hCJ?1!]Q+3^mebfYNp[;qGq*QGh!8D]tFeXF>AQi%[t1mhJ%*)@)<[_drjAQ18%W5JT^M5ec]JQ%sPUk(gXO$<Yq\r+.R)o,P%;)d3WR(/gr#m1U;N,W6g3b4p=]^*d5hXd7njgBN^/#_u#qkYT8i@-?TM!SI'b!-4BMJZ[0Qi@O>0\[1CVDh')rrHCs[Q((*3@nZKnnNQ/KTBg;:,a(Gca^W!gN^aH5I9a[9Y&1g676)t#-XLmqII,Bl(%5$3b`^Buml\JPPHPQE$in`WsGm3(\Y?p-[jdYeRB^IFL$T?SELc4P:/pLNq^_?.\i8+\!TNl:3eZj%@C6GFL:.SUD9LJ.qCeX0a-1!8?R'_;GpKI%$CWo"p`263^Cmu>eJ\"4sg?ga1a$O[A`n[+ggrCI:hW#H/Q%k[^Z.=:VI?2d%'*Z6Zob0C[W>#i&!pI>bp\Ha1N"c29`csDV)<5)k0\BKcIaX"Y#%o==[bk7-^-1A&TXU$%s.GA7n5H^og?NZl@:aaL&*q8i4d*f^3b%D57cW<"])h"8*aqe$Ucu07C@5cjP90J<feJc4@D4A<Om"WtNa,Dg\jIPB4s.rk%<?+Nbf:<nS\p"!^#B$ZR`!U=5FB&I*ASND^%4!_!]J3e=&_J:^DfsK!81Fh!8;c~>endstream
 endobj
 xref
 0 11
 0000000000 65535 f 
-0000000015 00000 n 
-0000000054 00000 n 
-0000000113 00000 n 
-0000000162 00000 n 
-0000000468 00000 n 
-0000005023 00000 n 
-0000005130 00000 n 
-0000005237 00000 n 
-0000005356 00000 n 
-0000005468 00000 n 
+0000000061 00000 n 
+0000000102 00000 n 
+0000000209 00000 n 
+0000000321 00000 n 
+0000000524 00000 n 
+0000000728 00000 n 
+0000000796 00000 n 
+0000001069 00000 n 
+0000001134 00000 n 
+0000003326 00000 n 
 trailer
 <<
+/ID 
+[<4d523188bab82e27f9d7d570e1cc6e81><4d523188bab82e27f9d7d570e1cc6e81>]
+% ReportLab generated PDF document -- digest (opensource)
+
+/Info 7 0 R
+/Root 6 0 R
 /Size 11
-/Root 3 0 R
-/Info 1 0 R
 >>
 startxref
-5581
+4784
 %%EOF

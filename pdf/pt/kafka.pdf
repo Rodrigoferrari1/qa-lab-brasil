@@ -1,340 +1,93 @@
 %PDF-1.4
-%âãÏÓ
+%“Œ‹ž ReportLab Generated PDF document (opensource)
 1 0 obj
 <<
-/Producer (pypdf)
+/F1 2 0 R /F2 3 0 R
 >>
 endobj
 2 0 obj
 <<
-/Type /Pages
-/Count 1
-/Kids [ 4 0 R ]
+/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
 >>
 endobj
 3 0 obj
 <<
-/Type /Catalog
-/Pages 2 0 R
+/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
 >>
 endobj
 4 0 obj
 <<
-/Contents 5 0 R
-/MediaBox [ 0 0 595.2756 841.8898 ]
-/Resources <<
-/ExtGState <<
-/gRLs0 <<
-/ca 0.035
->>
->>
-/Font <<
-/F1 6 0 R
-/F1-0 7 0 R
-/F2 8 0 R
-/F2-0 9 0 R
-/F3 10 0 R
->>
-/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
->>
-/Rotate 0
-/Trans <<
->>
-/Type /Page
-/Annots [ ]
-/Parent 2 0 R
+/Contents 9 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 8 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
 >>
 endobj
 5 0 obj
 <<
-/Length 4155
+/Contents 10 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 8 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
 >>
-stream
-q
-1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
-q
-1 0 0 1 51.35433 779.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F2 12 Tf 14 TL (QA Lab Brasil) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 749.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 4 Tm /F3 20 Tf 24 TL 138.4735 0 Td (Apache Kafka para QA) Tj T* -138.4735 0 Td ET
-Q
-Q
-q
-1 0 0 1 51.35433 724.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Fundamentos de testes em arquiteturas orientadas a eventos.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 714.3701 cm
-Q
-q
-1 0 0 1 51.35433 688.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Conceitos) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 669.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Kafka trabalha com producers, consumers, topics, partitions e offsets.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 643.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (O que testar) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 611.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Valide publica\347\343o, consumo, schema, ordena\347\343o quando garantida, duplicidade, retries, idempot\352ncia e) Tj T* (comportamento diante de indisponibilidade.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 585.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Observabilidade) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 566.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Correlacione IDs de eventos com logs/traces para acompanhar o fluxo ponta a ponta.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 540.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Quando usar) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 508.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Use este conhecimento quando o risco, a arquitetura ou a etapa do ciclo de desenvolvimento exigir valida\347\343o) Tj T* (espec\355fica. Antes de aplicar, confirme objetivo, ambiente, dados necess\341rios e evid\352ncias esperadas.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 482.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Como o QA aplica na pr\341tica) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 450.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Comece pelo comportamento ou risco que precisa ser validado, prepare dados e ambiente, execute a t\351cnica ou) Tj T* (ferramenta de forma reproduz\355vel e registre evid\352ncias que permitam explicar o resultado ao time.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 424.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Boas pr\341ticas) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 392.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Priorize cen\341rios de maior impacto, mantenha dados e ambiente controlados, registre decis\365es importantes e revise) Tj T* (periodicamente a abordagem para evitar cobertura redundante ou desatualizada.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 366.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Dica de QA) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 347.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Relacione sempre a pr\341tica ao risco do produto e \340s evid\352ncias necess\341rias para a decis\343o de qualidade.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 321.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Recursos oficiais) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 302.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Site oficial: https://kafka.apache.org/documentation/) Tj T* ET
-Q
-Q
- 
-
-Q
-
-q
-0.0 0.0 595.2756 841.8898 re
-W
-n
-1 0 0 1 0 0 cm
-BT
-/F1-0 12 Tf
-14.4 TL
-ET
-0.843137 0.901961 0.960784 RG
-0.6 w
-n
-36 815.8898 m
-559.2756 815.8898 l
-S
-0.070588 0.207843 0.356863 rg
-BT
-/F2-0 8.2 Tf
-9.84 TL
-ET
-BT
-1 0 0 1 40 821.8898 Tm
-(QA LAB BRASIL) Tj
-T*
-ET
-0.356863 0.45098 0.564706 rg
-BT
-/F1-0 6.8 Tf
-8.16 TL
-ET
-BT
-1 0 0 1 398.216 821.8898 Tm
-(QUALITY ENGINEERING \174 DOCUMENTO OFICIAL) Tj
-T*
-ET
-q
-0.848048 0.529919 -0.529919 0.848048 297.6378 420.9449 cm
-0.08 0.21 0.36 rg
-/gRLs0 gs
-BT
-/F2-0 42 Tf
-50.4 TL
-ET
-BT
-1 0 0 1 -164.493 0 Tm
-(QA LAB BRASIL) Tj
-T*
-ET
-Q
-0.843137 0.901961 0.960784 RG
-n
-36 24 m
-559.2756 24 l
-S
-0.356863 0.45098 0.564706 rg
-BT
-/F1-0 6.6 Tf
-7.92 TL
-ET
-BT
-1 0 0 1 40 14 Tm
-(qualityassurancebrasil\056com\056br) Tj
-T*
-ET
-BT
-1 0 0 1 210.9996 14 Tm
-(QA Lab Brasil v2\0562 \174 PT\055BR \174 Atualizado\072 setembro de 2026) Tj
-T*
-ET
-BT
-1 0 0 1 514.547 14 Tm
-(Pagina 1 de 1) Tj
-T*
-ET
-Q
-
-
-endstream
 endobj
 6 0 obj
 <<
-/BaseFont /Helvetica
-/Encoding /WinAnsiEncoding
-/Name /F1
-/Subtype /Type1
-/Type /Font
+/PageMode /UseNone /Pages 8 0 R /Type /Catalog
 >>
 endobj
 7 0 obj
 <<
-/BaseFont /Helvetica
-/Encoding /WinAnsiEncoding
-/Name /F1
-/Subtype /Type1
-/Type /Font
+/Author (\(anonymous\)) /CreationDate (D:20260922123401+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20260922123401+00'00') /Producer (ReportLab PDF Library - \(opensource\)) 
+  /Subject (\(unspecified\)) /Title (Apache Kafka para QA) /Trapped /False
 >>
 endobj
 8 0 obj
 <<
-/BaseFont /Helvetica-BoldOblique
-/Encoding /WinAnsiEncoding
-/Name /F2
-/Subtype /Type1
-/Type /Font
+/Count 2 /Kids [ 4 0 R 5 0 R ] /Type /Pages
 >>
 endobj
 9 0 obj
 <<
-/BaseFont /Helvetica-Bold
-/Encoding /WinAnsiEncoding
-/Name /F2
-/Subtype /Type1
-/Type /Font
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 2046
 >>
+stream
+Gatm<bAu>q']&(*maB?>0L6>!A7qf3-e$9r&%ATU+;0j"OG"%*Wgi7npAgFK3jC8r/&+K'&FR+'SGSs>"o.6ZDc%0R?.6bs:->?<(%I[1FT%ff>VBt2/B@pb-cBK>dmOa?gfI*k]kA0*A"3d49PL(P&W)n?72iHcMrJ8NWtoEd_B?p4qpM!'Bb4gbaB9GVmCSW7Lfb:E<%OmmT!C0hOZR;_$TUk*L_KK;B49#iN9<#a(fuS$lF9kH7*KlsVR(]&ZQP3iE&rDNfjhg#j4XuX2(ageN/*HXruA.MEO/c\=<R,.7RTBK30jls6bpPZ&%KH"Pi3=,b63bO//Fo<\u)fpQbUo?=1Wk>G-`;#7$\Dm@pJ*Q/kfb0[ug&0n<)t'Ke-e<)@+Q!c@j:7c2t\o]V;H&Q_30KT,W]F#q$=Ff.7:S1"tTN3\/n47KUm+O@Oqc?<4Z7LYak'h'ciWZ_!Z/+s*QmYq/E+iE%(Y+OB9#Di9?^$j8+S!2g#+0aks:WM7_"5\'=:Ag5&+oU\H9Q0`nOUQ,@Z!'r$#i&mJQ,F<L`AZI>UIu3q/oLC1SaBcBt-m3"36VR.t)kqH0E4ZDRmJB]]MOen1-I828Tbe)t,L?F_"1g,LluF>/)b%NbeMg&=BdHJGH$OnCa8.KW0KXeCR%n4T$.96f#]g[hKJ[jjUS%%6!C*q5GVKP\s6OU[Pd4=aB3Hc"FfNCkWLBWrm<,><*cWN:27CR=Q]fkLDeJg=rZKPjRJ3L)-uF$$SkPr8Ql+7$pR]#U9qaCo*J#_9:):Wrld!YLXDT9uVP]>1AR?k?T&X\:p9h[%bXNCnKe,:@C"sh"B!lARG>p,g"0+nDr+*)1%-E,D1e$l?+hpEbMVlJTYV*<47g)tNlkr*L*fff`X`C*mACX<*09HMZ^d+\Q?8o/66`n6g^oNui+3MQ(He;si?+4NT?!Mbu\!cl8RBc(9d:Yts"f'8]UYs@4't)2ILJfW3.kB'KLc;9%[Zf86\b"5H(6\G*,m(X.p)@LiDOj_^Qa1VcV9d.^_s3e&_Q'?>/TS3QgS7YBLu<!X#diAcalO&Em>'C=m9s[J-CuB>0R-D2J"_K<;O`,<l!bFm?0:+?"gbU!7h$tK1ZRu5QVD1-%AK:dQe51/)]XIQ;Oo&l*Jtmt_=@3<FJJ!J80S3$WUo588hD(R!2H#][i<f[V69`18+77kl-k%!EHXCWQI+u!mbo1;/j*F[H#9W_Pq8#'MVe<sKt_=O^3Wglh-QbG(<?rW7FK.X2E0&.b?%\nB*c?@Ue<cCH;&GVJH6n9K9JauiukG;4XM&@-pMR6F:I#^s$d`L&EZaOW1CLOO:ZHhgWB)jV0Akg.!/GPU,%ak;RNOXRVKGr7,@+8[T!-FBfA[3eS\?;'G2aP&k0-H;Zr,C/u,68l+#0M7YP/t<Lqu-*;.`S(!&7gd$6Kmb#&m`DRFK/;/LHd:V3mjS2jO!Q-1CsO!9%'pE2TW!)gEW@m1pGVT*`^k>-kWLV\_eF/G*jl6="dS?u.do7!53iEcf(AoH$uF=VbM)`TFc$s&L9C<)7$0r=<bL`iqLSX0AKZ4`2Fr,4W;7?SIHo,UlYW3*NXSJ"uCee2!5%nGNJ<48gtSSbL`cMkWQ!)D3N"#d4j13+:6D-ru@)Noh9LiZN]i#k,o?#a8$$H(?;:KI`Q9\^^E/b(qa*Vge=5ZWA)*Dk"J:Z.n3==9)C>'-FJFq"h%od?>:[W^5$DY\ZhW,u4r9eC[QPfrYI1U2)'>>LbI,oj,eBdbr6FC2Su@th,MfS)lt<gLo),%O^<SjV:F#R@b-G4*cM44=%_/Ea?jio(=j3Gk',UQckLXD_7D>/Q8,E'",=n=9=;OchrToCh+lrn(K"kk2YR44O];dOMV[eicc:JcblfTgkW5/&8<;bNbUP8_+as#?fcWDS$_.]X";Mdp!>WcDP:3+']Lm4f,$iShrIP.;/`f?i!BLC4^V<AqD?)6gko<6&Fo5d2<XQO#]W'SFqfO0Lt=X+,6F9*l5-r_uJ9?LESEjN\KMb2nYo4s*JcWC%38m68o5~>endstream
 endobj
 10 0 obj
 <<
-/BaseFont /Helvetica-Bold
-/Encoding /WinAnsiEncoding
-/Name /F3
-/Subtype /Type1
-/Type /Font
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 1346
 >>
+stream
+Gatn$9lJfF&;KZM'm"I!K-_sD+2-@+>6OVm:,Y%<BSj?u.u>3C1>JNe^+X'"Ua1s>'_)62mZ<kTcMPgV&B@:7s6G^/E^r@o-:g\]m7Ch>UYRe5m?3M:itWA1:+R'Qa;(sBrY=K)8Y;rE$,L1B7?oZoWf4NbOA(sSQER_T.<6aqY;YR$MPUL>,o.4GpiLnlPWWNfPZ0$28JJ8)<#T$o2CV`O,WqTeQSN&^.4SM!==j-6l=+NBPqc.X@WP9N`atU^eba)AjT&YGD,.KE:!7r#kKBF2Y#_+K-i5h/$BG]I3lqB29MIQe->+@'+_JjS"j*#:_/knk8?qLEm,m:Tg-*gN9g$[F_,XVNP8P,N[$*qU[LoN"Jln8o6mrFD()`07(/1]"bRs(8ifYqO?+bZ6]a^8>;\9Umn$81W>2ff;@[-HV+C)-CMY&pMW*;@]9iq;0p;V@3+1@lc<2;rTXK56DgoJR3Y=a-8Hd^A4!RAh-l#b8p@o@/;/\V0RC+PiiVK/cRH_)F^I(mcQlO7JXA0;Uc6Bl7soGq4`*GeC@&!>WmI=ikMZn"m3MNk(G8);-*'0.^<e59911?=P9TBR/s3@Q$09o[:Cq,C&elmgMf^"5)aRKi0(?IR;L*)3WYcm+FX\+OU,M+?%C;0u%6kY9qO:DZN,h])DZn,Lh^>;mA5;!n+m4cJ6ZU[C$?WjeN\h<:q![0\#Qo@BIrGr#%P(^,oCmasQ-(1/C2puKP@d?-@rC^8cU7_bCeZN6Ae*KWrV(pEhV;1m[iDHoNen\ubNELZ+5"@cH9^o=FJU`TKm83`%B>`e3*k8S-h)t.nS"735rC(/dEn?*Wn=WFpZK@d/&`/EC4YVe$NF;g"e0&Gb_#PORe0+5tR,4(3mEf@&Ynum6%WdOLk]UU7&nC8f^LZ$6qFS,";%'da^rU1/9WW!-Kkiru3l_<li!p;!)hL[f0AmT!ul@_UpB]"hGGQ<tOe3PHi-9A)L@W*#,95t71?h&Jt";H+0R(g"+TO@\>Pi-pKmGf@1@HDBJ/./EU@*pg81O;.IDn^a7NJ[O$k#(Im)huF;/Gl4<'\TM"eUHdH4kN8_r4lNUXTk0;`;L6-N9e<'juXF&nYUSs+V=7_)#D^n]@M(M_L1][l-Lq*CuO6]iU[*JNJ(;8r&CMA$AcSb[g,a(+d%i)IYjrnFhV8+Kpe7H*&.f9PDjU:F3Hu.ff66GB2?j@qP;X:='Y"Xc;"^"_ZLG!m>0-j=D%[ZoO-KWF<+aQ`o/[\ZFr%!Cel;WU7`%<gj+g%R;O5LTPLCHJ.9^JZqGKpM#cc!K?dD4qK^$!3B7PP3/OOFmc%fToln3IA@6uFP(*MMDOuR~>endstream
 endobj
 xref
 0 11
 0000000000 65535 f 
-0000000015 00000 n 
-0000000054 00000 n 
-0000000113 00000 n 
-0000000162 00000 n 
-0000000468 00000 n 
-0000004675 00000 n 
-0000004782 00000 n 
-0000004889 00000 n 
-0000005008 00000 n 
-0000005120 00000 n 
+0000000061 00000 n 
+0000000102 00000 n 
+0000000209 00000 n 
+0000000321 00000 n 
+0000000524 00000 n 
+0000000728 00000 n 
+0000000796 00000 n 
+0000001083 00000 n 
+0000001148 00000 n 
+0000003285 00000 n 
 trailer
 <<
+/ID 
+[<a277b00da708e3e4195bfe1d4ea88568><a277b00da708e3e4195bfe1d4ea88568>]
+% ReportLab generated PDF document -- digest (opensource)
+
+/Info 7 0 R
+/Root 6 0 R
 /Size 11
-/Root 3 0 R
-/Info 1 0 R
 >>
 startxref
-5233
+4723
 %%EOF

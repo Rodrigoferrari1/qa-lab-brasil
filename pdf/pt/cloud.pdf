@@ -1,326 +1,74 @@
 %PDF-1.4
-%âãÏÓ
+%“Œ‹ž ReportLab Generated PDF document (opensource)
 1 0 obj
 <<
-/Producer (pypdf)
+/F1 2 0 R /F2 3 0 R
 >>
 endobj
 2 0 obj
 <<
-/Type /Pages
-/Count 1
-/Kids [ 4 0 R ]
+/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
 >>
 endobj
 3 0 obj
 <<
-/Type /Catalog
-/Pages 2 0 R
+/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
 >>
 endobj
 4 0 obj
 <<
-/Contents 5 0 R
-/MediaBox [ 0 0 595.2756 841.8898 ]
-/Resources <<
-/ExtGState <<
-/gRLs0 <<
-/ca 0.035
->>
->>
-/Font <<
-/F1 6 0 R
-/F1-0 7 0 R
-/F2 8 0 R
-/F2-0 9 0 R
-/F3 10 0 R
->>
-/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
->>
-/Rotate 0
-/Trans <<
->>
-/Type /Page
-/Annots [ ]
-/Parent 2 0 R
+/Contents 8 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 7 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
 >>
 endobj
 5 0 obj
 <<
-/Length 4221
+/PageMode /UseNone /Pages 7 0 R /Type /Catalog
 >>
-stream
-q
-1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
-q
-1 0 0 1 51.35433 779.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F2 12 Tf 14 TL (QA Lab Brasil) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 749.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 4 Tm /F3 20 Tf 24 TL 132.3735 0 Td (Computa\347\343o em Nuvem) Tj T* -132.3735 0 Td ET
-Q
-Q
-q
-1 0 0 1 51.35433 724.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Fundamentos de computa\347\343o em nuvem, ambientes, servi\347os gerenciados e o que muda na estrat\351gia de testes.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 714.3701 cm
-Q
-q
-1 0 0 1 51.35433 688.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (O que \351 Cloud) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 656.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Computa\347\343o em nuvem fornece recursos de infraestrutura e plataforma sob demanda. QA n\343o precisa ser Cloud) Tj T* (Engineer para compreender ambientes, servi\347os, permiss\365es e depend\352ncias.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 630.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (IaaS, PaaS e SaaS) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 598.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (IaaS oferece infraestrutura, PaaS fornece uma plataforma gerenciada e SaaS entrega software pronto como servi\347o.) Tj T* (Entender o modelo ajuda a identificar responsabilidades.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 572.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (AWS, Azure e Google Cloud) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 540.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (S\343o grandes provedores de nuvem. O foco do QA deve estar nos servi\347os usados pelo produto, logs, dados,) Tj T* (permiss\365es, disponibilidade e configura\347\343o do ambiente.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 514.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Testes em Cloud) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 482.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Considere elasticidade, configura\347\343o, rede, secrets, observabilidade, depend\352ncias externas, recupera\347\343o e) Tj T* (diferen\347as entre ambientes.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 456.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Quando usar) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 424.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Use este conhecimento quando o risco, a arquitetura ou a etapa do ciclo de desenvolvimento exigir valida\347\343o) Tj T* (espec\355fica. Antes de aplicar, confirme objetivo, ambiente, dados necess\341rios e evid\352ncias esperadas.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 398.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Como o QA aplica na pr\341tica) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 366.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Comece pelo comportamento ou risco que precisa ser validado, prepare dados e ambiente, execute a t\351cnica ou) Tj T* (ferramenta de forma reproduz\355vel e registre evid\352ncias que permitam explicar o resultado ao time.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 340.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Dica de QA) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 308.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Antes de testar um servi\347o em Cloud, descubra quais componentes s\343o gerenciados pela equipe e quais s\343o) Tj T* (responsabilidade do provedor.) Tj T* ET
-Q
-Q
- 
-
-Q
-
-q
-0.0 0.0 595.2756 841.8898 re
-W
-n
-1 0 0 1 0 0 cm
-BT
-/F1-0 12 Tf
-14.4 TL
-ET
-0.843137 0.901961 0.960784 RG
-0.6 w
-n
-36 815.8898 m
-559.2756 815.8898 l
-S
-0.070588 0.207843 0.356863 rg
-BT
-/F2-0 8.2 Tf
-9.84 TL
-ET
-BT
-1 0 0 1 40 821.8898 Tm
-(QA LAB BRASIL) Tj
-T*
-ET
-0.356863 0.45098 0.564706 rg
-BT
-/F1-0 6.8 Tf
-8.16 TL
-ET
-BT
-1 0 0 1 398.216 821.8898 Tm
-(QUALITY ENGINEERING \174 DOCUMENTO OFICIAL) Tj
-T*
-ET
-q
-0.848048 0.529919 -0.529919 0.848048 297.6378 420.9449 cm
-0.08 0.21 0.36 rg
-/gRLs0 gs
-BT
-/F2-0 42 Tf
-50.4 TL
-ET
-BT
-1 0 0 1 -164.493 0 Tm
-(QA LAB BRASIL) Tj
-T*
-ET
-Q
-0.843137 0.901961 0.960784 RG
-n
-36 24 m
-559.2756 24 l
-S
-0.356863 0.45098 0.564706 rg
-BT
-/F1-0 6.6 Tf
-7.92 TL
-ET
-BT
-1 0 0 1 40 14 Tm
-(qualityassurancebrasil\056com\056br) Tj
-T*
-ET
-BT
-1 0 0 1 210.9996 14 Tm
-(QA Lab Brasil v2\0562 \174 PT\055BR \174 Atualizado\072 setembro de 2026) Tj
-T*
-ET
-BT
-1 0 0 1 514.547 14 Tm
-(Pagina 1 de 1) Tj
-T*
-ET
-Q
-
-
-endstream
 endobj
 6 0 obj
 <<
-/BaseFont /Helvetica
-/Encoding /WinAnsiEncoding
-/Name /F1
-/Subtype /Type1
-/Type /Font
+/Author (\(anonymous\)) /CreationDate (D:20260922123400+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20260922123400+00'00') /Producer (ReportLab PDF Library - \(opensource\)) 
+  /Subject (\(unspecified\)) /Title (Computa\347\343o em Nuvem) /Trapped /False
 >>
 endobj
 7 0 obj
 <<
-/BaseFont /Helvetica
-/Encoding /WinAnsiEncoding
-/Name /F1
-/Subtype /Type1
-/Type /Font
+/Count 1 /Kids [ 4 0 R ] /Type /Pages
 >>
 endobj
 8 0 obj
 <<
-/BaseFont /Helvetica-BoldOblique
-/Encoding /WinAnsiEncoding
-/Name /F2
-/Subtype /Type1
-/Type /Font
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 1742
 >>
-endobj
-9 0 obj
-<<
-/BaseFont /Helvetica-Bold
-/Encoding /WinAnsiEncoding
-/Name /F2
-/Subtype /Type1
-/Type /Font
->>
-endobj
-10 0 obj
-<<
-/BaseFont /Helvetica-Bold
-/Encoding /WinAnsiEncoding
-/Name /F3
-/Subtype /Type1
-/Type /Font
->>
+stream
+Gatn&9lJcG&;KZM'm%S7/siA%I2nHD/IE3HD<&TAH=8)QAKcm?-+Vi@J,IU=[Nr>"Cb4?uN^Ha8O([>.6ib7\&RNWbi,/k9^D7q;/6<r,QGE&3]NRd#&`X$271(RX,"iZTPl>7Pf23KdS-d#C!a1X@'rqJ+.$I?eEKX(4Fd/^rEaHu`AHduJc?"A3Y`+A)qj!\l/<pjjBNc#db6f!5;<+)Z//&Xl3#nO5K]T`m@!#g^.483;[5q1l'8=YBqikJn`i5J'T2lFci*#*ohUQpU)WM\G+(P:1>@mFe>.o_Gnb@eU%2eS:V?."JjIQI&+SNnG'Qbs/BKTj_657TIDEckT#0S[(HpP@^ca_,=?o#PW"gX=pU?35K]`g-RSls,jQ=gN%O9JR_&:4fSme..Y52JK9I5a*N!)li@!e9@CN7DT35XnfFkDaGs$7Xu*O[7U-rs)l<CYKcfD7cC/b$u#r0sJ=+b[XmHU3Mg<a#?j'1BO*..D!tNK7lfR>H6Z@(Tt#RT/2bl408057^(6g/-i?lFBbFD;DBIc5%R2J_O];LXTAD)&2U4KTSQ'\ftg14AZQLqVWJ[6ib[E>'_1\_Yq$e,Z;*5F:9hl:/0`A:Z5>BQAHb$eY1X5srY-^tI`Dpl"+L_`di:JtH2KpHpp<OHJ)9:oO>E5k89pM2D9)c?#Ndn;?fRc1OF.iJ.Y*;;<#!<rl_1G&A(od^:`1ZWK[E[7$dd.n`I4Uf5\L#GdN3dLD7jRUX"/R9^qnK-TG]3gXTm8I?MC($-.Z,WnV:B)i$nGn*RQqhCG*mX6QIK5=[AW'\s$b=Eq)=Q:[Z)Jm=sm-pI'<j'W4POj;q@I\#)"?9f_ud8'87jY:7:T5BojZChhdAgt?B)g`p]N1nnQ3WbH\?D=Di*Bu2fl#_A"Q!&bbAU*B*HZkY3`VS7S?nVuqI:N<BCJZm9%+2HZ'.Y`l.nhYEkZJoV4heN+oJ3WQ=I=8mQkP[ckf4.JI_6$NajcAX!DB0Q)aDZfRPaC5g%S4L,2*kRA?aWDnhP#=RRN&M,X;JhAG:XakXtmBerIkBS_,bfJ?.i,&XK?C#g.jldg/ber8=b"7SjCHHX!,.S)[YAM+#%.+Dk(%`k#.VA\Z;EOadGEWnL"#<2\.uYXZ]8cAUl&7VK/%r;J=E0KD121FAOtq@V*!&g*.lV730\nl-P,*\fj=`:c7l_!OZ.,fIH`.EJTe`dmjJX/XGnZ"$N;XhQH2`$Z'Q+kef^4(XPlSq)mIYNitor)/]RlGo&5qMsQm+\W@+m,F$l.PQ<7dlE&QBDp+6i`JK7#:c7l:B1d)gUu3;Nkbt2oO)5KQ\)-m\GDjhkOl<t/*s8Ys[0pa*)*LNjT=XOrpu;4qkS'llCA;b>CpCRULA_:In`#%k_g1uUBDnk=JdV2M)=P$gbMYf1r,LY3=!B$YG5c3[]a:%%)fWXcHD=%EV(GPb(#<;hBt(8%mLM&0m+P39j]3&F)6[pf8jo_YJMO_]/p*'/eC7@i"lgPlMB9O"hJV.+7-ui@eFH2LM=<D3:hFL@EZ%T8.?A\g7GR^,O\'0:)jtYWTe'\dgI4h8ho8SWW#L0A=a[dF!(Ah[kb'cM38a0o>65iQ+UiV%0aMqr.jTbJ)nJbEr?OIe1>bp.=C>VuF9RJ"L`k/#hNfb4N`Ju^51lZN(Nrk>*_bu!4-dt>e3J*1g30:T,MG6BW3)iLBQ[BG<5YRPl<[E`G0j`=ZD11b9QlKrP^qs^STQW=~>endstream
 endobj
 xref
-0 11
+0 9
 0000000000 65535 f 
-0000000015 00000 n 
-0000000054 00000 n 
-0000000113 00000 n 
-0000000162 00000 n 
-0000000468 00000 n 
-0000004741 00000 n 
-0000004848 00000 n 
-0000004955 00000 n 
-0000005074 00000 n 
-0000005186 00000 n 
+0000000061 00000 n 
+0000000102 00000 n 
+0000000209 00000 n 
+0000000321 00000 n 
+0000000524 00000 n 
+0000000592 00000 n 
+0000000884 00000 n 
+0000000943 00000 n 
 trailer
 <<
-/Size 11
-/Root 3 0 R
-/Info 1 0 R
+/ID 
+[<f4f76ec816434943e2657cd9d7ed6688><f4f76ec816434943e2657cd9d7ed6688>]
+% ReportLab generated PDF document -- digest (opensource)
+
+/Info 6 0 R
+/Root 5 0 R
+/Size 9
 >>
 startxref
-5299
+2776
 %%EOF

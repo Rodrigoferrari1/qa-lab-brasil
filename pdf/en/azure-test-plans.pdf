@@ -1,340 +1,93 @@
 %PDF-1.4
-%âãÏÓ
+%“Œ‹ž ReportLab Generated PDF document (opensource)
 1 0 obj
 <<
-/Producer (pypdf)
+/F1 2 0 R /F2 3 0 R
 >>
 endobj
 2 0 obj
 <<
-/Type /Pages
-/Count 1
-/Kids [ 4 0 R ]
+/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
 >>
 endobj
 3 0 obj
 <<
-/Type /Catalog
-/Pages 2 0 R
+/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
 >>
 endobj
 4 0 obj
 <<
-/Contents 5 0 R
-/MediaBox [ 0 0 595.2756 841.8898 ]
-/Resources <<
-/ExtGState <<
-/gRLs0 <<
-/ca 0.035
->>
->>
-/Font <<
-/F1 6 0 R
-/F1-0 7 0 R
-/F2 8 0 R
-/F2-0 9 0 R
-/F3 10 0 R
->>
-/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
->>
-/Rotate 0
-/Trans <<
->>
-/Type /Page
-/Annots [ ]
-/Parent 2 0 R
+/Contents 9 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 8 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
 >>
 endobj
 5 0 obj
 <<
-/Length 3948
+/Contents 10 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 8 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
 >>
-stream
-q
-1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
-q
-1 0 0 1 51.35433 779.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F2 12 Tf 14 TL (QA Lab Brasil) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 749.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 4 Tm /F3 20 Tf 24 TL 165.7035 0 Td (Azure Test Plans) Tj T* -165.7035 0 Td ET
-Q
-Q
-q
-1 0 0 1 51.35433 724.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Manual and exploratory test management in Azure DevOps.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 714.3701 cm
-Q
-q
-1 0 0 1 51.35433 688.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Capabilities) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 669.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (It organizes test plans, suites, cases, runs and evidence linked to Azure DevOps work.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 643.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Traceability) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 624.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Cases and results can be associated with requirements/work items and bugs.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 598.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (QA use) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 579.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (It fits organizations that centralize backlog, pipelines and testing in Azure DevOps.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 553.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (When to use it) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 521.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Use this knowledge when product risk, architecture or the delivery stage requires this type of validation. Confirm the) Tj T* (goal, environment, required data and expected evidence before starting.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 495.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (How QA applies it) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 463.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Start from the behavior or risk to validate, prepare data and environment, execute the technique or tool reproducibly) Tj T* (and capture evidence that helps the team understand the result.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 437.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Good practices) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 405.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Prioritize high-impact scenarios, keep data and environments controlled, record important decisions and review the) Tj T* (approach periodically to avoid redundant or outdated coverage.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 379.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (QA tip) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 360.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Always connect the practice to product risk and the evidence needed for quality decisions.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 334.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Official resources) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 315.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Site oficial: https://learn.microsoft.com/en-us/azure/devops/test/overview) Tj T* ET
-Q
-Q
- 
-
-Q
-
-q
-0.0 0.0 595.2756 841.8898 re
-W
-n
-1 0 0 1 0 0 cm
-BT
-/F1-0 12 Tf
-14.4 TL
-ET
-0.843137 0.901961 0.960784 RG
-0.6 w
-n
-36 815.8898 m
-559.2756 815.8898 l
-S
-0.070588 0.207843 0.356863 rg
-BT
-/F2-0 8.2 Tf
-9.84 TL
-ET
-BT
-1 0 0 1 40 821.8898 Tm
-(QA LAB BRASIL) Tj
-T*
-ET
-0.356863 0.45098 0.564706 rg
-BT
-/F1-0 6.8 Tf
-8.16 TL
-ET
-BT
-1 0 0 1 399.3516 821.8898 Tm
-(QUALITY ENGINEERING \174 OFFICIAL DOCUMENT) Tj
-T*
-ET
-q
-0.848048 0.529919 -0.529919 0.848048 297.6378 420.9449 cm
-0.08 0.21 0.36 rg
-/gRLs0 gs
-BT
-/F2-0 42 Tf
-50.4 TL
-ET
-BT
-1 0 0 1 -164.493 0 Tm
-(QA LAB BRASIL) Tj
-T*
-ET
-Q
-0.843137 0.901961 0.960784 RG
-n
-36 24 m
-559.2756 24 l
-S
-0.356863 0.45098 0.564706 rg
-BT
-/F1-0 6.6 Tf
-7.92 TL
-ET
-BT
-1 0 0 1 40 14 Tm
-(qualityassurancebrasil\056com\056br) Tj
-T*
-ET
-BT
-1 0 0 1 221.4507 14 Tm
-(QA Lab Brasil v2\0562 \174 EN \174 Updated\072 September 2026) Tj
-T*
-ET
-BT
-1 0 0 1 519.6818 14 Tm
-(Page 1 de 1) Tj
-T*
-ET
-Q
-
-
-endstream
 endobj
 6 0 obj
 <<
-/BaseFont /Helvetica
-/Encoding /WinAnsiEncoding
-/Name /F1
-/Subtype /Type1
-/Type /Font
+/PageMode /UseNone /Pages 8 0 R /Type /Catalog
 >>
 endobj
 7 0 obj
 <<
-/BaseFont /Helvetica
-/Encoding /WinAnsiEncoding
-/Name /F1
-/Subtype /Type1
-/Type /Font
+/Author (\(anonymous\)) /CreationDate (D:20260922123401+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20260922123401+00'00') /Producer (ReportLab PDF Library - \(opensource\)) 
+  /Subject (\(unspecified\)) /Title (Azure Test Plans) /Trapped /False
 >>
 endobj
 8 0 obj
 <<
-/BaseFont /Helvetica-BoldOblique
-/Encoding /WinAnsiEncoding
-/Name /F2
-/Subtype /Type1
-/Type /Font
+/Count 2 /Kids [ 4 0 R 5 0 R ] /Type /Pages
 >>
 endobj
 9 0 obj
 <<
-/BaseFont /Helvetica-Bold
-/Encoding /WinAnsiEncoding
-/Name /F2
-/Subtype /Type1
-/Type /Font
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 2079
 >>
+stream
+Gatm;>BAQ-)LU/?p`=iE$:KsY07Ab"HCIJR9qkCT+VKrW9G%\!b#,$#^'g$sjMm<>3Jot^%"c9(GJ=MF"o.'Us'eK?^SJipS9RTJ2=['Q[!YM2/SC\f/B@pb-cBK>dmOa?gqT*-c)dLnN,]nl0r9046mQ6qc-h]-=VN6]Z"fRO/.@..CgNR:-k1b:?ZMG:Iel$e"VFDEOG__*Lo2fK7HBc'`^7sK*b'i`i`R,)/E8`b&>kTL"EbW`Ag1hL&(@k1K!QSYP45jTC#k'NCJA:`eESkISS),R3qLs>'sm:DrPK&^is1Nh)6bY*?AF&bUCMOa8'.tB^h!S:-S-$p@_&8GpTOTabQ#u\#</+UBcs^?=;^'k%dh+i(?[d?ispH7qJ:p<AQ]oVm`:n)On3PtHMdQ1mQ\A`ptOQpc!k/!=bPfkbJHeDqf#0`0%o>\!m^@u8&H[eXE8ZZTB_E=Q"kHT3Su<EGa(\9Z5h*K>^7lP4JNG%b\B1;+CJ=R3'1dbZV[/$<V5f#cr`DN-5(]Yhie>EP4:(ne1k>=+:&,aS7a3]jGNA0Blul:2\A7Vr>n6]BpTkq$J8J!0[oG/';BT;n7`[5a%rB3'YE1lRQPY($,'JdOs+B+4eQ@XGH\dRXeMYt*W8jWg)bgYH90C4HlbhG]mqq!8'6&hU_t]qk"$>^1Nn7;?XX`QG5+8j7MH@0h=%Y(!D(cfWR":M>1o>;5b3PBPI92ESZ4d"2%AaFYM-a,/:58-ZQKoLgr327V4F7<@K8Qh^^s8O5K+SpaH_L@[B`k!Mj'Y#pKL.bh8icL;0H?LEMCe$p)8G+WK>\Z[!ccrQM7siFePb^on+`n1JaC78(0Y,6Z;UK8Wk42)85LiCL(W+`8XJi'W!7)B+3I-;nn8lM!R2?O.N9I:TLGK.PaLns,K(EVJj;T[!l?1lCEU+>I@M6U]/:Yi4EjX2>5)0U/J;!fhN?cZ"Dgs_X&&<Ib!2,FDEO%[5X(N3.2TTYM-ZjO,PDhT!1M(C\k',eUV\B>MDjkNl]eK77c*,<gA0TfqiCVgVFG'hI=Q/k^XsD;mDV\7LedbeK_2]li?=>+;?$0lk4lDHRkF6>?RmJ$kHE)$\FiOi>WSCSfc>-=.Me0eP6*YXarg!ejnP5nb?%d>G'@1_F5BZd(A8e<PQ)!dPqaj;]7%2bpZ#Ol`I`"<#jaMUTHC%*7LANV[Fd';$#NWZjU4TX^pruRE_6?h'f))Oae/jkTIU7?Go_=!j@0b)6\O,<UDOpaFs_&"rAT]GOQOU(\3p$oMD$t8sL>aNt+t7R^+S-C:/JWPAH./bZVGPLDE(?P[GEoiBYI(G\_E-*EMJ9NQ[0cLHq\;D.<J3NN&%qG(,R5Ok#t$^"9Bc>pRXT$R)Xq:*+`_Cou"*eOh!!.CXBa'YZo].,gL-NM>oSMZ.?3$.0rdVEtf4Q)J-j4`.tn7/c=oTlk,TP#lBKpDU?rfBMPD2@?2j1TbC;a?7juY(leSMS:%0#7Ri=or!8CJ2,S".@0IPdAuQjf-k1i]eV&!6[#N1`f<^6*VFQ3o$[>1h5W28?D1qt^!LYMica_/0?0778/@aKY3G,d0Y3g:J$b:HN?iQ"<c>FMoWA3+ZH.G,O&2,aP\QeT%V<['6(/-Hm=M>lD+SsoF^:_s/leTnAU!U6l0+QBY6N5*)HgmU_)9H$\j1U]E6aSmUKq^e+eMu\q5WmU?e5Y:O!#BH,9dqj7H@Tl_\<LQC&AHp!?&%_\^oAuQ_Et@gob)`W]tTmHo1YtEZo$kb78$E6gHFLA+\",G\GIgIRo7"1sJkd](pHq$Wqr&%2`;5dbVY^%LTBh[<##D;siDki!D9DEk6O6QZ\"X2NS/K;d9Fr==Wt"J_N`.j4<gMk7L/@GK3,Gg(ic.@=$THq2bVp@ZI'd;iH,&$DE3iJW6jJF-?#!K`<jTFn%_o7S2>XcK;:uenZk2%WrC%HYQta`gOF=?gE\)aYdPV$Ni?<$AlpbP2S'?0UG5\@j1MJ]$DhXI@`X'`J@u.2&)erW^0]N1o[<Xqhn'*,T4[_=%YXJ@B60l9'87GZCT=*G]_2Q+?o>iIR^Yn!##H+ec~>endstream
 endobj
 10 0 obj
 <<
-/BaseFont /Helvetica-Bold
-/Encoding /WinAnsiEncoding
-/Name /F3
-/Subtype /Type1
-/Type /Font
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 1221
 >>
+stream
+Gatm9_/e9g&A@Zcp?6$l"98`@4N_Npac$aeX\R2!\WW&)KF36-PNg,38Pp1#40GJkCPF%"d(Y;0hSK=RIDgB4>C`2#]_b]ZOKdSlaB/Z4>BmnXr_+.^\L;N,R1MfiJE=[U!IgM[M:,''/i+ouS>fJ!cmFHW;Q!ZHWS+)gRH2"cX=Ho/(7]0O.9XL-j\nV>PiYe0SQnd]?q%'CU"*D3Je^UMLN@Mg1T%Q.@AY_[l3l.QAeUFa;9E@Q:'npOR`e@u9BFBKHHijSWkFYZrQNOL4[2uJ:3ObAD*l+gLD1bGTXIOR5&_hr+6\EG/>Fgc:+HCl=f08tFUM9C<c;CE):i_]eVk;LBamaJFAn?HZH1N.Tpu\4m.:?F(JGV_+1<_f;Pf`li-'5F2g;>"&%>39%%%qW,3W6HRAq,p5V\qqk<ZUcV%i/#Up$kV?f?FB2'&DMh0'+$;iqhE0O9k4[')5`][Uop>LL@)!R>d^FB\5X@o=mN(@HZ;NFe;c.]5ANH_(kNI+lc3F[i_Q0p%8A+nS3kl2bdM'oW=k)aH#HJ"e*T]dqAJ.33./8)91]p7,K!T%.Y-)se4cpWA'aeaJ&g!Y`Cl:k?[0_VVoN=NBl44O$7W,nH.06Be%IUhM2?g$k@miZ\,S#c3iJ7+=cg(Yk*dE87-W=FKN"]#G<?UTM*-)\^+H]l`1moN8_CA%'(SU2f!Hm+`1fNt$9[<&R"l2:,=-Jr7/+kfI9i(2;`Q>?;k5DdsX9KH4>;"s:F4>O%(n7A>FE6\njPE-2*&`Y+Bt!YlVmRfS]iOFC17-9+X_,b-oa"3$A86pNpDpuI$3McXtGe[YQ#(MoXXaQ.nbNT%WTjsg<P2U`p9Ab1<q+"H08D[6U?JI%hEqNn%<X8A4\"Ole0V]S?@YVtP<C\WLkLOc0b)<goVRc,/)3m@lta^OfHUf:9gS%^ck('4H8g:bJ@i!ue!0SCTjA@$cU\e'k/KPSgt'b6Mr#pP>%3459Sj9cFC*iSH6oT\olf2\6QRd32M[WOqu6]WUgUN\j-&U)I=mn_"Hn5Ym(2?/0cN%:<o)V.EgqI><:'=2!_9-0;XB(L-T#t4pif[5Z0#3fi_^85,+?;Yr.SEB6c)L^<hFpI&52rs289g/VCi5YT/b0[WXr1<:$O:='VnF7Ki_/&3CrC<QV&\WC;Ce_r=?_?28g;7r4KXS03DHn/;Mt#7s^_\7aV:d%9OSf3o->6W~>endstream
 endobj
 xref
 0 11
 0000000000 65535 f 
-0000000015 00000 n 
-0000000054 00000 n 
-0000000113 00000 n 
-0000000162 00000 n 
-0000000468 00000 n 
-0000004468 00000 n 
-0000004575 00000 n 
-0000004682 00000 n 
-0000004801 00000 n 
-0000004913 00000 n 
+0000000061 00000 n 
+0000000102 00000 n 
+0000000209 00000 n 
+0000000321 00000 n 
+0000000524 00000 n 
+0000000728 00000 n 
+0000000796 00000 n 
+0000001079 00000 n 
+0000001144 00000 n 
+0000003314 00000 n 
 trailer
 <<
+/ID 
+[<eff1855a0fa9bf9c8e9b39462de14613><eff1855a0fa9bf9c8e9b39462de14613>]
+% ReportLab generated PDF document -- digest (opensource)
+
+/Info 7 0 R
+/Root 6 0 R
 /Size 11
-/Root 3 0 R
-/Info 1 0 R
 >>
 startxref
-5026
+4627
 %%EOF

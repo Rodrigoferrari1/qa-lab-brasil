@@ -1,354 +1,93 @@
 %PDF-1.4
-%âãÏÓ
+%“Œ‹ž ReportLab Generated PDF document (opensource)
 1 0 obj
 <<
-/Producer (pypdf)
+/F1 2 0 R /F2 3 0 R
 >>
 endobj
 2 0 obj
 <<
-/Type /Pages
-/Count 1
-/Kids [ 4 0 R ]
+/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
 >>
 endobj
 3 0 obj
 <<
-/Type /Catalog
-/Pages 2 0 R
+/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
 >>
 endobj
 4 0 obj
 <<
-/Contents 5 0 R
-/MediaBox [ 0 0 595.2756 841.8898 ]
-/Resources <<
-/ExtGState <<
-/gRLs0 <<
-/ca 0.035
->>
->>
-/Font <<
-/F1 6 0 R
-/F1-0 7 0 R
-/F2 8 0 R
-/F2-0 9 0 R
-/F3 10 0 R
->>
-/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
->>
-/Rotate 0
-/Trans <<
->>
-/Type /Page
-/Annots [ ]
-/Parent 2 0 R
+/Contents 9 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 8 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
 >>
 endobj
 5 0 obj
 <<
-/Length 4497
+/Contents 10 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 8 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
 >>
-stream
-q
-1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
-q
-1 0 0 1 51.35433 779.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F2 12 Tf 14 TL (QA Lab Brasil) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 749.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 4 Tm /F3 20 Tf 24 TL 191.8135 0 Td (Eclipse IDE) Tj T* -191.8135 0 Td ET
-Q
-Q
-q
-1 0 0 1 51.35433 724.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Java IDE with Git, Maven/Gradle, debugging and test execution.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 714.3701 cm
-Q
-q
-1 0 0 1 51.35433 688.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (What it is) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 656.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Eclipse IDE is an extensible development environment widely used in the Java ecosystem. QA Automation engineers) Tj T* (can import projects, run JUnit/TestNG, debug tests and work with Maven, Gradle and Git.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 630.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Prerequisites) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 598.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Use a JDK version supported by the project. Eclipse may bundle a runtime for the IDE, but your Java project should) Tj T* (still use the JDK required by its stack.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 572.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Windows installation) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 540.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Download Eclipse Installer from the official site, run it, choose Eclipse IDE for Java Developers or Enterprise Java) Tj T* (and Web Developers, select the install folder and finish. Then choose a workspace.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 514.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (macOS and Linux) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 482.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Download the package matching your OS and architecture and follow the Eclipse Foundation installer/package) Tj T* (instructions.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 456.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (QA setup) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 424.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Configure the JDK under Installed JREs, import the Maven/Gradle project, resolve dependencies, configure Git and) Tj T* (run a test class. Use breakpoints and Debug to investigate failures.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 398.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Validation and troubleshooting) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 366.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL -0.127044 Tw (Check project JDK, encoding, corporate proxy, Maven/Gradle and dependency resolution. If compilation fails, validate) Tj T* 0 Tw (Java and the build outside the IDE first.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 340.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (QA tip) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 321.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Always connect the practice to product risk and the evidence needed for quality decisions.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 295.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Official resources) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 276.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Site oficial: https://www.eclipse.org/) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 257.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Download / instala\347\343o: https://www.eclipse.org/downloads/) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 238.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Documenta\347\343o: https://help.eclipse.org/) Tj T* ET
-Q
-Q
- 
-
-Q
-
-q
-0.0 0.0 595.2756 841.8898 re
-W
-n
-1 0 0 1 0 0 cm
-BT
-/F1-0 12 Tf
-14.4 TL
-ET
-0.843137 0.901961 0.960784 RG
-0.6 w
-n
-36 815.8898 m
-559.2756 815.8898 l
-S
-0.070588 0.207843 0.356863 rg
-BT
-/F2-0 8.2 Tf
-9.84 TL
-ET
-BT
-1 0 0 1 40 821.8898 Tm
-(QA LAB BRASIL) Tj
-T*
-ET
-0.356863 0.45098 0.564706 rg
-BT
-/F1-0 6.8 Tf
-8.16 TL
-ET
-BT
-1 0 0 1 399.3516 821.8898 Tm
-(QUALITY ENGINEERING \174 OFFICIAL DOCUMENT) Tj
-T*
-ET
-q
-0.848048 0.529919 -0.529919 0.848048 297.6378 420.9449 cm
-0.08 0.21 0.36 rg
-/gRLs0 gs
-BT
-/F2-0 42 Tf
-50.4 TL
-ET
-BT
-1 0 0 1 -164.493 0 Tm
-(QA LAB BRASIL) Tj
-T*
-ET
-Q
-0.843137 0.901961 0.960784 RG
-n
-36 24 m
-559.2756 24 l
-S
-0.356863 0.45098 0.564706 rg
-BT
-/F1-0 6.6 Tf
-7.92 TL
-ET
-BT
-1 0 0 1 40 14 Tm
-(qualityassurancebrasil\056com\056br) Tj
-T*
-ET
-BT
-1 0 0 1 221.4507 14 Tm
-(QA Lab Brasil v2\0562 \174 EN \174 Updated\072 September 2026) Tj
-T*
-ET
-BT
-1 0 0 1 519.6818 14 Tm
-(Page 1 de 1) Tj
-T*
-ET
-Q
-
-
-endstream
 endobj
 6 0 obj
 <<
-/BaseFont /Helvetica
-/Encoding /WinAnsiEncoding
-/Name /F1
-/Subtype /Type1
-/Type /Font
+/PageMode /UseNone /Pages 8 0 R /Type /Catalog
 >>
 endobj
 7 0 obj
 <<
-/BaseFont /Helvetica
-/Encoding /WinAnsiEncoding
-/Name /F1
-/Subtype /Type1
-/Type /Font
+/Author (\(anonymous\)) /CreationDate (D:20260922123402+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20260922123402+00'00') /Producer (ReportLab PDF Library - \(opensource\)) 
+  /Subject (\(unspecified\)) /Title (Eclipse IDE) /Trapped /False
 >>
 endobj
 8 0 obj
 <<
-/BaseFont /Helvetica-BoldOblique
-/Encoding /WinAnsiEncoding
-/Name /F2
-/Subtype /Type1
-/Type /Font
+/Count 2 /Kids [ 4 0 R 5 0 R ] /Type /Pages
 >>
 endobj
 9 0 obj
 <<
-/BaseFont /Helvetica-Bold
-/Encoding /WinAnsiEncoding
-/Name /F2
-/Subtype /Type1
-/Type /Font
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 1970
 >>
+stream
+Gau1.gN)%,&;KZH'RT(V>aPKt*cgGnNZ6SeRRCkm+UXBoOG![sOu:^DmfGV-C(sm9Wj]s6_'SfqI_3CI6@dtCs3=8f=&ZVT9n>'e/q?D:K'<Bm:+'Br,fg%U`BYV>PF)H/h,aYi3N4>f-'STbJg?6\%s\<>,[lA&@2/1NMFeEo('N=30$-YO"@7ne16Mds]GjFpOMm)D51pIoKHqEGh,M9/UElNABBU^==[^]&AhZam7e47B@B>jcLsV),,<JXl^quK+BA\dB)K;ifXHQiSLPGI1P7MI.2Hooe2-ISZ@,UPo,O.#A["Nc9!FZuRHpBc(3"(U:3BE3m`"BtqKSt'+5JctJ9OBbp&gRKR;]mX.%iMZ_8]8XjZH`Om8<5m/#t^=/E(d']o8Ii6i8OMI]R#)+iQ]9m=TjDi'VY:\9j,OB584an-%4K=5Y8t/fK*_7U$<ZR<_HFaBiMJ[]1PF/-6\I-_oUlLZA8`g$LdF1'oWD$,`PYrM$tTFph6UV&)WL=U+U%?`_VujEJUXSDCrQe#\A'V^c:;;VYeGj)8%`AWWM*s!'1bk%Z>".Qh21VVD4,cREFt8KZRWkFV=JiLJe20S9IJeVJ\!0-O\1\=b_VM^iU&&[s=[u<l1>qgKr@TLF-?eE=FII7V"1g8SB(h.:r\*E3I&J7df1')qhlhN@>tE*99lg`P'n0V\6G<?GW240B%,[Ok&!Q&bA=q_HbBT-"b+/6oBa'g)B%IbaVf#MB'S3W7Df$m`EH+VD_c)P9k=06!I0R?d,F5W'TC'4[E1@IisOu3#]aJDKLo$_ALh/Z>*E2N8R/@H<nZ#6W\,hd?XaE<HD=0TWrMIWe,OC_:+LV[Q@^:OoVBSF]7U(\7kVP\r^3_>0,*T.bED(YVu?ab\MP3VQ&MQA#8Ik.FS(QY%-\K=\j%<c'K3UB71(<D#XoBi"W7DHl=N]U9e9V]3)":M#scY>ENut2_KgiEV[=PcI;BireR'b/)@6E_md333GPqXA8P9pbRTS:80b0?^4]KlYO0N6X6k('AG[RuApHgQ=QRrL?.bE[ME/mak6kk*&3Fe<D(pNW/W.E[Es]9X];36\g0gB-&>k0;iKTCbY=,d_D&uYs$O\EK`^kFXFO#MOTJLmPk^OKZg"/\RjsQC7Pk+Di(3"cp>9CRV5\I\=XY2UgcnE?JAkhC1aH^/8b*J!m`mhN:V`!h&=BjnC"TRV"CK2'd:MBJ)Pi/<E>0dN`(cgbd:7r=Jaj[Vk-p?J5X/`_eg4M4E5pBn'K6F$!<M@BZ?]V<)Bjb@kH!%C*X4j,mSTss&COBPqaGueRFOT[7DR[TYgT$PDbM()>S@<OhoL[=telZms5eu5p(D`OKR%k^8]hk!".g"1bXEjoan'#r,Ed8#M+F4rFR..E_/k,d5K,=N[WoihsF^^[9%r?[Y@K)1]X112t\]2Q(<MrS/*31g^\>Q`SejZ:Arl(JtCQ3I_\@\b)=0DDQh2#ccB6DAR(lm=,is#NG)[pNjXK7oao<MI<T9$iB\lu&/$Z*R:@2q"mqa-dirVKemr2q8a7cRg\ht"#>Ut*H(F[g/'1K:oJpfcNM5>]1&`%uLX.b``808-_9g^ZJ';LDV_<HVTl:#"cC7(5H\[1q7F/;,KJ4Pgp)VXJ+J3uc&OnA<`<@,"a%h-dFBLOcN<043TK9=+,H?ro,`dc5=T0<nC!oc05V/-^+*=JEXlmdP\PG%3\T>t_W>)o.pH^0@bjiG!8iL`l(Z)h>*SoeF70R5G<^6/C$+S)aM3CqH5O#guQ`E85uaB-[2PgJtUBN\T.f=C<e3K#6G9g6D+%h<fi=rU&Qed#];cR0iXl2C1+![96!=`rV\leqD4ABWie#C%g?h4tMulY7Pr?_Gor$,@"5YEr4[$I/01%4CKNo3c7-*Ab3?"eLDBSi6iX$$f&Hl@%Xj_c4_#=FDpYUft[7JpUfa`[8FFP>[+Q'#Wdr!q$/:G)r(~>endstream
 endobj
 10 0 obj
 <<
-/BaseFont /Helvetica-Bold
-/Encoding /WinAnsiEncoding
-/Name /F3
-/Subtype /Type1
-/Type /Font
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 1345
 >>
+stream
+Gatm:9lK&M&A@C2bV<B?/4k]p3%!Ig#`urAej[oD7+p?lU.\BZ;tS+S8DCGUc";SP2IK*$C?G'"Gp>,<pgr^!*<<7nnFNgl(l*5EX<7\JDrH#5rL"8O:tCjr$HB)D!%Hs+!k6:k9[n_MapY/:P)*?W0OtnG]ZuH+*&C_t&l*/I=B@@*Y:-OCU`gIIbE%dSk+q&Xg?]eg'r`+6a&I,=1K#rf),A:h?BDa1%EoCG8:-(Pa%Rfe_AZ`4ed4eocV&`4IZBpP@'2M5KPJf+Gs?B@H-cM%X3J(UrujbhnV`>Q))*WS8I%l_;$XbMNfmfd"BPs^?BRXJ'^GcP5%"9ll`[Pl&6BNK;,Pq1G_%4OC<*AA/1WQt$>`ah;5(-`>no26R1US\G,t\QQWJ-KGPU@_G$1mH,%?Ha4OuC9`E\0a's#if(SQdESE5MMP;G<__=b=cUJajJRq8Q[B6faEW>f@hpXKt02Ds:gQAr+FJ<IK33!3nl&2"_A"(/bEN>+n.7#>R/mq%NXb2Zf'W!e81&-3S80NOg6OnWhVUt5h/*rs"Tr>A<dCKI&\(-)u33SGX&N0UcMO[n9$b7I#Q0Cs*s;rBL`91GaL4qYV<I+%BafMR2AUbOCP,B(8]pI7H1rW2Wsf<*F^YMeR'oa4kap3JMTKb'S!GhgFAg;Bjmjh5b3.r`rC'"f9/Qp^fudnu.]Bj2B&Kc;.N1!(,54"(/SC8Wc9UCLMlFPeUH`W2P<'!.!k3ut[K4l!*p@Wg@HW%Z5=+.R/r/b4k1Q`80I9\ml"ckd(-?hM:(gYtIM:S]2B9qq?**tdcL3L&Hd1pD&pX(oP5JX.%!5E.n-*Y![(+fS*lU"@,a0Q+]j,./e8AYaAN>Pe].;]Q4=V=@F#K-1fUD"5ZH/d67R/?Vp#1;TkGIZ(r]JX\Bm%;&TF14i6K#:0V"[-jVH=@eJo"!-#XejKX<g_!c6)LN+^TZ2>#pDZLQ9E)NDAY-Z+aHrIR7Cll:D27sWS7mTuUD-GqIL:Q2W.T2_r`_erqrEtibr:f/[[i.d/9Ie4p^gV&[5tEs_1PWIn-\t]!R[<,%,3phmg^(5DQg:<Z(&A)eb<^Kqe0O)4jJZ3DCDi<eo3fdA$DcV&LHe?R4u6KrG]gn5jb],X1,TAeBR;GMitfDd(e4AYd#AMU^l/aB.)KHhc^tj^MCQ=QT"k2EdT7K,l&Nd2*Nt*eA`R8ps\"%W&[W(&P_%qKi^@t#2I,T(3TommXqcF7rRG-e@=,UNj2GnfhZ)o[m)-Vc?aW5`uG4GSJi`tFf4aUN"\uIL\!T>`DJ=sLV&C236m*Ii__lj7`_=/>3XRA=onX/S6H$"IfTOD_@$~>endstream
 endobj
 xref
 0 11
 0000000000 65535 f 
-0000000015 00000 n 
-0000000054 00000 n 
-0000000113 00000 n 
-0000000162 00000 n 
-0000000468 00000 n 
-0000005017 00000 n 
-0000005124 00000 n 
-0000005231 00000 n 
-0000005350 00000 n 
-0000005462 00000 n 
+0000000061 00000 n 
+0000000102 00000 n 
+0000000209 00000 n 
+0000000321 00000 n 
+0000000524 00000 n 
+0000000728 00000 n 
+0000000796 00000 n 
+0000001074 00000 n 
+0000001139 00000 n 
+0000003200 00000 n 
 trailer
 <<
+/ID 
+[<de2c2e0a7a678725cfd9c7558aaa2ff8><de2c2e0a7a678725cfd9c7558aaa2ff8>]
+% ReportLab generated PDF document -- digest (opensource)
+
+/Info 7 0 R
+/Root 6 0 R
 /Size 11
-/Root 3 0 R
-/Info 1 0 R
 >>
 startxref
-5575
+4637
 %%EOF

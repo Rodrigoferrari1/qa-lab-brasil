@@ -1,328 +1,93 @@
 %PDF-1.4
-%âãÏÓ
+%“Œ‹ž ReportLab Generated PDF document (opensource)
 1 0 obj
 <<
-/Producer (pypdf)
+/F1 2 0 R /F2 3 0 R
 >>
 endobj
 2 0 obj
 <<
-/Type /Pages
-/Count 1
-/Kids [ 4 0 R ]
+/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
 >>
 endobj
 3 0 obj
 <<
-/Type /Catalog
-/Pages 2 0 R
+/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
 >>
 endobj
 4 0 obj
 <<
-/Contents 5 0 R
-/MediaBox [ 0 0 595.2756 841.8898 ]
-/Resources <<
-/ExtGState <<
-/gRLs0 <<
-/ca 0.035
->>
->>
-/Font <<
-/F1 6 0 R
-/F1-0 7 0 R
-/F2 8 0 R
-/F2-0 9 0 R
->>
-/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
->>
-/Rotate 0
-/Trans <<
->>
-/Type /Page
-/Annots [ ]
-/Parent 2 0 R
+/Contents 9 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 8 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
 >>
 endobj
 5 0 obj
 <<
-/Length 4456
+/Contents 10 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 8 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
 >>
-stream
-q
-1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
-q
-1 0 0 1 57.02362 757.8661 cm
-q
-.043137 .184314 .356863 rg
-BT 1 0 0 1 0 5 Tm /F2 22 Tf 27 TL 192.9512 0 Td (pgAdmin) Tj T* -192.9512 0 Td ET
-Q
-Q
-q
-1 0 0 1 57.02362 732.8661 cm
-q
-.294118 .419608 .560784 rg
-BT 1 0 0 1 0 4.5 Tm /F1 10.5 Tf 15 TL (Plataforma gr\341fica de administraci\363n y desarrollo para PostgreSQL.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 57.02362 700.8661 cm
-q
-.043137 .184314 .356863 rg
-BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (\277Qu\351 es?) Tj T* ET
-Q
-Q
-q
-1 0 0 1 57.02362 664.8661 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 19.5 Tm /F1 10.5 Tf 15 TL (pgAdmin es una herramienta del ecosistema PostgreSQL para administrar servidores, objetos y) Tj T* (ejecutar SQL.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 57.02362 636.8661 cm
-q
-.043137 .184314 .356863 rg
-BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (Aplicaci\363n en QA) Tj T* ET
-Q
-Q
-q
-1 0 0 1 57.02362 600.8661 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 19.5 Tm /F1 10.5 Tf 15 TL (QA puede inspeccionar schemas, tablas, constraints, sequences y datos para validar integraciones y) Tj T* (reglas persistidas.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 57.02362 572.8661 cm
-q
-.043137 .184314 .356863 rg
-BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (Instalaci\363n y configuraci\363n) Tj T* ET
-Q
-Q
-q
-1 0 0 1 57.02362 536.8661 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 19.5 Tm /F1 10.5 Tf 15 TL (Use la descarga oficial para su sistema. Registre un servidor con host, puerto \(normalmente 5432\),) Tj T* (maintenance database, usuario y SSL.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 57.02362 508.8661 cm
-q
-.043137 .184314 .356863 rg
-BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (Query Tool) Tj T* ET
-Q
-Q
-q
-1 0 0 1 57.02362 472.8661 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 19.5 Tm /F1 10.5 Tf 15 TL (Use Query Tool para SELECT, EXPLAIN cuando sea necesario y validaciones controladas. Confirme) Tj T* (database y schema activos.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 57.02362 444.8661 cm
-q
-.043137 .184314 .356863 rg
-BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (Soluci\363n de problemas) Tj T* ET
-Q
-Q
-q
-1 0 0 1 57.02362 408.8661 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 19.5 Tm /F1 10.5 Tf 15 TL (Problemas comunes incluyen pg_hba.conf, firewall, SSL, DNS, VPN, puerto y privilegios. Registre el) Tj T* (error completo antes de escalar.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 57.02362 380.8661 cm
-q
-.043137 .184314 .356863 rg
-BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (Cu\341ndo utilizarlo) Tj T* ET
-Q
-Q
-q
-1 0 0 1 57.02362 344.8661 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 19.5 Tm /F1 10.5 Tf 15 TL (Utilice este conocimiento cuando el riesgo, la arquitectura o la etapa de entrega requieran este tipo de) Tj T* (validaci\363n. Confirme objetivo, ambiente, datos necesarios y evidencias esperadas antes de comenzar.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 57.02362 289.8661 cm
-q
-.219608 .741176 .972549 RG
-1 w
-.913725 .968627 1 rg
-n -8 -8 497.2283 61 re B*
-Q
-q
-BT 1 0 0 1 0 34.5 Tm 15 TL /F2 10.5 Tf 0 0 0 rg (Consejo de QA) Tj /F1 10.5 Tf  T* (Confirme siempre el ambiente, schema/collection y nivel de permiso antes de ejecutar comandos u) Tj T* (operaciones.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 57.02362 261.8661 cm
-q
-.043137 .184314 .356863 rg
-BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (Recursos oficiales) Tj T* ET
-Q
-Q
-q
-1 0 0 1 57.02362 240.8661 cm
-q
-BT 1 0 0 1 0 4.5 Tm 15 TL /F2 10.5 Tf 0 0 0 rg (Sitio oficial:) Tj /F1 10.5 Tf ( https://www.pgadmin.org/) Tj T* ET
-Q
-Q
-q
-1 0 0 1 57.02362 217.8661 cm
-q
-BT 1 0 0 1 0 4.5 Tm 15 TL /F2 10.5 Tf 0 0 0 rg (Instalaci\363n / descarga:) Tj /F1 10.5 Tf ( https://www.pgadmin.org/download/) Tj T* ET
-Q
-Q
-q
-1 0 0 1 57.02362 194.8661 cm
-q
-BT 1 0 0 1 0 4.5 Tm 15 TL /F2 10.5 Tf 0 0 0 rg (Documentaci\363n:) Tj /F1 10.5 Tf ( https://www.pgadmin.org/docs/) Tj T* ET
-Q
-Q
- 
-
-Q
-
-q
-0.0 0.0 595.2756 841.8898 re
-W
-n
-1 0 0 1 0 0 cm
-BT
-/F1-0 12 Tf
-14.4 TL
-ET
-0.843137 0.901961 0.960784 RG
-0.6 w
-n
-36 815.8898 m
-559.2756 815.8898 l
-S
-0.070588 0.207843 0.356863 rg
-BT
-/F2-0 8.2 Tf
-9.84 TL
-ET
-BT
-1 0 0 1 40 821.8898 Tm
-(QA LAB BRASIL) Tj
-T*
-ET
-0.356863 0.45098 0.564706 rg
-BT
-/F1-0 6.8 Tf
-8.16 TL
-ET
-BT
-1 0 0 1 398.216 821.8898 Tm
-(QUALITY ENGINEERING \174 DOCUMENTO OFICIAL) Tj
-T*
-ET
-q
-0.848048 0.529919 -0.529919 0.848048 297.6378 420.9449 cm
-0.08 0.21 0.36 rg
-/gRLs0 gs
-BT
-/F2-0 42 Tf
-50.4 TL
-ET
-BT
-1 0 0 1 -164.493 0 Tm
-(QA LAB BRASIL) Tj
-T*
-ET
-Q
-0.843137 0.901961 0.960784 RG
-n
-36 24 m
-559.2756 24 l
-S
-0.356863 0.45098 0.564706 rg
-BT
-/F1-0 6.6 Tf
-7.92 TL
-ET
-BT
-1 0 0 1 40 14 Tm
-(qualityassurancebrasil\056com\056br) Tj
-T*
-ET
-BT
-1 0 0 1 212.28 14 Tm
-(QA Lab Brasil v2\0562 \174 ES \174 Actualizado\072 septiembre de 2026) Tj
-T*
-ET
-BT
-1 0 0 1 514.547 14 Tm
-(Pagina 1 de 1) Tj
-T*
-ET
-Q
-
-
-endstream
 endobj
 6 0 obj
 <<
-/BaseFont /Helvetica
-/Encoding /WinAnsiEncoding
-/Name /F1
-/Subtype /Type1
-/Type /Font
+/PageMode /UseNone /Pages 8 0 R /Type /Catalog
 >>
 endobj
 7 0 obj
 <<
-/BaseFont /Helvetica
-/Encoding /WinAnsiEncoding
-/Name /F1
-/Subtype /Type1
-/Type /Font
+/Author (\(anonymous\)) /CreationDate (D:20260922123402+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20260922123402+00'00') /Producer (ReportLab PDF Library - \(opensource\)) 
+  /Subject (\(unspecified\)) /Title (pgAdmin) /Trapped /False
 >>
 endobj
 8 0 obj
 <<
-/BaseFont /Helvetica-Bold
-/Encoding /WinAnsiEncoding
-/Name /F2
-/Subtype /Type1
-/Type /Font
+/Count 2 /Kids [ 4 0 R 5 0 R ] /Type /Pages
 >>
 endobj
 9 0 obj
 <<
-/BaseFont /Helvetica-Bold
-/Encoding /WinAnsiEncoding
-/Name /F2
-/Subtype /Type1
-/Type /Font
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 1946
 >>
+stream
+Gatm;gMZ%0&:O:Sb[YhT1*UkuQQf#M@Y%pLXPKT]!=E#-'aBo$:f=`)o]&"X>F./_)d@62NC-R5_fOtaN&c.X_n5rT!oSG4Vn[91!gXe`!=N:\"ddEc_i/l?a3t;r^j-oR^`rUkK?Ioh/5-oDSd6H6,8U,a!6$K)9I,&uNGE,A7ne/63nY=Ib`=n?_%.uQ]l*^b-1Q?u#m&^q>iIJre'P"fL,HeMbQXTb+.e:=,md@UJ2"'8,Lg/Hbeeo#<5auK+_RD9,;GcRY4NS#XC5rNeVm/=I>5Xp425;VS))=I+(n,,rZIu,%!X<23upF1FunO`^68t$6#]DO_'9_K.)iKBPFJlhYe5bQ8(u5#fF*lGQjE1KMV<nH#cA9_>m*>>4c,9=/;XIiY0:#cVL00\Y0P>Or9N%qo@5["!%ao[iV5K+KHC\D35cLWGs@,*=Xpqr%FRkDRjY]sF'U9WFI>ol,sM'5+'=[Mo6@Gq#e`'GYJ8=SQmgmt,XOHoC(N'2:6l;>hLNUt*G8f6T.o.I+&PJ=]C`$(KH26<&[IMiA7S04i7uFX)h<D<p]U3uRV:&#mP0H``aOD><4oKPO,"/T1Tu0'*/Xt%740s<6?a#IZ3[6^ij$;^b;Gehq:W@+AWQ#PkDq]LYK%I$*e<)]+QJS#-^Y2a`B&Q$#5"hn!ckf)N9TbQq%j\)PA;B^\Zr<!OLn^]i#A4Y==]Jd?.Y("RD/>=^P!t>Y,-3j(^lUN'!?*-jA%:EY1PP]?UZ!/oA7.rQF?%chDN_s8o/@0G1X;?EI?6lqY5ZBIm*k&c[UICiP!Cu:3_^+D(4F=3@>3:b(b^0TJB^rZ)X0(\0Z5Bh*J0uUL%0&l8dMI]kVAC&u^/B[>f;,Pthf7?hj)R+/Zm%aC".#>=o^$[09jJcQJ.fV57&^I_Z6N#6aR(:\*CY"dpqn342UYPm@F@/9%#[U]D]KdiqK9j.l8(C%r#&R\m)LSXt<-p5N't-P3U:5@mrA?JKKrANX\'84a/?&I[]T@%H5eX;bmMfB;Y%>chk"R=f`7g$"\ErA.TX2!U.;C5q3Oes$PRWugB<jiOC=$dlQkj9)j+4o+#)8'?[ob$\*2P<bE&XCJtq&-Es!Ok;"\<Zuh2GGR'hM&_i;Ta?k<7]m0uc>6)/6\b,l>!8NTR3JN[P2+Y<p5!!pNA'<=PuD\he9]!]b0<>5MM/&Mgj4br5pY<R,OkZ,amo10c67;Bp."5Iqem7bNRpsUU]\:R%_:%bBrj,TE]LY6UUtDP="G5:<B8T!KiN8oNW^EkY`-k!@FnVk4XmA$RA+a?JeY[9k(>8iWN/XJ_NLp>-#5An[Vhr-C=Zj683-@,4Yqa5Gt6?L#4M3f95DcQ^dN-H@E.504VjAcQP[h*>lK"sFnYV=A?@E7(?LWSWf6(mNlJ1oZG)Qg%8I@q]Drb4Cp$Te,/"?Yf%,p*ZUR156[[qc4Yqd_N]0lfXD*%1:ks!*MfU$PBP&GNicK1ra/'R!'#3)?9`'Kc[EAN\>=h;5Scc:"^.DhsPga^Kji_*CIp@I@I.BZ7ktrBV'llI+M^B,Xo#:ug3g%8K"!fq*lTsT2,M`A%M."Zb+o(TiNf02-=A$WBd7/VPcIi(,H(5l%1))\mL)Lsj8t5'_o!?#,OBnbaS_H0T4R!njh5IEkiX;&Q<$SG]rl1;/V+Br'\-9p-EdMDn.uTGnEI+C&BfWb?4#*Ifk!5[DQ,<@"M[_T3`^q_Uh)nZsn^t1hUSH,5]ILZ<,W).#ldn&ur-1QWD/l*3nT@R!<nP9NMtMP'kn`T)L<Brt$DZ_uFsE6\hG(cIj`pRCJ2ranEp,S_)c*^2A/9RT`*k"Z^I)+dNMImk.p(r'm!S3!MW+b+o+q&C4q#A>4RmKNq*;LBmG+*&hMrcL948Yq3jT&:5pAd)h\\GI&c]V/i49l*&\A54\o1YlV3eM7bl.cSe*),~>endstream
+endobj
+10 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 1342
+>>
+stream
+Gatn%;/`6g&BE]('_@]`,1e^iS&aTY<[["&QeT79`A-5/,Hs*2<o'bt^11PZe)k[JQ#$Ti?tRFYhor;5."9fn1bHN9#(HQ:!TUE;!\6eBRp3DUABu-e'kLAOUgQl^!_AaY,fF!N1SG(aPSYICP)*?Wct8FSY4A;lD+u?M_C;V4f#`g1P#?uM'p3TC5$J`G8]`u[Cc*q=A0pg-C9_bJ,ie+IjBV5,.)dZ<;HPJ^9m*]uR4&?A\3*tC(nj&Fq<EC9S8pl%Meu4s=\[(g(?`l4s/VI-*jb73%#)_4.QV$([mZ/p.,cre]YS2jkQR/K!eZi8&;XfE_St--T4%6nRnm`UToobZJFEUn.V-S2+jM<3Es/q55)Z'Z;6lj/bDZ^(YrMm@?<tJAh:8tf\*(R7+<m'V_m<6'(J>_P1.>&Y#GI)USE3\25rYr2_N!G5Df'TFG90B</=/@.<MAunYGr/@;K2A7k2D7!-*"n*>%CG@0$[-"I/?ZRUmO"Q-!k#nQT8YXc?hQ_?!u@f1Z3ij`mh#IIXpa_44aK1%D^;QreaFWY`kt)Mk#T&*2ZFn`_%]qlGtLB1<cF_?h8cdVSHo'2`<-+nVNM.`D,Ba1^m\XYG9XP\'K]?cV(.o#R;&`l\p:+/6EG[h,W8lIgIIsXkO<465Q'jq!Y>iSW5=-Jpjq:kUlX)QgGj_Fq.:`Ni/FRN"0<T?5n^/)k(*bJ\[i4]3ZlZ&Gd5)W-+0AO=[dq/pQ-%p,sI4$[NWV:.NYA>p$JBDNbn%]rk]p(B%QHJB`'\n='ll$=$:$nkiQ>[i4r<UC0XS'Or6&d@*8WL3<+J/5&Q!Nq+iHlO\&q?uo[&R&JZ[o6G<L\R6I^'\?K+U!X6YD;=n'@Sc/&ES@eH5%tNSg=gl5FG!8I1TrU[lOtVPHQ@I_@KG<tpjt13@uC"oA(3)"`sU0&Cn'B4+Q`m4,2GGq")M-2\&"AUraB3<#O?Mf<:BF1R3&tN.`sg=B>K%eYc-UfG&l2M?XjTbRi8c*]&i\oa#]T]7@c"WCtuB/qtAspdTJu,+<i5`IKWcb>sLoZ33;$%L$maQ*>6?NXp=!+:ir[r%h=HbEI(<>)a/o@go9H*E]6[7Lct+j!!h>5p^YA3<Gt5?-2fO=^W1k/C(W%`mkF!_K5!mRHjl]uq24uS`jGRaPjqcK)Wf;_W7FP[X_o%=&*,QC([suKm]E+M'>G]LeodZ*fA[Wf#?U6fo$jq;gBTYm)TV/q\5&%L9f';8;Z_OKl+1T;f605NZdbZ^r>m?]kMSE@&*%'<ILZrVFSIo:L-B(7eAGW__t:kqD!H,DN=a^(TtBfgT\`T\pbQ<[$-<)H''m2*~>endstream
 endobj
 xref
-0 10
+0 11
 0000000000 65535 f 
-0000000015 00000 n 
-0000000054 00000 n 
-0000000113 00000 n 
-0000000162 00000 n 
-0000000457 00000 n 
-0000004965 00000 n 
-0000005072 00000 n 
-0000005179 00000 n 
-0000005291 00000 n 
+0000000061 00000 n 
+0000000102 00000 n 
+0000000209 00000 n 
+0000000321 00000 n 
+0000000524 00000 n 
+0000000728 00000 n 
+0000000796 00000 n 
+0000001070 00000 n 
+0000001135 00000 n 
+0000003172 00000 n 
 trailer
 <<
-/Size 10
-/Root 3 0 R
-/Info 1 0 R
+/ID 
+[<a0f22c1be01bac29513d2e29c3395ae2><a0f22c1be01bac29513d2e29c3395ae2>]
+% ReportLab generated PDF document -- digest (opensource)
+
+/Info 7 0 R
+/Root 6 0 R
+/Size 11
 >>
 startxref
-5403
+4606
 %%EOF

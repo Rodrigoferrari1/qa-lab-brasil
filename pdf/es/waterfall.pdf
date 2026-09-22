@@ -1,340 +1,74 @@
 %PDF-1.4
-%âãÏÓ
+%“Œ‹ž ReportLab Generated PDF document (opensource)
 1 0 obj
 <<
-/Producer (pypdf)
+/F1 2 0 R /F2 3 0 R
 >>
 endobj
 2 0 obj
 <<
-/Type /Pages
-/Count 1
-/Kids [ 4 0 R ]
+/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
 >>
 endobj
 3 0 obj
 <<
-/Type /Catalog
-/Pages 2 0 R
+/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
 >>
 endobj
 4 0 obj
 <<
-/Contents 5 0 R
-/MediaBox [ 0 0 595.2756 841.8898 ]
-/Resources <<
-/ExtGState <<
-/gRLs0 <<
-/ca 0.035
->>
->>
-/Font <<
-/F1 6 0 R
-/F1-0 7 0 R
-/F2 8 0 R
-/F2-0 9 0 R
-/F3 10 0 R
->>
-/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
->>
-/Rotate 0
-/Trans <<
->>
-/Type /Page
-/Annots [ ]
-/Parent 2 0 R
+/Contents 8 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 7 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
 >>
 endobj
 5 0 obj
 <<
-/Length 4014
+/PageMode /UseNone /Pages 7 0 R /Type /Catalog
 >>
-stream
-q
-1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
-q
-1 0 0 1 51.35433 779.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F2 12 Tf 14 TL (QA Lab Brasil) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 749.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 4 Tm /F3 20 Tf 24 TL 154.5835 0 Td (Cascada / Waterfall) Tj T* -154.5835 0 Td ET
-Q
-Q
-q
-1 0 0 1 51.35433 724.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Modelo secuencial donde las fases se ejecutan con mayor definici\363n y dependencia entre etapas.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 714.3701 cm
-Q
-q
-1 0 0 1 51.35433 688.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Fases) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 669.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Requisitos, dise\361o, implementaci\363n, pruebas y despliegue suelen ocurrir de forma m\341s secuencial.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 643.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Ventajas) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 624.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Puede favorecer previsibilidad cuando alcance y requisitos son estables y regulados.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 598.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Riesgos) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 579.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Feedback tard\355o aumenta el costo de cambios y puede concentrar pruebas al final.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 553.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (QA en Waterfall) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 534.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (QA debe revisar requisitos temprano, construir trazabilidad y preparar estrategia, ambientes y datos.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 508.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Cu\341ndo utilizarlo) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 476.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Utilice este conocimiento cuando el riesgo, la arquitectura o la etapa de entrega requieran este tipo de validaci\363n.) Tj T* (Confirme objetivo, ambiente, datos necesarios y evidencias esperadas antes de comenzar.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 450.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (C\363mo lo aplica QA) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 418.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL -0.098269 Tw (Parta del comportamiento o riesgo que debe validarse, prepare datos y ambiente, ejecute la t\351cnica o herramienta de) Tj T* 0 Tw (forma reproducible y registre evidencias que ayuden al equipo a comprender el resultado.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 392.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Consejo de QA) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 373.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Incluso en Cascada, anticipe revisi\363n y testabilidad; la calidad no necesita esperar la fase de pruebas.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 347.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Recursos oficiales) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 328.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Site oficial: https://www.ibm.com/think/topics/waterfall-model) Tj T* ET
-Q
-Q
- 
-
-Q
-
-q
-0.0 0.0 595.2756 841.8898 re
-W
-n
-1 0 0 1 0 0 cm
-BT
-/F1-0 12 Tf
-14.4 TL
-ET
-0.843137 0.901961 0.960784 RG
-0.6 w
-n
-36 815.8898 m
-559.2756 815.8898 l
-S
-0.070588 0.207843 0.356863 rg
-BT
-/F2-0 8.2 Tf
-9.84 TL
-ET
-BT
-1 0 0 1 40 821.8898 Tm
-(QA LAB BRASIL) Tj
-T*
-ET
-0.356863 0.45098 0.564706 rg
-BT
-/F1-0 6.8 Tf
-8.16 TL
-ET
-BT
-1 0 0 1 398.216 821.8898 Tm
-(QUALITY ENGINEERING \174 DOCUMENTO OFICIAL) Tj
-T*
-ET
-q
-0.848048 0.529919 -0.529919 0.848048 297.6378 420.9449 cm
-0.08 0.21 0.36 rg
-/gRLs0 gs
-BT
-/F2-0 42 Tf
-50.4 TL
-ET
-BT
-1 0 0 1 -164.493 0 Tm
-(QA LAB BRASIL) Tj
-T*
-ET
-Q
-0.843137 0.901961 0.960784 RG
-n
-36 24 m
-559.2756 24 l
-S
-0.356863 0.45098 0.564706 rg
-BT
-/F1-0 6.6 Tf
-7.92 TL
-ET
-BT
-1 0 0 1 40 14 Tm
-(qualityassurancebrasil\056com\056br) Tj
-T*
-ET
-BT
-1 0 0 1 212.28 14 Tm
-(QA Lab Brasil v2\0562 \174 ES \174 Actualizado\072 septiembre de 2026) Tj
-T*
-ET
-BT
-1 0 0 1 514.547 14 Tm
-(Pagina 1 de 1) Tj
-T*
-ET
-Q
-
-
-endstream
 endobj
 6 0 obj
 <<
-/BaseFont /Helvetica
-/Encoding /WinAnsiEncoding
-/Name /F1
-/Subtype /Type1
-/Type /Font
+/Author (\(anonymous\)) /CreationDate (D:20260922123401+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20260922123401+00'00') /Producer (ReportLab PDF Library - \(opensource\)) 
+  /Subject (\(unspecified\)) /Title (Waterfall / Cascada) /Trapped /False
 >>
 endobj
 7 0 obj
 <<
-/BaseFont /Helvetica
-/Encoding /WinAnsiEncoding
-/Name /F1
-/Subtype /Type1
-/Type /Font
+/Count 1 /Kids [ 4 0 R ] /Type /Pages
 >>
 endobj
 8 0 obj
 <<
-/BaseFont /Helvetica-BoldOblique
-/Encoding /WinAnsiEncoding
-/Name /F2
-/Subtype /Type1
-/Type /Font
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 1894
 >>
-endobj
-9 0 obj
-<<
-/BaseFont /Helvetica-Bold
-/Encoding /WinAnsiEncoding
-/Name /F2
-/Subtype /Type1
-/Type /Font
->>
-endobj
-10 0 obj
-<<
-/BaseFont /Helvetica-Bold
-/Encoding /WinAnsiEncoding
-/Name /F3
-/Subtype /Type1
-/Type /Font
->>
+stream
+Gatm;9lo&I&A@C2m*X'+#XB%#8.HY%9fnn;Anji,?@7;p8:eqp)&1mddi[HPLa&h<[PY+f)4:Q!h1pEjDc_NM?GaJ?("(Q`hY\oq"LM9nLfd''O7Zj8]:UgLEKS5Y+sE+O&rYRQ6?YMmB/4$bn0"GNMjXub7+Egp=HJ874KasU,\@)?g#QD$YqY-!`C%WXmZ7)m.1]Q$"I.6P-'>DWPG'ciX9F2%,(PB\nMH&(RYm%.#fB7u664Y"R>dNSJn/ms$H@]P%S#dEarUY$%;S,VEa0ON1Dh5%r-bsCfpCCWeI7#L$PE%g^at\@#L7pm#Af3f10=Re<5Nq)+pf_7'jY'Or]lB'>.emR),Ib9;dr%GLCDrA8L12TZJL3NR%AOn':'sWG?5PRb"VFKki:b>?/8b7rq5=$=[Yrp'G:,4VElU85CsO2-%4GQ(G#q^\9$)tdVL#i6bPCcf%/@:WN.ii@1j2G1IN;Yas+s6P\tr<eML]bZSVlV$62GbOHZN(5!K./7=EBjN$m\5*!0-qhdqj0!c//GJRhZ7FGu/^dZmh7.>e$N&eiXD.&):)A<0S3NFdcRWh)3^-GtE3)>Dm@:cLnh]44d8mOj&d(4lDABbXs);:*9(C9-_oPpO,;pSuJ<U%[,F+!1)OT>hM>08#7j?ilXNQmX>g,06DpLhPj5L>TfXp^TN/TDN/`%faMGVU/mAXj0"6k=1_Yhe?il>1Mc),$iXJWhm:B8Ct4HX`!<d2gF\rh.jM1V5UY8>.7l&Q)RJqDSnH8l&dkMXK5*uqPATk/l]O'YmnS!Z30Zh^2PQ^6pr(ajMcFmMU5XOAj.?H6'>JsmTu\n)@6<3"INHl#@:6B:[p2Pd_J;F>@hYMQ6R1ZhK8X\XM4-sCUO[C;Y=lDM%Uob2hbs'#S>7.@Ur4QgZbPLk6!<gglt:3OTCMBJL"Njb340+0[q)M:lE3LTWV<:!+D_@^7l7pB&1#8qAn[t>+2=bXg/*s.Ijq4F91#(,)!rG5-98fJ-;o5YVn?kjW%LR=FEe^a=M^!3M8'=99,Wl)C#5$ATo"c#HcoEN0BG(h\CLkeZM=5=48A]!u%`T<iB>[Xeuo\G#9WPD``VsX/h4[F[Nd.f0sbJ1#Qkr)^^\"'Ja)\TkI^mHWpr?9B22.R$0D=?+]P?CA>AM^I@SKTLApcNB2d0JA9<9P_l_$\?P8QrXJpSZhSV^?mOk0kkcBRh70Cfm4,"[+Nh*IKMMG:D6<Wfdq3_/j_S[.2t-tC<GaP?4=>O^%2^r=)Q\"M)n#CE.m2F@*`,m4N\)N($2s9C'V8"+6%Up@0GR$u&Z.sB2Pr[n+^Lda)s`/.8%CLt&VfPW'0O+ONWnmqZgp5JFE+VtqHNE5V"2A[`O]>hla<'/L[_@D]Ja5ZjIA#5IAi[]WFK`?ATF6-lcg3`m8i@S\A`%4TW59NRXmJ+igNK;TU!>l@2*eq,iA&/'G@?EGH_?5d^_Pm5udU%%#0m,)h[VV0(:i;7P7)W`gm*rBBQ>.pRNsiXraWXf;O(4h>!'mGS&8N^SJkX/UaJ`LR>UkMY\:YosN"DrQUUm4&MC<V#6)smgd)rkd)(#=+F,l[IpAF;TfIDOa/?Gc8Q8nK*Z#$?F_V(ag&B7QoU1Z`S:2:*5MW4g?ti4l-)-tQ@Sl2M"L+l/)]&Ij3"9sguKauaW'P,g-FUhlXHja5@#HLC,8].B]7C[cbR/A$lbHRW*B,XWci)Nd@<O;E,=_S=`u\qItK*D(4p5Nru0.SLFD0OCdc!lo\l,bIaJ&T3at<HptAr;h;,p9&aa>=br`klm^l[re'S=&"Np(K_i:0)?#j$50PL.Y(CWuHJD&hEHfn_H>DAHV)abuR*tJRIEI)YHY/\(s%N[;)2si'=;bX'ElP[tH!@)lYX8~>endstream
 endobj
 xref
-0 11
+0 9
 0000000000 65535 f 
-0000000015 00000 n 
-0000000054 00000 n 
-0000000113 00000 n 
-0000000162 00000 n 
-0000000468 00000 n 
-0000004534 00000 n 
-0000004641 00000 n 
-0000004748 00000 n 
-0000004867 00000 n 
-0000004979 00000 n 
+0000000061 00000 n 
+0000000102 00000 n 
+0000000209 00000 n 
+0000000321 00000 n 
+0000000524 00000 n 
+0000000592 00000 n 
+0000000878 00000 n 
+0000000937 00000 n 
 trailer
 <<
-/Size 11
-/Root 3 0 R
-/Info 1 0 R
+/ID 
+[<f06fb9e1bfc68d2758a397635c87176f><f06fb9e1bfc68d2758a397635c87176f>]
+% ReportLab generated PDF document -- digest (opensource)
+
+/Info 6 0 R
+/Root 5 0 R
+/Size 9
 >>
 startxref
-5092
+2922
 %%EOF

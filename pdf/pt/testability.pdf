@@ -1,340 +1,74 @@
 %PDF-1.4
-%âãÏÓ
+%“Œ‹ž ReportLab Generated PDF document (opensource)
 1 0 obj
 <<
-/Producer (pypdf)
+/F1 2 0 R /F2 3 0 R
 >>
 endobj
 2 0 obj
 <<
-/Type /Pages
-/Count 1
-/Kids [ 4 0 R ]
+/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
 >>
 endobj
 3 0 obj
 <<
-/Type /Catalog
-/Pages 2 0 R
+/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
 >>
 endobj
 4 0 obj
 <<
-/Contents 5 0 R
-/MediaBox [ 0 0 595.2756 841.8898 ]
-/Resources <<
-/ExtGState <<
-/gRLs0 <<
-/ca 0.035
->>
->>
-/Font <<
-/F1 6 0 R
-/F1-0 7 0 R
-/F2 8 0 R
-/F2-0 9 0 R
-/F3 10 0 R
->>
-/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
->>
-/Rotate 0
-/Trans <<
->>
-/Type /Page
-/Annots [ ]
-/Parent 2 0 R
+/Contents 8 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 7 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
 >>
 endobj
 5 0 obj
 <<
-/Length 4590
+/PageMode /UseNone /Pages 7 0 R /Type /Catalog
 >>
-stream
-q
-1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
-q
-1 0 0 1 51.35433 779.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F2 12 Tf 14 TL (QA Lab Brasil) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 749.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 4 Tm /F3 20 Tf 24 TL 93.44346 0 Td (Testabilidade e Observabilidade) Tj T* -93.44346 0 Td ET
-Q
-Q
-q
-1 0 0 1 51.35433 724.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Como projetar e investigar sistemas que fornecem evid\352ncias \372teis para QA.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 714.3701 cm
-Q
-q
-1 0 0 1 51.35433 688.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (O que \351 testabilidade) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 643.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 29.5 Tm /F1 9.5 Tf 13 TL (Testabilidade \351 o grau em que um sistema permite estabelecer crit\351rios, controlar condi\347\365es, observar resultados e) Tj T* (investigar comportamentos. Logs \372teis, APIs acess\355veis, IDs de correla\347\343o e dados control\341veis reduzem o custo de) Tj T* (testar.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 617.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Observabilidade para QA) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 585.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Logs, m\351tricas e traces ajudam a responder o que aconteceu, onde e quando. Em automa\347\343o, screenshots, v\355deos,) Tj T* (traces do Playwright, console e Network tornam falhas mais diagnostic\341veis.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 559.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Controlabilidade) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 527.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (O QA precisa conseguir criar dados, alterar estados, simular depend\352ncias e reproduzir cen\341rios. Mocks, stubs,) Tj T* (feature flags e service virtualization podem aumentar a controlabilidade.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 501.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Avalia\347\343o pr\341tica) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 469.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Pergunte: consigo preparar o estado? observar o resultado? identificar a vers\343o? correlacionar requests? reproduzir) Tj T* (falhas? Quanto mais respostas forem n\343o, maior o risco e o custo de teste.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 443.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Quando usar) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 411.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Use este conhecimento quando o risco, a arquitetura ou a etapa do ciclo de desenvolvimento exigir valida\347\343o) Tj T* (espec\355fica. Antes de aplicar, confirme objetivo, ambiente, dados necess\341rios e evid\352ncias esperadas.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 385.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Como o QA aplica na pr\341tica) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 353.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Comece pelo comportamento ou risco que precisa ser validado, prepare dados e ambiente, execute a t\351cnica ou) Tj T* (ferramenta de forma reproduz\355vel e registre evid\352ncias que permitam explicar o resultado ao time.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 327.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Dica de QA) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 308.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Um sistema dif\355cil de observar pode transformar um defeito simples em horas de investiga\347\343o.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 282.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Recursos oficiais) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 263.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Site oficial: https://www.ministryoftesting.com/articles/testability) Tj T* ET
-Q
-Q
- 
-
-Q
-
-q
-0.0 0.0 595.2756 841.8898 re
-W
-n
-1 0 0 1 0 0 cm
-BT
-/F1-0 12 Tf
-14.4 TL
-ET
-0.843137 0.901961 0.960784 RG
-0.6 w
-n
-36 815.8898 m
-559.2756 815.8898 l
-S
-0.070588 0.207843 0.356863 rg
-BT
-/F2-0 8.2 Tf
-9.84 TL
-ET
-BT
-1 0 0 1 40 821.8898 Tm
-(QA LAB BRASIL) Tj
-T*
-ET
-0.356863 0.45098 0.564706 rg
-BT
-/F1-0 6.8 Tf
-8.16 TL
-ET
-BT
-1 0 0 1 398.216 821.8898 Tm
-(QUALITY ENGINEERING \174 DOCUMENTO OFICIAL) Tj
-T*
-ET
-q
-0.848048 0.529919 -0.529919 0.848048 297.6378 420.9449 cm
-0.08 0.21 0.36 rg
-/gRLs0 gs
-BT
-/F2-0 42 Tf
-50.4 TL
-ET
-BT
-1 0 0 1 -164.493 0 Tm
-(QA LAB BRASIL) Tj
-T*
-ET
-Q
-0.843137 0.901961 0.960784 RG
-n
-36 24 m
-559.2756 24 l
-S
-0.356863 0.45098 0.564706 rg
-BT
-/F1-0 6.6 Tf
-7.92 TL
-ET
-BT
-1 0 0 1 40 14 Tm
-(qualityassurancebrasil\056com\056br) Tj
-T*
-ET
-BT
-1 0 0 1 210.9996 14 Tm
-(QA Lab Brasil v2\0562 \174 PT\055BR \174 Atualizado\072 setembro de 2026) Tj
-T*
-ET
-BT
-1 0 0 1 514.547 14 Tm
-(Pagina 1 de 1) Tj
-T*
-ET
-Q
-
-
-endstream
 endobj
 6 0 obj
 <<
-/BaseFont /Helvetica
-/Encoding /WinAnsiEncoding
-/Name /F1
-/Subtype /Type1
-/Type /Font
+/Author (\(anonymous\)) /CreationDate (D:20260922123400+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20260922123400+00'00') /Producer (ReportLab PDF Library - \(opensource\)) 
+  /Subject (\(unspecified\)) /Title (Testabilidade e Observabilidade) /Trapped /False
 >>
 endobj
 7 0 obj
 <<
-/BaseFont /Helvetica
-/Encoding /WinAnsiEncoding
-/Name /F1
-/Subtype /Type1
-/Type /Font
+/Count 1 /Kids [ 4 0 R ] /Type /Pages
 >>
 endobj
 8 0 obj
 <<
-/BaseFont /Helvetica-BoldOblique
-/Encoding /WinAnsiEncoding
-/Name /F2
-/Subtype /Type1
-/Type /Font
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 1880
 >>
-endobj
-9 0 obj
-<<
-/BaseFont /Helvetica-Bold
-/Encoding /WinAnsiEncoding
-/Name /F2
-/Subtype /Type1
-/Type /Font
->>
-endobj
-10 0 obj
-<<
-/BaseFont /Helvetica-Bold
-/Encoding /WinAnsiEncoding
-/Name /F3
-/Subtype /Type1
-/Type /Font
->>
+stream
+Gatm;gN)%,&:N/3m%^"H;#hkdl&3SWdnXN1-;N&L^VD*?,:*X6+I1.Bj1>:EU(Tt>1U:V'#pccgpRFAS0qe;NiOu/jY1E*cmgL%go`eMl@T[!TX7bI\6"j"rScFTb9+q=OnUE"?m@ma>N%d_H$u):E&W%@i7EPq_U,Y07<Jr[WSC2e.?^d0,V)6(#3D!qpI9=U)6k[e==<*W/9%$s4I]I1B1QjMR4,fYA4=44NEgRtC/&_PSZrSbH9N]ThfmSGab+jV3G!E'e(iZZmD1Ge1QDT&,c)7)HX]D^:?Yj%"YjhG)M?Xu<>9X+ZPjj5/]YF`oE#/YD#n3De=<J@E)O<=K5Jd0uXC(b7#u.D?1*A^!%ln[Ndoag=j?j&.0g1GVV'J]Dl;M:_Ln"ndi;3!OY23HuIsjHj('>.T+q4Ka)3;]MLI(4#A>b&V7WQeK5"I%Oh0t)[buQbq=l!oWTsBJCB`o^)Z1=8`*XeELnEu?+"#C-0aV'8*,6os^@^]7PqsQcpnPD$(i$[$$&g=8caCRa[,A_o:\0-C.lqeRF#?Oqe>ljj2^h06XY_a^pdLi6>)2f?N<.F(c.%P7#=O;$_(^buL8,$i*biciq=;XXC'B+1a?,CWa>V#8bV+Xr@;"3Vm.D)3Q7[u[b58IWkNf.OG!2jnrKI&J":a%qks1mp>rbM.#.\]]BgOKK6$D5K3V5XpjXSJMmBbA!qp6^lsiYSLuX(pnWTi80M[S_aY61&f?)[Y@8)DBo9.;tJpY`i,)bp>AZj\bXVG36p=d/)nhSSY[RR-NEY&*^b6i"7VpG#$LB@'\huMB"ccj^X,M3!QflG(:>##ePC62scd2Fc/TWO/NDDDP=;GohS_-g^4D;[+82I&Ul5&D%rnW;'H]\1;3DJ,W\O7?:LaVO0H"6F]Bqbj,TN[9YE6jQ*k@1is8nZm=Et+>eYXR5ShL&`$"b^mIbB-0U9LWX")diLa.QLQ=9do,;(bO^kdaU36LXsAo=:*>\j7,JK=V-q9UM#6_sPRjE',!UWT2uM=H'\4e+^9*`'f`C+k+gl9]gj>3cIqq4T<M%2+cV*Jsm*@Y18K-NLR'TdH499+RS08jhMOhVPZ;5*32S='2:;GAgZo)O"Cn4klh(MAr:T#2WDOo1,jjpMJ9N1R6kp0@bM.p)dtq,nS?k<qhEUQ=p]'QJ9EPd#([.cQF)QpCeh$jD6*V*89ZQhLJJKa6jl\'KWHJ[$.2ZC>8""o%9A(R8tH2<a"n;Y3d$qXugP%V:qn\k/Rg_J8UD7jgS'GYIQS$!e6ZuT,G2BmI"qcNKS-kdG?CaohTqFlU&EogX_u1^;s?E#'QkC?8gX_0WLWoBWTlC3/nT#RaX6RcGo,1*l60=BkMi?:k\CRTM[nF5EAXn',P*^,/5c2=M@dYgL2K/)WDgZ?O!P'ejEBm<d`s$oNk3DN_>RI?[sc6qKdcSGR!la\rb[cBYjp.KpSmXrcbKVR(/_ZU@6;6^dB5JIG^a73\[l26QTrZ##i<q-:#q\nAbHm><do7.!sq^(+&ThSDOI%K?bLWh[*gM5Mp_cgP'Y7a'j%MN?%*E@(9\IZ&(d#LCQg9G+8]ai;t(3G1,,[To1C"[T$!ZHW0<e:"1Q(eb7qCdeDL4gq'%+]MElW&@b-)Kt/aYQ.JUsk`*#.Z?M'o4MCJKl8suPX48o(rOL47p>.6[kbBBZ'\\>JZBW]*mg+D^SE-6=r/CV\q^SA!p/sa-s&Ztqg\KVE_-f:n&;P?K*NM<]I4+j\4Sh573V8i-a@pLUit4o.Qr9PUd@nA:r*[PX`km!NS.1CrkDiCtb1[D*H6lrpf5d;er;j&.F(1%4:AYd\4h,G4`At(boeN!5&4cmTMN]##ktY4Pkgp4orW<FoB.X~>endstream
 endobj
 xref
-0 11
+0 9
 0000000000 65535 f 
-0000000015 00000 n 
-0000000054 00000 n 
-0000000113 00000 n 
-0000000162 00000 n 
-0000000468 00000 n 
-0000005110 00000 n 
-0000005217 00000 n 
-0000005324 00000 n 
-0000005443 00000 n 
-0000005555 00000 n 
+0000000061 00000 n 
+0000000102 00000 n 
+0000000209 00000 n 
+0000000321 00000 n 
+0000000524 00000 n 
+0000000592 00000 n 
+0000000890 00000 n 
+0000000949 00000 n 
 trailer
 <<
-/Size 11
-/Root 3 0 R
-/Info 1 0 R
+/ID 
+[<5f86abedc91694694219f9787e5dc865><5f86abedc91694694219f9787e5dc865>]
+% ReportLab generated PDF document -- digest (opensource)
+
+/Info 6 0 R
+/Root 5 0 R
+/Size 9
 >>
 startxref
-5668
+2920
 %%EOF

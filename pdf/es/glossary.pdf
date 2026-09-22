@@ -1,326 +1,150 @@
 %PDF-1.4
-%âãÏÓ
+%“Œ‹ž ReportLab Generated PDF document (opensource)
 1 0 obj
 <<
-/Producer (pypdf)
+/F1 2 0 R /F2 3 0 R
 >>
 endobj
 2 0 obj
 <<
-/Type /Pages
-/Count 1
-/Kids [ 4 0 R ]
+/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
 >>
 endobj
 3 0 obj
 <<
-/Type /Catalog
-/Pages 2 0 R
+/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
 >>
 endobj
 4 0 obj
 <<
-/Contents 5 0 R
-/MediaBox [ 0 0 595.2756 841.8898 ]
-/Resources <<
-/ExtGState <<
-/gRLs0 <<
-/ca 0.035
->>
->>
-/Font <<
-/F1 6 0 R
-/F1-0 7 0 R
-/F2 8 0 R
-/F2-0 9 0 R
-/F3 10 0 R
->>
-/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
->>
-/Rotate 0
-/Trans <<
->>
-/Type /Page
-/Annots [ ]
-/Parent 2 0 R
+/Contents 12 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 11 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
 >>
 endobj
 5 0 obj
 <<
-/Length 4058
+/Contents 13 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 11 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
 >>
-stream
-q
-1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
-q
-1 0 0 1 51.35433 779.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F2 12 Tf 14 TL (QA Lab Brasil) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 749.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 4 Tm /F3 20 Tf 24 TL 115.1235 0 Td (Glosario de QA e Ingenier\355a) Tj T* -115.1235 0 Td ET
-Q
-Q
-q
-1 0 0 1 51.35433 724.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Referencia r\341pida para siglas y t\351rminos t\351cnicos usados en el ecosistema de calidad.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 714.3701 cm
-Q
-q
-1 0 0 1 51.35433 688.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Siglas esenciales) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 656.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (API, UAT, CI/CD, RCA, SLA, SLO, SLI, MFA, JWT, RAG y otras siglas se explican en su primera aparici\363n y se) Tj T* (indexan para b\372squeda.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 630.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (T\351rminos de testing) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 598.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Assertion, fixture, flaky test, mock, stub, regression, retest, traceability, coverage y testability tienen definiciones y) Tj T* (contenidos relacionados.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 572.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (T\351rminos de ingenier\355a) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 540.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Deploy, rollback, cache, queue, microservice, container, observability e idempotency conectan QA con arquitectura y) Tj T* (operaciones.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 514.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Cu\341ndo utilizarlo) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 482.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Utilice este conocimiento cuando el riesgo, la arquitectura o la etapa de entrega requieran este tipo de validaci\363n.) Tj T* (Confirme objetivo, ambiente, datos necesarios y evidencias esperadas antes de comenzar.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 456.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (C\363mo lo aplica QA) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 424.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL -0.098269 Tw (Parta del comportamiento o riesgo que debe validarse, prepare datos y ambiente, ejecute la t\351cnica o herramienta de) Tj T* 0 Tw (forma reproducible y registre evidencias que ayuden al equipo a comprender el resultado.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 398.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Buenas pr\341cticas) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 366.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Priorice escenarios de mayor impacto, mantenga datos y ambientes controlados, registre decisiones importantes y) Tj T* (revise peri\363dicamente el enfoque para evitar cobertura redundante o desactualizada.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 340.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Consejo de QA) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 321.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Use el glosario como puerta de entrada; el contenido relacionado profundiza el concepto.) Tj T* ET
-Q
-Q
- 
-
-Q
-
-q
-0.0 0.0 595.2756 841.8898 re
-W
-n
-1 0 0 1 0 0 cm
-BT
-/F1-0 12 Tf
-14.4 TL
-ET
-0.843137 0.901961 0.960784 RG
-0.6 w
-n
-36 815.8898 m
-559.2756 815.8898 l
-S
-0.070588 0.207843 0.356863 rg
-BT
-/F2-0 8.2 Tf
-9.84 TL
-ET
-BT
-1 0 0 1 40 821.8898 Tm
-(QA LAB BRASIL) Tj
-T*
-ET
-0.356863 0.45098 0.564706 rg
-BT
-/F1-0 6.8 Tf
-8.16 TL
-ET
-BT
-1 0 0 1 398.216 821.8898 Tm
-(QUALITY ENGINEERING \174 DOCUMENTO OFICIAL) Tj
-T*
-ET
-q
-0.848048 0.529919 -0.529919 0.848048 297.6378 420.9449 cm
-0.08 0.21 0.36 rg
-/gRLs0 gs
-BT
-/F2-0 42 Tf
-50.4 TL
-ET
-BT
-1 0 0 1 -164.493 0 Tm
-(QA LAB BRASIL) Tj
-T*
-ET
-Q
-0.843137 0.901961 0.960784 RG
-n
-36 24 m
-559.2756 24 l
-S
-0.356863 0.45098 0.564706 rg
-BT
-/F1-0 6.6 Tf
-7.92 TL
-ET
-BT
-1 0 0 1 40 14 Tm
-(qualityassurancebrasil\056com\056br) Tj
-T*
-ET
-BT
-1 0 0 1 212.28 14 Tm
-(QA Lab Brasil v2\0562 \174 ES \174 Actualizado\072 septiembre de 2026) Tj
-T*
-ET
-BT
-1 0 0 1 514.547 14 Tm
-(Pagina 1 de 1) Tj
-T*
-ET
-Q
-
-
-endstream
 endobj
 6 0 obj
 <<
-/BaseFont /Helvetica
-/Encoding /WinAnsiEncoding
-/Name /F1
-/Subtype /Type1
-/Type /Font
+/Contents 14 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 11 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
 >>
 endobj
 7 0 obj
 <<
-/BaseFont /Helvetica
-/Encoding /WinAnsiEncoding
-/Name /F1
-/Subtype /Type1
-/Type /Font
+/Contents 15 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 11 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
 >>
 endobj
 8 0 obj
 <<
-/BaseFont /Helvetica-BoldOblique
-/Encoding /WinAnsiEncoding
-/Name /F2
-/Subtype /Type1
-/Type /Font
+/Contents 16 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 11 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
 >>
 endobj
 9 0 obj
 <<
-/BaseFont /Helvetica-Bold
-/Encoding /WinAnsiEncoding
-/Name /F2
-/Subtype /Type1
-/Type /Font
+/PageMode /UseNone /Pages 11 0 R /Type /Catalog
 >>
 endobj
 10 0 obj
 <<
-/BaseFont /Helvetica-Bold
-/Encoding /WinAnsiEncoding
-/Name /F3
-/Subtype /Type1
-/Type /Font
+/Author (\(anonymous\)) /CreationDate (D:20260922123400+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20260922123400+00'00') /Producer (ReportLab PDF Library - \(opensource\)) 
+  /Subject (\(unspecified\)) /Title (Glosario de QA e Ingenier\355a) /Trapped /False
 >>
 endobj
+11 0 obj
+<<
+/Count 5 /Kids [ 4 0 R 5 0 R 6 0 R 7 0 R 8 0 R ] /Type /Pages
+>>
+endobj
+12 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 1729
+>>
+stream
+Gatm;_/A!e&A@B[k*R_uQD?p*3[S]I'^,U4inf!TC"d-!U)[&dcsf4gLQX2MgGF']`BZ!%'^*_f_`&83MBCFLf/:A:!oCS&^c3mr^bV(hiY1)uP/i7&P-QhJOtg"u!_=C4$LjP',si6a.*nP7F!=ME6(J^[E1(>6@B<(YS8_*DUNo:"dXkAR(F:MD5CFN61aP0FTTd8).nENp1bLYFECL;TEJ=ANP%R0T<l+uJ)USegdo_lkN3JH]8+Qj.Pc$N+XF;#>A&,LLYn:_n(n1#`(8#XHR4XtW9@g9Z,T]1kBJ0H?915rc-%+2CIpf$^\-dhO!e]Y]'.ChoL5XAZJ&1+F(9c_66459="Mut--rE'4AE#R83C[D?dROm[6"H,*QnfmQP\c9YT<>?UqX3YJj/:pF)%[BQK]0D)4;Cd7#"=Ip?OfC?.61%V+J#NKq]0S0`]@VBFdqDf11b0^!g+caO*R"YTV[=R%uGo`"XoKn_PpCbN,Wbn<5JMdTTO'O9]UGPoq&(;.N``bUWsFZ5Qk='_3d>=UR#ld<Nm4R^B!U+oOlrIPBOndUVJW#)&?0LM[=)P9mB?Fs79/;'XAQ=Wl\eqL%iR'3(JYC.ttqL/j<6/:u4+714V=nHup=fXRTXr+k.Rql_dPOW1SjajU'`7(cPk`/L2);0@;tFgaq<Z5@l$n9Q1fp^+;^sjPnIdNAjU:"UI%s>J!e;<F.tqRn<kZ%P=QoHu3.&L261X`p57U'n.#*V?2Ap2RK>^OTg^Z[SeXH7&"=8a`3faQn8*lEO%7c]'!TCp0cQ$MrMC(IJI6(d!=`[3<Ng7rd\r_T4Rr/k?58p,J-+f>An[e0-2d8AVCgfel>cjf.%;r!o:Ao<UPX"AB4Ru?=^X)c`B1`2Yb@<X%gB-N4H>pDAW)sb$^M2VQ-)+FQ)K-\qi,2:R;k<knaVZORn<Lj4;IbB4C8^j37sOcoU"XD<!#'0;17s<D,F1WNL)Qe_2*;gTP=_\k?_&_>)i8$Au/JB!kV7T1KV/[C*/Q5ZP%k\qf-+:i^J4l3r5sTI0m%Cc6jI]+)E(GN]cDBrA4I;TpN5gSRI.>?+lQ#>)57@C<dL<<FRaNCP5)N;&kFD]UtZ/C&)$)D*M#40rY.D$YN/Yj>&R("_fKXh*tVD5-<,$tCo0B8.bkU8j2[hLr%H0aoJd@^TN;ED]oGZ`DqL_\p$s7Id[$=XIe1m0<<s56DRkYG#4cE=Y;cBT5muGMfu83Ap.LO(C.aX_h_I/_B\KL),RPY(e\nLJ)fb_l"fONQ_'rWmk`VBjT*)jkn3h[A22EP`DnERBbK?*FnR4Yre<XUV$&Q1It2\G(RYscW?2o)n/$^h>5DJc_6U%8c*q-dX-o,pJ@QInYup:_q?((ae94r%IADMpVGc/*t#FG(-<3gj^$(R?p?o?3/;!iU73?^ZZ5nDL#8VkMf^k'DfKPODIq43SN5>8Dl1V8A><T(cflG&+,+mjr7?0KlA\%nFoM/hNa3MMSDt)A'.6=`q.ukaGBRXk"7+o&4BDGQPC/tq[uGau,"IXMTP+1YIAoGc8)!KBgOhih.i">+I%N\IP:'NK'D&W3gIf$6j"Ht,C$gPR9#ijlm-_c:0K+C9q>MYD58qJhJ2Lca(UWlaHZ''$bNBG[:\65.kNc>2U%PEC)lnFGhI;!p$bc"Fm.fGsS&t]C2De'fFW0YWD?-5./K9bB)de_fhK7'$ZsX-OT+acp"!>Ulf)~>endstream
+endobj
+13 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 1646
+>>
+stream
+Gau1.95iQE&BF89'Q_J6!LF<oO1cjlFAX092K='.KpHD=W?eKi"AQ-CIYX.=bC.;1U5a_+)+g@WDhe:[0VJ2Lrc_BE>]8QH[gX+/bmmiH6J1)1bpN3(&=QL_7R0;[i^a--geS@'5,\ON&B6+/+\j7+KaaX`@SV.l_WYY`JiFsEdWG1fS.ZE4Rc$V,@d5$W/I<.;iZ,8^BOW]Q;^pL"PDq@21QEt*(/K0GP(]YcKeQZ8A#PTn#\6J.b2_/rOqGi*`/gr@/Vb0^XiWJU=r^8cI\t)^4o\2+$U+g-2Z\NN%hePL^h&ApH(]hOH,(A89Gt!b_'K_b7jO=dMG4Bn+0PTnbp.&]\>KXmWD!pI4N*-lF3!<;c97tu#<$.>jroRQ&r4tRR1UlH2L9o.X)#5Z]=NK94*MGAOfh(hIO>F<Eq7*jG$^>uSPVdRcG\Y:=,#n1iMP=u9'aJrqmiaq0G+[88W)SK?YLp&R_[`D5m=S':m+3`:5Lt:$(!GH!Va>8NJ&N4);u=]HR(;FB\^cSl4Ck!(]fsk16rp%W%D75W\jsq^ArWsoERKH;srX4N*%+K'h;=$1\O_\fQ:.]kK]ob%G=B[lkfEm#smZ&5B6O8[mJ<pZA?L,VN7X"\C#`grY.T-Q%N;B;<lt0n+L$iX/rXhWP2BCL"\H3=-2a=7Pe0YN.X(oo?.@_G>)%hoY*&'+f$NPX$M&Fp:AD*JjpQV1J\?meL9W"eL?PP(V8,H,$q4ZB6]8D7:*[aWYX%iGC&01epJ*mW"qeCimm7@6nub_2Rmq(I-ifB>IcW"7A?29Ek6s>/AfCN:LAP,QKqR]@CDgZaD?_+fr<E5i_86'g\J=FJ>_YTi+57,43aW#U1'hOmSs(4'-#*cC:N/:jGU)Wo!HqWO/*b;V_1&p@306=['SnYOKq5@3u##M;FQYsN:r@`QnVUg)@F.+G%tet%Wf*U?RaY$VT9Q-QRM#M1Zs-Kk,NGrB/t(Vrhg[de]qbV<s,V1f"pIC_0V`FC29BN/@`&<J/P6DAXHo5?9:1ra3D*)Yc)Uk];f-JA%5i\\j;3K.WS`:7o_LZb0>/'W%T;Qm9&AoTHA=-+.1c`8&S_FG.&h7(bFZpK=P(c=Ia):+^M::4^;jL7jO7C'Dn3N5g$:tao*8?3c&p@=';Ed:0#sm:4N'fNpn^[km+n>F"[X'DHt$Sp6Y(H._W<Z0C->@i>BKQPLQ=E\0bpVLpDi_F@-YCf+$UQlH>h2$NfAS28J0%q6m2Y:,aSoaJdL:LS&uNSZCb@.ZeXcWgR7>\S,b0J);GU#=S!&A+P0&CaRf&QH.JI>2Ig,GNU41V\AYgXIT99G"!h(:4;kIYrk[3O;pY.$;/f#3t)PJ0OHdcBKTGaEk-5^_^HRDLpQmUTf4%2j05'^XI'3SpBu+sLX@"+Vpj1sYhrE*D/jLW_d]Nrpo@$`D_l0>%fc(_])p!AIFFoG*4SbM+'-JbJh0K"-HJpeVH4ABEs'l(9jjl_q5XMPgVRKulZ52=:WCWd*ZSqePKEaUYFp"6d+R2\_Sb3s-%*]u(e+5J%;]oS.s9J=.^!W([_oj&)R_PR?@l;+1PeiIUK8X_1=ka^@1>$&>_THSl8!^R_bT-a\a.uVlAlWpoitV,AB'W)1#`]E"TJLN3Mu`~>endstream
+endobj
+14 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 1572
+>>
+stream
+Gatn&?#uMo'Sc)P($@?sUal4-@X;V+8a@7<lGPctb)I1D)nCJWI(4<r5JBW)=LLu;bS5DoYd1A%nskaW.)bmTqgYpbi,Soa]r++5Cj&&I&[8fsGFReh7,g&#B`^\!WY,U`$""&)I8iX5'1ua]5c"dL>RDl(`<apt,fd;:;@-cOSBgi-P].AX)D>!_idUd/U16q2`ZU2"92lLg8fj"]eef]j1-Au->Ve[QVC>1OVNpKrF]p:>.0rY9RdH<'`/H)1GkuDke:;1+CP1-r\2<$fFSKt(cY6t<k@jTN6Lac07/Jh!Yse;2L^>$kJA7aEb4$)ZV^2OCLle!]9aS!e>l4SkHe>t@]1K)5WAP56n05j,0dYmC697N-;l41>Zm&\138?88;PnPl!&k^\E;B%`meUN:9E:3K6n&&<2</_76U?DSqW/hS,q5Ve.7e(Yf07'`C@<WfCKKodTerZPE?I;2np"N@OE%;Zj"F75ZOFc?-Rbn2*!jFBCoMrsmmn[4?mZQ"_Ko!;W_/"m)-%'//PuP46rL%GABYfACX]cpi#_q_'E%s$BZcka2.C^L:`NWkpXi.7U/S7Q&2'c>5%QAVg0`[)a24>D,ilFeE]t"+P?;Nm*_WcG0t7K2q6Qab.4A51g]s*mcn!TA#27d1c,&#6amkRs^_W#S[Q\rW/Td8/`YU7KD3om1g,=`32Q\,1Zj+C"eo,Fs64^1dnCPqI(@GATFq)+W\NMT!;0"OYDa3cFkAKbI94n@&Y-\4?\1.P_#l9!>U0A!9fH7Z')[lCGeU#;a'n0=j3SaCcJ$^k&'BiM@mka,CYf:[3L,IS`Z2W!\IkHgNeS9L#\u*FRI"Ko"^'I8bo$$L;<k5=fB+UU_QI(N<QYB#3Y=@i\mC)1(iJ_*&eoc6dCh]s$A1eR."c^DG[r[tZ9j_g;+#e/;D/OP-MpF3ffL[(20=,/)20SHEhecFJBP)@ieaVDGp0d0B?#@4)(%/-U(,jZITU,I6OS@ckN5Vfu)nZT/KJYd&>m+'$r+1s6=jLJnI"l\-"ffLe#4nu`F(t"_)ma<Hje9pa@DH7qQ_m3I,NBgc[W#nt;e'%lnE_ZMam9]=N6d<)4eK8u)I'\r=6F^G]q3(<J^72eI7I[._G=F`()P"_M"l!Lm_B%92*tXMOK12"_8U`_nb*lM7#.pK=*5S/qAP?3O(GU*.9k+sL;5%;?0Ge"\A$!>;f3VaF;U:tc4r@no#$[n?eOQu"&&K]dkdl=de-:H#5H=V%^eNm=3-Qt4Qs3`CpL<.9,!n8C`ORS)S^(f1:;hQ2<a7Pmh]kW6g'doG@BerAd"^RVrGr\@kf?dP>T"9#qS*s?Au)N?7/<('`Kg\ZiqB4H<tcKA"[dahq=3FoamY9k?U!@3u5NGhe`2!JM=8^@Cr8GpToh>9;XJ&ce'1:/&"6Y"'0]Ti'Dq:p&+4U1G7"3oF70;5f[&Ppq`7$K<GRZ/&<Iu*j`0Q-l$B2Nm\YZ%R"]BZ3AdIp8[1'5VMEhZ[;0QL-hPDLE[2r7A1Jmd"Ygng)&,bl6u6cO8LC"n\=;d^;Yk\#IAR37IS!0oaq'0&+ZYs~>endstream
+endobj
+15 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 1706
+>>
+stream
+Gau0CgMZ%0&:O:Sb[\3i=HOeMBqLREm:(V\bpGpWOr%<!?)A7reKnmdIXDZ?q3'Qn/YLf7Lae5DbT+ou1ZT8/_o)MK,.aApO2#YnK'"TCP"D,"d/3Y*o8H+``:JYLj?--NZ,H[=e?!;#VD?/:,UB43_GmT^<O5XYOi9(9ba#Lk@3UU"UNL:ri\ZNJ%!%Y'@JMU@757GgTON)3i[INA(&P-,F+U`_$gb+P4;3lh):*$c_LA@A\@S:_B1aqNMtC\Ri[b^^+qD4,Ap-@GYPm87C3c3#a0XZN+7n)t'sg,;X#Dg7Nt2d2a+/#p$KhsT0q8>PnDVHm$_5BSN$h:K*6#RbMbdD=d/9$gDu=>cV3/nU@R=Ocj6T/`eZjgUYe]u\I:OKo=dI4OLWl/a3?Kg!c.+[Whd,&f]K%ksM(,&@*8amG@^W\_.J6`IdmbP,El$e<O^=B_H`$OTD4ND@FmEO9=j5n_-C3aY*c^:>7<q@H+(gOn:*="K!d?,aJRh(f9pKi#MJGlqR&L35jEhNWX(7#tkI#ut$6BJl'^+-M)82^/7^ofOqNj_o3W07QZp20Ek9E`!q;`qR?Xl3TdL8*m**!1bUjn?<YT8ksk!GV.iUiB/rSjs9ke\tFP*Ui[]%T!\/PSU0,h$p_=d+!!Bj=At=^$e>Q1_`%V!9+(]PD>W>C*0Ld=l;f$dW2M4kff4m00GZUYnloiupCm%8MS\&6p9.].o+WDC[N[Y:,hJe%%?dVC(?7`_]m+[]j&P"A3*7XZb1I"2q(R9K`Hb,T!@U99ONTeD<A*V&9SD,/s;-%JaWWJA_!$'V0ZPJQh=0CnVqd@+k7\Z47'<&+]H<:1?-da&nqL0iF4oprCG0o,al)*Z=koV(FT6msrsS&Aqo3qutU6[].l<C"o83q#enY<1nbc`P-u1[8gRW&$b3@BV1@dhbhc[m?l*s&C?Vs.[a%dkkt^UhU.*^QQnU+a^hCHgZ$V6*.3Q@J[G'k8>W3"U!LEG]!9%Gdih<'TZ=CfkfGBJ%)$ih"_0Vu4/uBSY')&T>:("U9k0kB[Vg`CkQ[H2Z'QJ1Ytn!9BtSMhK`^LnYe!/X6\E1?+'m7s^)R0S9[8HQN2I>W]D8WT4Q=i3bFSIagFX0mc+WW3Kaj$fY8W#jG=]coPi0O7BoK:/[9X6hhDDoKBFN+[.=2$NGkGAINig@c2k$nud%\LJ%,1$YG>$aSe*jk99NRnakLR*)]o:KpZK)sq!_&1(G,r4$90]'^e#G`(HN9[[=bC][^7e3b"s10ijV,?7CYF4n4H+eNQ=kk#k0jXeHR&k@0Wm*Olg)u?`67<='fQ0WpV>H0nBsLO#&'uuQU-^*h&9'00$m,E!+aEcBFn>IlWM*kionSlLdcJV\V-DH\_`#o&C53l^_,GBe#CsM3')C^Yb#n<d@.Kt:'Wt3o'0S.3ke#-*^@?ZEo=Y3*tP^ZL+uL'680aYKfC<!4J,C4k5ON&.1r:phDLm"H(+jU6af*lD7<1"'d*TC#Ardq]%"tNeVi!8:CoOjYLRDiLZOLs3\XfO.bk[5Ap`F`m>e\H+O/@kg;i;sg3<S]AqWZ-Hg6^nMs-W9h\`ijocl(cXY9KubCC?dJ6?T!2a&9)Qt*=PV.kE+>dd:I':ngJL@(%o6M&S93$\Lm$EGiMZSc.J`HLdaD+fW8,>KBme=fWB1pY#Ns*\;pqBsW_..o7KUY1,T/$n=~>endstream
+endobj
+16 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 1281
+>>
+stream
+Gau0A9lJfF&A@C2bg?k.QD@'6b&)"*7KETci^IqYKe(Pd#5W9e.><]Zp^X9a<?$:u#b51.<uR'1hRkeb@6jA+ibqZr>\rBNh\\$WgO!=[#h\"LeMd5l&=QO`B0ZT0.[*-'n58-<8Wu\>(o(>datk5?.A0EM-X<Pn44pQ$AV=!NYP_?p;FRS)Mju16h'\,X.EOQ)+uu$X+tApn#dr;E,DpK"0F-37&?T(F$\ZJs*2"pm.Zo=eS?%pIA;'M1j+lh'bDZI3/[bt#FYGE?/A[[A^LsT<*g6DE#ni;+A2MGZ@>Tq(:r4S#n,]"(_^Gdc92(oh+]4,6%;-bA^VKONCu5D765>bh"5s;7En$+"+kIV&.0Ee=?=hK@BI.=?R1Ulh2J%E.blq@"g>)[VZVDitaNu+>s0_!g>k0RF+cAOUKJJ^3QB"N@;n;l6Y+!%>XS&aLY>a\MV()YCF(??Xb(ZY%L/6Dm""OO'd2Bg#;$0+o>a[(OI/t5u'5')</+!!]79%r>bD]UICl&G-,a'm1@)hQk_OJhN!<3&?($L]<7#Q5'`eZ+ecl>IpArL;#C#kE>3+[n3K\Q-K\LGU]0$Yo*lH+STlk1`t9aRYMWpQH94oQ46e%*nQe!)H@e;om^>sFS:n1D0)^X#E:Y.%-abW-)k.q4kn0L\3b1!+q1GbGb]<:[[(:=?/lUTJei<K*dF=<s3$a&;s4]Xe"13i5To+(1GakNQi!jCVrBgLBXmdVFq@B562n(5C,!BR2Ml5\KhDT@GXZ;jbG0NU7qGq#7u"Omjt_G\=WO^A9[QFS=qe;Se53hhrP:I]tnTJde&Fa(<>FIPVj*6rXcVV=AnR!^*XBXP[+4Oiu2'%V9>4lX7P<F5NgORg*[DgV3?oR2gD498dY)TEpq$G)nU(V1BC,h7Fg".6Os736s@X5D/."Y/f+TXEtt^`6Imch*474lrFklgH[VP=GL5%=fA?>&PuqtQYpVaBNec4b"dT:mQ0[K)%Yp]AaT=J&uFCh"U]I?AneRiK.pq(Sa"6&\k%ssU'jn<VT\/Gc1UCaKO,aJc]C:f*2?$H?^;$tg)XG,Ghb,=Cl6)QS_L]b.^'(>c7@\9h><#m+Q6H_Y?F&ab39H=LB2c9mgdc.R)8]>?:'$p$f`nP>I9bt%S>KZZ6tGO<-hdX+iM\DP0Jg1`SGY<9_ou,pk;$01N(FIPnD6cG`OErJOT.`O`'OO%dB$))G48M-jnfg2IK&1j0#>)Y)0df_0S>;?tR)#_FZ[;koPT51oD=#K!)R?,l[ps;<cO~>endstream
+endobj
 xref
-0 11
+0 17
 0000000000 65535 f 
-0000000015 00000 n 
-0000000054 00000 n 
-0000000113 00000 n 
-0000000162 00000 n 
-0000000468 00000 n 
-0000004578 00000 n 
-0000004685 00000 n 
-0000004792 00000 n 
-0000004911 00000 n 
-0000005023 00000 n 
+0000000061 00000 n 
+0000000102 00000 n 
+0000000209 00000 n 
+0000000321 00000 n 
+0000000526 00000 n 
+0000000731 00000 n 
+0000000936 00000 n 
+0000001141 00000 n 
+0000001346 00000 n 
+0000001415 00000 n 
+0000001713 00000 n 
+0000001797 00000 n 
+0000003618 00000 n 
+0000005356 00000 n 
+0000007020 00000 n 
+0000008818 00000 n 
 trailer
 <<
-/Size 11
-/Root 3 0 R
-/Info 1 0 R
+/ID 
+[<5c57d219ff0d3ced4220339ccd158708><5c57d219ff0d3ced4220339ccd158708>]
+% ReportLab generated PDF document -- digest (opensource)
+
+/Info 10 0 R
+/Root 9 0 R
+/Size 17
 >>
 startxref
-5136
+10191
 %%EOF

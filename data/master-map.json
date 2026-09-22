@@ -1,5 +1,5 @@
 {
-  "version": "2.0-local-phase6",
+  "version": "3.0-final-local",
   "implemented_topics": [
     "qa",
     "testing",
@@ -139,9 +139,11 @@
     "data-quality",
     "data-lake",
     "data-warehouse",
-    "testrail"
+    "testrail",
+    "wiremock",
+    "allure-report"
   ],
-  "topic_count": 139,
+  "topic_count": 188,
   "languages": [
     "pt",
     "en",
@@ -149,6 +151,6 @@
   ],
   "baseline": "Home V3",
   "notes": "Local V2 Phase 6: methodology, native mobile, architecture, data quality and TestRail expansion. Production untouched.",
-  "implemented_count": 139,
+  "implemented_count": 188,
   "pdf_count": 417
 }

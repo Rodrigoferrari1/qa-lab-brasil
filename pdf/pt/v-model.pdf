@@ -1,340 +1,93 @@
 %PDF-1.4
-%âãÏÓ
+%“Œ‹ž ReportLab Generated PDF document (opensource)
 1 0 obj
 <<
-/Producer (pypdf)
+/F1 2 0 R /F2 3 0 R
 >>
 endobj
 2 0 obj
 <<
-/Type /Pages
-/Count 1
-/Kids [ 4 0 R ]
+/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
 >>
 endobj
 3 0 obj
 <<
-/Type /Catalog
-/Pages 2 0 R
+/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
 >>
 endobj
 4 0 obj
 <<
-/Contents 5 0 R
-/MediaBox [ 0 0 595.2756 841.8898 ]
-/Resources <<
-/ExtGState <<
-/gRLs0 <<
-/ca 0.035
->>
->>
-/Font <<
-/F1 6 0 R
-/F1-0 7 0 R
-/F2 8 0 R
-/F2-0 9 0 R
-/F3 10 0 R
->>
-/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
->>
-/Rotate 0
-/Trans <<
->>
-/Type /Page
-/Annots [ ]
-/Parent 2 0 R
+/Contents 9 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 8 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
 >>
 endobj
 5 0 obj
 <<
-/Length 4093
+/Contents 10 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 8 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
 >>
-stream
-q
-1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
-q
-1 0 0 1 51.35433 779.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F2 12 Tf 14 TL (QA Lab Brasil) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 749.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 4 Tm /F3 20 Tf 24 TL 207.3935 0 Td (V-Model) Tj T* -207.3935 0 Td ET
-Q
-Q
-q
-1 0 0 1 51.35433 724.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Modelo que relaciona atividades de especifica\347\343o e desenvolvimento com n\355veis correspondentes de teste.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 714.3701 cm
-Q
-q
-1 0 0 1 51.35433 688.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Ideia central) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 656.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Cada etapa de defini\347\343o/desenvolvimento possui uma atividade de teste relacionada, refor\347ando planejamento) Tj T* (antecipado.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 630.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (N\355veis de teste) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 611.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Component, Integration, System e Acceptance Testing podem ser associados a diferentes n\355veis de especifica\347\343o.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 585.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Rastreabilidade) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 566.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Requisitos e testes podem ser ligados para demonstrar cobertura e impacto de mudan\347as.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 540.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Uso em QA) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 521.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (O modelo ajuda a lembrar que testes devem ser planejados enquanto requisitos e arquitetura s\343o definidos.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 495.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Quando usar) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 463.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Use este conhecimento quando o risco, a arquitetura ou a etapa do ciclo de desenvolvimento exigir valida\347\343o) Tj T* (espec\355fica. Antes de aplicar, confirme objetivo, ambiente, dados necess\341rios e evid\352ncias esperadas.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 437.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Como o QA aplica na pr\341tica) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 405.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Comece pelo comportamento ou risco que precisa ser validado, prepare dados e ambiente, execute a t\351cnica ou) Tj T* (ferramenta de forma reproduz\355vel e registre evid\352ncias que permitam explicar o resultado ao time.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 379.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Dica de QA) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 360.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Use o V-Model como modelo mental de rastreabilidade, n\343o como obriga\347\343o de processo r\355gido.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 334.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Recursos oficiais) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 315.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Site oficial: https://www.istqb.org/) Tj T* ET
-Q
-Q
- 
-
-Q
-
-q
-0.0 0.0 595.2756 841.8898 re
-W
-n
-1 0 0 1 0 0 cm
-BT
-/F1-0 12 Tf
-14.4 TL
-ET
-0.843137 0.901961 0.960784 RG
-0.6 w
-n
-36 815.8898 m
-559.2756 815.8898 l
-S
-0.070588 0.207843 0.356863 rg
-BT
-/F2-0 8.2 Tf
-9.84 TL
-ET
-BT
-1 0 0 1 40 821.8898 Tm
-(QA LAB BRASIL) Tj
-T*
-ET
-0.356863 0.45098 0.564706 rg
-BT
-/F1-0 6.8 Tf
-8.16 TL
-ET
-BT
-1 0 0 1 398.216 821.8898 Tm
-(QUALITY ENGINEERING \174 DOCUMENTO OFICIAL) Tj
-T*
-ET
-q
-0.848048 0.529919 -0.529919 0.848048 297.6378 420.9449 cm
-0.08 0.21 0.36 rg
-/gRLs0 gs
-BT
-/F2-0 42 Tf
-50.4 TL
-ET
-BT
-1 0 0 1 -164.493 0 Tm
-(QA LAB BRASIL) Tj
-T*
-ET
-Q
-0.843137 0.901961 0.960784 RG
-n
-36 24 m
-559.2756 24 l
-S
-0.356863 0.45098 0.564706 rg
-BT
-/F1-0 6.6 Tf
-7.92 TL
-ET
-BT
-1 0 0 1 40 14 Tm
-(qualityassurancebrasil\056com\056br) Tj
-T*
-ET
-BT
-1 0 0 1 210.9996 14 Tm
-(QA Lab Brasil v2\0562 \174 PT\055BR \174 Atualizado\072 setembro de 2026) Tj
-T*
-ET
-BT
-1 0 0 1 514.547 14 Tm
-(Pagina 1 de 1) Tj
-T*
-ET
-Q
-
-
-endstream
 endobj
 6 0 obj
 <<
-/BaseFont /Helvetica
-/Encoding /WinAnsiEncoding
-/Name /F1
-/Subtype /Type1
-/Type /Font
+/PageMode /UseNone /Pages 8 0 R /Type /Catalog
 >>
 endobj
 7 0 obj
 <<
-/BaseFont /Helvetica
-/Encoding /WinAnsiEncoding
-/Name /F1
-/Subtype /Type1
-/Type /Font
+/Author (\(anonymous\)) /CreationDate (D:20260922123401+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20260922123401+00'00') /Producer (ReportLab PDF Library - \(opensource\)) 
+  /Subject (\(unspecified\)) /Title (V-Model) /Trapped /False
 >>
 endobj
 8 0 obj
 <<
-/BaseFont /Helvetica-BoldOblique
-/Encoding /WinAnsiEncoding
-/Name /F2
-/Subtype /Type1
-/Type /Font
+/Count 2 /Kids [ 4 0 R 5 0 R ] /Type /Pages
 >>
 endobj
 9 0 obj
 <<
-/BaseFont /Helvetica-Bold
-/Encoding /WinAnsiEncoding
-/Name /F2
-/Subtype /Type1
-/Type /Font
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 2047
 >>
+stream
+Gatm;?$"IS'Re<2\;spmW0V8qK=A_%43XqP!+DLE;/J0*@p>qoKYm):h]pfo*%4O9#ot.N?0U-ccM\<P#X:HL>;el&QZVmJ-SB(X90?Vh/`5"Bjl1a*U*ASc8hAp`9-pjms2h3D/_Yp&)<[,Q-nA1BA!p0"a930%S>?%iHBG$t6r>[c0.U.p78]'U"j<Y0qRD\Y0h[4nEj9!2)9W@)qlQ_Q_-+b]G1^Z'MhL1P05,qkXd"12dosGH$0-`\B(&=:+q^_^^\`IkLB2`rCEq>T^GNncD*Gr:1L&u#DK5Pi!TNVO7Y;-%QH>de`5JSV*q3#^liM.:`8N.<,c"O#FRfA,%pFFUjYQopMm>n93AHZS6NQRBQH8k.`HVHVPb+G-B.VAlaG8!-PQ`.)TXWN+l/d]dO)Nn#%nh^MD\8$0o3B4S3epYr:W]4m,iYm:4<>!cW7pn$k]OKmXk'%W=7`3XR)`?'/2+e$i[PQY'fg^;CXLR(JV`D:i&&e'@7&8*CAR]5BIk#]P:8]3mqE20knqSRFTU2.#_Z`Oo6elC\tPI]Ei(2[O,2+I^IJo2g1<@)&iQ$^bgcRMKfGQ.\6hY_nKF-Q&q@JoPNP+F&^2FCa\j/f4C;-2naH(aD5HP=T'(li"2)\#(\nYnd2X:hBp@^uJgaGC^gc<<`]lbT"(^%I$N?51njS(Bl$fD,e$UZbD&'&,Ce^`UmASI/h--0-es,H@S7MC6>LIcSFM"sRehju*/X<c<p2_eH<Z?g4?&.=DD2!b_2YaK-lp.+3UJ$`C:POoC3"Q&2KR6Ct+oR90rgQM!73t3BW]gGfb^Y7j&Nrbb.oe%H]ilp^:Shu(CF4e>IcP]iS_G"81c'D(>5-`Nl4RHAD<H+@D.RoW?*%hll7Zo)9gP&mXArh-;+/>u.jBo4Cl3Ts#R?LFEoWk=4D/(gUPq8E=N^Ph14=2sS(i6m2/&8L"UnS05^EWMZK+.1!FG.N))M9rh=^a#]stZMqXl?pY.q_[[Td#l])Hi"IY4bo<-,XGE*/l0Vs)\u3*Ih[1p-(D^&S%(g?Qt3N`1d^F.9T)HFUds;R<?%)se.,cl&AMi&U4I\`oW,eCq$I-Q#.lk_KfR5FW8aR>T,3ji7BK\NFANg'.]h)I:c1YeKCaGIG2\O5GJa!Ir^4WRngu92/(;6c2<X<d5<HF3[+t$M5OW%BM?b_KH^GV",`Vp&mC=/:1Q\,g"@Z`s:`&:9,=4LXL5F3cVkdog.JR%'g:PNa?Z\Wb\pJ4GU;ZU.&[9W^G@okcWfN;3P_FW^PfuQY-&4$H`4e\.BJ(fgu,'crqALQmdH8.o)#/dJJrm@15t>^^^3FlfQ2Ckf8:;DI8Y5]#R;");"9S7eqM]blpuc^@XH?mtTOSFLUP2.MJ`X#ii0L)rm<3d3NGd<-K=MaFC,da,cGPqb$).V/>[_rBk)/+7OeXj%@gCFhjm1cnmLcj>(:`LY:X*<mV@hAYs])[`[e"Cj>R%`g7iUE6sPe':N+V=QhA#U0H)(k\2t_1klI#UU`+nJ6c%fP](]DSJRW:-A\fZP3eX44"+p9DaPo90!Z^3L.KTKB"[[Th'1=fW2]Gqf#Q8"gBh8_1QE:P"$1/`;m>n"#H`>L&qU?5KM5XG@2l+2&e:@2:^3sKI!X:2c]ligB^d_.'[H:U\)<M2lL^>oHDng+f#NeLd%@mgAf*ul5@VpV`gs4ihhR4lLP]GNHlG%EHN9tU`W.nl*Gje"XPKbn'S=22WJ<J](IT=];sYPC1jF2X6/u7dn(BsZrl.8g1YYfqLD,W^UYcqLjPr]H#KHk(+8'9P5U=S?Xf^stj(G%?L8;3]A05.2*kBJ_o6a/*#h+.@5Hf'@n<Rc=^G/2Sk^J.*J6Glu)`X&tn#'cB3Ye=BHLkOX*W7V)LAD9PJ2[.W8%qmgh>Sm%Gq['<Z[9o>>l&>!7dm4kj2WHQZ3EWlUur^?:OM1(p]`(p8<`m&N6?S!B!J'tH$j?XXZf[2[NXuB58VradOBfM0haK$>Z(+k$YQG<W!YSE/7#c!42!sB(l"D"i6pV7b;2"T~>endstream
 endobj
 10 0 obj
 <<
-/BaseFont /Helvetica-Bold
-/Encoding /WinAnsiEncoding
-/Name /F3
-/Subtype /Type1
-/Type /Font
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 1577
 >>
+stream
+Gatm:9lo&I&A@[:lnQa5-ijtYkflkn:1r"CHt[iK"XYB1*g0>";GAtGnTfX5MGE1W#?t\2?37`WpV#AtV\Cd*s#*$fop1&T`JFuVmYL$WVsS92fd7dSQI[Lg$Xu-ZAKcmFiMRs1:PM8<N:U$0<7V5:REVX+9#3o\ji,3i-"Xn\Rb"N\A^.M99e1Ui=dd:iZ_^8M<X:ucE\[*IQ*nhfX2QDF/%L1cZh$fMXK$M>$\ZLI>bE^X/s/0S[4#,>,\O*t$?>TbZ(*Paf4(5CFr/Vjcf0>oq>\u[P.P9!4@.rr6:E+.E6DeQ+_>-F!>"s!)8#rS,n[dt\HEZ%St<X/qLuBP[!`ujZa<D;<=om)51JLcPdt$hW94G6@<rZ^.Tod6Bh4XJ.;M+;T\!8sFT(XmrL^:F_/a!?8;-$:W^J2#31S,&V>>Y&Pd=Q_lkEu.SJhI(Rpg4>Xdp@'lVLU$ZSEb+eYkV$WcOTZ'tsJh)/-uSb,PM^H>ns%+]kP$hEM($j`A[WJPXX>OTAH:kAj%_"1A=6+dqE(\l;/Td^<$1F@?-@M&#6`BVL3mnr-FriujAZ%m@pj[&d(o;5;<b+V4Tb?c>bHV+&&LW+i&'#4TrFg0Q_,%_B"-c)=34CR_<T_l,b0H&:G&P22PG.-%;Wo_49YCo]We0C>u"Y/b,J+d;hXdiTq>+4bAgb)a,8A.RCn`n3S")`h`sUVCl)chqmhDH*a4!5\?Jj$4cqVZEa55<3pWGt+t])FY"\9WsFSe:dVoafTOISu/)YIqsRA#IN3G;i:c*gp?a$]Yqh_dFh:RWP[V]RlYYg;=<L8Oe7`&KVR#hJB1XKU<tf`4^dOeY0r$)D]U<A^*`H`c$(<e5B/+rMr:n$>eW3u`mP!WeqG$\m-$`f5D$8`e#--pNGiWWVd^6.jn'%i5ok7W6ph._H4&FKF[lZ?0%If&U"/S4Y2:"<;1.Xr`<XlH#I:QQd[tV;NI'OtjMTIhU6tHT<qXR5d&A=hrR?Oq0`#&s/-PA4_2O3-N=bB*C:/<O"6$c@RZk+1+rT3]%qhbjo4E"n-)pd@%E]*JMb,>NC$/H3U5QNTcs&S[2E5[Aa0TZYg^t'Xp&9NI%is9SON/a@^e\p:M'&Z*46NTmG&<M*Xe0YkK0&[$CR8Z20jH0Hdn/teC7QBhB0D<D=@)nF+gG/S>Sn$33M2"3_CQ%16!2/]$U"dC5n3uFa0D^'HOLc'':?L4MZRM<76*esK4'bo5W/#gb/`aYCl:?F!rHPh#)&`hVC3OapJHT6eQGS>E"$oKeUq2S/`<(LSrT1UArh5F;s6-#j#p:$S4!WD6Ml2P8hhG@&7Bg`T28BeI,@qdjRNUiQG)[i.AG1e+]*nGR:,W1erC8bp`k=\,(DWoiEJ]X5]pHqQ8NQ4RB4YEQn6Es1RB)GMZI#pl?TVViZ6j6k%HGQoOa[K$_]4O<012&A,?dKaa&(^@fs30DSjc9r5<[bM`!&r<pqkgD3/@ogh;>kp3>qUBHT+7p-=X$J?M>?KB`b1.EE<oSj"ge9k2uB,r.d/L>1'^UPF-CI\gfgD&^o]T791)pnkT"'I@)d.TJg,~>endstream
 endobj
 xref
 0 11
 0000000000 65535 f 
-0000000015 00000 n 
-0000000054 00000 n 
-0000000113 00000 n 
-0000000162 00000 n 
-0000000468 00000 n 
-0000004613 00000 n 
-0000004720 00000 n 
-0000004827 00000 n 
-0000004946 00000 n 
-0000005058 00000 n 
+0000000061 00000 n 
+0000000102 00000 n 
+0000000209 00000 n 
+0000000321 00000 n 
+0000000524 00000 n 
+0000000728 00000 n 
+0000000796 00000 n 
+0000001070 00000 n 
+0000001135 00000 n 
+0000003273 00000 n 
 trailer
 <<
+/ID 
+[<23522671769cb40001ea7229f4912373><23522671769cb40001ea7229f4912373>]
+% ReportLab generated PDF document -- digest (opensource)
+
+/Info 7 0 R
+/Root 6 0 R
 /Size 11
-/Root 3 0 R
-/Info 1 0 R
 >>
 startxref
-5171
+4942
 %%EOF

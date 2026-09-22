@@ -1,350 +1,93 @@
 %PDF-1.4
-%âãÏÓ
+%“Œ‹ž ReportLab Generated PDF document (opensource)
 1 0 obj
 <<
-/Producer (pypdf)
+/F1 2 0 R /F2 3 0 R
 >>
 endobj
 2 0 obj
 <<
-/Type /Pages
-/Count 1
-/Kids [ 4 0 R ]
+/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
 >>
 endobj
 3 0 obj
 <<
-/Type /Catalog
-/Pages 2 0 R
+/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
 >>
 endobj
 4 0 obj
 <<
-/Contents 5 0 R
-/MediaBox [ 0 0 595.2756 841.8898 ]
-/Resources <<
-/ExtGState <<
-/gRLs0 <<
-/ca 0.035
->>
->>
-/Font <<
-/F1 6 0 R
-/F1-0 7 0 R
-/F2 8 0 R
-/F2-0 9 0 R
-/F3 10 0 R
-/F4 11 0 R
->>
-/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
->>
-/Rotate 0
-/Trans <<
->>
-/Type /Page
-/Annots [ ]
-/Parent 2 0 R
+/Contents 9 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 8 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
 >>
 endobj
 5 0 obj
 <<
-/Length 3828
+/Contents 10 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 8 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
 >>
-stream
-q
-1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
-q
-1 0 0 1 51.35433 779.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F2 12 Tf 14 TL (QA Lab Brasil) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 749.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 4 Tm /F3 20 Tf 24 TL 216.8435 0 Td (Bruno) Tj T* -216.8435 0 Td ET
-Q
-Q
-q
-1 0 0 1 51.35433 724.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Cliente de API con colecciones basadas en archivos e integraci\363n amigable con Git.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 714.3701 cm
-Q
-q
-1 0 0 1 51.35433 688.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (\277Qu\351 es?) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 669.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Bruno es un cliente de API enfocado en colecciones locales versionables.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 643.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Uso b\341sico) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 624.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Cree una colecci\363n, configure m\351todo, URL, headers, par\341metros, body y autenticaci\363n y env\355e la request.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 598.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Versionamiento) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 579.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Las colecciones en archivos pueden revisarse con diff, commits y pull requests.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 553.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Secretos) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 534.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Mantenga tokens y contrase\361as fuera de commits y use variables/mecanismos adecuados.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 508.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Cu\341ndo considerarlo) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 489.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (\332til para equipos que desean API testing cercano al flujo Git.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 463.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Cu\341ndo utilizarlo) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 431.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Utilice este conocimiento cuando el riesgo, la arquitectura o la etapa de entrega requieran este tipo de validaci\363n.) Tj T* (Confirme objetivo, ambiente, datos necesarios y evidencias esperadas antes de comenzar.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 405.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Consejo de QA) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 386.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL /F4 9.5 Tf 13 TL (n) Tj /F1 9.5 Tf 13 TL ( QA Tip: elija la herramienta por el flujo del equipo, no solo por cantidad de funciones.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 360.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Recursos oficiales) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 341.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Site oficial: https://www.usebruno.com/downloads) Tj T* ET
-Q
-Q
- 
-
-Q
-
-q
-0.0 0.0 595.2756 841.8898 re
-W
-n
-1 0 0 1 0 0 cm
-BT
-/F1-0 12 Tf
-14.4 TL
-ET
-0.843137 0.901961 0.960784 RG
-0.6 w
-n
-36 815.8898 m
-559.2756 815.8898 l
-S
-0.070588 0.207843 0.356863 rg
-BT
-/F2-0 8.2 Tf
-9.84 TL
-ET
-BT
-1 0 0 1 40 821.8898 Tm
-(QA LAB BRASIL) Tj
-T*
-ET
-0.356863 0.45098 0.564706 rg
-BT
-/F1-0 6.8 Tf
-8.16 TL
-ET
-BT
-1 0 0 1 398.216 821.8898 Tm
-(QUALITY ENGINEERING \174 DOCUMENTO OFICIAL) Tj
-T*
-ET
-q
-0.848048 0.529919 -0.529919 0.848048 297.6378 420.9449 cm
-0.08 0.21 0.36 rg
-/gRLs0 gs
-BT
-/F2-0 42 Tf
-50.4 TL
-ET
-BT
-1 0 0 1 -164.493 0 Tm
-(QA LAB BRASIL) Tj
-T*
-ET
-Q
-0.843137 0.901961 0.960784 RG
-n
-36 24 m
-559.2756 24 l
-S
-0.356863 0.45098 0.564706 rg
-BT
-/F1-0 6.6 Tf
-7.92 TL
-ET
-BT
-1 0 0 1 40 14 Tm
-(qualityassurancebrasil\056com\056br) Tj
-T*
-ET
-BT
-1 0 0 1 212.28 14 Tm
-(QA Lab Brasil v2\0562 \174 ES \174 Actualizado\072 septiembre de 2026) Tj
-T*
-ET
-BT
-1 0 0 1 514.547 14 Tm
-(Pagina 1 de 1) Tj
-T*
-ET
-Q
-
-
-endstream
 endobj
 6 0 obj
 <<
-/BaseFont /Helvetica
-/Encoding /WinAnsiEncoding
-/Name /F1
-/Subtype /Type1
-/Type /Font
+/PageMode /UseNone /Pages 8 0 R /Type /Catalog
 >>
 endobj
 7 0 obj
 <<
-/BaseFont /Helvetica
-/Encoding /WinAnsiEncoding
-/Name /F1
-/Subtype /Type1
-/Type /Font
+/Author (\(anonymous\)) /CreationDate (D:20260922123400+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20260922123400+00'00') /Producer (ReportLab PDF Library - \(opensource\)) 
+  /Subject (\(unspecified\)) /Title (Bruno) /Trapped /False
 >>
 endobj
 8 0 obj
 <<
-/BaseFont /Helvetica-BoldOblique
-/Encoding /WinAnsiEncoding
-/Name /F2
-/Subtype /Type1
-/Type /Font
+/Count 2 /Kids [ 4 0 R 5 0 R ] /Type /Pages
 >>
 endobj
 9 0 obj
 <<
-/BaseFont /Helvetica-Bold
-/Encoding /WinAnsiEncoding
-/Name /F2
-/Subtype /Type1
-/Type /Font
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 1981
 >>
+stream
+Gatm<?#SIU'Rf_Z\;sqS0d7q/UG"tIFN&b=BN'+NH(cP<@4$i6-md'@+2:0GQBa=aNQ_hMb7qpBmQ(#7i=t4*pV6<Wk[Hhj^N/=c(+\AVMeI*!*uD9P1DXL%cXL>qk=I4]`Vs42c$EF:ABHkB6psT^1E">kW`^O58Ack4YEcF>Ag.MdahB$1@1i\l/i&^qrUsYG%71g<62>?3`"SGI1A"(rCP&mG$_4F_4;AH$;kDAB@9gqK:rfta-6pMdO\GI?c2nTt@Xn6'AVU;!NGAXGEkaI-1EJaVr$,GAluog`56LHN!Md=:30qZmLOb4I#Me6iA2jbN;@2A<M^5*#<:oV%q+nB-UW%SpRfuA+e!-5UE03FJO[O5)+WE!%;<`pk1gt)2"l<h9Us/UAJZd9Oki2I:lYfj'@hCH[6\OJU9gpI#4.Hq%-%4T?^f`"/\2D^6d^5)-Z!No'lc.H?WMq`8@1j2G1GB?SZ:G1&9%T\I2,+bj=;h9:"UuY&jCG6cY:i.NdD20/EJ8Xu6_K;A?Zr@m^m75.,a4arHY1cj/fNhF8b<N*T7Hom,T='`Fr2OB=@NRnl@f[U12ckN$i8URT`c'TlX!;WH='&^/-=K4A-2KA"hhN]]%ZT!r;?2!&+4`/,!>oZR)3>q%[%NG+>Qn&E#ADSi=CJ#(,1>'kbCq"_!`mKU[(rZU$;LHDj8ups%ApG`n&kk;E7`*8%L%tjL=:.igL:I=>q]g2dm]c:1`!k=mH"N:Sq]!"F/LO(eOM&O/R(t+(*9lk="!8=P!@o,Eh+\G8&s:m=%%s>SNfhh`_0NQ9#TSP\XR.Cp"-2admHY@^X/;]l"fj4L=Gm9#Ca>'*m44./dmaA*K*_Rs,U;)IpUd9Puuj_gnRWh`u8X4O;oT&&67bUK>%S2*fLm'eD9_<Dof0eb.].pq-gE1`tqiD)^n#g"F9\"7)I`qGi9Fc3jGFQW=i]Tu-0OH2!KB3,tq>l,FZpj[qJ,d>c#NWElRIh.-&I]FZ"$2QAW@k;hY(=rLpSTgt:Vq54-H%Xcm!^.15e\p>;H8&U+G_<Z(ad;;Yo(Z1aZj\6S3B6&>%[NIP8-#9kWQDn.B%5ah,Xj"@l1f_6k['m2[qK@9EVd$81BJB2OGfZ.f)iLmm><ILPe[5t7jJ1(_8CW!V+gmZHdGI%QNi@.u-=.K2MSkVanAe?^.UQqN:`tY6aV;6_mR\Rk2N:G/$[cmb]lC&lgKmaEe]KCA<MoH:^$3[[8*ht(*JMlAAcm=iP,In@\+YWp(8fL$3;m-VJCJ@'Xo22MSg4m!@bB'69&>m9?YBd0Tb1:`mT!cnc>cnL>h-ho&-;<mGN_$,E#U,/3cl40Y!ZQ>4ooHk6?qZ%dS_sa&^_PTdrjrF0GH*.aM(b$#0d@2+V_bpe#Mh?G)O/S<(si?5cQ,prDhP,fd!DdO<8/`,!B4ihK.De/bA^VN!^H:JPd"Ahith5>\!\Gqh2Ghg"%H9(j]^2l#*k4UElV1WWoQ63c@).@/Yt#eYWjp4OiTf[d"c!8%h'lKh0ZfH&ic/@TTcO?2E:4<9X2%45HV@c,k02him5&-mUV!3nGcN^>ks%h]qdkk^_CK2DF/]?_;jd82+>%`Zp-POZXaCO&%.1pU7@P^:ps8NLgA-MSihIqN`K+K&i9L.h'Z][diq"@8MWEY=q^G=_o;7VU8,A24jP*q>"H51*IeZ.Kk_IbmWp.M/Fg';![=$?<(1h;]-USX2c(0Q;Ur`)15Do6T"SZlZ[614)]Mua!b>VOIdg)\il*LfBkfsF!`SFZAnUXGD2Xd4lRcXDgI7f61p;8\PrIreZ))Krq/FeDbpuHg)2<p^EJ3[?L$c[k%olb\,0-pPJ0DZCAg-T0<5QM3eIr;O/(k5/lm?3dB5"5o8KjF`jDbl!UJpZ+j^&2;OClJ):_c'?WJ(C98BC5+$ES9gH,;e48OEDs&JjrD\4BcRsmuSrCFN=?J*Ma9)eocZ[W"S$6=*~>endstream
 endobj
 10 0 obj
 <<
-/BaseFont /Helvetica-Bold
-/Encoding /WinAnsiEncoding
-/Name /F3
-/Subtype /Type1
-/Type /Font
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 989
 >>
-endobj
-11 0 obj
-<<
-/BaseFont /ZapfDingbats
-/Name /F4
-/Subtype /Type1
-/Type /Font
->>
+stream
+Gat='9lJcG&A@C2bV:[NQCf@H9T&225RuPua'KU?G$.@F8kDLYfH7jqad/4JZm]YiQ8BN*Hh6)&",[nas*Y,k]7Y<W0OPlDHXN"-f\OI$Y5202C+6JH&BU<B'p-$)1uq$S=3;)o.$pTD9pAHe\k7%\NKEfZelK@/S5Qu@e!:86WPJg41nE)k&OQ`$3<rns6;/&0PpiK[(hZ5mNYTjY%@>!MAmqO?7f7u*)J^iL$+!lTne<=5Mje"Q?Qs+m=DNneW4&&>g<WrMmJ6csq<CV\Ip8W9GbLk<%9Sppf`t.EaTqaZ:6o<',\IgCf0h*q@b8HHa.##lq[0sE-(@_*PqbP6`!;4WE@o]V_4D4jlLY:sBO\?EV.E,\ZL!5EpG]R#qf)/k_u1?E!`<Ms(uC826EN3UF?qWG#GI)YcGTc>\MfJoE7Z1@+$u"d@1-WL'3YAj(6uqSXAm[fGkeW1@H.>6VFETeH6<MqRnsKbIR&n6P@gi7-_0p7+KP@gbF,b+g'S^:7207oU5XGPg['[I!rN/92l&[t'!:$T1IimM.`:5WZ=Bu5g7XJ]ig(_m=^K'sYUONpnE*09Z[Jj8^Ub@Rf/G<P+5e",&5sYTGQsf:I6:3Vq=n+BU;)F0q5Fc#(n_1!/rA0kNY*L'n2ZGAJC$Ys_3ZB@4<uK-3BY_3gpsJdn25;`/`u3bPZ'C6pt1=P^]Tl@!^*/rbAltd\07S/;kNR<0Em+HF#Y<,"@q(@9O?rU\me".MS5U3l`cNDV^l_K<%a(!=\D`DcAMUd'/n@N!B'5@7EmQbWH@q^V=EYLrd]!je8KSjlgpRcn#'<j7DulTgMjk$S%F[Ek\tbRI1poK*PS3Z>o_9Hk6=/j@r,D&=frV?%'Fr9ZTlFe!=u@DA%llZR,M8Sl['U*C$IE_O(As\>?IC;'7onW+$r/G1,gB>PTf.E$g_'8aJ#%$p(!B%Z`J[!E%Wij]-4;DgL9r4M82:19E\>p!qa.1P5~>endstream
 endobj
 xref
-0 12
+0 11
 0000000000 65535 f 
-0000000015 00000 n 
-0000000054 00000 n 
-0000000113 00000 n 
-0000000162 00000 n 
-0000000479 00000 n 
-0000004359 00000 n 
-0000004466 00000 n 
-0000004573 00000 n 
-0000004692 00000 n 
-0000004804 00000 n 
-0000004917 00000 n 
+0000000061 00000 n 
+0000000102 00000 n 
+0000000209 00000 n 
+0000000321 00000 n 
+0000000524 00000 n 
+0000000728 00000 n 
+0000000796 00000 n 
+0000001068 00000 n 
+0000001133 00000 n 
+0000003205 00000 n 
 trailer
 <<
-/Size 12
-/Root 3 0 R
-/Info 1 0 R
+/ID 
+[<dcb69dbdbc303cbf81a05d1c40218a78><dcb69dbdbc303cbf81a05d1c40218a78>]
+% ReportLab generated PDF document -- digest (opensource)
+
+/Info 7 0 R
+/Root 6 0 R
+/Size 11
 >>
 startxref
-5001
+4285
 %%EOF

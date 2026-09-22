@@ -1,326 +1,74 @@
 %PDF-1.4
-%âãÏÓ
+%“Œ‹ž ReportLab Generated PDF document (opensource)
 1 0 obj
 <<
-/Producer (pypdf)
+/F1 2 0 R /F2 3 0 R
 >>
 endobj
 2 0 obj
 <<
-/Type /Pages
-/Count 1
-/Kids [ 4 0 R ]
+/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
 >>
 endobj
 3 0 obj
 <<
-/Type /Catalog
-/Pages 2 0 R
+/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
 >>
 endobj
 4 0 obj
 <<
-/Contents 5 0 R
-/MediaBox [ 0 0 595.2756 841.8898 ]
-/Resources <<
-/ExtGState <<
-/gRLs0 <<
-/ca 0.035
->>
->>
-/Font <<
-/F1 6 0 R
-/F1-0 7 0 R
-/F2 8 0 R
-/F2-0 9 0 R
-/F3 10 0 R
->>
-/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
->>
-/Rotate 0
-/Trans <<
->>
-/Type /Page
-/Annots [ ]
-/Parent 2 0 R
+/Contents 8 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 7 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
 >>
 endobj
 5 0 obj
 <<
-/Length 3954
+/PageMode /UseNone /Pages 7 0 R /Type /Catalog
 >>
-stream
-q
-1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
-q
-1 0 0 1 51.35433 779.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F2 12 Tf 14 TL (QA Lab Brasil) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 749.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 4 Tm /F3 20 Tf 24 TL 166.2635 0 Td (Payment Testing) Tj T* -166.2635 0 Td ET
-Q
-Q
-q
-1 0 0 1 51.35433 724.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Cards, instant payments, bank slips, authorization, declines, timeouts, refunds and idempotency.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 714.3701 cm
-Q
-q
-1 0 0 1 51.35433 688.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Payment flow) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 656.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Checkout sends a payment intent to a gateway or acquirer, receives a response and must correctly reflect the result) Tj T* (in the order.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 630.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Essential scenarios) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 598.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Test approval, decline, invalid data, timeout, outage, repeated attempts, cancellation, reversal, refund and) Tj T* (inconsistencies between payment and order.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 572.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Idempotency and duplicates) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 540.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Repeating a call after a timeout must not charge the customer twice. Payment APIs often use idempotency keys to) Tj T* (control this risk.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 514.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Security and evidence) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 482.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Never expose full PAN, CVV, tokens or sensitive data in evidence. Use authorized test data and validate masking,) Tj T* (logs and permissions.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 456.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (When to use it) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 424.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Use this knowledge when product risk, architecture or the delivery stage requires this type of validation. Confirm the) Tj T* (goal, environment, required data and expected evidence before starting.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 398.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (How QA applies it) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 366.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Start from the behavior or risk to validate, prepare data and environment, execute the technique or tool reproducibly) Tj T* (and capture evidence that helps the team understand the result.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 340.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (QA tip) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 308.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (An approved payment without an order, or an order without a consistent payment, is an integration issue that) Tj T* (deserves end-to-end investigation.) Tj T* ET
-Q
-Q
- 
-
-Q
-
-q
-0.0 0.0 595.2756 841.8898 re
-W
-n
-1 0 0 1 0 0 cm
-BT
-/F1-0 12 Tf
-14.4 TL
-ET
-0.843137 0.901961 0.960784 RG
-0.6 w
-n
-36 815.8898 m
-559.2756 815.8898 l
-S
-0.070588 0.207843 0.356863 rg
-BT
-/F2-0 8.2 Tf
-9.84 TL
-ET
-BT
-1 0 0 1 40 821.8898 Tm
-(QA LAB BRASIL) Tj
-T*
-ET
-0.356863 0.45098 0.564706 rg
-BT
-/F1-0 6.8 Tf
-8.16 TL
-ET
-BT
-1 0 0 1 399.3516 821.8898 Tm
-(QUALITY ENGINEERING \174 OFFICIAL DOCUMENT) Tj
-T*
-ET
-q
-0.848048 0.529919 -0.529919 0.848048 297.6378 420.9449 cm
-0.08 0.21 0.36 rg
-/gRLs0 gs
-BT
-/F2-0 42 Tf
-50.4 TL
-ET
-BT
-1 0 0 1 -164.493 0 Tm
-(QA LAB BRASIL) Tj
-T*
-ET
-Q
-0.843137 0.901961 0.960784 RG
-n
-36 24 m
-559.2756 24 l
-S
-0.356863 0.45098 0.564706 rg
-BT
-/F1-0 6.6 Tf
-7.92 TL
-ET
-BT
-1 0 0 1 40 14 Tm
-(qualityassurancebrasil\056com\056br) Tj
-T*
-ET
-BT
-1 0 0 1 221.4507 14 Tm
-(QA Lab Brasil v2\0562 \174 EN \174 Updated\072 September 2026) Tj
-T*
-ET
-BT
-1 0 0 1 519.6818 14 Tm
-(Page 1 de 1) Tj
-T*
-ET
-Q
-
-
-endstream
 endobj
 6 0 obj
 <<
-/BaseFont /Helvetica
-/Encoding /WinAnsiEncoding
-/Name /F1
-/Subtype /Type1
-/Type /Font
+/Author (\(anonymous\)) /CreationDate (D:20260922123400+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20260922123400+00'00') /Producer (ReportLab PDF Library - \(opensource\)) 
+  /Subject (\(unspecified\)) /Title (Payment Testing) /Trapped /False
 >>
 endobj
 7 0 obj
 <<
-/BaseFont /Helvetica
-/Encoding /WinAnsiEncoding
-/Name /F1
-/Subtype /Type1
-/Type /Font
+/Count 1 /Kids [ 4 0 R ] /Type /Pages
 >>
 endobj
 8 0 obj
 <<
-/BaseFont /Helvetica-BoldOblique
-/Encoding /WinAnsiEncoding
-/Name /F2
-/Subtype /Type1
-/Type /Font
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 1625
 >>
-endobj
-9 0 obj
-<<
-/BaseFont /Helvetica-Bold
-/Encoding /WinAnsiEncoding
-/Name /F2
-/Subtype /Type1
-/Type /Font
->>
-endobj
-10 0 obj
-<<
-/BaseFont /Helvetica-Bold
-/Encoding /WinAnsiEncoding
-/Name /F3
-/Subtype /Type1
-/Type /Font
->>
+stream
+Gatn%Df=Ag&B<Vn;r#Qtn2QRDp#fmaFBa<jkSgXObt,4dR1^6tMX+[mIRi(W<A[F/_+Ba01irE\Ia9%ZJDrL,J(H9fh%G24Pl]pL>QN#=#0RPHDOEU6KN==;3KT3)+r<N8pf2iK-X@og_AMAP'NImr.Pb\$JeMIf=aj[58WaZ]Bf4XH<$X%D/b,MY"Wb&o=%\pES9(Wmo+EQE;2I,aRasGC"lgHY'YNKE.8*^X,[jlUcVgYuPDG1%MANUIJe?/SS=cRK=&'Yff!KUbC<fK$H)BNKRD5q+SSXJ>Rfj+[hcS8<",8+2j?O#9EkjWd&K+&(EM^J33QVDu=LN2?a6c[,r#:r?ibh'j.`rA0cg[VpG.bo74@=88^a@L9$tV`I,,=\LN!N:c@g;^IHO"beDsuS5Qm^(-LhIBTJ'4"Q@`lT]LfqleP>F^ucI,(C5oLd;n?-!]:+<*QofQ6BZF!/RPSI4?cW+P.<[E.m/a6Y4J<DZX3A!#-#T'fn"8>$A7^?OK7#k(,pH1lEq=-!`eJZLFW.57"(b<ptOUlEoUt5h/?N;ttr<G7.`3)(6'PM!=TpaUVCe0Iu_dc$R\%e1p+cG"u9if9?nBid<8,#t"J\n^DRnn(^W\2(bq(O>]ceiUZANm;MQ`g[kF.n9KZma<6]Y\rFe]d$roK2<s+<>;p7j!U:rT:5(NF.5(I#t;;5A8*&#MEt1)r9P\*5]]VrJqB@Fpht_D9sd-7aS9C6eq+ZC?QQHZ>2]aWpOY"?+hWC:jMak3HjPCa2QFb5OOGhp)L&!gK!9R:Ma(OmOjTeZN!d8:7n`^7b(]o(3h\Pl;VQ#I>EB)`O3)^C+&a`*Q\(scq_,RgKNhh(&u<'hqQGWZ-Map"4Yo\qn_VD!eX:HA)2ftMYdVl;a>_A?)-1$89jtd&lE4A6h8N46%YC,I'#Ho[.UUQ'V`5]RFnG\qqg!RBdS2IVSLfpJOTi(H$o_g9<M:5dOW8dJ.)Gf+1n23?*0&Gp5)^Db4unFclE_P6q;GYK%)umM+4oa.dWDb-<EUNQgtc@^;>f7X7:Lcmd<q_1\=/g=GR?hAYlmX[a/I^EPc0leC#1qX.Z\8:8ABud95guNHAqn[Qogf[`*)lVe\`Z1_=Oh^%Ynh5R.D"f5-+7`3sFLA!\CKi2jb6g4Rk'HNBhA-se6bA`_GJh5bj@nOejee.\DW?$Uuj`ifX1A+Vs`YJ%niXp1]nl1X-=hL>9PSRf40o5VcYkBe4g[Z*Eca4*[5JNr1Z4'k&%A0Ekq\1=.cCeXKV"K.N6McNr1Z0T:Ze19-cn$*Q)-%K\&18(uc<s/*H#&T)i)P%XM(RM#LouP(_Nn3$0G%Xd,NNnCfE;VR\*C`QZQ1+!t%X=NQ0&@OWmki00.^oX)#9XManUg=eBOTfY`monSQ@5e0c!/r)Ztm])CE!MQlCPAh?#73n.8Y**Mn[$WlKhgsO"6,\0XHZhIf[r=G'Q<eJb#iRrS?lA5Ek(Q@cB)V"=hahlTr4FFb,gaLE\s]NI901%=]SJBXUj_/<I7(V,O^@cY9>]3'P2f>+u$USUMOg(9l@`828'H(]@_OF/G9%k`q!,fZ4%3AU8h7-!S/X&9#JupRa[@>elM\q+"mbrW@!.frb~>endstream
 endobj
 xref
-0 11
+0 9
 0000000000 65535 f 
-0000000015 00000 n 
-0000000054 00000 n 
-0000000113 00000 n 
-0000000162 00000 n 
-0000000468 00000 n 
-0000004474 00000 n 
-0000004581 00000 n 
-0000004688 00000 n 
-0000004807 00000 n 
-0000004919 00000 n 
+0000000061 00000 n 
+0000000102 00000 n 
+0000000209 00000 n 
+0000000321 00000 n 
+0000000524 00000 n 
+0000000592 00000 n 
+0000000874 00000 n 
+0000000933 00000 n 
 trailer
 <<
-/Size 11
-/Root 3 0 R
-/Info 1 0 R
+/ID 
+[<508792bcbe29f00250b83d4e0a8252e8><508792bcbe29f00250b83d4e0a8252e8>]
+% ReportLab generated PDF document -- digest (opensource)
+
+/Info 6 0 R
+/Root 5 0 R
+/Size 9
 >>
 startxref
-5032
+2649
 %%EOF

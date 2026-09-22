@@ -1,354 +1,93 @@
 %PDF-1.4
-%âãÏÓ
+%“Œ‹ž ReportLab Generated PDF document (opensource)
 1 0 obj
 <<
-/Producer (pypdf)
+/F1 2 0 R /F2 3 0 R
 >>
 endobj
 2 0 obj
 <<
-/Type /Pages
-/Count 1
-/Kids [ 4 0 R ]
+/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
 >>
 endobj
 3 0 obj
 <<
-/Type /Catalog
-/Pages 2 0 R
+/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
 >>
 endobj
 4 0 obj
 <<
-/Contents 5 0 R
-/MediaBox [ 0 0 595.2756 841.8898 ]
-/Resources <<
-/ExtGState <<
-/gRLs0 <<
-/ca 0.035
->>
->>
-/Font <<
-/F1 6 0 R
-/F1-0 7 0 R
-/F2 8 0 R
-/F2-0 9 0 R
-/F3 10 0 R
->>
-/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
->>
-/Rotate 0
-/Trans <<
->>
-/Type /Page
-/Annots [ ]
-/Parent 2 0 R
+/Contents 9 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 8 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
 >>
 endobj
 5 0 obj
 <<
-/Length 5288
+/Contents 10 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 8 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
 >>
-stream
-q
-1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
-q
-1 0 0 1 51.35433 779.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F2 12 Tf 14 TL (QA Lab Brasil) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 749.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 4 Tm /F3 20 Tf 24 TL 176.2635 0 Td (Apache Maven) Tj T* -176.2635 0 Td ET
-Q
-Q
-q
-1 0 0 1 51.35433 724.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Apache Maven: concepto, aplicaci\363n en Quality Engineering, primeros pasos y referencia oficial.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 714.3701 cm
-Q
-q
-1 0 0 1 51.35433 688.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (\277Qu\351 es?) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 656.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Apache Maven forma parte del ecosistema moderno de ingenier\355a y calidad de software. Esta gu\355a explica su) Tj T* (funci\363n, d\363nde encaja en el flujo de entrega y c\363mo un profesional de QA puede utilizarlo con contexto.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 630.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (\277Por qu\351 QA debe conocerlo?) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 585.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 29.5 Tm /F1 9.5 Tf 13 TL (Conocer Apache Maven ayuda a QA a colaborar con desarrollo, DevOps, datos y producto. El objetivo no es) Tj T* (memorizar comandos, sino comprender c\363mo la herramienta afecta la testabilidad, automatizaci\363n, evidencias,) Tj T* (diagn\363stico y calidad de entrega.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 559.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Primeros pasos) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 514.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 29.5 Tm /F1 9.5 Tf 13 TL (Comience por la documentaci\363n oficial, confirme los requisitos previos e instale \372nicamente desde la fuente oficial.) Tj T* (En entornos corporativos, valide pol\355ticas internas, versiones soportadas, permisos y variables de entorno antes de) Tj T* (configurar Apache Maven.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 488.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Aplicaci\363n pr\341ctica en QA) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 443.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 29.5 Tm /F1 9.5 Tf 13 TL (Utilice Apache Maven en un ejercicio peque\361o y reproducible. Registre el objetivo, configuraci\363n, resultado) Tj T* (esperado, evidencias y problemas encontrados. Despu\351s conecte el aprendizaje con un escenario real de pruebas,) Tj T* (automatizaci\363n, integraci\363n, datos o entrega continua.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 417.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Buenas pr\341cticas) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 372.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 29.5 Tm /F1 9.5 Tf 13 TL (Prefiera documentaci\363n oficial, no exponga credenciales, versione configuraciones cuando corresponda, mantenga) Tj T* (dependencias actualizadas y documente decisiones importantes. Una herramienta sin contexto no sustituye una) Tj T* (estrategia de calidad.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 346.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Instalaci\363n y configuraci\363n - visi\363n general) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 301.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 29.5 Tm /F1 9.5 Tf 13 TL (Use siempre el sitio y la documentaci\363n oficiales. Verifique prerrequisitos y versiones compatibles, instale seg\372n el) Tj T* (sistema operativo, configure variables de entorno o PATH solo cuando sea necesario, valide la instalaci\363n con el) Tj T* (comando o pantalla recomendada y ejecute un primer proyecto/prueba antes de integrarlo al flujo de QA.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 275.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Consejo de QA) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 256.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Relacione siempre la pr\341ctica con el riesgo del producto y la evidencia necesaria para decisiones de calidad.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 230.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Recursos oficiales) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 211.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Site oficial: https://maven.apache.org/download.cgi) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 192.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Download / instala\347\343o: https://maven.apache.org/download.cgi) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 173.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Documenta\347\343o: https://maven.apache.org/guides/) Tj T* ET
-Q
-Q
- 
-
-Q
-
-q
-0.0 0.0 595.2756 841.8898 re
-W
-n
-1 0 0 1 0 0 cm
-BT
-/F1-0 12 Tf
-14.4 TL
-ET
-0.843137 0.901961 0.960784 RG
-0.6 w
-n
-36 815.8898 m
-559.2756 815.8898 l
-S
-0.070588 0.207843 0.356863 rg
-BT
-/F2-0 8.2 Tf
-9.84 TL
-ET
-BT
-1 0 0 1 40 821.8898 Tm
-(QA LAB BRASIL) Tj
-T*
-ET
-0.356863 0.45098 0.564706 rg
-BT
-/F1-0 6.8 Tf
-8.16 TL
-ET
-BT
-1 0 0 1 398.216 821.8898 Tm
-(QUALITY ENGINEERING \174 DOCUMENTO OFICIAL) Tj
-T*
-ET
-q
-0.848048 0.529919 -0.529919 0.848048 297.6378 420.9449 cm
-0.08 0.21 0.36 rg
-/gRLs0 gs
-BT
-/F2-0 42 Tf
-50.4 TL
-ET
-BT
-1 0 0 1 -164.493 0 Tm
-(QA LAB BRASIL) Tj
-T*
-ET
-Q
-0.843137 0.901961 0.960784 RG
-n
-36 24 m
-559.2756 24 l
-S
-0.356863 0.45098 0.564706 rg
-BT
-/F1-0 6.6 Tf
-7.92 TL
-ET
-BT
-1 0 0 1 40 14 Tm
-(qualityassurancebrasil\056com\056br) Tj
-T*
-ET
-BT
-1 0 0 1 212.28 14 Tm
-(QA Lab Brasil v2\0562 \174 ES \174 Actualizado\072 septiembre de 2026) Tj
-T*
-ET
-BT
-1 0 0 1 514.547 14 Tm
-(Pagina 1 de 1) Tj
-T*
-ET
-Q
-
-
-endstream
 endobj
 6 0 obj
 <<
-/BaseFont /Helvetica
-/Encoding /WinAnsiEncoding
-/Name /F1
-/Subtype /Type1
-/Type /Font
+/PageMode /UseNone /Pages 8 0 R /Type /Catalog
 >>
 endobj
 7 0 obj
 <<
-/BaseFont /Helvetica
-/Encoding /WinAnsiEncoding
-/Name /F1
-/Subtype /Type1
-/Type /Font
+/Author (\(anonymous\)) /CreationDate (D:20260922123400+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20260922123400+00'00') /Producer (ReportLab PDF Library - \(opensource\)) 
+  /Subject (\(unspecified\)) /Title (Apache Maven) /Trapped /False
 >>
 endobj
 8 0 obj
 <<
-/BaseFont /Helvetica-BoldOblique
-/Encoding /WinAnsiEncoding
-/Name /F2
-/Subtype /Type1
-/Type /Font
+/Count 2 /Kids [ 4 0 R 5 0 R ] /Type /Pages
 >>
 endobj
 9 0 obj
 <<
-/BaseFont /Helvetica-Bold
-/Encoding /WinAnsiEncoding
-/Name /F2
-/Subtype /Type1
-/Type /Font
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 2250
 >>
+stream
+Gatm;gN)&i&UihDoV8`=O"e(R?W,=l8[ccGnV,8P?Uhhm*Yj4!"orMNo'n_'!'tS+$ff;XMpMHo51A]el%Yu65LTQa)kuXU?2e,m$u*Bu)2jm5Ds>MmFghuL&]c.B&PJOg$&OoHA`U;#G*V,TarlWl.oMKt8PIAY$UpFQEI(lj='7#i+=J#OAVGrG+NSP"Lb/%V:Fg]%M)5X?>TK/A-F+hPGcQ*APTl;7FuX<0LU"pA=jRRc?7Cq3kI#W$`'P5J[WjEe+par#4RRZ'3FKX/o@a>T4tb+CR5^bar+!1XeX+hKQPC-o+(WmMJ8Ia7GmHetnUMR!U("X6>b3'_.cLS1X;cKYrou/D^8:KUr3Qa8+N\[;@>p*GgkAn$/0bj-"?A9OLlc6ncf0J9/4G^9Ef*,#YHI-d_pufbh_'Q#,SHE!`+PZs;)61SP];rckobNk74=ocaIm:shp\'<CKdj2Bt)8^GpK.9,*<\_4O-sF8PnL?i?,+d((:<i:B@?o#I+Pu`DTDP++Ycu.;)50/*K-UJ1@,8E^1WIFoheT+qc?r@qO4">s$T)Rclt(EWQ#"MJ2-)4((`)j!9AHRR\ETZMB'`<T%ef64#(&kffpJq(/3UMp-^U^^^CI.sc?G;rnfiJ#L%u&"m7$53"@]$mNof5oD4N$CM*$%QT1GbQ=c&q9S70grY?kRLd%:'?5HPoN*MZ>O#L401bJF;l\8nNmajPh9lBD\Y,KLNHVb*Sa,_ASt+YNVq]WJZ5\FW>+C]Fi-A37k*$%)o.:LNA=YkOe6$jI5OdhibMEc%,CDe$Im!m=,_%#k@IS*ABk(GDO?(p.WcUtH[%6H-NQ&n<g9h^>KKSSOBEuJ46AA.[:oT=jF`u5`<DEpJe+JU,_t]2ik.*Pnm8Z*lAnWPA0<"H6pc<(d[u.^bn4c($qKTU=S_j36r*X#KBYh%2kg%g]ebfhJD`;?7%)&XbGNES_dc(5>rmohF3"Md^3DYP-`Amm2H=Lrhb*GDI"4"KL1oe1N!<^J?kTG2Ul<X]>O9&^<V,s9MNPm!dMqUI&iH'cjf*^R>Z9D[Xr1=blQbM@"^Kt5)r23BjT!3*Z=kTuqD,hn)XV!81_]]+(pT\6O^^[ZI*QK3/I)Z/k.OYpEX48c"]lkq9h=34CW])k-kQQXng_cDFV2n5*#kuTJ;7(u4X)8UuJ+jAnTQ`UFR36oTRs8Qdh2PG9`V[#-iO77_q\dZk-cq8r-:j=WpXK."U,^O$WV`AeU_p*5c<B%+Vjss68pAE<>LtS&^Zk^3G+ba2]m":WFu>M_=aF#1]t)\,fis(&*/e:U9;<Hl\Cd3]eQ*HTJ5GQ7LMl'QZXlB^?aOmS0e>"V)dVG*X1a72DN)%Y1mt&X<]r?(LhW04hOD[>!^eh[g[b<G2l/\1^r`b)OA?j/:Wk,Oq2<AXh+;+(*aFs/9M9k;/!(#!]gTD7?c8"*q?;de@pGe.##qMh#1FHU"o-komHU\'21:LjYXMW-]FR8(aSkI"1M_c;O"#XJZ05W_$4]<8lO%1jR6-.(F124EDunSmg)X+?oTIMZ9>.?MFf/MT`W9SQS5F)V94+)ROhs;0@m&@d@/V`oj:%;Ac]*`X'YKf*Y"j_Q*I<)a92:<c\?;Dn)eR(4alX6qoCB9#0G*l+IB-W[C+ZBo)`7%Vl_hGD4kT9.IF)2W02D*uEA3Q6,8G:7E4R!'0PcaIF^Q$o(N_5*d@.:ZK53#H[,=G8!=.q6hN_5I/Y'dM<8N78-+BIpO1Hia$b^LpomLZe\9!;:@:fE$5[KE("l.KRm5u4?'%7?R=AG7*Vo9@iiJWQW)PsCDV2ERf*Ei<aFSglEhI2!j4=r[538@TLm;0skFF'b::CDrp?g;3m.0f2tCa.48^0.FFPA%JaH*9j/\,hT+;.\)B.c8o@(.01U<bWn)0o^Anp'X0Yg=(5!Xu;?HF"AI&"uN!%\B!B_DkN<1e=_*K*G91[B8An:cV2&.H+D&kpQJa>>N_X$O^?KX8K"`%V?-PYkKf6NSaq8Y"+Bs@L^2k`BHAA-OLo4/J"gp;C&c1'kf1Ds\66@2n%+!b+Iu]hE>mA3hpo`>j,978,<@\7IF<0HD%26hmV;\rZmgIu))^,^7IVNC[Z$b=?%%)64.VnT9d03e:1;0`"K?,Ugu2NM#D\uI71ATg%_Woj`-AFmB=s#ifuqdaNf@s40+=e#:pkPYH[g0m5kEo)m_a+S4CS9i''O8_`9>PEI@=6Rbi$"$rWJNfrrij^Y-.~>endstream
 endobj
 10 0 obj
 <<
-/BaseFont /Helvetica-Bold
-/Encoding /WinAnsiEncoding
-/Name /F3
-/Subtype /Type1
-/Type /Font
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 1366
 >>
+stream
+Gatn$9lK&M&;KZM'm!%b"tNTI6lhJ.=tGa:qr,6UKop))JL!:@'\#R$Hsb%)Uhi!CTSRI;dYOJ4^<b#b;i3LU^T3+QC/)JBcA;p4Di%+6BmiA#lf93tBpnNI-RLi,E^_O?YCaVDBbR<\kGaPBPW;[1P11b2?p\K]T5A^Kj@l@`\QDpt/1].Jj.^'Q3\EX"FIKI>#ca'@`!]V1.Z:GVS)CC+!ZoY4[?+'t?IG(TA?"]j-X3,ia`o7l`B(t@.^E='hIk"l#Paa(Vc<!82!npr54/0\C/rA]Z@/')GeBa6L]MC])EFTeS2fF-59YXq,c;B/k=d@u=>t?ll1,Wohp_F->g:\@<E^%L&f2kHM*e4RK^oh.:S\d=FMW&Be$ru7PUcJX!o7*fdFIF'0->(t_'C`M98)>,CQYSF%]:L?d4Y_r3@b9ZN^3kJ]Db(ImEW,j#1r:/Tle;\+sWsX.$&eA;Pg4ec[R2l/I8.Gk=DKO"3H4"QtlKg9PR7m1fHE;;"&[aXRahHc<3f9XcS*19Q@4JA]u`3"k1#NkT;"R8GX!gBOY&5Eti"%Mkb#rO7>=a1isEX\dUU?Gaj*t4!dFUG[mMG,<cj+^Nf2dBA:SWh?U>DFfoq[%TFD$phFJYgRH?6bOV_\^NGet2/OmMmS.h:ktgna>=S(0]60fuP@-b^%tfKRhlZ+iL<fVGG3;"o<5.%ThVH`uO#ttd[P?k;2Sf))"66\,SaRDD%&W=G_dLTp1pge^>GTtWWdNP+?^m$&KDR8J1it&ekMs^%4l#opAGDH>e[ru1-dk1'DE<XO_Zb>-Qg2?</[P<E.)$O0L\TsZrl<q8)j%ZZ+6).s/^]c2Hm[0EWW,fu,5kp^>hAE#5WD-E$.aV-<!RJ^!!E]N^`+DSnh/%f,)WMW%Dbs*CJX`4[^'<"r/0jSXTn7r&R76kH=kScgfes+cD?0I$aq#>Vu`[>G40_jT99Fp+>tVro$Oa/'ul]2iL=,W3to]jG!1`Fq"PT.dB,Wac1RRBrX-fgo%XJ"YZ:.s@8m1g9;TV^U&N;S*B7uWNo!0u;!^9Bk[/E?DlJ<)-qbMW_3sq@)M!86D*2r!0!tAMV(1+,V?qt[^`8B]-K^*F5K5\pH3c9'8'?A^;6Z#LmP%4+1H#DFk):l$ehtG:Z@>S!X$XNo=%W(>XmFFXNToHJL3D?9$?q;Ym`t_/l!a3X`j1hI38"Pc@[o!sdalpU?-Q)&c0#h;h:qW/%sR1c4K_,T\js4aS(4JI&(<)$i(gtAoi4/b5i^f%.o,kAo,G:^90NtVrGMnqN!Djc_rKDJi/JreEtG6.J0.T)S)NhYd.&3Q\hs0)"caq2Y=oc0kiacC/$C?0WUiPe;"?7BWQYt~>endstream
 endobj
 xref
 0 11
 0000000000 65535 f 
-0000000015 00000 n 
-0000000054 00000 n 
-0000000113 00000 n 
-0000000162 00000 n 
-0000000468 00000 n 
-0000005808 00000 n 
-0000005915 00000 n 
-0000006022 00000 n 
-0000006141 00000 n 
-0000006253 00000 n 
+0000000061 00000 n 
+0000000102 00000 n 
+0000000209 00000 n 
+0000000321 00000 n 
+0000000524 00000 n 
+0000000728 00000 n 
+0000000796 00000 n 
+0000001075 00000 n 
+0000001140 00000 n 
+0000003481 00000 n 
 trailer
 <<
+/ID 
+[<42fad43ba6df6c4adee70cd559763e3d><42fad43ba6df6c4adee70cd559763e3d>]
+% ReportLab generated PDF document -- digest (opensource)
+
+/Info 7 0 R
+/Root 6 0 R
 /Size 11
-/Root 3 0 R
-/Info 1 0 R
 >>
 startxref
-6366
+4939
 %%EOF

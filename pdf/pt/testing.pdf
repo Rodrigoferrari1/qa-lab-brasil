@@ -1,521 +1,93 @@
 %PDF-1.4
-%âãÏÓ
+%“Œ‹ž ReportLab Generated PDF document (opensource)
 1 0 obj
 <<
-/Producer (pypdf)
+/F1 2 0 R /F2 3 0 R
 >>
 endobj
 2 0 obj
 <<
-/Type /Pages
-/Count 2
-/Kids [ 4 0 R 11 0 R ]
+/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
 >>
 endobj
 3 0 obj
 <<
-/Type /Catalog
-/Pages 2 0 R
+/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
 >>
 endobj
 4 0 obj
 <<
-/Contents 5 0 R
-/MediaBox [ 0 0 595.2756 841.8898 ]
-/Resources <<
-/ExtGState <<
-/gRLs0 <<
-/ca 0.035
->>
->>
-/Font <<
-/F1 6 0 R
-/F1-0 7 0 R
-/F2 8 0 R
-/F2-0 9 0 R
-/F3 10 0 R
->>
-/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
->>
-/Rotate 0
-/Trans <<
->>
-/Type /Page
-/Annots [ ]
-/Parent 2 0 R
+/Contents 9 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 8 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
 >>
 endobj
 5 0 obj
 <<
-/Length 6233
+/Contents 10 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 8 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
 >>
-stream
-q
-1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
-q
-1 0 0 1 51.35433 779.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F2 12 Tf 14 TL (QA Lab Brasil) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 749.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 4 Tm /F3 20 Tf 24 TL 122.3435 0 Td (Tipos e T\351cnicas de Teste) Tj T* -122.3435 0 Td ET
-Q
-Q
-q
-1 0 0 1 51.35433 724.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Do Smoke e Regression ao UAT, Exploratory, performance e t\351cnicas de desenho de testes.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 714.3701 cm
-Q
-q
-1 0 0 1 51.35433 688.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (N\355veis de teste) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 643.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 29.5 Tm /F1 9.5 Tf 13 TL (Testes podem ser organizados por n\355vel, como componente/unit\341rio, integra\347\343o, sistema e aceita\347\343o. Cada n\355vel) Tj T* (procura tipos diferentes de problemas e deve ser entendido dentro da arquitetura e do ciclo de desenvolvimento do) Tj T* (produto.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 617.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Smoke Testing) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 585.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Smoke \351 uma verifica\347\343o curta dos caminhos mais cr\355ticos para decidir se uma build est\341 suficientemente est\341vel) Tj T* (para testes adicionais. Em e-commerce, pode incluir Home, busca, PDP, carrinho e in\355cio do checkout.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 559.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Regression Testing) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 527.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Regress\343o verifica se mudan\347as n\343o causaram efeitos colaterais em funcionalidades existentes. A sele\347\343o deve) Tj T* (considerar risco, criticidade, \341reas alteradas, integra\347\365es, hist\363rico de defeitos e tempo dispon\355vel.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 501.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Retest x Regression) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 469.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Retest confirma especificamente se um defeito corrigido deixou de ocorrer. Regression verifica se a corre\347\343o ou) Tj T* (outra mudan\347a afetou outras partes. Normalmente os dois podem ser necess\341rios ap\363s uma corre\347\343o.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 443.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (UAT - User Acceptance Testing) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 398.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 29.5 Tm /F1 9.5 Tf 13 TL (UAT valida se a solu\347\343o atende necessidades e crit\351rios de neg\363cio sob a perspectiva de usu\341rios de neg\363cio,) Tj T* (representantes do cliente ou usu\341rios finais/representativos. QA pode apoiar ambiente, dados e evid\352ncias, mas) Tj T* (UAT n\343o deve ser tratado simplesmente como outra rodada de testes do QA.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 372.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Exploratory Testing) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 340.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (No teste explorat\363rio, aprendizado, desenho e execu\347\343o acontecem de forma integrada. Charters, notas, heur\355sticas) Tj T* (e debriefing ajudam a tornar a explora\347\343o intencional, rastre\341vel e orientada a riscos.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 314.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Performance: carga, stress, spike e soak) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 269.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 29.5 Tm /F1 9.5 Tf 13 TL (Load avalia comportamento sob carga planejada; Stress ultrapassa limites; Spike observa varia\347\365es bruscas;) Tj T* (Soak/Endurance avalia comportamento prolongado. Performance \351 uma categoria ampla, e esses testes respondem) Tj T* (perguntas diferentes.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 243.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (T\351cnicas de desenho) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 198.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 29.5 Tm /F1 9.5 Tf 13 TL (Particionamento de equival\352ncia, valores limite, tabelas de decis\343o e transi\347\343o de estados ajudam a selecionar) Tj T* (testes de forma sistem\341tica. Pairwise e heur\355sticas como Goldilocks podem complementar a an\341lise dependendo do) Tj T* (problema.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 172.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Goldilocks) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 127.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 29.5 Tm /F1 9.5 Tf 13 TL (A heur\355stica Goldilocks estimula testar algo pequeno demais, adequado e grande demais. Exemplo: upload com) Tj T* (limite de 10 MB pode ser explorado com arquivo vazio, arquivo v\341lido intermedi\341rio e arquivo acima do limite. Ela) Tj T* (ajuda a pensar; n\343o substitui uma t\351cnica formal de valores limite.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 101.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Como escolher o tipo de teste?) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 56.37008 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 29.5 Tm /F1 9.5 Tf 13 TL (Comece pela pergunta e pelo risco. Se quer saber se a build pode ser testada, pense em Smoke. Se houve) Tj T* (mudan\347a e teme efeitos colaterais, Regression. Se quer avaliar comportamento sob muitos usu\341rios, Performance.) Tj T* (O nome do teste deve servir ao objetivo, n\343o o contr\341rio.) Tj T* ET
-Q
-Q
- 
-
-Q
-
-q
-0.0 0.0 595.2756 841.8898 re
-W
-n
-1 0 0 1 0 0 cm
-BT
-/F1-0 12 Tf
-14.4 TL
-ET
-0.843137 0.901961 0.960784 RG
-0.6 w
-n
-36 815.8898 m
-559.2756 815.8898 l
-S
-0.070588 0.207843 0.356863 rg
-BT
-/F2-0 8.2 Tf
-9.84 TL
-ET
-BT
-1 0 0 1 40 821.8898 Tm
-(QA LAB BRASIL) Tj
-T*
-ET
-0.356863 0.45098 0.564706 rg
-BT
-/F1-0 6.8 Tf
-8.16 TL
-ET
-BT
-1 0 0 1 398.216 821.8898 Tm
-(QUALITY ENGINEERING \174 DOCUMENTO OFICIAL) Tj
-T*
-ET
-q
-0.848048 0.529919 -0.529919 0.848048 297.6378 420.9449 cm
-0.08 0.21 0.36 rg
-/gRLs0 gs
-BT
-/F2-0 42 Tf
-50.4 TL
-ET
-BT
-1 0 0 1 -164.493 0 Tm
-(QA LAB BRASIL) Tj
-T*
-ET
-Q
-0.843137 0.901961 0.960784 RG
-n
-36 24 m
-559.2756 24 l
-S
-0.356863 0.45098 0.564706 rg
-BT
-/F1-0 6.6 Tf
-7.92 TL
-ET
-BT
-1 0 0 1 40 14 Tm
-(qualityassurancebrasil\056com\056br) Tj
-T*
-ET
-BT
-1 0 0 1 210.9996 14 Tm
-(QA Lab Brasil v2\0562 \174 PT\055BR \174 Atualizado\072 setembro de 2026) Tj
-T*
-ET
-BT
-1 0 0 1 514.547 14 Tm
-(Pagina 1 de 2) Tj
-T*
-ET
-Q
-
-
-endstream
 endobj
 6 0 obj
 <<
-/BaseFont /Helvetica
-/Encoding /WinAnsiEncoding
-/Name /F1
-/Subtype /Type1
-/Type /Font
+/PageMode /UseNone /Pages 8 0 R /Type /Catalog
 >>
 endobj
 7 0 obj
 <<
-/BaseFont /Helvetica
-/Encoding /WinAnsiEncoding
-/Name /F1
-/Subtype /Type1
-/Type /Font
+/Author (\(anonymous\)) /CreationDate (D:20260922123400+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20260922123400+00'00') /Producer (ReportLab PDF Library - \(opensource\)) 
+  /Subject (\(unspecified\)) /Title (Tipos e T\351cnicas de Teste) /Trapped /False
 >>
 endobj
 8 0 obj
 <<
-/BaseFont /Helvetica-BoldOblique
-/Encoding /WinAnsiEncoding
-/Name /F2
-/Subtype /Type1
-/Type /Font
+/Count 2 /Kids [ 4 0 R 5 0 R ] /Type /Pages
 >>
 endobj
 9 0 obj
 <<
-/BaseFont /Helvetica-Bold
-/Encoding /WinAnsiEncoding
-/Name /F2
-/Subtype /Type1
-/Type /Font
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 2169
 >>
+stream
+Gatm;acbC<'#!T]o'#>"@=gRR:?C`/-,SX1U;"kU+s@\;P)qt-iU3(oT9gZhZFXi!\B>ViP!BTS1@sVNKVST4df1p=U:341o++DJUtpT4/7R>HUYFVegI;<7+H)IP/7k+o,Z=W.OZRI79p,l5K.s1(84=.;0f>FO'O`'%l*=?.Z;cKC:osA%Ko!#WaRPr8=l?bb.sV\_1^pA=/5%`3=cl+"e@ZPhOi\.^>Ro)t=QI"DBSJ4EPRGudXkk>.O@>P=p*ET>@?cMil-%3Q"4!@e-E-UC2#B'N55Y8uBU,(!c/GQ0!fnEke>E>fMT"[$&E/iY4HNLaE!jDB$&kc+:6:?=6a&]1r.T<$B_N2/(-r]]GtoQBnY&59_CSI5(5g4cS27jaOCoc`idb=#,"W,%=eKstDs?YeS'V+`[l,"c8=1S6J+Gd]P1bkkN32/:)[W;g65bbP#$%/l=1W70VUaCgp:*#G7l&42&p]&L_lk7ZJg.*gs4jugb!7*?'Q=uO+;SCk>,piY,LAh@`@OUN$%,MnTLpS=/uW9q:4OH\6m?3V6q6S.X](diM>g-n=.hdPM!!K((Q8Z6SAZOKo>lY7Rl>`L"TIq>-iq;'S[0bdp*K?AO^TDb1_9,(=4+(>3SBELmJ[bFZ><773i_[LGJ1_@I!u#8O833\@K$]#@#\@21rs^a,:jrY#]7dmUHeO9N..E(!`-slrHS"AV9b/"WWE*_5!%MB`jVZorGo7!dd?d-D4TsoqfPOZm1.])W\&L?J)AdKGIkJor39n<4)lo6&,ME_5bE-4$Fk9Oaa/:^@:SsFhU2)5S"-nNAr'LgPj&\]3dNd6SdZX1Co&*9Zm4msW\qPjb4;R-G!oGNWO.ZH?ROUn[b#GPef`bQFN/4?@--Sd^1[3_@APb>\PYnT.^eN-7tU`C.Wt:Qe\qNZS1OuDW;![$bX">!j$SH3q\l@eSL]->*\'Bk.oUG:gYUnM,3?NJVUmsQKWP5jb*k95p,j_J[Q^/bDctqLe#T1Of8q5%V@&KfGVO5t-,:D0085Hp93)f(Vg1#Nk%^Uk8N]A#&#cKgM1ek$MO5]dC(-!$UIKgTV;lssVI]ZSA>.GJWJj3ar(6e%e.oeIV@I_N:,SP4:<&Hml+*\q+#6kMW=$7S$TirX)q(oUa%![=D`r`h_Qk4jlX.*:dXLCP[A=BuIfObZF,Z9,'-kFU5X-2=mr\BU%fI+^8Aa;!%`F'K0b1;GmqO&b8b)sO#_NA=0EE#SI\?ciZPb7C1*9>WmDK;gFN>41F$R]#2/KC@m?e]OQc%2Hm+%t2W'\qi=X(Ao"l8+X>0lhE<@`s?Zu'G*SE%\YY(X<Lc@BC'S1T!udX\$+2HHgFGC#K#)G>:/8X2aTg`2g$KT_T:WWpT0TP]l4>sX-'cCQ22b[6G;>QaVHeI\?C(o9IFP95p?#m$3/0TLk#4/'$L%_d,,!l%,<gJDk0;4PmT4)i+i05;lc9moa8V()2!MqHs1e0]9F+W[P7mP!m4C-7R6o.3_!J@LM>ZYjZ_/k7O8dfNlOb_M4$kn2*?YTS70S;X-"`E7ZdLL/F_m)r++l;R07Su\,"]\f:Z*$6$@fb_!@*Hee3QBWidc$G9BV;QdXE`;MepQ(B*!Z'hAmVrNP3MoepcJ1Enk_;*%Wuf!f[O%hINa"P2iJ.S5Y;TniLO8J3$oa2*bC1;5TF=;7h`TE1)CUPZpAX_:`X-O$X/9ts'u5T$0pWZJ7Q:U9ps!:Tpt4V$$p`(:f%nD95<OoF`ioK'>%UZer:/nVVM1FcRV?1M^)5="6h^PrYM_o?dmlIFHTME;I:@jbMDnG9O?j;(4JZlX)5$ZfEm6it<=er2-BZ%f>e37u0SA5e@Q<GR[6;quBDG:5IY<9qjYUoDS^CikOjk32:BR%0/1kr)Jo.d8-Di[+DQ9l6C>pTY0[_\`3;[IWACk'WAF[mf.FXWQ3Bo(HWPA#NFMn0u5'.'0G;B.ielh\=$J=nQa3f*3<MW`6e9D/5n2ZNt//oWXSSH^?0*q"'kd*cQ6]HCRWNK0!Rg.Jr%Ze79G)o7L`13)KX!(mu_;=_KaP5\>S(kBgI=daX5mXtae@%MlNIk4$>GgQr@X(</O`j7s,)Rdlh9+Lu"9=D^KUW]en2PqIl[-u9<0>LcVYR/501(r[K6Q_?JY^Qj!!M[o^&~>endstream
 endobj
 10 0 obj
 <<
-/BaseFont /Helvetica-Bold
-/Encoding /WinAnsiEncoding
-/Name /F3
-/Subtype /Type1
-/Type /Font
->>
-endobj
-11 0 obj
-<<
-/Contents 12 0 R
-/MediaBox [ 0 0 595.2756 841.8898 ]
-/Resources <<
-/ExtGState <<
-/gRLs0 <<
-/ca 0.035
->>
->>
-/Font <<
-/F1 6 0 R
-/F1-0 13 0 R
-/F2 8 0 R
-/F2-0 14 0 R
-/F3 10 0 R
->>
-/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
->>
-/Rotate 0
-/Trans <<
->>
-/Type /Page
-/Annots [ ]
-/Parent 2 0 R
->>
-endobj
-12 0 obj
-<<
-/Length 1247
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 1294
 >>
 stream
-q
-1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
-q
-1 0 0 1 51.35433 777.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Dica de QA) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 758.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (100% dos casos executados n\343o significa 100% do produto testado: pense em risco e cobertura.) Tj T* ET
-Q
-Q
- 
-
-Q
-
-q
-0.0 0.0 595.2756 841.8898 re
-W
-n
-1 0 0 1 0 0 cm
-BT
-/F1-0 12 Tf
-14.4 TL
-ET
-0.843137 0.901961 0.960784 RG
-0.6 w
-n
-36 815.8898 m
-559.2756 815.8898 l
-S
-0.070588 0.207843 0.356863 rg
-BT
-/F2-0 8.2 Tf
-9.84 TL
-ET
-BT
-1 0 0 1 40 821.8898 Tm
-(QA LAB BRASIL) Tj
-T*
-ET
-0.356863 0.45098 0.564706 rg
-BT
-/F1-0 6.8 Tf
-8.16 TL
-ET
-BT
-1 0 0 1 398.216 821.8898 Tm
-(QUALITY ENGINEERING \174 DOCUMENTO OFICIAL) Tj
-T*
-ET
-q
-0.848048 0.529919 -0.529919 0.848048 297.6378 420.9449 cm
-0.08 0.21 0.36 rg
-/gRLs0 gs
-BT
-/F2-0 42 Tf
-50.4 TL
-ET
-BT
-1 0 0 1 -164.493 0 Tm
-(QA LAB BRASIL) Tj
-T*
-ET
-Q
-0.843137 0.901961 0.960784 RG
-n
-36 24 m
-559.2756 24 l
-S
-0.356863 0.45098 0.564706 rg
-BT
-/F1-0 6.6 Tf
-7.92 TL
-ET
-BT
-1 0 0 1 40 14 Tm
-(qualityassurancebrasil\056com\056br) Tj
-T*
-ET
-BT
-1 0 0 1 210.9996 14 Tm
-(QA Lab Brasil v2\0562 \174 PT\055BR \174 Atualizado\072 setembro de 2026) Tj
-T*
-ET
-BT
-1 0 0 1 514.547 14 Tm
-(Pagina 2 de 2) Tj
-T*
-ET
-Q
-
-
-endstream
-endobj
-13 0 obj
-<<
-/BaseFont /Helvetica
-/Encoding /WinAnsiEncoding
-/Name /F1
-/Subtype /Type1
-/Type /Font
->>
-endobj
-14 0 obj
-<<
-/BaseFont /Helvetica-Bold
-/Encoding /WinAnsiEncoding
-/Name /F2
-/Subtype /Type1
-/Type /Font
->>
+Gatm99lK&M&A@C2bV<B?/4k]pBFdO0Ul,:'RSA1b$S=(CZ]^[jV0#r6a7k^^-)^X&4iB6hEAX84oA1]DLuU)H[I/i'[e/TuJqTre*Jo_d[(W3WD=TDi]],[.M.K!f\K[>p=$a_fkn@&P+h5apW,eb5Pu3k^P0#K(nhnuF7F!1AeOa(EZ*`H%`(e2X*n0:Ca]"Ku8Th=n7)=aQV4lBOPCaN9U;F0[.5P"jU7qh.&ues29<:ie`^D,2P<:-.QYA)(l>,I:!O\6G%(0A.b</GfA`h=lWg!>@mS*cBnHPac#*`[KlG/gXFhe)6984nr="6&Q=f*=\[\L0Qk<I>eJ[TJ`2WFsBAP#R-\>c-l/2DA%Tpe'!7Hp!GA\lM5j'cK7PcD[WJZd9Oki1b&p@kW:Af3<</0aRhQ82H5+$i?Z;LZ4a(T`cD4Z&RKCWF3SZJXEnR)/LndoL$0dNTu<<aZti<LMiH8N1ROSk^!XXNU^CK*E3Wl6Om-m8oscD!"FQ\:`]1'WCSJQ6YZ'YS@^?`KUqqb)G3)`Lsn]M>efa-_T@*'.qoQ7uS'!#BSC#fOH,g70t#HKj=lk=]hR$lcfacU0l]S4NaQ'pp4a!N4-0tf:D.r7u\\`EO&BOI@i"Bf2ceq$TAnuXmPIg2Dj]iBseJ^NN'%0T4Y&I6fXhdDm:c%O\j5^\oF>6_pmn1oPq;qDd!h/%Q#BO`+jL6kVRRCFb^S2a>BZ-D25m-7kqS6df<XqLF8[.f/\0Cg;^S(ro!%g25Uc/a4>o`:jhZ/qbXR-Kc9Prq?A$LFS%Q&*V)(77f6>dk6pri9ZS`(Wm*Ksd]-#bO@D]:+AETI=U09k=J#'7o>LHGSkg5Y<489"*CUA.[X/Pka-]'Sh.c16U`0FZ3s=<U'%&&b$)>[>#26SZBYmb.M`-Z5G#tmK_#/0a`?]@+17sXjKR+e9&&FhIVYnKGc+6#nM^7&<B';o%N$nlL:`P[@D;h\</U\-mJI<,[Miu(:^":0Je/qBNV]B@j-VG,%4+\2EpOSTCei)H7^-B?L7X6IjYS$jR?HYgQL.u-)mFloKl"IGbEGNR2pWL`fQ'/=`/V#R`!QT%"HIu$GU_MF@"q-NOD@OEW"*pCl\3`@49t"n>6U^B#31,:s3#4QdmG%p[IsUR\-aW$k6.2E9&XqWS61USOUC0R^X5T9+f,M&OHlf35g0I'F$\O5P`!taS3dS91DMeTE5KsE(S#,#M)58_Z)JK,G*n,iW-;k;uT-F7^Mt2n`m_Oj$jlYd6i9u+7k,R<IU[Sf%g5(pl!)A])j8~>endstream
 endobj
 xref
-0 15
+0 11
 0000000000 65535 f 
-0000000015 00000 n 
-0000000054 00000 n 
-0000000120 00000 n 
-0000000169 00000 n 
-0000000475 00000 n 
-0000006760 00000 n 
-0000006867 00000 n 
-0000006974 00000 n 
-0000007093 00000 n 
-0000007205 00000 n 
-0000007318 00000 n 
-0000007628 00000 n 
-0000008928 00000 n 
-0000009036 00000 n 
+0000000061 00000 n 
+0000000102 00000 n 
+0000000209 00000 n 
+0000000321 00000 n 
+0000000524 00000 n 
+0000000728 00000 n 
+0000000796 00000 n 
+0000001091 00000 n 
+0000001156 00000 n 
+0000003416 00000 n 
 trailer
 <<
-/Size 15
-/Root 3 0 R
-/Info 1 0 R
+/ID 
+[<ba0712654d9f258b8b5444e8aca42067><ba0712654d9f258b8b5444e8aca42067>]
+% ReportLab generated PDF document -- digest (opensource)
+
+/Info 7 0 R
+/Root 6 0 R
+/Size 11
 >>
 startxref
-9149
+4802
 %%EOF

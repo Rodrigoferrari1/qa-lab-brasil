@@ -1,340 +1,93 @@
 %PDF-1.4
-%âãÏÓ
+%“Œ‹ž ReportLab Generated PDF document (opensource)
 1 0 obj
 <<
-/Producer (pypdf)
+/F1 2 0 R /F2 3 0 R
 >>
 endobj
 2 0 obj
 <<
-/Type /Pages
-/Count 1
-/Kids [ 4 0 R ]
+/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
 >>
 endobj
 3 0 obj
 <<
-/Type /Catalog
-/Pages 2 0 R
+/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
 >>
 endobj
 4 0 obj
 <<
-/Contents 5 0 R
-/MediaBox [ 0 0 595.2756 841.8898 ]
-/Resources <<
-/ExtGState <<
-/gRLs0 <<
-/ca 0.035
->>
->>
-/Font <<
-/F1 6 0 R
-/F1-0 7 0 R
-/F2 8 0 R
-/F2-0 9 0 R
-/F3 10 0 R
->>
-/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
->>
-/Rotate 0
-/Trans <<
->>
-/Type /Page
-/Annots [ ]
-/Parent 2 0 R
+/Contents 9 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 8 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
 >>
 endobj
 5 0 obj
 <<
-/Length 4117
+/Contents 10 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 8 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
 >>
-stream
-q
-1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
-q
-1 0 0 1 51.35433 779.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F2 12 Tf 14 TL (QA Lab Brasil) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 749.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 4 Tm /F3 20 Tf 24 TL 187.3935 0 Td (LoadRunner) Tj T* -187.3935 0 Td ET
-Q
-Q
-q
-1 0 0 1 51.35433 724.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (LoadRunner: concept, Quality Engineering use, first steps and official reference.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 714.3701 cm
-Q
-q
-1 0 0 1 51.35433 688.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (What is it?) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 656.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (LoadRunner is part of the modern software engineering and quality ecosystem. This guide explains its role, where it) Tj T* (fits and how QA professionals can use it with context.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 630.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (QA use) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 598.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (For QA, LoadRunner may support validation, automation, diagnostics, data, integration or operational quality) Tj T* (depending on the domain. Focus on the problem it solves and the risks it helps expose.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 572.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (First steps) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 540.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Start with the official documentation. Confirm prerequisites, supported versions, permissions and environment) Tj T* (policies before installing or configuring it.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 514.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Good practices) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 482.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Use controlled environments, keep credentials out of code, capture evidence and version configuration when) Tj T* (appropriate.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 456.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Next step) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 437.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Practice with a small reproducible scenario before adopting the technology in a corporate suite or pipeline.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 411.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (When to use it) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 379.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Use this knowledge when product risk, architecture or the delivery stage requires this type of validation. Confirm the) Tj T* (goal, environment, required data and expected evidence before starting.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 353.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (QA tip) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 334.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Always connect the practice to product risk and the evidence needed for quality decisions.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 308.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Official resources) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 289.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Site oficial: https://www.opentext.com/products/loadrunner-professional) Tj T* ET
-Q
-Q
- 
-
-Q
-
-q
-0.0 0.0 595.2756 841.8898 re
-W
-n
-1 0 0 1 0 0 cm
-BT
-/F1-0 12 Tf
-14.4 TL
-ET
-0.843137 0.901961 0.960784 RG
-0.6 w
-n
-36 815.8898 m
-559.2756 815.8898 l
-S
-0.070588 0.207843 0.356863 rg
-BT
-/F2-0 8.2 Tf
-9.84 TL
-ET
-BT
-1 0 0 1 40 821.8898 Tm
-(QA LAB BRASIL) Tj
-T*
-ET
-0.356863 0.45098 0.564706 rg
-BT
-/F1-0 6.8 Tf
-8.16 TL
-ET
-BT
-1 0 0 1 399.3516 821.8898 Tm
-(QUALITY ENGINEERING \174 OFFICIAL DOCUMENT) Tj
-T*
-ET
-q
-0.848048 0.529919 -0.529919 0.848048 297.6378 420.9449 cm
-0.08 0.21 0.36 rg
-/gRLs0 gs
-BT
-/F2-0 42 Tf
-50.4 TL
-ET
-BT
-1 0 0 1 -164.493 0 Tm
-(QA LAB BRASIL) Tj
-T*
-ET
-Q
-0.843137 0.901961 0.960784 RG
-n
-36 24 m
-559.2756 24 l
-S
-0.356863 0.45098 0.564706 rg
-BT
-/F1-0 6.6 Tf
-7.92 TL
-ET
-BT
-1 0 0 1 40 14 Tm
-(qualityassurancebrasil\056com\056br) Tj
-T*
-ET
-BT
-1 0 0 1 221.4507 14 Tm
-(QA Lab Brasil v2\0562 \174 EN \174 Updated\072 September 2026) Tj
-T*
-ET
-BT
-1 0 0 1 519.6818 14 Tm
-(Page 1 de 1) Tj
-T*
-ET
-Q
-
-
-endstream
 endobj
 6 0 obj
 <<
-/BaseFont /Helvetica
-/Encoding /WinAnsiEncoding
-/Name /F1
-/Subtype /Type1
-/Type /Font
+/PageMode /UseNone /Pages 8 0 R /Type /Catalog
 >>
 endobj
 7 0 obj
 <<
-/BaseFont /Helvetica
-/Encoding /WinAnsiEncoding
-/Name /F1
-/Subtype /Type1
-/Type /Font
+/Author (\(anonymous\)) /CreationDate (D:20260922123401+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20260922123401+00'00') /Producer (ReportLab PDF Library - \(opensource\)) 
+  /Subject (\(unspecified\)) /Title (LoadRunner) /Trapped /False
 >>
 endobj
 8 0 obj
 <<
-/BaseFont /Helvetica-BoldOblique
-/Encoding /WinAnsiEncoding
-/Name /F2
-/Subtype /Type1
-/Type /Font
+/Count 2 /Kids [ 4 0 R 5 0 R ] /Type /Pages
 >>
 endobj
 9 0 obj
 <<
-/BaseFont /Helvetica-Bold
-/Encoding /WinAnsiEncoding
-/Name /F2
-/Subtype /Type1
-/Type /Font
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 1896
 >>
+stream
+Gatm;gMZ%0&:O:Sb[\6R1*UkuQQdk:gB'[qm(2C:,LJCg8Q85A?3C0$%]P@$XCJkn'-OPoH?a\[S='tC!.V!J>LWY^$b3pG5T),=5U-oXiZ:9:B$W7Gj8mL=+;(Ga&d(_\:C;D*CM%QU-k08]BqCDGN$G96.3gAOUL_,?c-h9L+NPr-d[Yu)&7kP[-Y_MJpFBAXP(YP<B)<mCOu/4e(M[2bPbaOPKHYT[,*HLoLCqD5;XC*;CXjtr#gHL5fb[R"YV9M_kkgVG"3)82HDoACBtVb/I(]'3C_a;LD#%Lo`8`L+l=Ic8,ka8%K_7Ca#IKg+UEI&t`krH&`@/^"L9$*!T4%1"/3^T",Y3PIbCHf&?f\.+9;?`X6Je>"8#7R\A1>XK-u`7b,`Zs"T)eUE[rD6;k1ahKe&*@PYtG[ds0IZ<nTYOte=DaC59umIB/Jrbg$hVf*IMa*Z4TFHAi2_$$Ybu_5dDAta*ZoF*97ubrA&.rU-LuL"Q@k/5t"g;=fUE7)ph.*Eu$.u$M-Ce&QR9:AO%7Zlkg>=R)G5$HY3$tghL_;"n4/FSUc/S'91_B"3)2,30#\\l8LVSl+#\t(ANqt6O=lUV`QbMk3g*6Z;<rVd#d5LM\<2\'ed=>RRZKAd`9s$4MnuI=EXaU0Z?Rr&u6Bl"3[rK+H_e5)ub@KmSIE5#<i<$LO+RD',7Gq6u1t)+<+]u`#P(@)[jZCec9V\:s5[d,d0IkV9f:Y:0oAg&:T3`4F04CF4:",2:WjM3fE,!IXeQ3"_g6UT?fb<dWZ8GJeQA>o38@LdKOeGTN7o9%2cL[>HS-c$-eL\kFR-".'l:HCBBDO``R(gM7^O3'pjolOo_[70cr#k[9]O5\;iW':8##K!nsI#C+5+(Wo94oJi?G"[rEqcg?ELoGC,?l/3GOjS4=BZmZ/O%N3pIZVGtO3(6.DkDfQaJicp6KiF/MZKnMJV`g!+ZCXbfi#grDfXd1ir]=fRUN<65aD9]!Elg8jg<%C#`$WUQ/5inlIk.8F.g.2*$'og#M`[_\;XOX0tiNWLJrAgJ#_ceP6^rBJ_<W5($0UoLNg56MLKQ[S;>h`].mng*2ZP$R71h$hc_<j]"F%11XB0D@s6#s6k^nesa4q.j/?d@)DaQ17`Hn'QhG6=E*K!m7XMYY8l\pn!X^1rn;Z9Y"$".u>0<igBj+U5njkh_uH^&(;797_pt]%V[]S]E)]Q48C,9E[.&@^8*sU3<+dWd<nEFJ!5\Sm8ON[A^<GA,/s`S2)*2m'rQ_(g]n]]7"0LN@`<2e,S:OoUBugg"4&Ap3pR/!l(Z<buH"7kiq8iF>_/[FqSOm9CH(<_C23n?DLV]$OX#9n/,-h;4p(ki(pP^Fp3.?<u^$.j>h?CbYF*S@1lg=X"R)1a9+(LTuB$4Z064K\MEOJ'fNc5=eBYjbWcE]6D6i)Dl)cAC?(e$JIQg`D6J)Y%)`O^dAH,28h\piH"T]bUgnnbi[pT,M`S?1fI!CAVAkh,DS#WaqhKC?Bj<2\/iGQcfo+b@L4cH[GHp%J>te]N!`Oo0CT3$kkG;pqb@bHC.uJJE.^du=ioBb@V9q`Q0D`f`HF,pf>CgrWLN+*%R$S]60/u`7/@_^PT2($6q0Q_8,KXl[,l#lf/Z/P?pe6BjHLRaP>E:DfaC=+l*NAZo"3JJ\a'N=;I`n'3m-7k5]5(^2S+NnHorFeS\KEEAX817co-$rpgR:&8p(ojF=`^fMT)lqH>0MLQ'ZI!:j,2:[Eg+GF3$P,j*Zc04'\2U[KL(!rdB[OR9<IKg-d72fnGd2qUS@^gJQD+Y/pu;Ka%>kHE%a17Vt:`f<-&:]2l:@jrE_(\3q-na>b^l>Z;TF5V!hObOb^hj^YpqHa2?.lV55-Nb6'OHbl.]_nJ,s~>endstream
 endobj
 10 0 obj
 <<
-/BaseFont /Helvetica-Bold
-/Encoding /WinAnsiEncoding
-/Name /F3
-/Subtype /Type1
-/Type /Font
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 1342
 >>
+stream
+Gatm:9lo&I&A@[:m*X'k:]Md9EO=3%P8PGT>FD'k&sNr[J-pgIh<C!hJs%NCFW=2sdYp^L_;0n@p+=76ig3BSm/V+5L0oFC^c8EB?j.ueI17:Lfj>Vj%:r6?UgU8R"ctKf.e&qOAtgW2;-lN<PXOT,J0CsQiH8IkkEsAkP&O$_`O`&mGsuG,-Om'=[/:c?Bhh:GU!:k+<fsBoGtKs73$T0uR,O:Bjoq`"f"_]&NjNGtF3J0h+KXPP@\$n[o"=&Hm,uFr"6Q%^8#YPiReJTcTD/85[b>Pep$XX]*l#e[,Qjni@a]f?IaeC:YbP`r"i8^jMjL4N.)gL_MpIa)_"oR_hkekV<`IR+&749dKA,jq&BbF*Yl^D[?<!jR;HF#r>@p9ZL)he[p#Qonh-Afc]Nu@(J;D]!%$,PUF"u9T:o,Z7b=*g(%;5L1a=*%.O79u'ZrP7a]31H"F-]lfOLda?EF2E`BN)gn+.7h:!gM1\_AQ1&JoIt#)7]VT1f>;R'.'5Y^R$sT.Z\p:Te6nb5Qk='_,u+t7c(tHQU)R@If]<GoOg#.XBftc=QDlGk%KP20il`&7NQi-/jg%9]$.pg9nCbmD_`f5j:_jt`@'KuK<kp%+H9O?*dR(Z]JBnh%/6DH>W^WpN7KJnK%AU]Dapr")=n+E>8]^3Yc:\H8H61$5?a-[oWZ4Il>J['V<q$i\sQCj!TFlYN3RMX,&j<#$<'+O\:m]P^%0<8k[]q9I&bobW1=B:Vg=-KA_3Wg+R_YhZCPlq-bMUg>V9XNSmR#V=A\mh(!b;E#A3eM.5KXOb^Kj)ToOsr$!p1*47Bn`2Z=P,=ja^Bpc$`u+&FI5FWi+(3eeB(*Ol>bp*?b6Cp%13*h`2+6QNNj+\?q*6Xl?5?5_9f6!QBblW"cr%+CZL`SZ]k7iTt_Z`4*Dd7qbR,mS[6rk:<n8DAZG%U>W@,(cVm`QiK.+2g2gnK,CB$B<5l^T;FCkAR6fA`n5n0%`/8TtC[Z3oS+-78pmj^panuOM93DW8uhi)'qlGNMN+\a!(6cc07>SKFUq_T%:+'?E"qJL&@]rBZs$Vf0)"[%M`#nYHXY(RCf`SGA!D#jC9&/Ne5bt.'m:S>DUuMXCu\W$%$AU9HL'S3$aETp<N$TCV24`k%1)P8`*5)pMLgQlGkTY"1?Og&[rgicGc\7Rd]43btfaJ0?!#fs)Y7-'.Z^m_Jsfbc96]8j&i^&iDqJAg*o8E((RgX2fNLRCpc;b)u$2q?@-<`S'7V!AhNM#R%-1[eYsU2&GU?^MeT,:NA"ZZGKP7PhC0rbK!@JoSN);_'UW2f.`B:+=gV0ZK6g6>i1GO@-U@AI6#FLU~>endstream
 endobj
 xref
 0 11
 0000000000 65535 f 
-0000000015 00000 n 
-0000000054 00000 n 
-0000000113 00000 n 
-0000000162 00000 n 
-0000000468 00000 n 
-0000004637 00000 n 
-0000004744 00000 n 
-0000004851 00000 n 
-0000004970 00000 n 
-0000005082 00000 n 
+0000000061 00000 n 
+0000000102 00000 n 
+0000000209 00000 n 
+0000000321 00000 n 
+0000000524 00000 n 
+0000000728 00000 n 
+0000000796 00000 n 
+0000001073 00000 n 
+0000001138 00000 n 
+0000003125 00000 n 
 trailer
 <<
+/ID 
+[<d09c805f01ea4fe7095632d9a2e6fdc9><d09c805f01ea4fe7095632d9a2e6fdc9>]
+% ReportLab generated PDF document -- digest (opensource)
+
+/Info 7 0 R
+/Root 6 0 R
 /Size 11
-/Root 3 0 R
-/Info 1 0 R
 >>
 startxref
-5195
+4559
 %%EOF

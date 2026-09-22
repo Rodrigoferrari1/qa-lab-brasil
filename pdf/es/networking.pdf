@@ -1,340 +1,74 @@
 %PDF-1.4
-%âãÏÓ
+%“Œ‹ž ReportLab Generated PDF document (opensource)
 1 0 obj
 <<
-/Producer (pypdf)
+/F1 2 0 R /F2 3 0 R
 >>
 endobj
 2 0 obj
 <<
-/Type /Pages
-/Count 1
-/Kids [ 4 0 R ]
+/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
 >>
 endobj
 3 0 obj
 <<
-/Type /Catalog
-/Pages 2 0 R
+/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
 >>
 endobj
 4 0 obj
 <<
-/Contents 5 0 R
-/MediaBox [ 0 0 595.2756 841.8898 ]
-/Resources <<
-/ExtGState <<
-/gRLs0 <<
-/ca 0.035
->>
->>
-/Font <<
-/F1 6 0 R
-/F1-0 7 0 R
-/F2 8 0 R
-/F2-0 9 0 R
-/F3 10 0 R
->>
-/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
->>
-/Rotate 0
-/Trans <<
->>
-/Type /Page
-/Annots [ ]
-/Parent 2 0 R
+/Contents 8 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 7 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
 >>
 endobj
 5 0 obj
 <<
-/Length 4520
+/PageMode /UseNone /Pages 7 0 R /Type /Catalog
 >>
-stream
-q
-1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
-q
-1 0 0 1 51.35433 779.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F2 12 Tf 14 TL (QA Lab Brasil) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 749.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 4 Tm /F3 20 Tf 24 TL 126.8035 0 Td (Internet y Redes para QA) Tj T* -126.8035 0 Td ET
-Q
-Q
-q
-1 0 0 1 51.35433 724.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (DNS, IP, puertos, HTTP/HTTPS, TLS, proxy, VPN y latencia desde la perspectiva de pruebas.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 714.3701 cm
-Q
-q
-1 0 0 1 51.35433 688.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (De la URL a la aplicaci\363n) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 643.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 29.5 Tm /F1 9.5 Tf 13 TL (Al acceder a una URL, el navegador resuelve el dominio mediante DNS, establece conexi\363n con un servidor e) Tj T* (intercambia requests/responses. Comprender este camino ayuda a separar problemas de aplicaci\363n, red e) Tj T* (infraestructura.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 617.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (IP, puertos y protocolos) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 585.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (IP identifica interfaces en la red; los puertos ayudan a dirigir tr\341fico a servicios; HTTP define la comunicaci\363n Web y) Tj T* (HTTPS agrega protecci\363n mediante TLS.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 559.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Proxy, VPN y firewall) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 527.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Estos componentes pueden cambiar rutas, acceso y comportamiento. Un error que solo ocurre en la red corporativa) Tj T* (puede no ser un defecto de la aplicaci\363n.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 501.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (C\363mo investigar) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 469.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Use DevTools Network, curl, resoluci\363n DNS y logs cuando corresponda. Registre hora, ambiente, endpoint, status y) Tj T* (latencia al reportar problemas de conectividad.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 443.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Cu\341ndo utilizarlo) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 411.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Utilice este conocimiento cuando el riesgo, la arquitectura o la etapa de entrega requieran este tipo de validaci\363n.) Tj T* (Confirme objetivo, ambiente, datos necesarios y evidencias esperadas antes de comenzar.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 385.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (C\363mo lo aplica QA) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 353.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL -0.098269 Tw (Parta del comportamiento o riesgo que debe validarse, prepare datos y ambiente, ejecute la t\351cnica o herramienta de) Tj T* 0 Tw (forma reproducible y registre evidencias que ayuden al equipo a comprender el resultado.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 327.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Consejo de QA) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 308.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Antes de registrar un defecto de aplicaci\363n, confirme si la causa real es DNS, red, proxy, VPN o ambiente.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 282.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Recursos oficiales) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 250.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Site oficial:) Tj T* (https://developer.mozilla.org/en-US/docs/Learn_web_development/Howto/Web_mechanics/What_is_a_web_server) Tj T* ET
-Q
-Q
- 
-
-Q
-
-q
-0.0 0.0 595.2756 841.8898 re
-W
-n
-1 0 0 1 0 0 cm
-BT
-/F1-0 12 Tf
-14.4 TL
-ET
-0.843137 0.901961 0.960784 RG
-0.6 w
-n
-36 815.8898 m
-559.2756 815.8898 l
-S
-0.070588 0.207843 0.356863 rg
-BT
-/F2-0 8.2 Tf
-9.84 TL
-ET
-BT
-1 0 0 1 40 821.8898 Tm
-(QA LAB BRASIL) Tj
-T*
-ET
-0.356863 0.45098 0.564706 rg
-BT
-/F1-0 6.8 Tf
-8.16 TL
-ET
-BT
-1 0 0 1 398.216 821.8898 Tm
-(QUALITY ENGINEERING \174 DOCUMENTO OFICIAL) Tj
-T*
-ET
-q
-0.848048 0.529919 -0.529919 0.848048 297.6378 420.9449 cm
-0.08 0.21 0.36 rg
-/gRLs0 gs
-BT
-/F2-0 42 Tf
-50.4 TL
-ET
-BT
-1 0 0 1 -164.493 0 Tm
-(QA LAB BRASIL) Tj
-T*
-ET
-Q
-0.843137 0.901961 0.960784 RG
-n
-36 24 m
-559.2756 24 l
-S
-0.356863 0.45098 0.564706 rg
-BT
-/F1-0 6.6 Tf
-7.92 TL
-ET
-BT
-1 0 0 1 40 14 Tm
-(qualityassurancebrasil\056com\056br) Tj
-T*
-ET
-BT
-1 0 0 1 212.28 14 Tm
-(QA Lab Brasil v2\0562 \174 ES \174 Actualizado\072 septiembre de 2026) Tj
-T*
-ET
-BT
-1 0 0 1 514.547 14 Tm
-(Pagina 1 de 1) Tj
-T*
-ET
-Q
-
-
-endstream
 endobj
 6 0 obj
 <<
-/BaseFont /Helvetica
-/Encoding /WinAnsiEncoding
-/Name /F1
-/Subtype /Type1
-/Type /Font
+/Author (\(anonymous\)) /CreationDate (D:20260922123400+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20260922123400+00'00') /Producer (ReportLab PDF Library - \(opensource\)) 
+  /Subject (\(unspecified\)) /Title (Internet y Redes para QA) /Trapped /False
 >>
 endobj
 7 0 obj
 <<
-/BaseFont /Helvetica
-/Encoding /WinAnsiEncoding
-/Name /F1
-/Subtype /Type1
-/Type /Font
+/Count 1 /Kids [ 4 0 R ] /Type /Pages
 >>
 endobj
 8 0 obj
 <<
-/BaseFont /Helvetica-BoldOblique
-/Encoding /WinAnsiEncoding
-/Name /F2
-/Subtype /Type1
-/Type /Font
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 1824
 >>
-endobj
-9 0 obj
-<<
-/BaseFont /Helvetica-Bold
-/Encoding /WinAnsiEncoding
-/Name /F2
-/Subtype /Type1
-/Type /Font
->>
-endobj
-10 0 obj
-<<
-/BaseFont /Helvetica-Bold
-/Encoding /WinAnsiEncoding
-/Name /F3
-/Subtype /Type1
-/Type /Font
->>
+stream
+Gatm;9lo&I&A@C2m*X(V#f(@R:3N)7RIOg(7qjWe^a,]u,mbG7jg`b]hZluPkesnd)9"B="[Tb=pUu!*"EF>Gs'!o?(CPQf]-%^4@S%bQ&M5X"h-tOd@m&ou:P_G+Ue+62EW8qBX'%6:1F<58,"hH[`F0``4\GkmA7:_hf;_uBY^l=mZ7jI*Qu\eW+_N7ugUA[N%p9MJ<6Y&/,%YI0LG%)d('p4`!"jCjZQN^[-?:"JN%;jglF9m>ieWFR814:D_0?M<_*7^EAVU;k`jIDJC;2UV1Bnq:rio\Hm)s5@C50ag%it="+=rF6&"Ef-*q4a5;MHS"Qc2LeYUB\jMjhqoc[VY-='E7W],=CiS7TWj#S/r*$dpGpB#qG!`5qQr6^G#/NOUKAYW0qI2?R6V?dQd:q8`5rdps&qfL\Khs""PpGg%B\F]l#:PAnA/5_MLf?<4XaTQeXQ2bI6/XJVu&:kWOR/BcFde<NNYcSN0.A(K"[!R@tRE,'>'YooVh<V5f!BIqm2/5G[;]dFt"-/2UHW$B*<JKTbO/4?r8N4btp.pH9krC8+[TW^(<,BrA^@gj6q&]@X5ZQW#_%<jVr5CO#p;rk5G2FZbC$+sA.(c%]ARF@n+ZhI1lCnj%;TGpn2QIaJVg8j>ea88$VVZ?tS!Q9ACR#-Ko)5Il*0FkHIEc8i;C5@W`TRZA5)7pg4If&VS:@GCK[-j4H9KT.:(Q5?GmKF[`0(H6Uk1deDrjqrVdONqLVU1K&@B&a^f#kF:<HNQI(9tJQ\$BS+G^6TR"LIo5SM7fmSM-#W;d9caQOe4bXIjA_8\,/;Y&kfprAdQgjp7n0q2(,e:Ug87,$>VAL]s*YnYkTG.Ve$6X^l,s=k35Gg*jF6RT_Z(:p!>ATeZ,&WOA#"Pq!I_VGZ6*6JO@@;QK.R,L.]#c?PS/0uSE7B8X'[C*DnIn7^?XO'q?jjBS1O<@suTVI!KW3/%&4.3p#QOq2ttefh\i[WTFeKNbgEpI?6p,A]qdQ_4/f\li3nGd]9:hTB=B_@K=,SE;1taCGRLF4Ad/_GmBq$kiVi66-)V8f`pA*X1uV]u*7L<)'9Wkj:Xi;ASa;eMn;=a_qFr8)0]0"r*?VlBSg-g!=(Pn8732K.I@Hg,FK%_:fOQmfF6$m[G:'@c6WlFc2!!7j,@JOJqW..^lt`b(O%?_(*aj"0D(SA?9*3c"j;\\sHE>(aDqLN7,%VXlBUK`dE>2jnSt[1lNQs^$d5:f==4`JCAGE*Ms>$%AQ]..;RlM(fb;o8hrhRXkLs+=4(/Z/A<UI)uD1>_$0AS(;MkVg<ed4Ns>:`g7fj;RC4LP:Ia)CLT37or!&1T=4/,o)!4&(/3^u)V\Vb&2@F#pQ9M88hUm>?KW\D%gV?+i;a9X$SVq(`ML4$@#5$Tb9M<KH(KbBrSt[m2"WW/7VZAc%;m$R!H9Q?S9CM_#HH=59ah/>%F'E;Rm`<qT/<A^AbRRm0_M"PA]A@gnCII(E9)gDYAWD:s*sSWQcR$Ta31O<P0ngZ\Bh&c\<NB-3135Yep9*"$1j:L5E@\&QCO_nkQb;@h@o=fbF7h7L]lnHR;RaJR\f?J3#A=4CW>1iUY6m+S.Ij6VFo_M@/$8NCNS6@]#NKcH>c+SRnKbeJGd;,8TT-u'/IpR8K'[T'WnicRNs7D68&(%TJJd>._o[_KP*c^NW;=dq_;`86\'.b+.N0_@X`?@(GCras-6B$Oq,J/XkP_[_*6+^lV]q,k4o5:&*`@6*/<-d&2DCUH$j#sVBQc?)'36+\G<!LE1"/ljCNgs=PD`K'DgbW@$fDUb#Eq6ioo*M_"(5Fc4o~>endstream
 endobj
 xref
-0 11
+0 9
 0000000000 65535 f 
-0000000015 00000 n 
-0000000054 00000 n 
-0000000113 00000 n 
-0000000162 00000 n 
-0000000468 00000 n 
-0000005040 00000 n 
-0000005147 00000 n 
-0000005254 00000 n 
-0000005373 00000 n 
-0000005485 00000 n 
+0000000061 00000 n 
+0000000102 00000 n 
+0000000209 00000 n 
+0000000321 00000 n 
+0000000524 00000 n 
+0000000592 00000 n 
+0000000883 00000 n 
+0000000942 00000 n 
 trailer
 <<
-/Size 11
-/Root 3 0 R
-/Info 1 0 R
+/ID 
+[<7270d11bbec07a909d95f7788bcc346b><7270d11bbec07a909d95f7788bcc346b>]
+% ReportLab generated PDF document -- digest (opensource)
+
+/Info 6 0 R
+/Root 5 0 R
+/Size 9
 >>
 startxref
-5598
+2857
 %%EOF

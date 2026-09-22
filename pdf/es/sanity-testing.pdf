@@ -1,326 +1,74 @@
 %PDF-1.4
-%âãÏÓ
+%“Œ‹ž ReportLab Generated PDF document (opensource)
 1 0 obj
 <<
-/Producer (pypdf)
+/F1 2 0 R /F2 3 0 R
 >>
 endobj
 2 0 obj
 <<
-/Type /Pages
-/Count 1
-/Kids [ 4 0 R ]
+/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
 >>
 endobj
 3 0 obj
 <<
-/Type /Catalog
-/Pages 2 0 R
+/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
 >>
 endobj
 4 0 obj
 <<
-/Contents 5 0 R
-/MediaBox [ 0 0 595.2756 841.8898 ]
-/Resources <<
-/ExtGState <<
-/gRLs0 <<
-/ca 0.035
->>
->>
-/Font <<
-/F1 6 0 R
-/F1-0 7 0 R
-/F2 8 0 R
-/F2-0 9 0 R
-/F3 10 0 R
->>
-/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
->>
-/Rotate 0
-/Trans <<
->>
-/Type /Page
-/Annots [ ]
-/Parent 2 0 R
+/Contents 8 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 7 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
 >>
 endobj
 5 0 obj
 <<
-/Length 3753
+/PageMode /UseNone /Pages 7 0 R /Type /Catalog
 >>
-stream
-q
-1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
-q
-1 0 0 1 51.35433 779.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F2 12 Tf 14 TL (QA Lab Brasil) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 749.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 4 Tm /F3 20 Tf 24 TL 177.9335 0 Td (Sanity Testing) Tj T* -177.9335 0 Td ET
-Q
-Q
-q
-1 0 0 1 51.35433 724.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Validaci\363n enfocada para confirmar r\341pidamente que un cambio espec\355fico funciona antes de pruebas m\341s amplias.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 714.3701 cm
-Q
-q
-1 0 0 1 51.35433 688.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Foco) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 669.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Sanity suele concentrarse en el \341rea modificada y dependencias cercanas.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 643.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Sanity vs Smoke) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 624.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Smoke verifica estabilidad m\355nima general; Sanity suele verificar un cambio espec\355fico.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 598.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Ejemplo) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 579.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Tras cambiar c\341lculo de env\355o, valide c\341lculo principal, condiciones e impacto inmediato en checkout.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 553.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Uso) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 534.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (\332til cuando el tiempo es limitado y se necesita confianza r\341pida sobre un cambio conocido.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 508.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Cu\341ndo utilizarlo) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 476.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Utilice este conocimiento cuando el riesgo, la arquitectura o la etapa de entrega requieran este tipo de validaci\363n.) Tj T* (Confirme objetivo, ambiente, datos necesarios y evidencias esperadas antes de comenzar.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 450.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (C\363mo lo aplica QA) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 418.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL -0.098269 Tw (Parta del comportamiento o riesgo que debe validarse, prepare datos y ambiente, ejecute la t\351cnica o herramienta de) Tj T* 0 Tw (forma reproducible y registre evidencias que ayuden al equipo a comprender el resultado.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 392.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Consejo de QA) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 373.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Defina claramente el objetivo del Sanity para que no se convierta en una regresi\363n improvisada.) Tj T* ET
-Q
-Q
- 
-
-Q
-
-q
-0.0 0.0 595.2756 841.8898 re
-W
-n
-1 0 0 1 0 0 cm
-BT
-/F1-0 12 Tf
-14.4 TL
-ET
-0.843137 0.901961 0.960784 RG
-0.6 w
-n
-36 815.8898 m
-559.2756 815.8898 l
-S
-0.070588 0.207843 0.356863 rg
-BT
-/F2-0 8.2 Tf
-9.84 TL
-ET
-BT
-1 0 0 1 40 821.8898 Tm
-(QA LAB BRASIL) Tj
-T*
-ET
-0.356863 0.45098 0.564706 rg
-BT
-/F1-0 6.8 Tf
-8.16 TL
-ET
-BT
-1 0 0 1 398.216 821.8898 Tm
-(QUALITY ENGINEERING \174 DOCUMENTO OFICIAL) Tj
-T*
-ET
-q
-0.848048 0.529919 -0.529919 0.848048 297.6378 420.9449 cm
-0.08 0.21 0.36 rg
-/gRLs0 gs
-BT
-/F2-0 42 Tf
-50.4 TL
-ET
-BT
-1 0 0 1 -164.493 0 Tm
-(QA LAB BRASIL) Tj
-T*
-ET
-Q
-0.843137 0.901961 0.960784 RG
-n
-36 24 m
-559.2756 24 l
-S
-0.356863 0.45098 0.564706 rg
-BT
-/F1-0 6.6 Tf
-7.92 TL
-ET
-BT
-1 0 0 1 40 14 Tm
-(qualityassurancebrasil\056com\056br) Tj
-T*
-ET
-BT
-1 0 0 1 212.28 14 Tm
-(QA Lab Brasil v2\0562 \174 ES \174 Actualizado\072 septiembre de 2026) Tj
-T*
-ET
-BT
-1 0 0 1 514.547 14 Tm
-(Pagina 1 de 1) Tj
-T*
-ET
-Q
-
-
-endstream
 endobj
 6 0 obj
 <<
-/BaseFont /Helvetica
-/Encoding /WinAnsiEncoding
-/Name /F1
-/Subtype /Type1
-/Type /Font
+/Author (\(anonymous\)) /CreationDate (D:20260922123401+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20260922123401+00'00') /Producer (ReportLab PDF Library - \(opensource\)) 
+  /Subject (\(unspecified\)) /Title (Sanity Testing) /Trapped /False
 >>
 endobj
 7 0 obj
 <<
-/BaseFont /Helvetica
-/Encoding /WinAnsiEncoding
-/Name /F1
-/Subtype /Type1
-/Type /Font
+/Count 1 /Kids [ 4 0 R ] /Type /Pages
 >>
 endobj
 8 0 obj
 <<
-/BaseFont /Helvetica-BoldOblique
-/Encoding /WinAnsiEncoding
-/Name /F2
-/Subtype /Type1
-/Type /Font
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 1519
 >>
-endobj
-9 0 obj
-<<
-/BaseFont /Helvetica-Bold
-/Encoding /WinAnsiEncoding
-/Name /F2
-/Subtype /Type1
-/Type /Font
->>
-endobj
-10 0 obj
-<<
-/BaseFont /Helvetica-Bold
-/Encoding /WinAnsiEncoding
-/Name /F3
-/Subtype /Type1
-/Type /Font
->>
+stream
+Gatm:9lJcG&A@C2bV<=4\KjV$'_[b*l!f2b[Z.ns>\K"<R-H2dA0Akjp`7M_XJ#AC$HGCUN>^$2pE!tgJDu?D^MO-n]n/I40jku%)dn7'=FGpn<UuLgRT#Mb5QkRHP<cGKUEFB:3g#jb7_&MaB1/Up5a<`m\5#J9N0T7B#cBLdXA_,N'r;fjEh_d-I#;U+P)OIdaYC^J;7TB\<ca3UU):ok%\%5dLt4,4)8[Au8#UL19V`d^kA%7s1.$8Tn`0&Xa8lD229.&BjY8UD1N,J/r%hP8\PG+*&gSM_aQP#SDG0&h"!r?C!P`$+A@N#!dh7jW6qEPO<PcY@X5@=X!36WM25,n"XatGB%lnCFQ&s/tq36HT8hVr57C3[aQHY/L3L_e>kGrC.rd&_apZH*C!CTD80`7t/:Z\+%JVmV&gIWe<3G7S?a^@`u5J^(-osJkWf@sjdS[)4k5]i%1@pQX,1tV6iYG?o,!gMmWiDcb,+C$Nc-/?39NJNEIRGehU4\HAe2Uuh5/J,?Y"C)S]Qp*98eo2X'k=^@*!8%AF(Hb*lG3XTTU5c!71KCV08CbB20qmXZc_4/H0mcl`ku\<8c,/t#cogLdrMkC+>>n$U=0Cj*>lO_MeVNd-(gOh81X#Rq-Xdlm)@aN(C_oX>Lp-&=a>r'D8))M?LGD32p_Un&N:hC/QIb!Z9k-n+TJaQ9D<d)kPmJ#i;ScOA=Ll"en2NBEC9XR=qZ^<W3d[2c\ad+ZbtqX%e-6>am%A=EL;Bud#?BQT47I5uWj_Ps,L:IY\R<\=@73:hjNXIpP*YutR?*#KC2@qmUm1h0#4b1h-GOYT.p_5k,0.NQcCl698r0hXB:ruHNtb*0SrhRTeV-AnO]h"%2>(Zgo(6cOAM29Jj]'p9KA3F%mbUHhkPT_7`g!^FL)*?JQhG%YUY1Rh6n)nY);)OS"]PC,cU9bj;g?RK-P.jcq$tedFuH(5*ZUcK'7;<u4<),;&?Qc%6)&1;Bk`@.M+?FQ]1>qC$+nhsh"'bH-]I`#.5.IL$Qlta2@9]'C5qU"n9*h"Dt")3Dss7qh@0?3N)TC-j$N":1&e::JScR\g"=#3;r6Q9Z\,68-ME/MUZg*m;#8?/#,>j>#IUn@_tSTZ2Y@T%m,-/Il`b3^\>HOF35s93]JDeVVe>&ait*BS8dDHOs"NCGH`(&;D_up$M62],_bE6n*d_t7cldSbD:.JlcF`R*ptj\Q^sUiRM!IcNp;`j;DMp80>_;pOhXB.p2P-4[,4:c'R)$c@piXrb+'e8YQmQP`-h&DrGWr^Pe0]EfHigeKLOg#+<PUoJ*N-,YE-<Ic-O?9CltrFpU!>$-XL:I0)DHCZ^eXjp?Mtd1p+,b/'qtX^ToV7"OefG%QV$@PdW`@n'Q3=3m4?QF9C--uDb4hEib>*GHZ4-nIF/*Z[R"Nk=Oq<GMgH8W5/l`G9nRX@oL9dg@^(<@"6^%u\%Y5]/6.ZXbgV*G?qQ5]6N<DbFGQ970KRX)6Q)B0.72MFAH7nn!TKuBmf~>endstream
 endobj
 xref
-0 11
+0 9
 0000000000 65535 f 
-0000000015 00000 n 
-0000000054 00000 n 
-0000000113 00000 n 
-0000000162 00000 n 
-0000000468 00000 n 
-0000004273 00000 n 
-0000004380 00000 n 
-0000004487 00000 n 
-0000004606 00000 n 
-0000004718 00000 n 
+0000000061 00000 n 
+0000000102 00000 n 
+0000000209 00000 n 
+0000000321 00000 n 
+0000000524 00000 n 
+0000000592 00000 n 
+0000000873 00000 n 
+0000000932 00000 n 
 trailer
 <<
-/Size 11
-/Root 3 0 R
-/Info 1 0 R
+/ID 
+[<4dd399042deca8e7ac5c5a2cc2dc99f3><4dd399042deca8e7ac5c5a2cc2dc99f3>]
+% ReportLab generated PDF document -- digest (opensource)
+
+/Info 6 0 R
+/Root 5 0 R
+/Size 9
 >>
 startxref
-4831
+2542
 %%EOF

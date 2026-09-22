@@ -1,340 +1,93 @@
 %PDF-1.4
-%âãÏÓ
+%“Œ‹ž ReportLab Generated PDF document (opensource)
 1 0 obj
 <<
-/Producer (pypdf)
+/F1 2 0 R /F2 3 0 R
 >>
 endobj
 2 0 obj
 <<
-/Type /Pages
-/Count 1
-/Kids [ 4 0 R ]
+/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
 >>
 endobj
 3 0 obj
 <<
-/Type /Catalog
-/Pages 2 0 R
+/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
 >>
 endobj
 4 0 obj
 <<
-/Contents 5 0 R
-/MediaBox [ 0 0 595.2756 841.8898 ]
-/Resources <<
-/ExtGState <<
-/gRLs0 <<
-/ca 0.035
->>
->>
-/Font <<
-/F1 6 0 R
-/F1-0 7 0 R
-/F2 8 0 R
-/F2-0 9 0 R
-/F3 10 0 R
->>
-/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
->>
-/Rotate 0
-/Trans <<
->>
-/Type /Page
-/Annots [ ]
-/Parent 2 0 R
+/Contents 9 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 8 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
 >>
 endobj
 5 0 obj
 <<
-/Length 4375
+/Contents 10 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 8 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
 >>
-stream
-q
-1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
-q
-1 0 0 1 51.35433 779.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F2 12 Tf 14 TL (QA Lab Brasil) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 749.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 4 Tm /F3 20 Tf 24 TL 208.4935 0 Td (CircleCI) Tj T* -208.4935 0 Td ET
-Q
-Q
-q
-1 0 0 1 51.35433 724.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (CircleCI: conceito, aplica\347\343o em Quality Engineering, primeiros passos e refer\352ncia oficial.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 714.3701 cm
-Q
-q
-1 0 0 1 51.35433 688.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (O que \351?) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 656.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (CircleCI faz parte do ecossistema moderno de engenharia e qualidade de software. Este guia explica o papel da) Tj T* (tecnologia, onde ela se encaixa e como profissionais de QA podem utiliz\341-la com contexto.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 630.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Aplica\347\343o em QA) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 585.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 29.5 Tm /F1 9.5 Tf 13 TL (Para QA, CircleCI pode apoiar valida\347\343o, automa\347\343o, diagn\363stico, dados, integra\347\343o ou qualidade operacional) Tj T* (conforme o dom\355nio. O foco deve ser entender o problema que a ferramenta resolve e os riscos que ajuda a) Tj T* (observar.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 559.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Primeiros passos) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 527.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Comece pela documenta\347\343o oficial. Confirme pr\351-requisitos, vers\365es suportadas, permiss\365es e pol\355ticas do) Tj T* (ambiente antes da instala\347\343o ou configura\347\343o.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 501.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Boas pr\341ticas) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 469.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Use ambientes controlados, evite credenciais no c\363digo, registre evid\352ncias e mantenha configura\347\365es versionadas) Tj T* (quando aplic\341vel.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 443.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Pr\363ximo passo) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 424.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL -0.004945 Tw (Pratique com um cen\341rio pequeno e reproduz\355vel antes de aplicar a tecnologia em uma su\355te ou pipeline corporativo.) Tj T* 0 Tw ET
-Q
-Q
-q
-1 0 0 1 51.35433 398.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Quando usar) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 366.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Use este conhecimento quando o risco, a arquitetura ou a etapa do ciclo de desenvolvimento exigir valida\347\343o) Tj T* (espec\355fica. Antes de aplicar, confirme objetivo, ambiente, dados necess\341rios e evid\352ncias esperadas.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 340.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Dica de QA) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 321.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Relacione sempre a pr\341tica ao risco do produto e \340s evid\352ncias necess\341rias para a decis\343o de qualidade.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 295.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Recursos oficiais) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 276.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Site oficial: https://circleci.com/) Tj T* ET
-Q
-Q
- 
-
-Q
-
-q
-0.0 0.0 595.2756 841.8898 re
-W
-n
-1 0 0 1 0 0 cm
-BT
-/F1-0 12 Tf
-14.4 TL
-ET
-0.843137 0.901961 0.960784 RG
-0.6 w
-n
-36 815.8898 m
-559.2756 815.8898 l
-S
-0.070588 0.207843 0.356863 rg
-BT
-/F2-0 8.2 Tf
-9.84 TL
-ET
-BT
-1 0 0 1 40 821.8898 Tm
-(QA LAB BRASIL) Tj
-T*
-ET
-0.356863 0.45098 0.564706 rg
-BT
-/F1-0 6.8 Tf
-8.16 TL
-ET
-BT
-1 0 0 1 398.216 821.8898 Tm
-(QUALITY ENGINEERING \174 DOCUMENTO OFICIAL) Tj
-T*
-ET
-q
-0.848048 0.529919 -0.529919 0.848048 297.6378 420.9449 cm
-0.08 0.21 0.36 rg
-/gRLs0 gs
-BT
-/F2-0 42 Tf
-50.4 TL
-ET
-BT
-1 0 0 1 -164.493 0 Tm
-(QA LAB BRASIL) Tj
-T*
-ET
-Q
-0.843137 0.901961 0.960784 RG
-n
-36 24 m
-559.2756 24 l
-S
-0.356863 0.45098 0.564706 rg
-BT
-/F1-0 6.6 Tf
-7.92 TL
-ET
-BT
-1 0 0 1 40 14 Tm
-(qualityassurancebrasil\056com\056br) Tj
-T*
-ET
-BT
-1 0 0 1 210.9996 14 Tm
-(QA Lab Brasil v2\0562 \174 PT\055BR \174 Atualizado\072 setembro de 2026) Tj
-T*
-ET
-BT
-1 0 0 1 514.547 14 Tm
-(Pagina 1 de 1) Tj
-T*
-ET
-Q
-
-
-endstream
 endobj
 6 0 obj
 <<
-/BaseFont /Helvetica
-/Encoding /WinAnsiEncoding
-/Name /F1
-/Subtype /Type1
-/Type /Font
+/PageMode /UseNone /Pages 8 0 R /Type /Catalog
 >>
 endobj
 7 0 obj
 <<
-/BaseFont /Helvetica
-/Encoding /WinAnsiEncoding
-/Name /F1
-/Subtype /Type1
-/Type /Font
+/Author (\(anonymous\)) /CreationDate (D:20260922123401+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20260922123401+00'00') /Producer (ReportLab PDF Library - \(opensource\)) 
+  /Subject (\(unspecified\)) /Title (CircleCI) /Trapped /False
 >>
 endobj
 8 0 obj
 <<
-/BaseFont /Helvetica-BoldOblique
-/Encoding /WinAnsiEncoding
-/Name /F2
-/Subtype /Type1
-/Type /Font
+/Count 2 /Kids [ 4 0 R 5 0 R ] /Type /Pages
 >>
 endobj
 9 0 obj
 <<
-/BaseFont /Helvetica-Bold
-/Encoding /WinAnsiEncoding
-/Name /F2
-/Subtype /Type1
-/Type /Font
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 2010
 >>
+stream
+Gatm;gMYb*&:O:Sb[\,$)3GPSl,t7Wg-pPoD-HC4?PnWC=@f/R9&=Bh+29V=/1W[6.%HbIRcYU83G2sJ+i8.=rg"#/eH.?eEo7!79Ag+L@.>*u/8"W4()7E7;IBgo=Xo!!oTau3c.\T0)<[,Q+=g>:A!oS<b6/K(S>?%iHBtC$6r>\lQPD'sU+"&0"j<XEI9=UdR&*,73SQ4WN+I^%l)8SrE0bKp-gV>h7DeVc(GJ/m=3<\UENPhSK^hB>PC8V#8AqL[T>"[c@DK4h[/k$U?Q/Ah*^8HVH+(lKh/)n1L5Erhb\3XMO(C*9&2>p/J1pDC1->`VjV!3D/<NKBU4G6^Q[cg1-S4-&DAHfGb]@/9_']D,-aH-8,8<KJ4u,9XOCp,jP)-9bR?Rjs,/EBb/%GG!q>Je*Bs7`-,`-Jfb]=B>0b/ttU?%)^7%>!Da4h`MW_N4@HtZTYe_6F72%>hk4O.DDH%DC(HPMBrMB'A/2/?X;5fE4-iAAVA_M"F1eaWMPBIk$A-<#;HH;A$=Pn&#kThZ0-6j,h3aa(VHN4O]nVnAu0rWD'lco5X4Oh5Fb;50"\JmrJ$faqfVLAP*f?@E;/JqTj3RlmU\L`dIaW^rmei9Q:.hHV"$f)#6l%a_i.Y6TG.!tb8?K[CJWj(Xb>-j<IUTtiK3oPaX9ZeT"Z]gkA=Ot_qFha;,4;ObtW6*4p$WZQ5DiGWNu2t2D[k-0$+dDf<"CZR]CBQ/9sh2bZq[PS?XdbmL;*c^c1Pu@89_)l/cS)3t6c!KCDCUt_Fq$Z!P)A"4po)rSYs,CQIk[:i-WIA:(>c4:4r0Go\j#c'FBPaMNCSB1LgQc[FPf#n(7#V7J$CC;'gL^,?EgjfLHl&l1g@>eW"1u1nS$cGc)Cbo]/mDQ7Pu2V,/Y-,sn._Npk(-8\D.A]'j9pOk<Z+\Acs:F?dm2fYgAF8ln9=Y&ge;2AoL!7eTiT*eWKfnm2JTuGbQfH%ll4c('+o/jB`)kc;Wd.Pr,4f1pTZO$3r$3c2-B@$H*@XPI;d6>Y$:et(DgXb.1O1Y/f7j-IQol$K*'G<P_%Qa<5F`",Mae&Xm]6&J,^KHgA)h1.^]N=YH@+iV>M=%^/?P";aD)R@+5E%XBtU\>i47pod:#2b34Wm"@&@e/mkPcQcCgiW8HMsI^un9V*s3Gc::?VSZob1UE"*%TdKuA^9c(+Te^A:WD@$]R?IPNPsn0(!PNMPlMH!T(hpHpm8QYhY0!e=lP`_?.]5QEb19Z!?Vh<1*>O5"T[R!a*/%L7>>m\Z8r:F4cD_pGUtsdO6NTO<Safgo`gC3+:D=5O`STU:)s'g+7ZrYH_FW\]Cr5uDUhLj)(Djj8DI;]0[a?CIO@o$./nT'^PSp339gs]LF8EU0==Hc@Y;d7'Dm4[$YM_KZ9iRm2aL_8_TUK(P<.i%PSf5Pr@R,epc'VKqdFeh"`qbbU.ScbF0mR@#?Bh%7LHD(-:F,,*m(66nck)bM[gpq-.d<eYQ#8t<_&<V+3Opmq1pYR\D"g]R`bO*=LpDa`_4LZ`qo%^>+43lu7afEQ/PZjc@\Z>-oI86ib`>G%,!Xtlp!qI/*t1j\jLF7>KKS;9p!p%e:gp*'V8p\H;`Ea^+<:$<7V8Tc@DT#@?fW"siQ`<e(kiu(LFDF64dJRp#CC0*bM&VaEAAS,.]l'N@d)&c^(JJL)+j>hbt'ctc1G>Qj2cH`T<BE$AMd,_..96fB;kUYSVHO?Rp[<@jfmB[\jQEpE\ZUF>#W+fdZekkN[sL>]>76!*24P!b3XnT-d<C$Y'!<X@=;-85s=1N^,9//OgdP4Yr3]K4Z$JYZ#EWe%H8P?5'$*/RR0"ik6\eB.1c$q7=$lKYA"D6([*Qt\R5]HWQ8o=]Amk:/_]fP@G_BH&bt;:4roRmGK8MeWQ>.ICRKG*8CQ3OWDc"GS5Z#A7JI_XcqH5*da+EC[O@*'$(p+&f2nZ4@W=\2fh$2922gX_k,%(s/0R@NgsFDDqV7A'ah!nVm!mXV6Y$~>endstream
 endobj
 10 0 obj
 <<
-/BaseFont /Helvetica-Bold
-/Encoding /WinAnsiEncoding
-/Name /F3
-/Subtype /Type1
-/Type /Font
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 1365
 >>
+stream
+Gatn$:NP8K&B4,9'ROpW/jb'ks7Bp$DT=Ose;eS@"f<C[*g0>"dWIAEn9og4P"ocD#>6ic[01[qpAM5TPiBsJB@@H`YNXI(S@G6BL3V!a>$]Op.f#C7ZqbmP&Bd'e$V@E*YEI[!kn@2Sc;Tj(=VjbD18c`R"VXn%(NZZPb(>I,XV^<GRUp'!<k,)2RE"?D8<meg&;$?]%e5^I[ELt;.4.#)\NkmZnk.uEWd%7%KIP?n;Q!WdaIMd(P`'[IZW(IhR'Y,$UB]eJ@L&n"*1HRW-(jo/F17V!51t<Wd!34Nd:`X11)YL2R5jtl)uO(]Z9VY@;7p;IKGCPJ:9Mo,d-?0_+2_iZQDpr8@Nri]%IZ]Qb@QD(:k;D;0.KpIX3*O6>NSW%RNF$+e_)sRhjf,*]NQ)oM918Ra*1O?9MT^iQ(^hCHBFGu>4??8A5oZKrhbU&CO3+Rl*ni6<Q;@#,?E@Y4SDe<19E(<q'5-<iBYPc!cg>HO>A$rTpEF*+H>K<T#h%8i4[4)W]9A,W&f]M#mEXNaa#af7buJ&;r4lLrt($@k\D04ah.,B&Tl(o8(5F5p6o?93idNS([U1/pZeFMjA0DLD4IHM>I)Q<ISafQMOlPBrIPRl]F_r<[&dZ6W,^T9-kAPKT7k#?W!(bM;2L6(/pq0`HUVGBBM_HB'^bP%;>5r)4i5I'Bl:8I5O+PXasg4MVu*lFo\$aOeXnLEV8i3JZQ5S`9AOG3AT'V&]l(4OiE9g[.Hr59N.X<3mptcOW8"_G]YTs.-l=bN/gPJkO)=(fUYk^h)NVtb$kUbqg8Q.\>2ub54,1f,#*m?cXH;-l]'pc_9S;ENkQX+K<=e+..0pC?mm>Dk4/][J!%C<!XYlMqE-=Bn2ct%^#H-_FTcS+;mB^2u+L&+Z+&C%cs#73]j^dA#0.;^%_sJs&diIhGIF(>pX_QadONVjdX92m$!N0W$`dfbqVC.CU-fD&7Zt[Q./-:MG)VYcfMKa%)aP!9WH%ncOq%8:JXiBV5mMcg5n_1sYK]L%"h>SS`B>t_1Jr.VZ#)<8"7[MM<r<"H+lm;-aUSXTA*s,N;eW9QRi2CWb\TkR4?lfc!Jh:nF"UN_BnKBS&Xp7XR[r@OsYB(r3l5dp0]k_bg,2-NK>)./R,3J?r*M-('(Bd+KqdG0XRW.ar]*0Jf(:hfY,=/7!r4qCa#=@!fLSG?66m0@=@_TCuKZOp'DL=o47s@^XAEfEp/`[X)ZMFshUUr>0ib;<Kl)#IU-U93L&I>07E,BRDq?Y5i*&,BMoG4n\8ta8+/YlnMj'P`mJH4V^%mY]^UQ5#r=>siK<Wr'aZusm^r\.TpA;oOubhb=XD:i1-IKNK2f*eB&q%kOP[8$~>endstream
 endobj
 xref
 0 11
 0000000000 65535 f 
-0000000015 00000 n 
-0000000054 00000 n 
-0000000113 00000 n 
-0000000162 00000 n 
-0000000468 00000 n 
-0000004895 00000 n 
-0000005002 00000 n 
-0000005109 00000 n 
-0000005228 00000 n 
-0000005340 00000 n 
+0000000061 00000 n 
+0000000102 00000 n 
+0000000209 00000 n 
+0000000321 00000 n 
+0000000524 00000 n 
+0000000728 00000 n 
+0000000796 00000 n 
+0000001071 00000 n 
+0000001136 00000 n 
+0000003237 00000 n 
 trailer
 <<
+/ID 
+[<916745e8d8900747f524d5742e2d6489><916745e8d8900747f524d5742e2d6489>]
+% ReportLab generated PDF document -- digest (opensource)
+
+/Info 7 0 R
+/Root 6 0 R
 /Size 11
-/Root 3 0 R
-/Info 1 0 R
 >>
 startxref
-5453
+4694
 %%EOF

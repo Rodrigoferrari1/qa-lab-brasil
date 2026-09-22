@@ -1,340 +1,93 @@
 %PDF-1.4
-%âãÏÓ
+%“Œ‹ž ReportLab Generated PDF document (opensource)
 1 0 obj
 <<
-/Producer (pypdf)
+/F1 2 0 R /F2 3 0 R
 >>
 endobj
 2 0 obj
 <<
-/Type /Pages
-/Count 1
-/Kids [ 4 0 R ]
+/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
 >>
 endobj
 3 0 obj
 <<
-/Type /Catalog
-/Pages 2 0 R
+/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
 >>
 endobj
 4 0 obj
 <<
-/Contents 5 0 R
-/MediaBox [ 0 0 595.2756 841.8898 ]
-/Resources <<
-/ExtGState <<
-/gRLs0 <<
-/ca 0.035
->>
->>
-/Font <<
-/F1 6 0 R
-/F1-0 7 0 R
-/F2 8 0 R
-/F2-0 9 0 R
-/F3 10 0 R
->>
-/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
->>
-/Rotate 0
-/Trans <<
->>
-/Type /Page
-/Annots [ ]
-/Parent 2 0 R
+/Contents 9 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 8 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
 >>
 endobj
 5 0 obj
 <<
-/Length 4842
+/Contents 10 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 8 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
 >>
-stream
-q
-1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
-q
-1 0 0 1 51.35433 779.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F2 12 Tf 14 TL (QA Lab Brasil) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 749.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 4 Tm /F3 20 Tf 24 TL 208.4935 0 Td (Grafana) Tj T* -208.4935 0 Td ET
-Q
-Q
-q
-1 0 0 1 51.35433 724.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Grafana: conceito, aplica\347\343o em Quality Engineering, primeiros passos e refer\352ncia oficial.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 714.3701 cm
-Q
-q
-1 0 0 1 51.35433 688.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (O que \351?) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 643.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 29.5 Tm /F1 9.5 Tf 13 TL (Grafana faz parte do ecossistema moderno de engenharia e qualidade de software. Este guia apresenta o papel da) Tj T* (ferramenta, onde ela se encaixa no fluxo de desenvolvimento e como um QA pode utiliz\341-la com seguran\347a e) Tj T* (contexto.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 617.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Por que um QA deve conhecer?) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 572.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 29.5 Tm /F1 9.5 Tf 13 TL -0.004945 Tw (Conhecer Grafana ajuda o QA a colaborar melhor com desenvolvimento, DevOps, dados e produto. O objetivo n\343o \351) Tj T* 0 Tw (decorar comandos, mas entender como a ferramenta influencia testabilidade, automa\347\343o, evid\352ncias, diagn\363stico e) Tj T* (qualidade de entrega.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 546.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Primeiros passos) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 501.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 29.5 Tm /F1 9.5 Tf 13 TL (Comece pela documenta\347\343o oficial, confirme pr\351-requisitos e instale apenas a partir da fonte oficial. Em ambiente) Tj T* (corporativo, valide pol\355ticas internas, vers\365es suportadas, permiss\365es e vari\341veis de ambiente antes de configurar) Tj T* (Grafana.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 475.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Aplica\347\343o pr\341tica em QA) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 430.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 29.5 Tm /F1 9.5 Tf 13 TL (Use Grafana em um exerc\355cio pequeno e reproduz\355vel. Registre o objetivo, configura\347\343o, resultado esperado,) Tj T* (evid\352ncias e problemas encontrados. Depois conecte o aprendizado a um cen\341rio real de testes, automa\347\343o,) Tj T* (integra\347\343o, dados ou entrega cont\355nua.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 404.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Boas pr\341ticas) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 359.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 29.5 Tm /F1 9.5 Tf 13 TL (Prefira documenta\347\343o oficial, n\343o exponha credenciais, versione configura\347\365es quando apropriado, mantenha) Tj T* (depend\352ncias atualizadas e registre decis\365es importantes. Ferramenta sem contexto n\343o substitui estrat\351gia de) Tj T* (qualidade.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 333.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Quando usar) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 301.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Use este conhecimento quando o risco, a arquitetura ou a etapa do ciclo de desenvolvimento exigir valida\347\343o) Tj T* (espec\355fica. Antes de aplicar, confirme objetivo, ambiente, dados necess\341rios e evid\352ncias esperadas.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 275.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Dica de QA) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 256.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Relacione sempre a pr\341tica ao risco do produto e \340s evid\352ncias necess\341rias para a decis\343o de qualidade.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 230.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Recursos oficiais) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 211.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Site oficial: https://grafana.com/grafana/download) Tj T* ET
-Q
-Q
- 
-
-Q
-
-q
-0.0 0.0 595.2756 841.8898 re
-W
-n
-1 0 0 1 0 0 cm
-BT
-/F1-0 12 Tf
-14.4 TL
-ET
-0.843137 0.901961 0.960784 RG
-0.6 w
-n
-36 815.8898 m
-559.2756 815.8898 l
-S
-0.070588 0.207843 0.356863 rg
-BT
-/F2-0 8.2 Tf
-9.84 TL
-ET
-BT
-1 0 0 1 40 821.8898 Tm
-(QA LAB BRASIL) Tj
-T*
-ET
-0.356863 0.45098 0.564706 rg
-BT
-/F1-0 6.8 Tf
-8.16 TL
-ET
-BT
-1 0 0 1 398.216 821.8898 Tm
-(QUALITY ENGINEERING \174 DOCUMENTO OFICIAL) Tj
-T*
-ET
-q
-0.848048 0.529919 -0.529919 0.848048 297.6378 420.9449 cm
-0.08 0.21 0.36 rg
-/gRLs0 gs
-BT
-/F2-0 42 Tf
-50.4 TL
-ET
-BT
-1 0 0 1 -164.493 0 Tm
-(QA LAB BRASIL) Tj
-T*
-ET
-Q
-0.843137 0.901961 0.960784 RG
-n
-36 24 m
-559.2756 24 l
-S
-0.356863 0.45098 0.564706 rg
-BT
-/F1-0 6.6 Tf
-7.92 TL
-ET
-BT
-1 0 0 1 40 14 Tm
-(qualityassurancebrasil\056com\056br) Tj
-T*
-ET
-BT
-1 0 0 1 210.9996 14 Tm
-(QA Lab Brasil v2\0562 \174 PT\055BR \174 Atualizado\072 setembro de 2026) Tj
-T*
-ET
-BT
-1 0 0 1 514.547 14 Tm
-(Pagina 1 de 1) Tj
-T*
-ET
-Q
-
-
-endstream
 endobj
 6 0 obj
 <<
-/BaseFont /Helvetica
-/Encoding /WinAnsiEncoding
-/Name /F1
-/Subtype /Type1
-/Type /Font
+/PageMode /UseNone /Pages 8 0 R /Type /Catalog
 >>
 endobj
 7 0 obj
 <<
-/BaseFont /Helvetica
-/Encoding /WinAnsiEncoding
-/Name /F1
-/Subtype /Type1
-/Type /Font
+/Author (\(anonymous\)) /CreationDate (D:20260922123401+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20260922123401+00'00') /Producer (ReportLab PDF Library - \(opensource\)) 
+  /Subject (\(unspecified\)) /Title (Grafana) /Trapped /False
 >>
 endobj
 8 0 obj
 <<
-/BaseFont /Helvetica-BoldOblique
-/Encoding /WinAnsiEncoding
-/Name /F2
-/Subtype /Type1
-/Type /Font
+/Count 2 /Kids [ 4 0 R 5 0 R ] /Type /Pages
 >>
 endobj
 9 0 obj
 <<
-/BaseFont /Helvetica-Bold
-/Encoding /WinAnsiEncoding
-/Name /F2
-/Subtype /Type1
-/Type /Font
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 2092
 >>
+stream
+Gatm;bAuAr&A7I5bY^s6@=fd"a<`,Y[OY@\nk6Oh!g2+M>^RD72i9(,T*G(T/8;SV[;>:=,Vb;CSt7)Q%mSkJT9VfGfC\nk-goIVNd/W3\pdFnXuG5sbY(*j7`7X=j%'`>m%9ZhIT()O_Dq;fOQ&*++qPo_S(MA&&qnZ<<c$cOq4<qUmYb!Z`1E=R9?L_ih*.te?GIcBVei[jnX.:p#jbU`Ra5-\II&Y)T(jI%&t[M[@:%%kW:O2t&L$26+0Y)GS9]Ppq9/3Lb(KeBc"eQR@Tf/G1N,ILq8[;_S(l3Uk7&&b+(WmKJ8L]n4F#'lH,'SI;MJHW/eJ@1Yu#t.l]Nka?2d7DhrsoLHT1P*:F$6$5K&m&h"bq<ee-=b!hYle77^mR`1^h)baB"k+!]/0b:C1#I/2lbpZl310juBFnX1YO+QbYR@N-V=3Jb^YlLSBhd`Xt$J('m%Y:HH.Y4h0X8\fs<+I8hE4O04H_FkR=r,,H\M?/ba&`Ao3+Cr2g/J[p>)/(Q@F!`)YKAN@'W1rf5'C$.5"VCH\$-n_\1\-:'N,3W&oFDO@Jc:<HR^n>(MukaM+iI>DF$gMb2gjM-md`^n*ecM`AWnM8/A;dU%ol#(i8aZV:)EAXgrW/`G[<PGm,1#IhbT74o[X![O1[H'')WG-JLlQLfAHnT@XnltHVT(-6CpIA6<RT*8pBroA5h\cILX.2s+6\=8Pa#099%>qd\^o]O_p!e77Q[/q&0ORb-[sjVt!Wg#E1cjU'OcpifRYrlQa/HA5BHeP[*L6r.2TVML^liH3,iCrJ+V_0.*03nfBeISY@+gc0DafD5TutAXt>MeW_R^eQu7bdNFSXJ<Bk:@Ms[MHIr*ANFMMa:XQns/[@+2<E4gM:M77PA>9LS&Pa2g97(eSF_1;",dfNu-M<oT"PaajSI:qAD%:].d.RL5K.tH:H>)6")Si,^dtPMk2#&S;K<'(/<pb5Y/#sZS*iqDFf@?egmi@P'Lsr^#s$\/J2YC5AP-QKa&?Kc1!u@pUrSOpUZQ6CMY^B8SphXJ,2744k=AP6[\SQ2rY%`B2rH^[Z0^LTDJ">2@<CJK\7WX?rGkTX1gB5Bj%*>KU+W\b"eZ'm#[@Jk7kI,J/VYqE$6FG>:9l2qZbB?NiT8t10SQn%Hh'(f7#,AK\=Mq*&6f"=V&)hjgb9K^Vg#V\.2U3ELah+?6agW`ujoiF)6goE>phbsOd7s0NEXOl-Qn?!<hUG"5.TLHreDU=GrGLkDFnj=6'tB%*kf2+tO.rE\1EZ;72q@.[:":?lCQ6spF*hCq=lE6I$9k_mJqKFVYA7p)5%#SW.CW6;b)IGn$Om:0b*?r._!7Ta8a[@gQ?tlQK!s-2rRgfT`2L@35qZU(+-?qCa0WnL;&;>)%gP:r6qSk\)JeT`fCmcfGc+8Mq7$"11?s4ii@7S96YS&m&QOBml'deoY'2i-Qo[7@=km>L2qlCT>8n9kZjMC4=N1oK/eCL&8*gH_5Zb9#5N<T?18Sld.gha_D&^\bBkJSfW$O?NEECr#CtG(jj90l6(enAe8&3*soPs\?R^2`"\P8#%X=fROoqV#h]k29u`.uI64(U0?<i1EXZ;=Qg7QKWGp\)`qJbm]-O"&%5$oAjAG00ca/RT4U$S]1d,,tga=P2&SMBCX;VGMoOfQk<ieM<Lm;hKCtW6EE1br8Y*mr969"R8Z`Zf4I/XuZ,BlT2%OguYg.3$%E/5TNP'mO*'q1Q+D9eXn$2?Q9qfIK+\)lW&oq/a>@4BR"pEg%?SE'0?f=A27Zp:j3?e(QrK3mM^Zu94*=ta-(Eg&#6=Ka)[0e_^]50Z*^oVGKU`VBdFhRg$Wft*Q6'B<%%O.St&38c=<qY0RC@<WYWaLVUH.L1;rlFBKoe+$$(Wu=h!1%)h)Kk-V/k[7j_C\S8Y/#1o.<nV)aPe)1\:(:2JUC,LZA80[bg+e88gT-qP>aRne+!h3K"mVj!)T'4j3TSpp:@dsF6MkJB*Boiik-`Ru$F-SaRT*FX2>262bH\CK)!VS\,#.,/p8O'!,[Yc#P8,u5CY'5u"\e$CTTOT,:!qepW`_^),7ZonhJl^+hGE,"ns#<H)E~>endstream
 endobj
 10 0 obj
 <<
-/BaseFont /Helvetica-Bold
-/Encoding /WinAnsiEncoding
-/Name /F3
-/Subtype /Type1
-/Type /Font
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 1547
 >>
+stream
+Gatm:9p=$c&A@sBoT>u%erhV7m#>EYMCK)DKGt_eUBFH&'kDZ7QJ*FqYEd'"YRGK<8^0rWQF`^b]mbj7'JC@(2BC2qQ@=<48LiH^8`h4pm2NXn-=7CJeu>_Y'"O6<Th,sr;c5S#IA/58AZBc#lU'f/kL:fS&us+F@YqKa=U::iokIc8Ml]V$$?'ZVVK)Dl;Pfd0PbKL-6F%;:XYW^0a-7:7<60#M?E%1/Q)n\S0LqQ8l5XRQSI8T$Ej\Y8OfGKZ9D0ZP_15d3ljU:-6M#KbjR\f>hlS7$PjG"hBKTVbBVYZCKoS9k6CiD;"*paP=TGVQ-sh^7K8OM9:Yn;8NOGHnqik0?ZqPUBO\e'peDO)e\R&@9cP>NboVt5XMQ4m!5-bl+fCE0thE8QIX*;nI^OELAQBTZH&W-NfV(t3cO]6@dlGl=k.;C08;j#2/DZ#9mqh+4:%B_ps93%D(b)A_gU[pHHSa3YckhW;8V\K<5W!^?)^d0T;?A2R/rr=m<T6mFC]S#(!%&f'T=Y?Xo^t(cD[*V]O94uHX>m3$oQKV["[0$:B6Srjc?8*jJbi3:sShXBDAVE=J)H-hK3If8eWLXZ*MgBA>dn$*Cn5!Bcc8LuK[e2Jed?:>sDl1hRU\U;=-%7XGId\1fgd!qoYCbGsh?\Gdqn3@X2M[?]QHt0]1-+Fb_Zm)pd<:9Bd0A&Zhj\dV[l+XLhrTMeL?[p>BQf+I6Km3T"bjAeog$J<EZ(Ab"MKb-$lN#cSTVbF_t=O==Q-V-9c]Yi`W<hc[!!:a*=ac3TDr`JV)GcC_7'VE%2R!jR:GP$'2Ef]%205KOm'0C&UA+X%(aH:HV?T<<B>3oh$$5!f4=l"p_GXV':12S#VPGaj^4q2Ga\W]#OXl?*Sh\(#ET^HqKT$O*ZEpb19l\2$$Hj5TFT^4d?&p3Ss\8:gX=K"961NMhq;sGf,lf\BKgRon_SEfSh0eom%&!jdE\86I"](@'Jo`><I;m,3qX3R0X][M6%@U`LS08_\e4Vi&OPm4XW<uC9K9KJgdt\N83tkFJ7PfKnn&4Z-(3*.Ng7_TMha!n[iq+u7#SPplYSS/F]`T=N#1;>\YC2egV^^4`tR'L50"[Ui"nAse5+SK46Nlup0idKFri.jd^25/W3pq>Q,RH%"5'9cHO#+Q[b7ID&u_l*Zu;j(XFUR;oX,doZ/?>R0p)pSr1\g4>"u4_gRh_iYi4Y%83WWrSMp:POk=CdF(iGS0G90LH6&unhrr#)*]"V?GO2)@AUo2E^Tre:(h/;bAO^n0J.p?LfZ4K&S*Q+^RNLJ(%t6f&I+/$j2HoB91b!q'ibF:lSpG8p`aV8NpuMBus3c>rE*hUdV]pM*i41f6!@fgs.,+](5b#_Uk1bfZG/U%@6AbqtlgEWc(&-AC6I+^t.6U>O6!<.dgV7/<Qcj.;$1)Q`#qc7`dRaJ@F3*+qEb-sIfgeN!fK4Gqj/=5ZBJ9Z6L[jF%O(h_s:`'*r'<iKuWLq2A0hZ&/Q&"0Z:h0C/[B_GTZXW*W0(&IZnbk*h$=>AdMPB/r%m3%M~>endstream
 endobj
 xref
 0 11
 0000000000 65535 f 
-0000000015 00000 n 
-0000000054 00000 n 
-0000000113 00000 n 
-0000000162 00000 n 
-0000000468 00000 n 
-0000005362 00000 n 
-0000005469 00000 n 
-0000005576 00000 n 
-0000005695 00000 n 
-0000005807 00000 n 
+0000000061 00000 n 
+0000000102 00000 n 
+0000000209 00000 n 
+0000000321 00000 n 
+0000000524 00000 n 
+0000000728 00000 n 
+0000000796 00000 n 
+0000001070 00000 n 
+0000001135 00000 n 
+0000003318 00000 n 
 trailer
 <<
+/ID 
+[<508435911ad8c3fa870a1b3257431759><508435911ad8c3fa870a1b3257431759>]
+% ReportLab generated PDF document -- digest (opensource)
+
+/Info 7 0 R
+/Root 6 0 R
 /Size 11
-/Root 3 0 R
-/Info 1 0 R
 >>
 startxref
-5920
+4957
 %%EOF

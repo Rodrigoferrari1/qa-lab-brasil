@@ -1,326 +1,74 @@
 %PDF-1.4
-%âãÏÓ
+%“Œ‹ž ReportLab Generated PDF document (opensource)
 1 0 obj
 <<
-/Producer (pypdf)
+/F1 2 0 R /F2 3 0 R
 >>
 endobj
 2 0 obj
 <<
-/Type /Pages
-/Count 1
-/Kids [ 4 0 R ]
+/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
 >>
 endobj
 3 0 obj
 <<
-/Type /Catalog
-/Pages 2 0 R
+/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
 >>
 endobj
 4 0 obj
 <<
-/Contents 5 0 R
-/MediaBox [ 0 0 595.2756 841.8898 ]
-/Resources <<
-/ExtGState <<
-/gRLs0 <<
-/ca 0.035
->>
->>
-/Font <<
-/F1 6 0 R
-/F1-0 7 0 R
-/F2 8 0 R
-/F2-0 9 0 R
-/F3 10 0 R
->>
-/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
->>
-/Rotate 0
-/Trans <<
->>
-/Type /Page
-/Annots [ ]
-/Parent 2 0 R
+/Contents 8 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 7 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
 >>
 endobj
 5 0 obj
 <<
-/Length 3806
+/PageMode /UseNone /Pages 7 0 R /Type /Catalog
 >>
-stream
-q
-1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
-q
-1 0 0 1 51.35433 779.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F2 12 Tf 14 TL (QA Lab Brasil) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 749.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 4 Tm /F3 20 Tf 24 TL 121.2435 0 Td (Visual Regression Testing) Tj T* -121.2435 0 Td ET
-Q
-Q
-q
-1 0 0 1 51.35433 724.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Automated visual comparison to detect unexpected layout and rendering changes.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 714.3701 cm
-Q
-q
-1 0 0 1 51.35433 688.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (What it is) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 669.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Visual Regression compares a current UI image with an approved baseline and highlights pixel or region differences.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 643.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Where it helps) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 611.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Design systems, stable pages, reusable components, responsive layouts and multiple browsers can benefit from) Tj T* (visual comparisons.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 585.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (False positives) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 553.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Fonts, animations, dates, dynamic images, anti-aliasing and variable content can create differences without) Tj T* (representing real defects.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 527.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Strategy) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 495.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Use controlled baselines, mask dynamic regions, justify tolerances and review differences before updating the) Tj T* (reference.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 469.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (When to use it) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 437.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Use this knowledge when product risk, architecture or the delivery stage requires this type of validation. Confirm the) Tj T* (goal, environment, required data and expected evidence before starting.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 411.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (How QA applies it) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 379.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Start from the behavior or risk to validate, prepare data and environment, execute the technique or tool reproducibly) Tj T* (and capture evidence that helps the team understand the result.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 353.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (QA tip) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 334.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Never update a baseline just to make a test pass; first confirm that the visual change is expected.) Tj T* ET
-Q
-Q
- 
-
-Q
-
-q
-0.0 0.0 595.2756 841.8898 re
-W
-n
-1 0 0 1 0 0 cm
-BT
-/F1-0 12 Tf
-14.4 TL
-ET
-0.843137 0.901961 0.960784 RG
-0.6 w
-n
-36 815.8898 m
-559.2756 815.8898 l
-S
-0.070588 0.207843 0.356863 rg
-BT
-/F2-0 8.2 Tf
-9.84 TL
-ET
-BT
-1 0 0 1 40 821.8898 Tm
-(QA LAB BRASIL) Tj
-T*
-ET
-0.356863 0.45098 0.564706 rg
-BT
-/F1-0 6.8 Tf
-8.16 TL
-ET
-BT
-1 0 0 1 399.3516 821.8898 Tm
-(QUALITY ENGINEERING \174 OFFICIAL DOCUMENT) Tj
-T*
-ET
-q
-0.848048 0.529919 -0.529919 0.848048 297.6378 420.9449 cm
-0.08 0.21 0.36 rg
-/gRLs0 gs
-BT
-/F2-0 42 Tf
-50.4 TL
-ET
-BT
-1 0 0 1 -164.493 0 Tm
-(QA LAB BRASIL) Tj
-T*
-ET
-Q
-0.843137 0.901961 0.960784 RG
-n
-36 24 m
-559.2756 24 l
-S
-0.356863 0.45098 0.564706 rg
-BT
-/F1-0 6.6 Tf
-7.92 TL
-ET
-BT
-1 0 0 1 40 14 Tm
-(qualityassurancebrasil\056com\056br) Tj
-T*
-ET
-BT
-1 0 0 1 221.4507 14 Tm
-(QA Lab Brasil v2\0562 \174 EN \174 Updated\072 September 2026) Tj
-T*
-ET
-BT
-1 0 0 1 519.6818 14 Tm
-(Page 1 de 1) Tj
-T*
-ET
-Q
-
-
-endstream
 endobj
 6 0 obj
 <<
-/BaseFont /Helvetica
-/Encoding /WinAnsiEncoding
-/Name /F1
-/Subtype /Type1
-/Type /Font
+/Author (\(anonymous\)) /CreationDate (D:20260922123400+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20260922123400+00'00') /Producer (ReportLab PDF Library - \(opensource\)) 
+  /Subject (\(unspecified\)) /Title (Visual Regression Testing) /Trapped /False
 >>
 endobj
 7 0 obj
 <<
-/BaseFont /Helvetica
-/Encoding /WinAnsiEncoding
-/Name /F1
-/Subtype /Type1
-/Type /Font
+/Count 1 /Kids [ 4 0 R ] /Type /Pages
 >>
 endobj
 8 0 obj
 <<
-/BaseFont /Helvetica-BoldOblique
-/Encoding /WinAnsiEncoding
-/Name /F2
-/Subtype /Type1
-/Type /Font
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 1549
 >>
-endobj
-9 0 obj
-<<
-/BaseFont /Helvetica-Bold
-/Encoding /WinAnsiEncoding
-/Name /F2
-/Subtype /Type1
-/Type /Font
->>
-endobj
-10 0 obj
-<<
-/BaseFont /Helvetica-Bold
-/Encoding /WinAnsiEncoding
-/Name /F3
-/Subtype /Type1
-/Type /Font
->>
+stream
+Gatn%9lo&I&;KZO'mk$Y%LR^h5E9oV[$f#^Z'(\-$BgM?6RG&YRd#n%$V7#UZ(ktnZ>>GP<f>f.fu6i#a%M*c<C:jmUYjr:&s?j"&d_3Ep6"4VU;r)[Jr:g!Q3`VLMHK.n1?qq<)l]>6_.>r9OYRZPKUO<Q9]g>XT%<0T9:=kRR+PsRM_iY">SJaL_>LO#o9c@P;AGag7)lN!`ST.T-3_SGKSQ>o>UD#J76tDhj%=G$F^1slPqZ(VCgs:Fj"aBkanof6(^#/FCPPaPe'aW0k^:VMV-6m+Ng=T-#`fc9%2e#hWPF'@H/O2`_uUag+LkZbo9:O.-tWqEI(K37B&@:q``k6jEL#_*A:f^@lsuE\kmk[@#;MC5m#Yj2cP#YE(/1\o*-S!9GP?4Zq<m4Za6@1B1$)%ri'#CtXN#YkAU^!Dr$G[Q6Ag$&a\^R.mH@if19K-@BiiccnlWh59Iqii4Rss7`J^6MrtVpu+i%6P,+JiG&gl.>WMYHCKZ91-Ah(b7l91+=<I2aJ(j1G7'dA`s.3\8G1?G%oqpLq%k[,Mg$2P=(BOmGM@oOjdQ(XM5T,>N"B^cl/nF?*H3$j#t:K-=<(E&)62%0>m`94H1h0_'qP1"!VlF"$sCMBZJS&kI"q%lB5Y=A`-o-*^>a@rE!MV=-q:(HKVptPR4&o+$A)M!U#<'H/.]>8Val1BS9qZNq%fp'1T8AKATcq[Z&L0"?,hu[M5\a'GiA\4UA[u4'C<3=>eV(I$`j42d\FQD-9E9'`W454/H&_a]u&X*$(>rjb9[2/r]MuOs#jKGT[Z5E;@C.fjQ6P&8uIJH.*.9Dt0N*AYG.Q<j2gHsqGBm#ED$nAI*C0flG=k]5b\u)Wcngc[_-?ZXKbGBs>l7rJt5*%rDaV>C10[F./lcfSMPfg1biD4=8W[59`:,hm4X=NJAV@>r6?*=JPmQI&B"d6*'EG`s$+"H(N#gH1-Z[qMVn"-WK/QDd/f<&?t2f`$o?1Y@_/n(Igrrj&bY/]ON=^.iO=lYV,"]1@e>n>*T/dPak."6q$`q9B<OFQ#mARh`g<s01LhI91;[)X'E0l3QI!En`9%s\L^YOR%01dU=RYT(FNH3:DHJp.@h)@,"0kLh.pOt8\U-;!d/Tm:T?E`qc^#YW8)1&5;QP4i0e:X1%9BM//M"LC=9Yki4PBNsmY+_oi"61Xt>fGa_\N5SsS3ue7<#)jqInA_RfbR\<P:uKH@$?;rGH"_or2ctQOrAqGJ0!<C7Xc91GD>+/OIR*[Q0H1c0AhhSqn*#bF=rT\q#H3Q;i:U=Tg/dr0J'P1/]T7^8,:@_W]+#18BVF-26K='*hu(m09@Gi9af6lW>LMoioNg4EAT!Qh(;<Sf!.'#2!:Y[iGiXgSHdDKhU@DdP^2CaJeVO4\4V=8,0k"i"74s-@e+@r_+1s3?k(=IqY1Mdd!1TVBi9?0e!(Pjt[._fQ'=k"toFG4::'X!3J9>WKLOBJN?2a-.oCZSToe-$<b"\h"OdP_N7q!kh>a5bioC,!ML9TPoW5[Q(J>H5o7okNH"&_M"ec~>endstream
 endobj
 xref
-0 11
+0 9
 0000000000 65535 f 
-0000000015 00000 n 
-0000000054 00000 n 
-0000000113 00000 n 
-0000000162 00000 n 
-0000000468 00000 n 
-0000004326 00000 n 
-0000004433 00000 n 
-0000004540 00000 n 
-0000004659 00000 n 
-0000004771 00000 n 
+0000000061 00000 n 
+0000000102 00000 n 
+0000000209 00000 n 
+0000000321 00000 n 
+0000000524 00000 n 
+0000000592 00000 n 
+0000000884 00000 n 
+0000000943 00000 n 
 trailer
 <<
-/Size 11
-/Root 3 0 R
-/Info 1 0 R
+/ID 
+[<6875e2a399a9aa4a3b9c674abab3f2bf><6875e2a399a9aa4a3b9c674abab3f2bf>]
+% ReportLab generated PDF document -- digest (opensource)
+
+/Info 6 0 R
+/Root 5 0 R
+/Size 9
 >>
 startxref
-4884
+2583
 %%EOF

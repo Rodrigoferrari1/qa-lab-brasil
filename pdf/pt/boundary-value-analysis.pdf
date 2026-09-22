@@ -1,326 +1,74 @@
 %PDF-1.4
-%âãÏÓ
+%“Œ‹ž ReportLab Generated PDF document (opensource)
 1 0 obj
 <<
-/Producer (pypdf)
+/F1 2 0 R /F2 3 0 R
 >>
 endobj
 2 0 obj
 <<
-/Type /Pages
-/Count 1
-/Kids [ 4 0 R ]
+/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
 >>
 endobj
 3 0 obj
 <<
-/Type /Catalog
-/Pages 2 0 R
+/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
 >>
 endobj
 4 0 obj
 <<
-/Contents 5 0 R
-/MediaBox [ 0 0 595.2756 841.8898 ]
-/Resources <<
-/ExtGState <<
-/gRLs0 <<
-/ca 0.035
->>
->>
-/Font <<
-/F1 6 0 R
-/F1-0 7 0 R
-/F2 8 0 R
-/F2-0 9 0 R
-/F3 10 0 R
->>
-/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
->>
-/Rotate 0
-/Trans <<
->>
-/Type /Page
-/Annots [ ]
-/Parent 2 0 R
+/Contents 8 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 7 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
 >>
 endobj
 5 0 obj
 <<
-/Length 3793
+/PageMode /UseNone /Pages 7 0 R /Type /Catalog
 >>
-stream
-q
-1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
-q
-1 0 0 1 51.35433 779.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F2 12 Tf 14 TL (QA Lab Brasil) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 749.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 4 Tm /F3 20 Tf 24 TL 136.2435 0 Td (An\341lise de Valor Limite) Tj T* -136.2435 0 Td ET
-Q
-Q
-q
-1 0 0 1 51.35433 724.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (T\351cnica focada nos limites entre parti\347\365es, onde defeitos s\343o frequentemente encontrados.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 714.3701 cm
-Q
-q
-1 0 0 1 51.35433 688.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Ideia) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 669.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Teste valores exatamente no limite e imediatamente abaixo/acima quando aplic\341vel.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 643.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Exemplo) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 624.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Para intervalo 18\22665, considere 17, 18, 19, 64, 65 e 66 conforme a regra e o risco.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 598.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Aplica\347\365es) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 579.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Campos num\351ricos, datas, tamanhos, quantidades, pagina\347\343o, limites de upload e thresholds.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 553.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Combina\347\343o) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 534.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Use com parti\347\343o de equival\352ncia e regras de neg\363cio para evitar uma lista mec\342nica de n\372meros.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 508.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Quando usar) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 476.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Use este conhecimento quando o risco, a arquitetura ou a etapa do ciclo de desenvolvimento exigir valida\347\343o) Tj T* (espec\355fica. Antes de aplicar, confirme objetivo, ambiente, dados necess\341rios e evid\352ncias esperadas.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 450.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Como o QA aplica na pr\341tica) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 418.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Comece pelo comportamento ou risco que precisa ser validado, prepare dados e ambiente, execute a t\351cnica ou) Tj T* (ferramenta de forma reproduz\355vel e registre evid\352ncias que permitam explicar o resultado ao time.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 392.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Dica de QA) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 373.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Limites n\343o s\343o apenas n\372meros: datas, estados, quantidades e transi\347\365es tamb\351m t\352m fronteiras.) Tj T* ET
-Q
-Q
- 
-
-Q
-
-q
-0.0 0.0 595.2756 841.8898 re
-W
-n
-1 0 0 1 0 0 cm
-BT
-/F1-0 12 Tf
-14.4 TL
-ET
-0.843137 0.901961 0.960784 RG
-0.6 w
-n
-36 815.8898 m
-559.2756 815.8898 l
-S
-0.070588 0.207843 0.356863 rg
-BT
-/F2-0 8.2 Tf
-9.84 TL
-ET
-BT
-1 0 0 1 40 821.8898 Tm
-(QA LAB BRASIL) Tj
-T*
-ET
-0.356863 0.45098 0.564706 rg
-BT
-/F1-0 6.8 Tf
-8.16 TL
-ET
-BT
-1 0 0 1 398.216 821.8898 Tm
-(QUALITY ENGINEERING \174 DOCUMENTO OFICIAL) Tj
-T*
-ET
-q
-0.848048 0.529919 -0.529919 0.848048 297.6378 420.9449 cm
-0.08 0.21 0.36 rg
-/gRLs0 gs
-BT
-/F2-0 42 Tf
-50.4 TL
-ET
-BT
-1 0 0 1 -164.493 0 Tm
-(QA LAB BRASIL) Tj
-T*
-ET
-Q
-0.843137 0.901961 0.960784 RG
-n
-36 24 m
-559.2756 24 l
-S
-0.356863 0.45098 0.564706 rg
-BT
-/F1-0 6.6 Tf
-7.92 TL
-ET
-BT
-1 0 0 1 40 14 Tm
-(qualityassurancebrasil\056com\056br) Tj
-T*
-ET
-BT
-1 0 0 1 210.9996 14 Tm
-(QA Lab Brasil v2\0562 \174 PT\055BR \174 Atualizado\072 setembro de 2026) Tj
-T*
-ET
-BT
-1 0 0 1 514.547 14 Tm
-(Pagina 1 de 1) Tj
-T*
-ET
-Q
-
-
-endstream
 endobj
 6 0 obj
 <<
-/BaseFont /Helvetica
-/Encoding /WinAnsiEncoding
-/Name /F1
-/Subtype /Type1
-/Type /Font
+/Author (\(anonymous\)) /CreationDate (D:20260922123401+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20260922123401+00'00') /Producer (ReportLab PDF Library - \(opensource\)) 
+  /Subject (\(unspecified\)) /Title (An\341lise de Valor Limite) /Trapped /False
 >>
 endobj
 7 0 obj
 <<
-/BaseFont /Helvetica
-/Encoding /WinAnsiEncoding
-/Name /F1
-/Subtype /Type1
-/Type /Font
+/Count 1 /Kids [ 4 0 R ] /Type /Pages
 >>
 endobj
 8 0 obj
 <<
-/BaseFont /Helvetica-BoldOblique
-/Encoding /WinAnsiEncoding
-/Name /F2
-/Subtype /Type1
-/Type /Font
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 1571
 >>
-endobj
-9 0 obj
-<<
-/BaseFont /Helvetica-Bold
-/Encoding /WinAnsiEncoding
-/Name /F2
-/Subtype /Type1
-/Type /Font
->>
-endobj
-10 0 obj
-<<
-/BaseFont /Helvetica-Bold
-/Encoding /WinAnsiEncoding
-/Name /F3
-/Subtype /Type1
-/Type /Font
->>
+stream
+Gatm;9lo&I'YO$=]VCs9&Ua00BP5agApe8)V'fVX'!dWC$(7So\'lGV"[u9^j&hb/XH>mO+PqIWq\HO]NgCSIbD,5,7;mYh,UBMC,W*uW\tSl!j=t)Ui1`c!Bd'e3&52%j7brL@-73@lE2b9:;J)0@e0LGm106M"N7CLc1<FgH=I0arAXqqn-s4L0jjQcG'hbC!1-#c"N+I]?EN=@Y$C2!T*VPuc;R8J%"jJL?,NU*!H)sc"AtkC?@\"*i99mZ;mY?pQ%bPP<Ro6@!6ZYE^k&\f)UK&WOane^5i:-lC,7W:kR?7a"jMV-I`'bJd6#sM%n<@Vh.TR!aI(]<0<aTS6-E^rCj!N*/8WAW0grW6ZAV=NM+D.Je&b:nBRHCbb_2Kh]'S1/)Y3Gf3e`RH%b@$d+M%UEqc?#u/*(Ng@UZAT`iIVeBW*PLeXo7`J]l3@flWiW-qdl^2$'crKGlcu'=.p'VEr,ETdaE^JcLM\61uLVTBbj&nIJuNI9M_%D'N`Y.WfU4Ae[!M),Ai&AUgZ`Kr.'a>U[-5!^*`]C81]r'LaJS$bP!q7aOk0^WVO@3Q-B[X'0]0@RgLM`UIR42*c$n5=G-lk=Y;GDWp&HB]iA7c^3<O:qU=#hUDr+c_<k2!p"MRJN*f=Ok!sISbFFtkH'Uf;Z@I&t=<2mkn#A(R.aS3DPba.9>c_h.&S:9$9C#F.b#01)WlN>1Ep_46g=U<4-ni24WH%k_KslkMY+6Z=\Asg@[-l`0(,r`MIc/d4i,2bQSpeN)M^>4`e5pF?'eX9N[IIR4DV'W^=S%<jH$_kQ3^"S/Xp6:L;&0bpB04`d9Pp04-:bdiQ(M^USb:=fXY"s2l#CLn.ZiK9^5PC*EqLl[WZt,.H#Y`Ah`n_b;hsC9+iN&QrPNfE4Q,KK[V4#l.FZdO'#`E!b!E]b]>Q\c`?cqOgApLqN@WSRCB-26mN1+B$Inmc$n!05ErJ,*"u^`ZA?R3Cp<\=;Uo4"@+F[sm%D'4.2UO!8?NrJT"e"?X>.*`b*/FY:HtBAB%i^F*AP*fjE&me%Ch!j4fEu!s%qpZP:fjRiK9>_I]QKpnLA/=,gb&+^St=6gg$num,GYamdWM=u!]p+WLWi&:CeGiR3sp1b[<;3TLFR_.2e)3s&%85b]E<r;@&\.n399;qEW*#^AE17bgf^QO#l;]6%K2>LX5!?V4._k_ohPRkIZ43ge$+Q3#N(4GLV<@UhJ`e5YT8N:gopt-@>b.FfF:Xd<;NmAWBqQ6p*nKedjFM9htssU$a>Fn3KWS'9r,gs2<\IjeP=@EqRu8c4'VSq<oNJI)uNXY"!W^07;Tsn2Q/-3+4"Eg."8`UJSMBRfeY6i.%JHR'])i5jA\SLkNod91*6"0<E![Ie&?V;r&Q!(+au`bP.tgZ!W@Tt*sXjSN182]No^fY+,']#@(q7eH:ts;BZFfjAh])`F;$<F_3B:ijYi^to0X\A^FH4uoBfn,0cZe(&7t7?DN$ULCHSWV6+,rD[J_IF"ciXF#=*W[s'pDBSEo+E[R&E6N1u&4^T@_[+!gst&Eg+r*`I:e?*4r@T]A<I\!p@~>endstream
 endobj
 xref
-0 11
+0 9
 0000000000 65535 f 
-0000000015 00000 n 
-0000000054 00000 n 
-0000000113 00000 n 
-0000000162 00000 n 
-0000000468 00000 n 
-0000004313 00000 n 
-0000004420 00000 n 
-0000004527 00000 n 
-0000004646 00000 n 
-0000004758 00000 n 
+0000000061 00000 n 
+0000000102 00000 n 
+0000000209 00000 n 
+0000000321 00000 n 
+0000000524 00000 n 
+0000000592 00000 n 
+0000000885 00000 n 
+0000000944 00000 n 
 trailer
 <<
-/Size 11
-/Root 3 0 R
-/Info 1 0 R
+/ID 
+[<cde76c25791e716017a6bc24d621a324><cde76c25791e716017a6bc24d621a324>]
+% ReportLab generated PDF document -- digest (opensource)
+
+/Info 6 0 R
+/Root 5 0 R
+/Size 9
 >>
 startxref
-4871
+2606
 %%EOF

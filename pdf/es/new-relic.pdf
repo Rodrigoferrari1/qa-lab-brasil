@@ -1,340 +1,93 @@
 %PDF-1.4
-%âãÏÓ
+%“Œ‹ž ReportLab Generated PDF document (opensource)
 1 0 obj
 <<
-/Producer (pypdf)
+/F1 2 0 R /F2 3 0 R
 >>
 endobj
 2 0 obj
 <<
-/Type /Pages
-/Count 1
-/Kids [ 4 0 R ]
+/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
 >>
 endobj
 3 0 obj
 <<
-/Type /Catalog
-/Pages 2 0 R
+/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
 >>
 endobj
 4 0 obj
 <<
-/Contents 5 0 R
-/MediaBox [ 0 0 595.2756 841.8898 ]
-/Resources <<
-/ExtGState <<
-/gRLs0 <<
-/ca 0.035
->>
->>
-/Font <<
-/F1 6 0 R
-/F1-0 7 0 R
-/F2 8 0 R
-/F2-0 9 0 R
-/F3 10 0 R
->>
-/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
->>
-/Rotate 0
-/Trans <<
->>
-/Type /Page
-/Annots [ ]
-/Parent 2 0 R
+/Contents 9 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 8 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
 >>
 endobj
 5 0 obj
 <<
-/Length 4285
+/Contents 10 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 8 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
 >>
-stream
-q
-1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
-q
-1 0 0 1 51.35433 779.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F2 12 Tf 14 TL (QA Lab Brasil) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 749.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 4 Tm /F3 20 Tf 24 TL 199.0435 0 Td (New Relic) Tj T* -199.0435 0 Td ET
-Q
-Q
-q
-1 0 0 1 51.35433 724.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (New Relic: concepto, aplicaci\363n en Quality Engineering, primeros pasos y referencia oficial.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 714.3701 cm
-Q
-q
-1 0 0 1 51.35433 688.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (\277Qu\351 es?) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 656.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (New Relic forma parte del ecosistema moderno de ingenier\355a y calidad de software. Esta gu\355a explica su funci\363n,) Tj T* (d\363nde encaja y c\363mo los profesionales de QA pueden utilizarla con contexto.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 630.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Aplicaci\363n en QA) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 598.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Para QA, New Relic puede apoyar validaci\363n, automatizaci\363n, diagn\363stico, datos, integraci\363n o calidad operativa) Tj T* (seg\372n el dominio. El foco debe estar en el problema que resuelve y los riesgos que ayuda a observar.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 572.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Primeros pasos) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 540.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Comience por la documentaci\363n oficial. Confirme prerrequisitos, versiones compatibles, permisos y pol\355ticas del) Tj T* (entorno antes de instalar o configurar.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 514.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Buenas pr\341cticas) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 482.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Utilice entornos controlados, evite credenciales en el c\363digo, registre evidencias y versione configuraciones cuando) Tj T* (corresponda.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 456.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Pr\363ximo paso) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 424.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Practique con un escenario peque\361o y reproducible antes de adoptar la tecnolog\355a en una suite o pipeline) Tj T* (corporativo.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 398.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Cu\341ndo utilizarlo) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 366.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Utilice este conocimiento cuando el riesgo, la arquitectura o la etapa de entrega requieran este tipo de validaci\363n.) Tj T* (Confirme objetivo, ambiente, datos necesarios y evidencias esperadas antes de comenzar.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 340.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Consejo de QA) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 321.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Relacione siempre la pr\341ctica con el riesgo del producto y la evidencia necesaria para decisiones de calidad.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 295.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Recursos oficiales) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 276.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Site oficial: https://newrelic.com/) Tj T* ET
-Q
-Q
- 
-
-Q
-
-q
-0.0 0.0 595.2756 841.8898 re
-W
-n
-1 0 0 1 0 0 cm
-BT
-/F1-0 12 Tf
-14.4 TL
-ET
-0.843137 0.901961 0.960784 RG
-0.6 w
-n
-36 815.8898 m
-559.2756 815.8898 l
-S
-0.070588 0.207843 0.356863 rg
-BT
-/F2-0 8.2 Tf
-9.84 TL
-ET
-BT
-1 0 0 1 40 821.8898 Tm
-(QA LAB BRASIL) Tj
-T*
-ET
-0.356863 0.45098 0.564706 rg
-BT
-/F1-0 6.8 Tf
-8.16 TL
-ET
-BT
-1 0 0 1 398.216 821.8898 Tm
-(QUALITY ENGINEERING \174 DOCUMENTO OFICIAL) Tj
-T*
-ET
-q
-0.848048 0.529919 -0.529919 0.848048 297.6378 420.9449 cm
-0.08 0.21 0.36 rg
-/gRLs0 gs
-BT
-/F2-0 42 Tf
-50.4 TL
-ET
-BT
-1 0 0 1 -164.493 0 Tm
-(QA LAB BRASIL) Tj
-T*
-ET
-Q
-0.843137 0.901961 0.960784 RG
-n
-36 24 m
-559.2756 24 l
-S
-0.356863 0.45098 0.564706 rg
-BT
-/F1-0 6.6 Tf
-7.92 TL
-ET
-BT
-1 0 0 1 40 14 Tm
-(qualityassurancebrasil\056com\056br) Tj
-T*
-ET
-BT
-1 0 0 1 212.28 14 Tm
-(QA Lab Brasil v2\0562 \174 ES \174 Actualizado\072 septiembre de 2026) Tj
-T*
-ET
-BT
-1 0 0 1 514.547 14 Tm
-(Pagina 1 de 1) Tj
-T*
-ET
-Q
-
-
-endstream
 endobj
 6 0 obj
 <<
-/BaseFont /Helvetica
-/Encoding /WinAnsiEncoding
-/Name /F1
-/Subtype /Type1
-/Type /Font
+/PageMode /UseNone /Pages 8 0 R /Type /Catalog
 >>
 endobj
 7 0 obj
 <<
-/BaseFont /Helvetica
-/Encoding /WinAnsiEncoding
-/Name /F1
-/Subtype /Type1
-/Type /Font
+/Author (\(anonymous\)) /CreationDate (D:20260922123401+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20260922123401+00'00') /Producer (ReportLab PDF Library - \(opensource\)) 
+  /Subject (\(unspecified\)) /Title (New Relic) /Trapped /False
 >>
 endobj
 8 0 obj
 <<
-/BaseFont /Helvetica-BoldOblique
-/Encoding /WinAnsiEncoding
-/Name /F2
-/Subtype /Type1
-/Type /Font
+/Count 2 /Kids [ 4 0 R 5 0 R ] /Type /Pages
 >>
 endobj
 9 0 obj
 <<
-/BaseFont /Helvetica-Bold
-/Encoding /WinAnsiEncoding
-/Name /F2
-/Subtype /Type1
-/Type /Font
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 1980
 >>
+stream
+Gatm;9lJcG&A@sBbctA_)3GR)dE<^?\r-`L7FHL#\M+Z`16=qYP1$/Y+2<lB/BPtgNPYu73u#qbSG1maKN!D>hZ(k[7$gP-s-"*4Zs43(=@C=coQdul=KinUGSUsN3)=!T/G<EW\b2\#aHUZcLkq3FAhoS_D&.t9+q:;l=t:C\bX<"QZ[GEb_B]Cb]ZF7go\5.d1^I58"QbPUM'jjrAE]'mf*#^m(H>iIGUao'VECUc_RPb):rfta+X=u_Oj*Mjc2nTt@QJp@fjV[!j4XL@S<h1lN/*I<I[R<cnU7\=\3T'DNK!Qfi)h=Q*WdYm*q4[jPi3=,9-o21/<ZZ8\Y0Nm(VeAgSsCJsDAFLK9N,CE_OCthM'S8U#h]c?O%dkDU^9\X..C=#9Zi;)&a7EW-!bu5q"FHKH*E*loFg,-9iDYH0b1,"7nMSK&oa-C*c?UPW\j*!IBM.udb:+(4V*g44A8(NBnjjl?<JP+/>]P"/Lm2D&?mtqS..H6R#nYNP.nU1NC?4[A;k`ZHQ3)e4PXM'3Wa+("@=lcGrfM+h9i&tN@B_`,N:N+2_`Y#?*_?r+_)BU9Udt!KZUa_@1i-mpRq^(q<4DET)-'T?7\33@G+W<q6HY(s6(Qs<L5&i+o6V:6P&[/"<ou/0pk==4:[Mg=qDQ$"nEN+5Jn;1jVBZU+7oo)*qTU,'BQ[FFktb-;Df4hDJm?OX@QFbME9%]G%RM?D5^JEIQs%F/+%GD)b"p]n5?PT3aTKn$qn<]>L^=]D;TKgCD:XaQM%`#'hNGph1k]TDZ2Ts>f_C<dis$$e[2W"UQ@CcC+=<s3k()_>)gL\/[VQ0Q3g.6Q-g(\V*]KLE)<LM5AKPbrLo`noXSZNXh3sArR;KN9t.agLK.Cb4J#Et^Z+;38DX#1qN[&:d^/0(8iOajWmm"=!dE1c/jOp<RaV+5Y#J^Qrhn:BXZ_DE&\cSobbC<+qouLfi`:cX]8`uI;8Il'F`SD(Pj.ELs0pBH(@jP.#$cf4>*XbWXuaAJ4+'6V1I$>,gUd3&IU;7\cEAoAFj<hRhRqdfHD0dM'(((*X\Hi<:n<3F+Ic8gb';F]1Cr=SUK4M-6aG"1\BUSL]bhZ?E)4L.]^#-aC8b4"s3)'1O>8d<"2Rb[K8UPrlf'Tb"Sr;Y_q0h3[EnBf`S&2lek%9kp/sD%m%$7N?ZiL,+R)+gV8B0Rjki#!a\e0.eQNLc'(jmP[-qbH8A)&jF_`$q"8)FJ9EYt.?.k4:N((-&;1!=j?(_];%60t%m""mt3U4pXVkM\=e)d>/f=ipuURO,Ir?M!j'oLKTmg^go<:1#$7'UuD"&To,9EWmn^$.5\0`.-$qM+C@OD^F+?F.<Ihm+c-.pK-7gL-r.cKU,01o;Ys%7>a'NS-5Eg6TJ:6QW7qq&[eVC9?qI$<h/PIAAg6o5aBket"m[YV83o.YVk]1;YY@SWn%Z[pd5H]j&1&:dcZ^f"T8fHC)CDDfa3iWpk]*7t]fh45URX]ju(Wha.^WL.RqBUPh5$2fH0NU39L2akrE/OgMc"<T1K>!h.hDKfXr.IUHt)l063bCZdAHAC/H2T+7V0nq;)52)<`$?[_kAd37gM%^A"cqAP[I^rC4UI\M]7?1,B]W?:c_^<XQMXj/G$g@[-Nq6U"#jGCiQVFI8^oL+U[n?4LB`sb!Q3\]b'I_%i.Wq.k5U)>>b,=pe8.7]ku>FN"``TG/V]bWZcar/d_2NBScHK?2qT(<`g8$]Co>?*3=LJ_/cXf*n&k[)g5bgt:X:Q9J_oupS#[!28uF+cH/@E"9e6arj`kIU1=nLg>7&gfu5!q/U@TZHE`k>>6A-O3*Y*h@25\JjW%*PUA2kj4k0GQ#"eAm;@7R;2HL)X)$mEVl::[l;\Ue*^i9S$frc5=`?M`^ejm6:On%kUes_?rk&jVRr`*2eK[C<He+[$L*;"HAp`[0kL(OM)O-^r<]>=@(0[;^KZ2aQZF`1rWbOk4RN~>endstream
 endobj
 10 0 obj
 <<
-/BaseFont /Helvetica-Bold
-/Encoding /WinAnsiEncoding
-/Name /F3
-/Subtype /Type1
-/Type /Font
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 1182
 >>
+stream
+Gatn#9lJfF&;KZM'm"I!K-_sEUlKW`('0AgEAk:2BSj?u6'5qTEk=biI#$E]8SK.l.'d#Ie;0QSpR)TqM?fWr9a>XNJY.F'^c6/=^]Y7R\V6MInPg'';cZsb"CnHp5cX`\OEO&@UaD$t/jRr%Oeic='oE[-92R9!?`8j$9'b"k<Kg<XWc:lL7AoN#Ml%f"3/=A59M?$ub;-\uD4D3W3-mPGf3Alh=UfEZZ_^f&SSc*&K!:]EeNV(\j^lCImu-:t"8\I'Vc<V(Rd6B4cS^3O<`;*pgG]9CNs@-q@6h:i:)k\@-P#p%SWKN]9MS4h?4e=m`MS9GpK'Sqjq0Linnpc/Q!+:K!Z*`"j%@C8K_cC6c(nDQZm&Z[RS.6\b*nkF_!TZ0>i/h8G^$b0-@j1m+q1YYo2<kR(oSEC^E/%`;KGk[K8dg^i;bfFkCU+`L#"eS/m5/G+M(&(Z*%8$>&1YFXU)-T5`)WtSIQMC_WAr$iPS_p,N>MeXDiml?BpmXFfOPn[D9-qB##^TN9NbKEt?mEoZdR:"2Iu0^W.Ldfr9%QU*MKQ8(6Q;@hhu^FlYDT)<N(4D>BgV'KFA-VEq$l5+.VL\FK"7^_dIg-<UFtq_[#&A]5&ti#+u=]#NNP$T>fhp.r3)hDLYH`3=Br0j3_8O+@7<)r$kCi[*5IgPgbRYBeggnS.I]@c;:/m:(*t3qV_]fm`RGBd5q<HT.>Y*o`8j&$6`=*4)JaNJkXH@)@HWeq2R$]/'c;I6T"+*$:BjoQs`W;U,W`]E-&_-1S#\Yt-F+$M-hn<4JM6rn,7B*f@3unR.h0@_p'643L7D+340n]6+Ci7C6W>1JUnc:%W.AT1[3,F==?!_1FU%B%+9S70K6d*<NWoUO=s"RUfVA)J;013Lko-82"m<Z.ka)TGfWWT"mG+M'-lP#Fgn@0KSoXnZ_]H@mnZbYUeNnIL"T,iif,Zb4:=]r?F`NNR%1,Z8#&7A(Q`SllT[V55t\4-"EqMs1jS#b*Ofs*DL5-_A0N!H[D454Dm.,rA5jfW9`;p,<<EkgXNbtp=!@7;YTN]dpAVcK'D\Z(OM[dR;SLnL;o9,@1-LNrT3n9kdP^s21*>uS_oHP6f;ei]hQi%g`u0Q+=;m$CSZBoY%Ykj)[",>->@N?F>h(EoTSP2"<Cc/h"2Um+dH/P"Vgt<X$8Pu~>endstream
 endobj
 xref
 0 11
 0000000000 65535 f 
-0000000015 00000 n 
-0000000054 00000 n 
-0000000113 00000 n 
-0000000162 00000 n 
-0000000468 00000 n 
-0000004805 00000 n 
-0000004912 00000 n 
-0000005019 00000 n 
-0000005138 00000 n 
-0000005250 00000 n 
+0000000061 00000 n 
+0000000102 00000 n 
+0000000209 00000 n 
+0000000321 00000 n 
+0000000524 00000 n 
+0000000728 00000 n 
+0000000796 00000 n 
+0000001072 00000 n 
+0000001137 00000 n 
+0000003208 00000 n 
 trailer
 <<
+/ID 
+[<81bfe4d0d0ce04ae8ed148af0387b357><81bfe4d0d0ce04ae8ed148af0387b357>]
+% ReportLab generated PDF document -- digest (opensource)
+
+/Info 7 0 R
+/Root 6 0 R
 /Size 11
-/Root 3 0 R
-/Info 1 0 R
 >>
 startxref
-5363
+4482
 %%EOF

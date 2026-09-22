@@ -1,535 +1,93 @@
 %PDF-1.4
-%âãÏÓ
+%“Œ‹ž ReportLab Generated PDF document (opensource)
 1 0 obj
 <<
-/Producer (pypdf)
+/F1 2 0 R /F2 3 0 R
 >>
 endobj
 2 0 obj
 <<
-/Type /Pages
-/Count 2
-/Kids [ 4 0 R 11 0 R ]
+/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
 >>
 endobj
 3 0 obj
 <<
-/Type /Catalog
-/Pages 2 0 R
+/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
 >>
 endobj
 4 0 obj
 <<
-/Contents 5 0 R
-/MediaBox [ 0 0 595.2756 841.8898 ]
-/Resources <<
-/ExtGState <<
-/gRLs0 <<
-/ca 0.035
->>
->>
-/Font <<
-/F1 6 0 R
-/F1-0 7 0 R
-/F2 8 0 R
-/F2-0 9 0 R
-/F3 10 0 R
->>
-/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
->>
-/Rotate 0
-/Trans <<
->>
-/Type /Page
-/Annots [ ]
-/Parent 2 0 R
+/Contents 9 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 8 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
 >>
 endobj
 5 0 obj
 <<
-/Length 6067
+/Contents 10 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 8 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
 >>
-stream
-q
-1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
-q
-1 0 0 1 51.35433 779.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F2 12 Tf 14 TL (QA Lab Brasil) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 749.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 4 Tm /F3 20 Tf 24 TL 191.2735 0 Td (API Testing) Tj T* -191.2735 0 Td ET
-Q
-Q
-q
-1 0 0 1 51.35433 724.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Application Programming Interface, HTTP, request/response, methods, status codes, authentication and validations.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 714.3701 cm
-Q
-q
-1 0 0 1 51.35433 688.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (API in simple terms) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 643.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 29.5 Tm /F1 9.5 Tf 13 TL (API means Application Programming Interface. It defines a standardized way for systems to request and exchange) Tj T* (data or operations. In e-commerce, a frontend can call inventory, payment or order APIs without knowing every) Tj T* (internal detail of those systems.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 617.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Request and Response) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 585.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (A request usually combines method, URL/endpoint, headers, parameters and, when needed, a body. A response) Tj T* (provides an HTTP status, headers and body. QA should validate transport, business rules and resulting effects.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 559.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (GET, POST, PUT, PATCH and DELETE) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 514.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 29.5 Tm /F1 9.5 Tf 13 TL -0.113898 Tw (GET retrieves; POST commonly creates or triggers processing; PUT often replaces a representation; PATCH partially) Tj T* 0 Tw (changes it; DELETE removes. The API contract is the source of truth: do not infer exact behavior from the method) Tj T* (name alone.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 488.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (2xx status - success) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 443.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 29.5 Tm /F1 9.5 Tf 13 TL (200 OK is general success; 201 Created is appropriate when a resource is created; 202 Accepted means accepted) Tj T* (for processing that may continue later; 204 No Content means success without a response body. QA should also) Tj T* (validate persistence, headers and effects.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 417.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (4xx status - request/client problems) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 372.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 29.5 Tm /F1 9.5 Tf 13 TL (400 Bad Request indicates an invalid request; 401 commonly means missing/failed authentication; 403 means the) Tj T* (server understood but does not authorize the action; 404 means resource not found; 409 conflict; 422 semantically) Tj T* (invalid content; 429 too many requests/rate limiting.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 346.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (5xx status - server/upstream problems) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 314.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL -0.110105 Tw (500 is a generic internal error; 502 indicates an invalid upstream/gateway response; 503 temporary unavailability; 504) Tj T* 0 Tw (gateway timeout. QA should investigate logs, dependencies, retries, messages and consumer behavior.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 288.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Headers, JSON and schema) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 256.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Headers carry metadata such as Content-Type, Authorization, correlation IDs and caching. JSON is a common) Tj T* (payload format. Schema/contract validation checks types, required fields, structure and compatibility.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 230.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Authentication and authorization) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 198.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (API testing often involves API keys, Basic Auth, Bearer tokens, JWT, OAuth 2.0 or other mechanisms. Authentication) Tj T* (confirms identity; authorization defines what that identity may do. Test them separately.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 172.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Positive, negative and security tests) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 140.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Do not test only valid payloads. Explore missing/null fields, wrong types, boundaries, unknown IDs, duplication,) Tj T* (repetition, permissions, value manipulation, injection and unintended data exposure as relevant.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 114.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Real integration example) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 69.37008 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 29.5 Tm /F1 9.5 Tf 13 TL (Frontend sends POST /orders; API validates cart and payment; order service persists data; an event is published;) Tj T* (ERP receives the order. QA can validate the immediate response and later effects, tracing correlation IDs and data) Tj T* (across systems.) Tj T* ET
-Q
-Q
- 
-
-Q
-
-q
-0.0 0.0 595.2756 841.8898 re
-W
-n
-1 0 0 1 0 0 cm
-BT
-/F1-0 12 Tf
-14.4 TL
-ET
-0.843137 0.901961 0.960784 RG
-0.6 w
-n
-36 815.8898 m
-559.2756 815.8898 l
-S
-0.070588 0.207843 0.356863 rg
-BT
-/F2-0 8.2 Tf
-9.84 TL
-ET
-BT
-1 0 0 1 40 821.8898 Tm
-(QA LAB BRASIL) Tj
-T*
-ET
-0.356863 0.45098 0.564706 rg
-BT
-/F1-0 6.8 Tf
-8.16 TL
-ET
-BT
-1 0 0 1 399.3516 821.8898 Tm
-(QUALITY ENGINEERING \174 OFFICIAL DOCUMENT) Tj
-T*
-ET
-q
-0.848048 0.529919 -0.529919 0.848048 297.6378 420.9449 cm
-0.08 0.21 0.36 rg
-/gRLs0 gs
-BT
-/F2-0 42 Tf
-50.4 TL
-ET
-BT
-1 0 0 1 -164.493 0 Tm
-(QA LAB BRASIL) Tj
-T*
-ET
-Q
-0.843137 0.901961 0.960784 RG
-n
-36 24 m
-559.2756 24 l
-S
-0.356863 0.45098 0.564706 rg
-BT
-/F1-0 6.6 Tf
-7.92 TL
-ET
-BT
-1 0 0 1 40 14 Tm
-(qualityassurancebrasil\056com\056br) Tj
-T*
-ET
-BT
-1 0 0 1 221.4507 14 Tm
-(QA Lab Brasil v2\0562 \174 EN \174 Updated\072 September 2026) Tj
-T*
-ET
-BT
-1 0 0 1 519.6818 14 Tm
-(Page 1 de 2) Tj
-T*
-ET
-Q
-
-
-endstream
 endobj
 6 0 obj
 <<
-/BaseFont /Helvetica
-/Encoding /WinAnsiEncoding
-/Name /F1
-/Subtype /Type1
-/Type /Font
+/PageMode /UseNone /Pages 8 0 R /Type /Catalog
 >>
 endobj
 7 0 obj
 <<
-/BaseFont /Helvetica
-/Encoding /WinAnsiEncoding
-/Name /F1
-/Subtype /Type1
-/Type /Font
+/Author (\(anonymous\)) /CreationDate (D:20260922123400+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20260922123400+00'00') /Producer (ReportLab PDF Library - \(opensource\)) 
+  /Subject (\(unspecified\)) /Title (API Testing) /Trapped /False
 >>
 endobj
 8 0 obj
 <<
-/BaseFont /Helvetica-BoldOblique
-/Encoding /WinAnsiEncoding
-/Name /F2
-/Subtype /Type1
-/Type /Font
+/Count 2 /Kids [ 4 0 R 5 0 R ] /Type /Pages
 >>
 endobj
 9 0 obj
 <<
-/BaseFont /Helvetica-Bold
-/Encoding /WinAnsiEncoding
-/Name /F2
-/Subtype /Type1
-/Type /Font
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 2151
 >>
+stream
+Gatm;gNM=0(4Fe9S4C'3JI.LtV1,^K[n4W@8T",&?kSXTneQb_UKR3YZN4AX`K%(b-sfQ/5QYTYm!Uc%3-k;ZmPCo"Y*X8#$RbAkE^`*$+Y@WsB"@]B?s`-g1a3]U*_1faAH0WEf8Fqu'#qKFLD6Wu'7gFg>/WVrP9>g-A*"npR.#=bhKs7bK%TZ-Hq@K-\_"la`!]].qii[U6Tet#.K[634Q^]#Euuo+M^NtpP(]_i6^UBL*RoA9>_nL3e;s@\':a>s&G`rgG9[b*X>Q&u:s7\A]UsK>H-agCPq=nPeW1(`*e280UB/OniHXjZ5Os=0I&%1O!*g]Z4CXua(!DK[rj_fUQ@I<Q8,G49@S\6U0gEUC'\rM(./"m]@g"tO]b_iK=V?L]h(iV0UjS+d[o_1'I<Ti6nTI-!85*-BE;Z=RIN[c4S73E`Gs-u(=mGTd#h$o%kdGS3YDZR5?.A3=:eAHT3$=N_a?90]L;HRs])-VIdiJT49-V0N^d6%hYr>Y1rHFp>E6O`+n-s])!hbFj]hG@l^_T2n$RRi/G+"I'FKMAg8tu=snNG6KTSR4JiX)B1N("",<Sr'FM!#Sg/3N\%&;iuONGdG1M;=*Y`55Hu\;*4o[*7e$lLRML.b!c2o%i7T%cYYKr8`!^;<mV$A3BGB"D[F)GQfi?g7Q2;fY0<&L?:WH6=Fl+?+"NPA?m_SRQg%LX^tK521;PfV,oENkO`2nr-V7CIHe#3$a!+We-=rul8D@ScH116lO@E"Y4,*Xh+#rN[&C(t.0X@FOBM"+%6NM5jaAKRNC8ST7(c]P0C^t8@liZON"n4<U2!=ifR%1i5ff]61/X5;@7VT-<Ro]"$F?Vt[*1RW:u.=55e/bCWXL-%^mJ&3W,=Y2l>l1rRn.hg4)3lcCh.uYo<;(I=8Ee9_s^&2ruQYbJ^:T[JMS-1\h>YW7BWZ!ku=3jcUhj,BOdI-8KH:qPraY0mgZO[3'A/"GCtPhd(9nRgCV>14W[BSr:i^DV`LR/^iVjXW.(tM*R!];rk,kV:j(VQ7?,73<4*@8W?=m$k];%OE<NVn'n/]"B_!aMq)CF)M.h&'#e'*$I::>M]5.n^TdI*[qD+[37A.E86Md)Q%dFtKqU1fQWRXUPh(dG3I.)4?_j$dPq-S'+kOeT!^&@lXIU"J^IrILLq<%B_H1NrL0_A,;Jp/9r!Co@Eb9r&SU?H]m*gO9X-sce`;U2Xi[G>Lm;68B80JJrH#Gh7FmY7/Fl4?Uq-1'?s#JPd%e?pgeb@.m/(-NHJC?g[BIiDOo0s0Xla(/S,eGouPj[M7+RLKPb"N)A2oK#nV$rCo%T."WJq\8]qBi8:CYM.(<U=$;<<k>9clp9i76d?t#VEW!I_SCXg/a*L:V&'*sf?$56Om+ZkmC+5Cih%46hsh#[f(A362W&:M.kSpNa!H`V:@F`)Ed(WmcpOiA>HQ0a/H6q\GWZ6[\'o`9_@iuA="0C,b`&'H=-2*1>p)d`<6;9&^SlKJ-.^LfXcS!MkWOZoZ=1-I+?^I4(T3;K*<seqk&<DOOelc8?IM6rKs>9J3cq:[9dN'fq5R*i/l!aWE*jqjH^'eL9aS-#:o\#O#X8Yl-^t[Q\X)r2)\/:1cL':K\:7Af<)6=D;)<U_1]rS7iMaLnaeFG2%f6>i,FE0b-9+(`q@Rl-f9W\E6#GAZ,B(SnA83TYHPtZo/esC$B=Z`_<t1J#:K+=*'me?sEXit]ff#jn%ZrWPBhR-P7*P7$!Wo=/hG,"I(Y[$4/?6RY;+J^K(X_P(o)8>o1(jh0j&10M\#)OO<r[f4Gl1?`dI69i5Y%shFm`1=82L[gL(1\"mudh/j@+&_a=l+hng(]N$.q6=)Jc^>>3bM!Bj]%RLeU&Ip'PQl$>GrERn-Z'IV46lp0P.MN&GJD0tD&H0#9CPgR&HuWNioGA*!KU7Kkh-I0H`JVpc5ei6`Jq.M#;+U4/K`^#/6BrU.nUA/crrD4&Fqnhg9*0IW,g>ANFJ**QO(hiK[Yn\8:G>?LRK\!I<$<B8i>55mZ(GUBbV/\PRs<`sd6=9G#[./!qH,T+:?gV0%:O58=u*K/)>L@ZOt)=F>T[YIqXb2G7YqlK+kqM+gG`UlH-8$JS0]6(dB^[d#)s*pB]B3465S(KZ=C%5R#[oM&~>endstream
 endobj
 10 0 obj
 <<
-/BaseFont /Helvetica-Bold
-/Encoding /WinAnsiEncoding
-/Name /F3
-/Subtype /Type1
-/Type /Font
->>
-endobj
-11 0 obj
-<<
-/Contents 12 0 R
-/MediaBox [ 0 0 595.2756 841.8898 ]
-/Resources <<
-/ExtGState <<
-/gRLs0 <<
-/ca 0.035
->>
->>
-/Font <<
-/F1 6 0 R
-/F1-0 13 0 R
-/F2 8 0 R
-/F2-0 14 0 R
-/F3 10 0 R
->>
-/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
->>
-/Rotate 0
-/Trans <<
->>
-/Type /Page
-/Annots [ ]
-/Parent 2 0 R
->>
-endobj
-12 0 obj
-<<
-/Length 1502
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 1244
 >>
 stream
-q
-1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
-q
-1 0 0 1 51.35433 777.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (QA tip) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 758.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (200 OK alone does not prove the business rule is correct; validate content and operation effects.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 732.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Official resources) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 713.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Site oficial: https://developer.mozilla.org/en-US/docs/Web/HTTP) Tj T* ET
-Q
-Q
- 
-
-Q
-
-q
-0.0 0.0 595.2756 841.8898 re
-W
-n
-1 0 0 1 0 0 cm
-BT
-/F1-0 12 Tf
-14.4 TL
-ET
-0.843137 0.901961 0.960784 RG
-0.6 w
-n
-36 815.8898 m
-559.2756 815.8898 l
-S
-0.070588 0.207843 0.356863 rg
-BT
-/F2-0 8.2 Tf
-9.84 TL
-ET
-BT
-1 0 0 1 40 821.8898 Tm
-(QA LAB BRASIL) Tj
-T*
-ET
-0.356863 0.45098 0.564706 rg
-BT
-/F1-0 6.8 Tf
-8.16 TL
-ET
-BT
-1 0 0 1 399.3516 821.8898 Tm
-(QUALITY ENGINEERING \174 OFFICIAL DOCUMENT) Tj
-T*
-ET
-q
-0.848048 0.529919 -0.529919 0.848048 297.6378 420.9449 cm
-0.08 0.21 0.36 rg
-/gRLs0 gs
-BT
-/F2-0 42 Tf
-50.4 TL
-ET
-BT
-1 0 0 1 -164.493 0 Tm
-(QA LAB BRASIL) Tj
-T*
-ET
-Q
-0.843137 0.901961 0.960784 RG
-n
-36 24 m
-559.2756 24 l
-S
-0.356863 0.45098 0.564706 rg
-BT
-/F1-0 6.6 Tf
-7.92 TL
-ET
-BT
-1 0 0 1 40 14 Tm
-(qualityassurancebrasil\056com\056br) Tj
-T*
-ET
-BT
-1 0 0 1 221.4507 14 Tm
-(QA Lab Brasil v2\0562 \174 EN \174 Updated\072 September 2026) Tj
-T*
-ET
-BT
-1 0 0 1 519.6818 14 Tm
-(Page 2 de 2) Tj
-T*
-ET
-Q
-
-
-endstream
-endobj
-13 0 obj
-<<
-/BaseFont /Helvetica
-/Encoding /WinAnsiEncoding
-/Name /F1
-/Subtype /Type1
-/Type /Font
->>
-endobj
-14 0 obj
-<<
-/BaseFont /Helvetica-Bold
-/Encoding /WinAnsiEncoding
-/Name /F2
-/Subtype /Type1
-/Type /Font
->>
+Gatm8_/A9k&A@B[k*Rb&/kLmDKq&cl[R_!<Z\a7))2XBaO[tb%S@Ie'G:;4Og8<Pt=<"KDiFqBD]f0Ien]Rfe\c]HG_8jk1(l-W[=@!9rh88h7q^j&"U9#hq'TC.3!%HAe6?pXX-59mIncE?%&s8(R\kI.]<F1of=I[EqE([0"SubI8.93mVLnmuG+eiXF9$X-U:*Cs@X@/XPbq[M"A/m*>M^r*FV-!mWKK2r&T['f#'*VeZQ]!uB#j$?R:Xr7',6k5,`str#;eSA@>^Sa,5M<'C9t(%_+n>=r7OK(X/.n'UPjj;8\A8Z<@2/pC"?%o)+]+%r#A7BsItH30=FE`nKM!_Y!l>=M<2^h(KiiMs%NX3'oV-u$7*1%X,;UN3`=<pHp@8QnmOoZ"DO8TT+<jsAiP/8Q(NUZ&13HI_2kc10SE9VpUMfJ'K5:3lSM@slVe%BDZWuWX</&QV\Z/!C9#:JPR=g1pPc,5RFJqJk\6+DfGk`(gUc<<?8mJ(Ib8aBELU.st(C44f!\T::9V%QuO)PhUZn9'8!.4hD.h9t.SNL@4E[$Z,l7U<u/#cLh,Hl(/&4;R$o=ssq^hN'm%4[q0'++TijkU@S-4WQ^q"8#7=L[tjejN&5cXn!>i<mEOE&eCI>T4\WJAFGhLKhOk\iPU"BaZnohuia_KDV4=2qls;7<1N:=irL;YdGORG>NXq[\8UeRhQld(SEM##Q+B^TeU<s1;_4(%ksfO@jZ;D#E:+86Kkpj3f'Zb5nBjKOhVJ&2MJ]/.==2Xk@;?u]/+Hd\Caa(-ZY@/C81LK7m#A*3<s2gFBX6=%0E]QONs$QO5Iu_9)@RYs5_#l@;68.[6*%#lnm)T?0cVH$!b7=XUbUs)^B[hUDqr'f%.2;MZ+5Ng1Aq0"s4obkSbIX>*&+)q%j8pTAoYtHSbB_61].'VDkI3[-gYUb55]p">F:HoLqKXLLf_bR<l/*,&DAPTg9XH5bePnk-ar'7#X09g"'uI)ubK`A]`i]^<H0jVZ"3U/L8tE@IIq%Wk5u&hhNWpruZ:A"o=P?T2Dg\*Lb82&am@qi'$3i@m[hqk'W=6V^Fg5__BJt?Kc@^/mui>2oF4t-A`Ki)KsO/-PhcM`AFg*L!TVcZ*eR]RL?X>^I)jQA(--`F1O"o!3a'S?Tkig[VXQ``hoYA@ZRD=cO$$@gRIjSXaiSQK!#nKqcW:gMSCMTD)]-`fgFB-`s?Z$#ICpohI0Y)$Y)Hq-Zl:W.K~>endstream
 endobj
 xref
-0 15
+0 11
 0000000000 65535 f 
-0000000015 00000 n 
-0000000054 00000 n 
-0000000120 00000 n 
-0000000169 00000 n 
-0000000475 00000 n 
-0000006594 00000 n 
-0000006701 00000 n 
-0000006808 00000 n 
-0000006927 00000 n 
-0000007039 00000 n 
-0000007152 00000 n 
-0000007462 00000 n 
-0000009017 00000 n 
-0000009125 00000 n 
+0000000061 00000 n 
+0000000102 00000 n 
+0000000209 00000 n 
+0000000321 00000 n 
+0000000524 00000 n 
+0000000728 00000 n 
+0000000796 00000 n 
+0000001074 00000 n 
+0000001139 00000 n 
+0000003381 00000 n 
 trailer
 <<
-/Size 15
-/Root 3 0 R
-/Info 1 0 R
+/ID 
+[<cb7ab039670b4dc4d995f89b8dd61bbf><cb7ab039670b4dc4d995f89b8dd61bbf>]
+% ReportLab generated PDF document -- digest (opensource)
+
+/Info 7 0 R
+/Root 6 0 R
+/Size 11
 >>
 startxref
-9238
+4717
 %%EOF

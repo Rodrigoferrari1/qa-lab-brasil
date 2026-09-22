@@ -1,339 +1,99 @@
 %PDF-1.4
-%âãÏÓ
+%“Œ‹ž ReportLab Generated PDF document (opensource)
 1 0 obj
 <<
-/Producer (pypdf)
+/F1 2 0 R /F2 3 0 R /F3 4 0 R
 >>
 endobj
 2 0 obj
 <<
-/Type /Pages
-/Count 1
-/Kids [ 4 0 R ]
+/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
 >>
 endobj
 3 0 obj
 <<
-/Type /Catalog
-/Pages 2 0 R
+/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
 >>
 endobj
 4 0 obj
 <<
-/Contents 5 0 R
-/MediaBox [ 0 0 595.2756 841.8898 ]
-/Resources <<
-/ExtGState <<
-/gRLs0 <<
-/ca 0.035
->>
->>
-/Font <<
-/F1 6 0 R
-/F1-0 7 0 R
-/F2 8 0 R
-/F2-0 9 0 R
-/F3 10 0 R
->>
-/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
->>
-/Rotate 0
-/Trans <<
->>
-/Type /Page
-/Annots [ ]
-/Parent 2 0 R
+/BaseFont /Courier /Encoding /WinAnsiEncoding /Name /F3 /Subtype /Type1 /Type /Font
 >>
 endobj
 5 0 obj
 <<
-/Length 4263
+/Contents 10 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 9 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
 >>
-stream
-q
-1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
-q
-1 0 0 1 51.35433 779.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F2 12 Tf 14 TL (QA Lab Brasil) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 749.3701 cm
-q
-BT 1 0 0 1 0 4 Tm 113.4835 0 Td 24 TL /F3 20 Tf 0 0 0 rg (Docker & Containers for QA) Tj T* -113.4835 0 Td ET
-Q
-Q
-q
-1 0 0 1 51.35433 724.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Images, containers, Dockerfiles, volumes, ports and why containers help reproduce test environments.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 714.3701 cm
-Q
-q
-1 0 0 1 51.35433 688.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Image vs container) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 656.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL -0.032925 Tw (An image is an immutable package with an application and its dependencies. A container is a running instance of that) Tj T* 0 Tw (image, isolated from the rest of the system.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 630.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Dockerfile and execution) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 598.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (A Dockerfile describes how to build an image. Ports, volumes, environment variables and networks control) Tj T* (communication and data persistence.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 572.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Use in QA) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 540.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Containers help create reproducible dependencies, temporary databases, mocks, services and local environments) Tj T* (close to the pipeline.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 514.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Considerations) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 482.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Different versions, persisted data, networking, resources and secrets can produce different behavior. Record the) Tj T* (image/tag used in evidence when relevant.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 456.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (When to use it) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 424.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Use this knowledge when product risk, architecture or the delivery stage requires this type of validation. Confirm the) Tj T* (goal, environment, required data and expected evidence before starting.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 398.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (How QA applies it) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 366.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Start from the behavior or risk to validate, prepare data and environment, execute the technique or tool reproducibly) Tj T* (and capture evidence that helps the team understand the result.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 340.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (QA tip) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 308.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL -0.037317 Tw (If a bug occurs only in one environment, comparing container image, configuration and variables can reveal important) Tj T* 0 Tw (differences.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 282.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Official resources) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 263.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Site oficial: https://www.docker.com/) Tj T* ET
-Q
-Q
- 
-
-Q
-
-q
-0.0 0.0 595.2756 841.8898 re
-W
-n
-1 0 0 1 0 0 cm
-BT
-/F1-0 12 Tf
-14.4 TL
-ET
-0.843137 0.901961 0.960784 RG
-0.6 w
-n
-36 815.8898 m
-559.2756 815.8898 l
-S
-0.070588 0.207843 0.356863 rg
-BT
-/F2-0 8.2 Tf
-9.84 TL
-ET
-BT
-1 0 0 1 40 821.8898 Tm
-(QA LAB BRASIL) Tj
-T*
-ET
-0.356863 0.45098 0.564706 rg
-BT
-/F1-0 6.8 Tf
-8.16 TL
-ET
-BT
-1 0 0 1 399.3516 821.8898 Tm
-(QUALITY ENGINEERING \174 OFFICIAL DOCUMENT) Tj
-T*
-ET
-q
-0.848048 0.529919 -0.529919 0.848048 297.6378 420.9449 cm
-0.08 0.21 0.36 rg
-/gRLs0 gs
-BT
-/F2-0 42 Tf
-50.4 TL
-ET
-BT
-1 0 0 1 -164.493 0 Tm
-(QA LAB BRASIL) Tj
-T*
-ET
-Q
-0.843137 0.901961 0.960784 RG
-n
-36 24 m
-559.2756 24 l
-S
-0.356863 0.45098 0.564706 rg
-BT
-/F1-0 6.6 Tf
-7.92 TL
-ET
-BT
-1 0 0 1 40 14 Tm
-(qualityassurancebrasil\056com\056br) Tj
-T*
-ET
-BT
-1 0 0 1 221.4507 14 Tm
-(QA Lab Brasil v2\0562 \174 EN \174 Updated\072 September 2026) Tj
-T*
-ET
-BT
-1 0 0 1 519.6818 14 Tm
-(Page 1 de 1) Tj
-T*
-ET
-Q
-
-
-endstream
 endobj
 6 0 obj
 <<
-/BaseFont /Helvetica
-/Encoding /WinAnsiEncoding
-/Name /F1
-/Subtype /Type1
-/Type /Font
+/Contents 11 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 9 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
 >>
 endobj
 7 0 obj
 <<
-/BaseFont /Helvetica
-/Encoding /WinAnsiEncoding
-/Name /F1
-/Subtype /Type1
-/Type /Font
+/PageMode /UseNone /Pages 9 0 R /Type /Catalog
 >>
 endobj
 8 0 obj
 <<
-/BaseFont /Helvetica-BoldOblique
-/Encoding /WinAnsiEncoding
-/Name /F2
-/Subtype /Type1
-/Type /Font
+/Author (\(anonymous\)) /CreationDate (D:20260922123400+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20260922123400+00'00') /Producer (ReportLab PDF Library - \(opensource\)) 
+  /Subject (\(unspecified\)) /Title (Docker & Containers for QA) /Trapped /False
 >>
 endobj
 9 0 obj
 <<
-/BaseFont /Helvetica-Bold
-/Encoding /WinAnsiEncoding
-/Name /F2
-/Subtype /Type1
-/Type /Font
+/Count 2 /Kids [ 5 0 R 6 0 R ] /Type /Pages
 >>
 endobj
 10 0 obj
 <<
-/BaseFont /Helvetica-Bold
-/Encoding /WinAnsiEncoding
-/Name /F3
-/Subtype /Type1
-/Type /Font
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 2062
 >>
+stream
+Gatm<gQ(#H&:O:SbYtbU*3Migo<t,])^%D8`'p;4M72*&6nK_<2:.EQ$meR#m9Yb$ENkQSB'+'XR1#@6LEGr5AgP7[$EcU5huZpuhuO3no`[O^(AA4!V&iDW?ifG1'EX3V:CMEYW"rgY3;5f@E>l+/%g+3rZ!\dGK4nF=(3.9GkG>M5EQ\43o+HFA=mW]d_b/qa/.r#i`O*Qn(8mj%VT(L0=j.%Q3#PL[^ljAK0L?UXZ3fg+<\2+<nPmH5I3E6pn09YjT2n](d+5]b5V8k0nN<T:n]_#m<jpX42K'?JGl1r;*=Z\JKoQD!M1GnZ_$A-0$A(o;F<7\06n24`>^a<])-27'l4*,m?L3A;!_`alO<Slm%`5c3FR[(9VIps5QmHb1d?-Es_itZQi60@sgjZm2rqXam=TBuuM/`AO8VA1GIQ5:,-$e1#a&sn%h`L(5U"^f>XL>]<b3E_'GEqsYO*tD-MNPr#V*X=A$%2V];8J1lO!PCT.?T75M/]n&_"VK7Z!`Aj(uZ.n4n91b1n<Z\3^D=@+qPn*3DZNna>MaVg#rLq*rnJ,r=tN0j=WW)$rP#QJ7:"#g#0p2LANt4%g$do;4je4J_sNh#cA=[Q7$c*c[G-qY!/6>:0I>uhOCO1(fT2)``SW#o(Jb+L\PRS,'a?u2oj-ejM_F_6_mgF0X(S+ocF@eK92,RMN?pG):DBb5*p;jRO)Jhlm;::g$"#olqPlmoM?L]2B]%?%_Lb;5O;?HK2o<:H']sn<RZQ"p=bt8<)q\W#:)HXU'MG*`?Sk=S0.RG]R.SiA#mqmF?22DS*:>o!;-'tKNrat`r)\8m4`42-U*l&/(]K,>%VucIaIJBhT38\F=(4/.Mm>h"QZR`<N`>qX+nI8F9lLgCfaWCAA6Jle&i#30cOeMZL'e.EO.*)X)cip;rSaM$mKV-Q\+AP[&Q6D38qVG>aP^3,OW%c7V>m?d-+N@JE/'C87O8?YG4N+cR$3ld\A1',4'TLiTcIn\QG75Wom"T1o@V#JSa-AW%F0?Nu7DHZH/hf#J7FHRs3K9LVn])c48#kGs*o:Sc-BeU"Pj:aC3mlfk?9`%aN/'A%sGIhBb!a9hC;>mh$Kk@9,<W2"`e<4'>u4TV.;t.s6B%P&5us3("&*BO?mR(L9]A;i,NU:k,OI4&5tBm=L`gX-K'?9kO&:UUW)bBFV%)NSMSugDToa'm*JRB13I,dV>c_I>+e&HSG/r02^:7,:=msZE*+F+d]<aReXgc74k(H<"OnQR0n?A@SBXfkR&BT:!_bgdi[gicVX64;1m"B8m..%9!97F;_;9aj!lcH-o!0JCY@'DM>U8?.(e*a^eS;n3DhPMFc[>mb(AmL>h>u@#\Qun-a1`CIcOdn&e%L0F(LnuRPVa9i,ZJXcl6'Zg0#"KagY@Cng&_O@nUQ0Y+G<[D\Vb5EQ5(@%351WENOD)YDm,_9kD=>V2X&G8U0(6/T_GJ6;=Jn-M"G!mSnn#$FQ4#HOa9XQ#T5<QQ'$*,]K]\NY8=>*LmBg33)UF%O[1HarCbRDhh`nZ#@JDk&(LRAijhN)79ge[R9$!;>SB'&[2@S.IZ[dNEl2.g10LsP!.YgE[Sc(e"Jh-O7b<Nf#Zi:SQq`p%>Cu=r\_:,Q''D#_WIc;ZY`Q-B.tfe=6:@90/prLMX:G"!]SqD7*Zs@a3!F6rD%@##/=*f&9Gc;M/=@>#K7T3VSlk;iL[C'2r9#[5QU4$IGa]10XIo>/%S5`,EoOab/fqh9rUlHK.0qiLS`\PoU;E7e#kYX48Gtq5J85u(X,XCWS;ldVlLD1,5T$i=oEKABj^O/8;KZoZmGmLPkYu8m:IL](3g9anKQ<-=G-_2b/`B@<:Df?^Hq-@+VGmccPS=FIH0*He3qNTraOWC\pf,f5OU5Zh_Bpka"\0D$F;nhr)$<4Ak[I/(CWPdIEM095"T='C._A4g@?u[W#BL$-,gP$.spR%%g#EnSG&*(9n?Ht;]sho3M-G/E/0mYpOm=?kAkbC!?0kCc83t8bU@i79&r.noREk+P8i`#hRk^HA%lB2__1Ea,:rftSEE22~>endstream
+endobj
+11 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 1369
+>>
+stream
+Gatm99lK&M&A@C2bc+,L#"qjg5*!qV[TFZ-:#_m[7\X^:.+'>TV^_K&4-X;J5r[X78.7KKOICHBDr-QV`=Ep%lOMj!"2FcVJ8s5K^bV(hjp""fP!9UH/'=k38B+bo$Qs`m/&6"c4qT)LN:IC7.OQDT)0AHd#qsaYT492sEl'9-(AiuHU]mS@5#e>N_tGf_dZig_6_2FE<fj$gBhUD'3$SUeR,ORJj;BC><l"oIMUXH3.:s3T&Q\F2Ytm&?H(+=bq]%V+^g'fSKPKYrFIjrWFQWV/<@>DSrK&/lpd%@S))*WSK+=.8;$U?6UL]_q_3G([k9L]h`MS9gg\&msq$*<!EAsQp'kI])BD>;sG.bo7Z9gEL@$B#s$=uNG,,=\LN!N:cYl`^^YMo=qIK/D@=Y'Y!@Z)r<?^<eh;]Q'2XAW@W65ca^92@tddcg0/TDPbYQ#aIn/k_HY98aKT=X!B]Xst*l.cKg)UkaX*Pa"2Fktm"kE3TZd\:4Z#a[XQDN_e<rH&AQknLS>&)8[/FJ.!P<.q`JT"'dqP[/p%-J1j1FU5:5aMDN7',pG6;h;Rq!!!Q,-;C3Tj_36\W,qPr_M,a'RNJK9ppbP?`E:m5_O'm;<^6?R<i/#%R>!<c,62F*u4aaR.UN5i;I'e<`8?ML1=pMP&("B[1p%I;XjtP-N[$(NtLL/NRHg.,'i!qn@n@I?nF["KDqFeic+T(;c_K?E5R,efngF32JC9K>AP7BZfFPA:Cq>cK`'!O.*dcd?@n)6PU'MR"5-o]3P+.TEf-1ZZ.mk^AhM954)5b#ts?adtU65E"G:15NF<)J[VhgInk6_m\5;prJ<fl*l#56dPanXANPRK"`3-e4rIW"kJA6!S)Gn13:+_*0$kB;oHQG6L)*"LV/;lCt-FK9V!Pd`jiA0PXQC/B/KrncohUg]N"\h[P,iI8F.lW_V=P4*3ecZ@aOj*a=9cl/#pC!SbV_L`gHgA#EI^0/cbB./a`j^`0XNVd@q<BB?a>^M`C%dKWok)jEMF7#1[W-'%3`'E11g%am62D\[]g#6R[9S>C(=IH[E_d'VB_9B\K<lXBf#*gPH3=/Z3.M2!$=Z-?\=8VfMZXkZdIin3>:U"44XN4/K.hpQik&[;^@DKi&jIF,tV!i$uR3(e8-@Qq6BU0]A`5TQseWjd3pn#";)Mj1rFrZ?"/g"<M-TMC^VB+IOihcUn)?<",dc&1fb3oQ-j\hr$4Q.l$'13fC:"Zlh,EfZNi[DH9tjZ5NPBaK+lVuFeeX)Sb')FF*em;,"oeTkaO)r9F_36TpP(3:&^H>]A6;K*O-F<$Xi3J84%_ng>k:TFSqE1.\D[G`l>5.k^H>'fjrcH$@$kR:#]"il5Km/~>endstream
 endobj
 xref
-0 11
+0 12
 0000000000 65535 f 
-0000000015 00000 n 
-0000000054 00000 n 
-0000000113 00000 n 
-0000000162 00000 n 
-0000000468 00000 n 
-0000004783 00000 n 
-0000004890 00000 n 
-0000004997 00000 n 
-0000005116 00000 n 
-0000005228 00000 n 
+0000000061 00000 n 
+0000000112 00000 n 
+0000000219 00000 n 
+0000000331 00000 n 
+0000000436 00000 n 
+0000000640 00000 n 
+0000000844 00000 n 
+0000000912 00000 n 
+0000001205 00000 n 
+0000001270 00000 n 
+0000003424 00000 n 
 trailer
 <<
-/Size 11
-/Root 3 0 R
-/Info 1 0 R
+/ID 
+[<3aa640aa47fbe37da66aa2edbb5646dc><3aa640aa47fbe37da66aa2edbb5646dc>]
+% ReportLab generated PDF document -- digest (opensource)
+
+/Info 8 0 R
+/Root 7 0 R
+/Size 12
 >>
 startxref
-5341
+4885
 %%EOF

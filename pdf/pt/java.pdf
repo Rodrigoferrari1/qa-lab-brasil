@@ -1,364 +1,99 @@
 %PDF-1.4
-%âãÏÓ
+%“Œ‹ž ReportLab Generated PDF document (opensource)
 1 0 obj
 <<
-/Producer (pypdf)
+/F1 2 0 R /F2 3 0 R /F3 4 0 R
 >>
 endobj
 2 0 obj
 <<
-/Type /Pages
-/Count 1
-/Kids [ 4 0 R ]
+/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
 >>
 endobj
 3 0 obj
 <<
-/Type /Catalog
-/Pages 2 0 R
+/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
 >>
 endobj
 4 0 obj
 <<
-/Contents 5 0 R
-/MediaBox [ 0 0 595.2756 841.8898 ]
-/Resources <<
-/ExtGState <<
-/gRLs0 <<
-/ca 0.035
->>
->>
-/Font <<
-/F1 6 0 R
-/F1-0 7 0 R
-/F2 8 0 R
-/F2-0 9 0 R
-/F3 10 0 R
-/F4 11 0 R
->>
-/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
->>
-/Rotate 0
-/Trans <<
->>
-/Type /Page
-/Annots [ ]
-/Parent 2 0 R
+/BaseFont /Courier /Encoding /WinAnsiEncoding /Name /F3 /Subtype /Type1 /Type /Font
 >>
 endobj
 5 0 obj
 <<
-/Length 4400
+/Contents 10 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 9 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
 >>
-stream
-q
-1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
-q
-1 0 0 1 51.35433 779.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F2 12 Tf 14 TL (QA Lab Brasil) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 749.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 4 Tm /F3 20 Tf 24 TL 182.3635 0 Td (Java para QA) Tj T* -182.3635 0 Td ET
-Q
-Q
-q
-1 0 0 1 51.35433 724.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Linguagem amplamente utilizada em automa\347\343o e ecossistemas corporativos.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 714.3701 cm
-Q
-q
-1 0 0 1 51.35433 688.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Onde QA encontra Java) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 669.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL -0.122659 Tw (Java aparece em Selenium, REST Assured, JUnit/TestNG, servi\347os corporativos e ferramentas do ecossistema JVM.) Tj T* 0 Tw ET
-Q
-Q
-q
-1 0 0 1 51.35433 643.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (JDK, JVM e JRE) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 611.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (JVM executa bytecode Java. JDK re\372ne ferramentas para desenvolver/compilar. O termo JRE \351 hist\363rico/importante) Tj T* (conceitualmente, mas distribui\347\365es modernas podem empacotar runtimes de formas diferentes.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 585.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Instala\347\343o) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 566.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Instale um JDK adequado \340 ferramenta/projeto. Valide java -version e javac -version.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 540.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (JAVA_HOME e PATH) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 508.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Algumas ferramentas exigem JAVA_HOME. Aponte-o para a pasta do JDK e inclua o bin no PATH quando) Tj T* (necess\341rio.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 482.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Build tools) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 463.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Maven e Gradle gerenciam depend\352ncias, build e execu\347\343o em muitos projetos Java.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 437.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (QA na pr\341tica) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 405.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Para automa\347\343o, aprenda classes, m\351todos, objetos, cole\347\365es, exce\347\365es, depend\352ncias e estrutura de testes antes) Tj T* (de focar frameworks.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 379.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Dica de QA) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 347.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL /F4 9.5 Tf 13 TL (n) Tj /F1 9.5 Tf 13 TL ( QA Tip: use a vers\343o de JDK suportada pelo projeto; n\343o atualize Java no ambiente corporativo sem verificar) Tj T* (compatibilidade.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 321.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Recursos oficiais) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 302.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Site oficial: https://www.oracle.com/java/technologies/downloads/) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 283.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Download / instala\347\343o: https://www.oracle.com/java/technologies/downloads/) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 264.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Documenta\347\343o: https://docs.oracle.com/en/java/) Tj T* ET
-Q
-Q
- 
-
-Q
-
-q
-0.0 0.0 595.2756 841.8898 re
-W
-n
-1 0 0 1 0 0 cm
-BT
-/F1-0 12 Tf
-14.4 TL
-ET
-0.843137 0.901961 0.960784 RG
-0.6 w
-n
-36 815.8898 m
-559.2756 815.8898 l
-S
-0.070588 0.207843 0.356863 rg
-BT
-/F2-0 8.2 Tf
-9.84 TL
-ET
-BT
-1 0 0 1 40 821.8898 Tm
-(QA LAB BRASIL) Tj
-T*
-ET
-0.356863 0.45098 0.564706 rg
-BT
-/F1-0 6.8 Tf
-8.16 TL
-ET
-BT
-1 0 0 1 398.216 821.8898 Tm
-(QUALITY ENGINEERING \174 DOCUMENTO OFICIAL) Tj
-T*
-ET
-q
-0.848048 0.529919 -0.529919 0.848048 297.6378 420.9449 cm
-0.08 0.21 0.36 rg
-/gRLs0 gs
-BT
-/F2-0 42 Tf
-50.4 TL
-ET
-BT
-1 0 0 1 -164.493 0 Tm
-(QA LAB BRASIL) Tj
-T*
-ET
-Q
-0.843137 0.901961 0.960784 RG
-n
-36 24 m
-559.2756 24 l
-S
-0.356863 0.45098 0.564706 rg
-BT
-/F1-0 6.6 Tf
-7.92 TL
-ET
-BT
-1 0 0 1 40 14 Tm
-(qualityassurancebrasil\056com\056br) Tj
-T*
-ET
-BT
-1 0 0 1 210.9996 14 Tm
-(QA Lab Brasil v2\0562 \174 PT\055BR \174 Atualizado\072 setembro de 2026) Tj
-T*
-ET
-BT
-1 0 0 1 514.547 14 Tm
-(Pagina 1 de 1) Tj
-T*
-ET
-Q
-
-
-endstream
 endobj
 6 0 obj
 <<
-/BaseFont /Helvetica
-/Encoding /WinAnsiEncoding
-/Name /F1
-/Subtype /Type1
-/Type /Font
+/Contents 11 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 9 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
 >>
 endobj
 7 0 obj
 <<
-/BaseFont /Helvetica
-/Encoding /WinAnsiEncoding
-/Name /F1
-/Subtype /Type1
-/Type /Font
+/PageMode /UseNone /Pages 9 0 R /Type /Catalog
 >>
 endobj
 8 0 obj
 <<
-/BaseFont /Helvetica-BoldOblique
-/Encoding /WinAnsiEncoding
-/Name /F2
-/Subtype /Type1
-/Type /Font
+/Author (\(anonymous\)) /CreationDate (D:20260922123400+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20260922123400+00'00') /Producer (ReportLab PDF Library - \(opensource\)) 
+  /Subject (\(unspecified\)) /Title (Java para QA) /Trapped /False
 >>
 endobj
 9 0 obj
 <<
-/BaseFont /Helvetica-Bold
-/Encoding /WinAnsiEncoding
-/Name /F2
-/Subtype /Type1
-/Type /Font
+/Count 2 /Kids [ 5 0 R 6 0 R ] /Type /Pages
 >>
 endobj
 10 0 obj
 <<
-/BaseFont /Helvetica-Bold
-/Encoding /WinAnsiEncoding
-/Name /F3
-/Subtype /Type1
-/Type /Font
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 2374
 >>
+stream
+Gau0D?$G$]&q/B8Qq)(T!YO@7hsAq==`:lg@We=6!gA_*/4h8fYhboLnTtM*-n94QSZ^Rf@LAh`(N]&h>Zt$UDs@9TC8-VDXaZQ]'s0D?,8&?"4^G3,?PXj,".:M^+t:td-B[e!9'u#?=i?_i1/JRZGp;6%Ni69[8uO;"P/CJ28/%\K+J7JVjs!KO+N$W#d_ObS>KMIn,YCq=3%W0NUj3sN<n!M#,*`Kslo36i,dL,+1dRL0M?D@BX]iZ*OL[trpVg#5.SS?#pVY,p"8827G#56WdWD'poBFKVAuf%h/N.M_83FVK;,7;&'sZpF&8K5fhN0hAYRA6X0nLbsMF#4mVR$frJ"u[L>/0%.7?@^nQB=uU/okp/dO:\WaEJ6W`:PTIQAR5Q!^<n(ELb3X"F>QH5o1WhYQ+TN*\8KIZU?'fB:0+e.?:3gUL_[U$)GY-%*'KCY&++C>rK1#0rDA'm6">`atO8rA2uE+F6-7=j;EAn[qKHp5Tm?8E,'>'#o1dP._>Th1_K+q(+6VDhNJMLP20:7W$B*<JO%0uQ81O47c2Q]X#jMtrJ*qh5^u$2:#)RlN%ni_7hAVtSK#Ff]&CgVn8BC9#q4fsbbiVZ/BWl>At]Jclk%OTUpDS"YA(%A9a?Bb4hesHHl@[\?9fCP;$r]oBa-Sr*6ePaN;-uZ%ISJZ%F#,aKJDLNHOm7aI;<TGosW;VBmN-6D_(^_/iE1qd(<J2$DS=86:Zc(iO[<X]r?-EKkn0#e\/Y?SN%hO8aHb@nCb^QbKURlCe[&]b#i)_5MWG:Bts_:VJo6?2OKgE0HR2YE&K$5S*cm0S7on47l`db:_#Jm9&ut/,Hd'+)B4!ln5#:(6D687#[n[`GiQ\*XY(KLA3<LEQH@.-L\El)Bo'nGL3^<fQ"fS]0BqNYopX1<DJ2bTUoWAlgTT2*li6cu8Y'Sa/X,@XW</%ue$bieYZSJb>0^aHdac*]3JCCs50mr5B<T>>[=pjT!#L:.ILrC2fYVCX]aQl\r^m3F:KPp3SO$k'#ATCK:LU=C^n<9jBOSB],"EY`*oU*%8^?).%o[r`O;Os;m.rt[GC@6nITW]n*ZbGD.k2bTAG$h4>kOu(CL#t=Xm&l_HY=n,bAJWir;13e\G(a>5TX-H/Ac<FQTHGFUBl6hgN:-3%\#$6hR)+:0SrLoh#J2_kRQF3lCl]:ho6SOp(j>DR3/ALBKPFZEMk[K3..DY`u*%(-).H4rip!R"6e:UbEp%6Zbc/r$c^587"0GV2h-?O\!)Ifi'QQiKrJgIldLcg1nA@K>m2i]&B!("\eXifoqmH@E"IWtVBL2-LEZq6@;?7[ZF)'>ksd<WN9r@kICBH<9HJ(hmEK$/c99Q4J@,hVa$kuZZdjcqF\D,KoMCXII,eCXIL97^^ufK0i>dM6cZu>9X)WSCfW(b(\a"hX&I%aU7dMf)hDA'_]2k8`Tj,eQ.^DP;[\bMJ*<Xi6iusjg*OCT,UX!\:@bS9YZf)9FQ^<aF@e)XNi%U!o/\r:2%JLWgQG"kF(pp!Zr^)oNn77u;itD11X=Q([O_kr'U=*=[\79N<oWE;GFuMUS99_hU%`2S)JE#ec=%k>;.$pVLHrWr$L[+Cs>\1P$-r;K7Y2T]<rqhqC#Z^@V@k*hKkE"iM@!pG=M&`!2bVFuQgW'u[;u\M?PQWYn,RfUoCsm40N^k$rA.H;;gjk,^N:U!F"E8^?:n.\lm#Gn]bE9Rf*fMEUcd)8AldGGWqR;`EFKio>qgslL^"u_)UeIV)VN-#tP3^f9CO4VnN,73I_kZ8Fbe)6KH0<H!%]0Z-->S/Gh!4%IEGS#kLHXd>`quSsXWJ!YiUD3DN3-Va8;DiCEe)9I]j<@iE'+_+LT7lUIUSO*6ihJhdkEm"[f@g/fjC5hhXP;L8F?VcX-\d?Hq!)j,C;8+9jcOD!%sE)>EnVj?s\R<?dgn7%NG5GWHS:1=\nq&CD?E9CGrW'NGl>3I+s5hgKEFZp@d<Z%BQ=INNNcHN_YTnT8XaENjcCPhVpDC`\/OhU>6.PfgF2/lWA+RcJHs=)Yc>``qlUSdW`e6MK$HII5f!T?s6X*F:R\9D_'!?e*j%4%gS$G3=i2?7YK*qIM%n."F\CY4JdEo:\ib4)2Ie"M-J8V591dCOm%/[G6Ib'd^o(9X*kUhf?=H+5olh2U-ZPJW0l=d;iQ)ALEoLjkeUf((_$2E))i<W1tRIdcC\F)Xu,gt&#6fq/-fG2>H`&E1-@UU]lNq2W>d<^PG"NV)K:IsXlVH>_:7`Sq*SMAhgkq"Z#\u%"^Q<LjCO7l*C%3p_#jbfT*Od^]70ZP)r#/RZ4)/n,^k<5Y%R_M61MCo4^+qt)VKO?k#%cC?m?33ITXtV^Y$N2RK~>endstream
 endobj
 11 0 obj
 <<
-/BaseFont /ZapfDingbats
-/Name /F4
-/Subtype /Type1
-/Type /Font
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 2066
 >>
+stream
+Gatm;?#SLV&:D6"YqH:9_I5l]l_T-f\4tDYFd$V4@\BA?qTM2;09gQMNW/^u;Kk1@EL][A2Jh\MMEBU]*Ng[lpm1o'fas]-l2.(uacMfI,\%G8ng.Qm([i+`-j!PI,[r4/1a/"P=%7)8BGX5mU^Y,-Z6C#TPf2'&Z;?4"'W:i5HBG$J%"_rs/h9>S"[S0(6=bXS^)b=J8>KZbj^LG"1Q`DD`*5rGTbNn'Z,:JN4H)_#bCV&Hdn%$)3fV[J,SmZkZe;oXMBIl+E52:!A;:249k.D+omUR8ca<Lik"i<`/oDIah^sq7Hm>DX#&Ge&cU/hl/J"51>KX/X^uYlSV]nl$`Nl2$5L.!>j]bo;a/_Xj"\G;L#\,t2i%E75A0.Gs7Z\;4ZNth'ngk:GaAO9T+h&'Ijk2Yb^H-`?r8g%C9Hmo%8Gpa(0M83%Otr&\59;)3U'P<e"rUBWqL@_'?("`/BA1lu<$'.0Mb)n4166JkE=rsG^&!$%dYr`Bj=0"Di#ieD1)m7Xok0qSGal#b`=qm87R35Vca#nY"*O_K@3Q=5o6k6#24ZhZR@<>HU2U>5%i!F0?+.WVFX/MuZLKgG(gh<`eX46/I<&l%@-f7jG*[5;CM2PihNH?fr[@]^!2/*b!1=$o%O/dlAI]h;IuHPl!,aq$a>NGm&s(tFTj\"A8sR+FXWlM#RU2qPU:#$!O<r`VG\A\beADMBHoD%LUY>\s8n:;H9&&3ie_nqW'PI2tYc+pgV+Oar,J?1j8a1>ngX7M!;5]sl9%^cuf8VHBam!]Aa2)I-joD>=odu44HJ\@AjYXj3B]i=sP_t^eo9?iPlkEEK0O9`Bc0=*K3ujJWB9^<unO@FT"unK.cIT!n<&#7rYP8PhpSQ?tbKQbN1,8CiJi#WZG0[5TE)7fLp85bai$0aNq@A*,PN)u6;H;#Nk"[/7Y.KS>7#u/5.Z;H86fZ:eFD5o69s_:RB=p;P]ePoBQs:C,FB;pS<1+I.`p6C/[q\C9DUu33%B-Ib4/apfBEO+(_H*5)2%7T-aO;!9]-hO4lqKPiYB.BT/P+ctg,ee?1&c&El^<QG$ZH1Ndr(flZ\"?X'P,<pD/cYc7L;*;KEZN6ARUMTJ,rZM6_kE,O%UqDntSe@db3qi2ZSm?)d;C+GBUc(GAD'qZ'0YA0X)Nm9Xm`_!EFbiT2s!T4(mo%<0h<CH5i.2o+(=Y2AkW`Zo=l:9$G&Fb?_BFhRB@0!R`B;*+o#<:/l:O]N2Zj]j]R%X9[e<r+L0d2G\Rp2K8-9qbB$@Q;tE2[!*i&Y#?jd\'EoD<&GU%gkpdoFUr\[Mut0Rn)ES>-c=[M@B!J6F%H(t_J<=Z5+[6f5ZW^m*g]lclh4GdHJZM)l[@mD<>]>T0dBo0ddE4_0)kX[4]#6hn=[#2Q20?0Hh$_ELnhu/@@:VP@j%-Wjiecs$_V)*V_r+X8JC`cV)OdLmi`q9&*E<nk2//SZTBm)d)[e4Xb%D?[G*bWf!T[RRtLse,1,[0`iH,5\#epD/7`6p9_%:d)E<9!3)76(X3?UDl\i*acMi:dql^f$H?lrHp18JG/s"'3ld8XD2a1trKsI4fSatU^[C9#Y0SNa[C(7&RX`t4^-Xhn'13Zuc/-r\*<;<&mDl,,$\[o@1/_Bcol>Hk)Us!!0/!t%J)6oB2G^bo>J3>a/O0]YAa6P`=3nRMJ!;S>:_IDA>52b9B/UNpM:G89/EO&sSd7%Vm\2pd_4\',N@<T?m;EFO(7cB&gI\=IDXZY@@'SJ*)BgL";Hr2VEU)0V"Ci3Ca"5W-?cr7Wdf[Z2]5cpcs-jO.+J#hC-Su3)8m1en;MDrboco-X#n_1uULL/Ok[?]oV[#8?0*3Y0Jj8sb,le9(XY-,^1;XX!J^%]J9rfS-6ro7g`Sti^a4#i-9Lj[dUn[>so\Xde/bO%F.i5^18n\5E0_g"EfAGA,i167GbfCE_S0H'n_54%lAqm"9_Mlm8,CBsi_E7T:Dh7P_[1&AU'f'"UOLj-l7H?[!/A+k<mA_cO_[3#4VGJ:cQRhcaN]s@>!22+L1k(2JCT*GoTUNuGuMuNcaH3T`~>endstream
 endobj
 xref
 0 12
 0000000000 65535 f 
-0000000015 00000 n 
-0000000054 00000 n 
-0000000113 00000 n 
-0000000162 00000 n 
-0000000479 00000 n 
-0000004931 00000 n 
-0000005038 00000 n 
-0000005145 00000 n 
-0000005264 00000 n 
-0000005376 00000 n 
-0000005489 00000 n 
+0000000061 00000 n 
+0000000112 00000 n 
+0000000219 00000 n 
+0000000331 00000 n 
+0000000436 00000 n 
+0000000640 00000 n 
+0000000844 00000 n 
+0000000912 00000 n 
+0000001191 00000 n 
+0000001256 00000 n 
+0000003722 00000 n 
 trailer
 <<
+/ID 
+[<1a80f81bc4ef473e62e22331707bb125><1a80f81bc4ef473e62e22331707bb125>]
+% ReportLab generated PDF document -- digest (opensource)
+
+/Info 8 0 R
+/Root 7 0 R
 /Size 12
-/Root 3 0 R
-/Info 1 0 R
 >>
 startxref
-5573
+5880
 %%EOF

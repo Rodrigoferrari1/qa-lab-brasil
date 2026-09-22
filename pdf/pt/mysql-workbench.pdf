@@ -1,354 +1,93 @@
 %PDF-1.4
-%âãÏÓ
+%“Œ‹ž ReportLab Generated PDF document (opensource)
 1 0 obj
 <<
-/Producer (pypdf)
+/F1 2 0 R /F2 3 0 R
 >>
 endobj
 2 0 obj
 <<
-/Type /Pages
-/Count 1
-/Kids [ 4 0 R ]
+/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
 >>
 endobj
 3 0 obj
 <<
-/Type /Catalog
-/Pages 2 0 R
+/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
 >>
 endobj
 4 0 obj
 <<
-/Contents 5 0 R
-/MediaBox [ 0 0 595.2756 841.8898 ]
-/Resources <<
-/ExtGState <<
-/gRLs0 <<
-/ca 0.035
->>
->>
-/Font <<
-/F1 6 0 R
-/F1-0 7 0 R
-/F2 8 0 R
-/F2-0 9 0 R
-/F3 10 0 R
->>
-/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
->>
-/Rotate 0
-/Trans <<
->>
-/Type /Page
-/Annots [ ]
-/Parent 2 0 R
+/Contents 9 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 8 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
 >>
 endobj
 5 0 obj
 <<
-/Length 4626
+/Contents 10 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 8 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
 >>
-stream
-q
-1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
-q
-1 0 0 1 51.35433 779.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F2 12 Tf 14 TL (QA Lab Brasil) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 749.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 4 Tm /F3 20 Tf 24 TL 154.6035 0 Td (MySQL Workbench) Tj T* -154.6035 0 Td ET
-Q
-Q
-q
-1 0 0 1 51.35433 724.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Ferramenta gr\341fica oficial para modelagem, administra\347\343o e consultas em MySQL.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 714.3701 cm
-Q
-q
-1 0 0 1 51.35433 688.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (O que \351?) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 669.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (MySQL Workbench re\372ne SQL Editor, administra\347\343o, modelagem e recursos de migra\347\343o para bancos MySQL.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 643.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Aplica\347\343o em QA) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 611.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Ajuda a validar tabelas, procedures, dados transacionais, relacionamentos, \355ndices e efeitos de APIs ou fluxos de UI) Tj T* (que persistem em MySQL.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 585.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Instala\347\343o e conex\343o) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 553.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Baixe pelo portal oficial da Oracle/MySQL. Instale a vers\343o compat\355vel, crie uma conex\343o informando hostname,) Tj T* (porta padr\343o 3306 quando aplic\341vel, usu\341rio e m\351todo de autentica\347\343o. Teste a conex\343o antes de salvar.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 527.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Primeiro exerc\355cio) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 495.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Abra o SQL Editor, selecione explicitamente o schema e execute SELECTs com LIMIT. Valide valores, nulos,) Tj T* (duplicidades, datas e relacionamentos esperados.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 469.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Boas pr\341ticas) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 437.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Diferencie claramente DEV/QA/PROD, evite comandos destrutivos, use transa\347\365es quando permitido e registre as) Tj T* (queries usadas como evid\352ncia.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 411.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Quando usar) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 379.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Use este conhecimento quando o risco, a arquitetura ou a etapa do ciclo de desenvolvimento exigir valida\347\343o) Tj T* (espec\355fica. Antes de aplicar, confirme objetivo, ambiente, dados necess\341rios e evid\352ncias esperadas.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 353.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Dica de QA) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 321.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Confirme sempre o ambiente, o schema/collection e o n\355vel de permiss\343o antes de executar qualquer comando ou) Tj T* (opera\347\343o.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 295.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Recursos oficiais) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 276.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Site oficial: https://www.mysql.com/products/workbench/) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 257.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Download / instala\347\343o: https://dev.mysql.com/downloads/workbench/) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 238.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Documenta\347\343o: https://dev.mysql.com/doc/workbench/en/) Tj T* ET
-Q
-Q
- 
-
-Q
-
-q
-0.0 0.0 595.2756 841.8898 re
-W
-n
-1 0 0 1 0 0 cm
-BT
-/F1-0 12 Tf
-14.4 TL
-ET
-0.843137 0.901961 0.960784 RG
-0.6 w
-n
-36 815.8898 m
-559.2756 815.8898 l
-S
-0.070588 0.207843 0.356863 rg
-BT
-/F2-0 8.2 Tf
-9.84 TL
-ET
-BT
-1 0 0 1 40 821.8898 Tm
-(QA LAB BRASIL) Tj
-T*
-ET
-0.356863 0.45098 0.564706 rg
-BT
-/F1-0 6.8 Tf
-8.16 TL
-ET
-BT
-1 0 0 1 398.216 821.8898 Tm
-(QUALITY ENGINEERING \174 DOCUMENTO OFICIAL) Tj
-T*
-ET
-q
-0.848048 0.529919 -0.529919 0.848048 297.6378 420.9449 cm
-0.08 0.21 0.36 rg
-/gRLs0 gs
-BT
-/F2-0 42 Tf
-50.4 TL
-ET
-BT
-1 0 0 1 -164.493 0 Tm
-(QA LAB BRASIL) Tj
-T*
-ET
-Q
-0.843137 0.901961 0.960784 RG
-n
-36 24 m
-559.2756 24 l
-S
-0.356863 0.45098 0.564706 rg
-BT
-/F1-0 6.6 Tf
-7.92 TL
-ET
-BT
-1 0 0 1 40 14 Tm
-(qualityassurancebrasil\056com\056br) Tj
-T*
-ET
-BT
-1 0 0 1 210.9996 14 Tm
-(QA Lab Brasil v2\0562 \174 PT\055BR \174 Atualizado\072 setembro de 2026) Tj
-T*
-ET
-BT
-1 0 0 1 514.547 14 Tm
-(Pagina 1 de 1) Tj
-T*
-ET
-Q
-
-
-endstream
 endobj
 6 0 obj
 <<
-/BaseFont /Helvetica
-/Encoding /WinAnsiEncoding
-/Name /F1
-/Subtype /Type1
-/Type /Font
+/PageMode /UseNone /Pages 8 0 R /Type /Catalog
 >>
 endobj
 7 0 obj
 <<
-/BaseFont /Helvetica
-/Encoding /WinAnsiEncoding
-/Name /F1
-/Subtype /Type1
-/Type /Font
+/Author (\(anonymous\)) /CreationDate (D:20260922123402+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20260922123402+00'00') /Producer (ReportLab PDF Library - \(opensource\)) 
+  /Subject (\(unspecified\)) /Title (MySQL Workbench) /Trapped /False
 >>
 endobj
 8 0 obj
 <<
-/BaseFont /Helvetica-BoldOblique
-/Encoding /WinAnsiEncoding
-/Name /F2
-/Subtype /Type1
-/Type /Font
+/Count 2 /Kids [ 4 0 R 5 0 R ] /Type /Pages
 >>
 endobj
 9 0 obj
 <<
-/BaseFont /Helvetica-Bold
-/Encoding /WinAnsiEncoding
-/Name /F2
-/Subtype /Type1
-/Type /Font
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 2075
 >>
+stream
+Gatm;9lJcG&A@sBbV<=tZq-&Mk[i_[korA.D&Tm1ab>jjLL#<fUu\>erqN%XCfs?YfI374N_D7!a*I-u9K31Mc2DEa!M%DCqN1jr0OFg@=9S4g31j"7-S3=?T#JJhcBD?3Ms2_m]:@@aR53%i&ODT!9SP<SC6AiLdP-Q&CZQguR0\C\ZnKO'Qio^4%iJ"A^O<GO"sJnYJ:+Y,iX&75):DC"Rc#aU!`.GiSr/?#.F2CP0Wa=sW5De!OV-WA84NJ%B7U=uYrdBCZGh?,%;Qo]j_eeBcZ&YukF])G:[TQf2\SkIIUbi1%<sFfSqhiQ%1i47hb]'*+LkB[n<cWWWL-b+E]*^rk20VHL3BmG$"TJ+'+mE=aIPjG3KB2<,4L0J;1pc7BbCSkA^7*qpa-&IcHbA7bO#)bEZ?V3-:oC$J#B7OjUd276;c1_K*7]UJqnc9:6h^T!U'.(e66'T0?9d7OG?C5/Bom?GcrZ]6'fBS^Etgs(^O4^,Ff*$LmX:!V%Tq\!KBO;SB2V?;"&C[W8c'-[\tF(/J3Pq9QH`m18AaGbUR6tJH#WE#kSk#B](Mr@[&9N)53Ft?Yg"3@Di$hn/jlK&jSk4M+sSi?%a"%-^=l1*5K4;PJ;TP?X:N5NW&TPfD45<fA!4X4Ns.3Lia0S?jr:i3(QqHKZLB(?oB6U)u]tGp<Z\1J_-S@kU.I[[AqYtX'fX[_MBj=Y+WU4UInW;X.X27?)ja(:-fV[WJt\q_Q=.DKFMV9S(`!rWuU=1r9`/N11%U]N.u`QQ<<[s[sZ_50+l^G/b?IL"S\IARo&Z?%mUp$hajpV?Hhjo0n@e5@3TFq[!Z2I[]qK_olQODbcoWCB3jPjcqp.l3;oGC>?0jGgKs:.?k,U"3X7EuNlJoCBf04nB_'I7D0L\?D8trJN)4tURdanQIs!$mWkn$S1hpBT)I^Dg.q!6qW;Zu@@G[FRF8q3DG=0C=g32T79rAL4&$5WdmRr9^:KOtR]"E17L[AGB)9dQ#!fF86i3WZKUXB@g>r4F5+J+@-VKT'ka(eamlYaRAC'UnG27?M=E[[Zb:c3)g?9?G?e42Z&<8FVpGCW_uH1''P&0FUsZW2inBN/IkGg^GYJIt6icagCNQojA;NU<uI(0Yj=I`.a#X19iDX7<_s"m-AU><A+>VFD;m@W'Bg%?]H(!btBZKuoGsbl'l'lTH8pcPI([DP2,LG)uSL?S?fG=s9qK(T7NX?<O%*]ZsIjL.>b=igCGVG+]rUS,HI,<#j62B?E>7c:Y0qjFD8`.g;QHb"FnbP6a<f:%Wbl&9;mZ9!uUf>*l.K>GImmeEB)(l:#25<>Wp*q2K0Hl-hgCqR!L*jtO`Ak.[VHTLdGZ?N&9Blfd"?8lnGuWGQSfnufP>2)EfIK=OGT^_7[p/&JIEPHe,u<qZN5KLtgI35S3-9cTf&&r*lCe2F5KU+Hkj(h?.DnL^'Rk"31-]%#e:o\q+c@Tr5"9a*brdmuKIJcudRY0ScIhp3="""l8+^6g_O7Kl(V?"g/@$oHI>8S0V:IjS3N^-MJ(k]ol&mEjTe4:^=$i3.2K&ofbRc5OX5ntR>ln:7Bp0?9jRK>ClQSJ&W&Qca3%q/H=MH8V1@rpo<k.HiX3AL)r!7F`"UVlhmm8q)OY]s#GhJUBi?GRtNpRF^;[*]UKP8TP^%MmhS/5IeCJe3!QT!+Qbual!/r`4jWiBA(\"]'?JQE:&*b4A(Yr3VfD&-0YoAj>FVF1X8q=jZ&E2o<e64En,>D_%%9'X&]Sj+37/_qLXLhl$D0MlcgULd4EO]T9I"bNk,VP`YT9a2[*hCWe8$'qLJ[\NJJ@i<p8Z"n!ZXq33$1M.b](3>%8e#Rf_q<nqc@4<S]W6*TBm:"abLWr+NaX-Xi`1[@ccd0251p1!0BiGJN"kUHOVS&.U%oDnBoUN;pa/c/APd1o`X#^U4u&j,BV$qY=b_qDQ9LYGC:EW-Jn@0Bh9VDEA>hksdGeUIV0#'=J\d-1K$pfi<ZH&G8R1D+?AMBFmRk&JoS*Ro0uj`]OlEIuXSFpek"Jl2(5'3W(u)(JWa+14P3&B3,b6r!uBg0B<~>endstream
 endobj
 10 0 obj
 <<
-/BaseFont /Helvetica-Bold
-/Encoding /WinAnsiEncoding
-/Name /F3
-/Subtype /Type1
-/Type /Font
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 1396
 >>
+stream
+Gatn$6#YdA&;BTL'm!%b.8*:-..rn!BsBo11l7,sEa`M4@4I+?;G)-Lqr@Q%bHd:JdMrl%Yrnam*p7qk$0(`9nUK@-SZh7T?Nl:N<Z;Z3b@u)j(TZUq_Ka$g<=m?-:k^/q`'6\>RrjK<R1ML*8Q>qXREVX)<6EWEbDTl38Q<N(cE"oF<O#5;?K.\gMN>rY8BEYgUaaj90dIH3Q-<^;3L1#L7#DD.jCOddZ4n%u'';`5PWHjR7-70BWEQBeK(1ZJdUVu\jIcOak1Cre3JQ\pbfT$2J)@@h\PG+*&i:XOFEFkjBpfrhi%1FH^^W#$L+Em;8e`p\/n)`!V3@sd+)(=4Wt02-j,2$c,aRT&W8Ls]Ek/8J9bkV5oV+[O=K-<^[k*o2Q'a&Jjk2Yb?_?/%]Nc5qM91R0^irqYR@NRK;R&jiH4_c3Q&9BbAC->'^X,EY[@K&/G2$T-1)$(uLm8]9O*t$=jAee'^EjmP*8mnL+K'nu3D8HXeBlGJdTA^+9GY,>mmRF\`O(tal5[)U'Vpm`+j+;-oGsKL*Ge+8N@8(g^;;%^]i,/qTL21.l?5:"YPBL,Z^SpTd6=gZYDV%0rp[?ReiOe%,Nl2nHG+Ktkm8#)0*hTp$R)8&We@'[L#WY/H2O(Y-NkKO8q8K8Q,oob8'XMg/$*+V6RN\DG0R^tU".Y.D`4&-k0m^!9nj]tmDd_d=Y:ai6TaZml('chg3EJmbK\Q`rT3t7GG_G0J#:qB)nR-'+\1p:-=pgo8"HVR#Vh%Bme!_`*fEAl7h:k'Q'fmp*dRo7KZePj3!pF.-:#\?gUAoF2dpB/mhl"4G0U:[G.*13VDhh*B^-L["1]R=[^N-:DR2Zu^uusF,dVXRSgZUu#N*FXLLH0)"E4!\e?gselSb2#)UUfc6al<o>7Y'm(>OW#lXPWN'Xu?\8[-`A=hD23cT8<1pUdBbm.Yu_.#N3no1o@#>2"8r@/AM_h7Q%IORGadcUB0.,27phUuiBihH7Q!,L(;jU/)o;F0oY9cWCQm>;WtX6(_iLh>ta?N',!%pi%@o4G1G=2=fJb<\Su-:T2Y/([mu<iCMm9=`daBhVp(0cKO9oJU'_HMu/Cp@E&i1gX&IKU'HbACBUa4<r;DXlJ=^.L]qn:2&^S>`tQfi(uob"WU^gt\9]/DWQKE)FmcCeXWElP]%B%`QiXI2mp,nbD=N3cBR)PNiqk3c"l4!GMM=P`2Z"@dVoKs5\JHSren0\7!1qUE7QAA/oW=)T/Y;>!),hVNR`F1)`#%\3cAq&4_ZLG!c%+1B=D;]&j;jU,Mpp:;Loc@Qj6bQ:EI3?Equj]eBY6@pcIGY]*agQZ!Z%.p3%6Suf`0#3*d!ugdnLK8%a/j:`;r+3FVctm?GD%9.B3PAPl(ofWPp=~>endstream
 endobj
 xref
 0 11
 0000000000 65535 f 
-0000000015 00000 n 
-0000000054 00000 n 
-0000000113 00000 n 
-0000000162 00000 n 
-0000000468 00000 n 
-0000005146 00000 n 
-0000005253 00000 n 
-0000005360 00000 n 
-0000005479 00000 n 
-0000005591 00000 n 
+0000000061 00000 n 
+0000000102 00000 n 
+0000000209 00000 n 
+0000000321 00000 n 
+0000000524 00000 n 
+0000000728 00000 n 
+0000000796 00000 n 
+0000001078 00000 n 
+0000001143 00000 n 
+0000003309 00000 n 
 trailer
 <<
+/ID 
+[<2b57e0b958e3969c43568fef204c2b2e><2b57e0b958e3969c43568fef204c2b2e>]
+% ReportLab generated PDF document -- digest (opensource)
+
+/Info 7 0 R
+/Root 6 0 R
 /Size 11
-/Root 3 0 R
-/Info 1 0 R
 >>
 startxref
-5704
+4797
 %%EOF

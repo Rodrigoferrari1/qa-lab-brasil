@@ -1,378 +1,99 @@
 %PDF-1.4
-%âãÏÓ
+%“Œ‹ž ReportLab Generated PDF document (opensource)
 1 0 obj
 <<
-/Producer (pypdf)
+/F1 2 0 R /F2 3 0 R /F3 4 0 R
 >>
 endobj
 2 0 obj
 <<
-/Type /Pages
-/Count 1
-/Kids [ 4 0 R ]
+/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
 >>
 endobj
 3 0 obj
 <<
-/Type /Catalog
-/Pages 2 0 R
+/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
 >>
 endobj
 4 0 obj
 <<
-/Contents 5 0 R
-/MediaBox [ 0 0 595.2756 841.8898 ]
-/Resources <<
-/ExtGState <<
-/gRLs0 <<
-/ca 0.035
->>
->>
-/Font <<
-/F1 6 0 R
-/F1-0 7 0 R
-/F2 8 0 R
-/F2-0 9 0 R
-/F3 10 0 R
-/F4 11 0 R
->>
-/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
->>
-/Rotate 0
-/Trans <<
->>
-/Type /Page
-/Annots [ ]
-/Parent 2 0 R
+/BaseFont /Courier /Encoding /WinAnsiEncoding /Name /F3 /Subtype /Type1 /Type /Font
 >>
 endobj
 5 0 obj
 <<
-/Length 4534
+/Contents 10 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 9 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
 >>
-stream
-q
-1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
-q
-1 0 0 1 51.35433 779.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F2 12 Tf 14 TL (QA Lab Brasil) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 749.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 4 Tm /F3 20 Tf 24 TL 209.0635 0 Td (Appium) Tj T* -209.0635 0 Td ET
-Q
-Q
-q
-1 0 0 1 51.35433 724.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Automatizaci\363n de interfaces Mobile y otras plataformas con arquitectura basada en drivers.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 714.3701 cm
-Q
-q
-1 0 0 1 51.35433 688.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (\277Qu\351 es Appium?) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 656.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Appium es un ecosistema open source para automatizaci\363n UI en plataformas como Android e iOS. El servidor) Tj T* (recibe comandos de un cliente y los delega a drivers.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 630.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Prerrequisitos) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 598.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Es \372til conocer terminal y variables de entorno. Appium se instala mediante npm, por lo que Node.js/npm forman) Tj T* (parte del setup.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 572.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Instalaci\363n) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 553.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Instale globalmente con npm install -g appium. Inicie con appium y valide el log del servidor.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 527.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Drivers) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 508.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Appium requiere drivers. UiAutomator2 se usa en Android; XCUITest en iOS/iPadOS sobre macOS.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 482.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Android) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 463.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Normalmente se requieren Android SDK, ADB, dispositivo/emulador y configuraci\363n del entorno.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 437.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Estrategia Mobile) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 418.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Cubra permisos, interrupciones, red, orientaci\363n, teclado, deep links, notificaciones y upgrades.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 392.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Appium vs BrowserStack) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 360.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Appium es tecnolog\355a de automatizaci\363n; BrowserStack es una plataforma cloud de dispositivos/browsers. Pueden) Tj T* (utilizarse juntos.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 334.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Consejo de QA) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 315.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL /F4 9.5 Tf 13 TL (n) Tj /F1 9.5 Tf 13 TL ( QA Tip: diferencie fallos de entorno/dispositivo de defectos de automatizaci\363n.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 289.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Recursos oficiales) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 270.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Site oficial: https://appium.io/) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 251.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Download / instala\347\343o: https://appium.io/docs/en/latest/quickstart/install/) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 232.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Documenta\347\343o: https://appium.io/docs/en/latest/) Tj T* ET
-Q
-Q
- 
-
-Q
-
-q
-0.0 0.0 595.2756 841.8898 re
-W
-n
-1 0 0 1 0 0 cm
-BT
-/F1-0 12 Tf
-14.4 TL
-ET
-0.843137 0.901961 0.960784 RG
-0.6 w
-n
-36 815.8898 m
-559.2756 815.8898 l
-S
-0.070588 0.207843 0.356863 rg
-BT
-/F2-0 8.2 Tf
-9.84 TL
-ET
-BT
-1 0 0 1 40 821.8898 Tm
-(QA LAB BRASIL) Tj
-T*
-ET
-0.356863 0.45098 0.564706 rg
-BT
-/F1-0 6.8 Tf
-8.16 TL
-ET
-BT
-1 0 0 1 398.216 821.8898 Tm
-(QUALITY ENGINEERING \174 DOCUMENTO OFICIAL) Tj
-T*
-ET
-q
-0.848048 0.529919 -0.529919 0.848048 297.6378 420.9449 cm
-0.08 0.21 0.36 rg
-/gRLs0 gs
-BT
-/F2-0 42 Tf
-50.4 TL
-ET
-BT
-1 0 0 1 -164.493 0 Tm
-(QA LAB BRASIL) Tj
-T*
-ET
-Q
-0.843137 0.901961 0.960784 RG
-n
-36 24 m
-559.2756 24 l
-S
-0.356863 0.45098 0.564706 rg
-BT
-/F1-0 6.6 Tf
-7.92 TL
-ET
-BT
-1 0 0 1 40 14 Tm
-(qualityassurancebrasil\056com\056br) Tj
-T*
-ET
-BT
-1 0 0 1 212.28 14 Tm
-(QA Lab Brasil v2\0562 \174 ES \174 Actualizado\072 septiembre de 2026) Tj
-T*
-ET
-BT
-1 0 0 1 514.547 14 Tm
-(Pagina 1 de 1) Tj
-T*
-ET
-Q
-
-
-endstream
 endobj
 6 0 obj
 <<
-/BaseFont /Helvetica
-/Encoding /WinAnsiEncoding
-/Name /F1
-/Subtype /Type1
-/Type /Font
+/Contents 11 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 9 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
 >>
 endobj
 7 0 obj
 <<
-/BaseFont /Helvetica
-/Encoding /WinAnsiEncoding
-/Name /F1
-/Subtype /Type1
-/Type /Font
+/PageMode /UseNone /Pages 9 0 R /Type /Catalog
 >>
 endobj
 8 0 obj
 <<
-/BaseFont /Helvetica-BoldOblique
-/Encoding /WinAnsiEncoding
-/Name /F2
-/Subtype /Type1
-/Type /Font
+/Author (\(anonymous\)) /CreationDate (D:20260922123400+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20260922123400+00'00') /Producer (ReportLab PDF Library - \(opensource\)) 
+  /Subject (\(unspecified\)) /Title (Appium) /Trapped /False
 >>
 endobj
 9 0 obj
 <<
-/BaseFont /Helvetica-Bold
-/Encoding /WinAnsiEncoding
-/Name /F2
-/Subtype /Type1
-/Type /Font
+/Count 2 /Kids [ 5 0 R 6 0 R ] /Type /Pages
 >>
 endobj
 10 0 obj
 <<
-/BaseFont /Helvetica-Bold
-/Encoding /WinAnsiEncoding
-/Name /F3
-/Subtype /Type1
-/Type /Font
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 2179
 >>
+stream
+Gb!#\bAu>q']&(*mP<$H0EJnO7E9T,:8VasYWUB'2@p0DE;0c23d%>BhZJt7jM[A6<1R`nYpBYYcFrD4K*u\inAF)NX<]j!e*0Yu\=iY\GeaBL^S]3Mm.60]WQ3JD=MT2%Ku>240.+#o<O4AfS9lHQ3/q&(LB3[H=>5m46*qL[AoYbBkG;DSifs8Dk9YA8ZIj6Ia-"=3=X4,]Zcs&B=e(5\?"t8kSAe`@L%XG^#[!8ZPU6[b8@F(1N>8cR?p#1of"@)#:\^()XM,QTA&)9sfEen;$r-7cMbc'WS#pN#EOL6U6fRWgN&hl]/.3I/*YTb/pjeEi@24;c6>R^J+9WGNP+K<Jqgmlg1k07Q1GAI=,U"K9]L]l0LkBYnLNM=&:J>]oOMi],"4)_G=W"#`gjre(S^[E3Z`@02[l4\NKsjB/r[*Kk_eC2fZ/$_Z]nsd4._%]Zd`Xt$GB?uiFJY5LeS9H3`92U9'2)56*c\#BkbSU!s*7Ym('>UN,/>YD6,5mu2,qrQ,LBOHjt)J\$M>J95S]9`XAK4Q*<Lct=ibloac'KO\WO!HM#JUX>G0k>6kae7)InRY%KdDDq8`\'SgJiVH1'_i:co*OmZpS=fN<eW(?*6219BE]4JsQ>9r%T+%HlFC:E@$%[hm.-I,6bF`Zm-3:^A8!9d#:DIHuB83#iL)g-&MdTgen?XRGFPG5>"&kmr7(=-P5`<N"&=Au_\7l\-r*h,2uO`RGU-PKV[EGb*A"8b9LES]\P#86X)8k)pG00`"h<QJJ=q_,qo&EG)NF]Bs!MWp:gS#-F^SfFK0dht8(=4Fkc_H@@sVj1TbH2S0t):.?Y29t[\sJ?Zf4+H.#_@VIC1_!5IYAOXohq`dW"-=E"tUVmn<5BY^E>\?00d1D4##\N<2MV%LE@lstS2#jka1`KD$Oilri\"+upeIBT5leZ00)@;;^2frEAZ@q&s[B/Vob"]!Z68?-`@WYbSe)\%K>@h\p?5qhKoKq5DA<kcKXWBaK$E[,l.%A)5'l&H9s%-@LG^!;DBl^Sd\C-qNJMjX;^'*jQ2t^']=r+-o%lfNdGA'm!%uTqh<<EUu/X90J5YqPIc?(9=.O6TmQei=H:&7Zecfnrk2=:"a;sE-p?(WkhjJ/F-d=kaoB3DXCA#iLqBbsi1\nX<0X<0YMbG23jjiXDc74jUu'?XjrcpJ\XE"Vo$DNWSO=19TZAWI,`1C"UZLa.:k!T4eS<WTiQlLFpShLFShBMA+[JcCN<XMo)lX;KJCWJn"QkjGhjKTbV)B?m9Z?dS6Xf<=>:mHbrpI]D;Jr65uS@Y%NOR6gWF;\GmQPSus1;sFYe!*$f)Nl^+Z/Jb23!j]>]o9;eWHMP_jS\7-MTj5&9bdZ'1or0G<6<];[ZR=j4YAcmIcI`1i#;9)*8;d@/%824hoiNZWCiRgGC'DcucMme;r$4F/Z7l%XgnmrGe85X^ENP&]S&%'ZOT#*1C888Nm"E`9fMj*q8i9T3l4[c1Ff/YgEd/3JoZbP"r#kb('>?QgIOL4Xe:W3g>BI.C(O5Ea6Mkj)80Rt^D95g/!`l>4W)r2l6>95KDjl_'pEC[4(V/(STT?&K*03iBe<[o(e&Cf1SF16tEX8u>FFhsO<-m"\?3a?P`GV]<OeYd%@Dg*qN\aU6!:"mo<l#\r/e>0DnQiTs8=+<nQ]R?s$t3$fUipR,MOj.OfP*%NYbl#)4DpfgCPl609(q5p@+/Y&H;bXiLr>Tp]n8nDA>_ZdarX1=,],d)S/7UY9Pn?9'(:TNZ^%DLj32)^h]T8FQ<U8n6]>%31KJK`@t![S.U]F2raeHjHX@gVJeO.CnS#ZgoSmrZl_ID/CQWJ<bU&&FGKr$2R;3NWf-f#JL'&!E7T3*J_X1/<%F\<9.dK1JpZ#i<i6t`e&).&?oP@eaW&(4&^9H!@HES7C8Z)XF05]U&Au-e(O=JkWF&-o$Q,,W#OBgEo.Qb/,jO'P\-MNRFa1MVk6U<W-^;J4JG4Djt!2[_s7PZTO?Eh-`^/R`7[WAA-h"$?h:"2M=p-N#XiN##(V6]st\m[l.N6]u-cEL2*&sk^j9m=)ig"V^cmVY2Zlhf[L#,Xb*V?2;)?\)J/C,c(s)j-sq#/P$Y4hFGq(n3nbS.8<-j3**`1Z@4(I?*'ErC-pE'6&1s-ANeilXnAp=+G#Y2nQ>MT`~>endstream
 endobj
 11 0 obj
 <<
-/BaseFont /ZapfDingbats
-/Name /F4
-/Subtype /Type1
-/Type /Font
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 1785
 >>
+stream
+Gatm;?$"aY&:E*5\48KQ^][3tUMk192IC<l=NscV3\UjhaH2&VP&?HIO7.[r-ouKe2'^9hOjF\af\KasS-$?Js.3:[(Mc)3KbG90h@P`M7-iIsCq]VN?pPRt/1)-PT#?dom/I]=gI8f;.H<N%&LCT(A1/\&(5ZEC%AW\P<\BQ&M'0lOECn0e,R@:QA1S&`n8T]_65Bqpq;O*H':*/aoM\IoK!U+<bcm^%'bO);T$^NS1m/qQS]8g+N#9l/15h?d"X8oE@J7U[^';e=NK'd#LS8EFe)\uHs,0plporC5=o`f[J7q^\VId'r+^ed?!FP>Y1<b@0;MjHhM^56'=*4.Job4Glde])eAjI'N1aOIm>\)bf,a"U0aMnX9@X==`9j!iPJR:0F;J(=#5d+6*FRaNsp#>X,=[Yr0M/[j>W<hUMLK!3=V"Z5C36MF8LErE?:&BX9eQYsfm7b3aVb0;t-6]WN"7fPq(<I[ll0Y[4RUus2/<*M%"V)_'jD:cjX7):mU(K1!isL*n6W=e]CY;c0TkoPmKOg8;oRMn3V@0:?;\K$r,\BK[5ncuJ-2SUUO@_*c]^e5*iugpEUWCenW$1`@iA\:L&qSB\2ep^g-[kMtc^InbKlSNlFJE,OConZQ6Fj3WB%o>2S+g>2ek7K/hGq.)2&//26f=."NPS/\F/N6sOKM0APl!rXZaH1!;L#"oWr8sCoLE3S9#Nd(F11:QF'\'cd9B;pB\J$IiUL.^ko)pih9L*WY-sljNn3GHWj[#E9'b+]_!Zq.PS7SO#G</NR,6R"#>Cln;UL+'8@'Ac94tN(8i6URl394PB03lP&(\1uFnqSc@junXAG"2R,X:O>Zpk`gW\!g`@+\I8g;1&Nl+55aDA;M(7:dCloW^Gqc&F/OJLKWZr^*Wr2EaF!iW]oh*$[X#46,OgkNfHg&Cf6dfO,VUc]SM#>Kc5eXW-YFZr`92c8r8VTS6C&*)7=+f3H_m7#rkW$Rc*s\SCJqF"X@8,_8_(?P5(h:F:o72;5.epCb.U,!k`!=ojOcW'=NHWgME"Fhj]0FK@.e&eX!O@+0TY?um3EP%BK3Oa"L\ASZT3qu8&PRD>+Y+Uh#m`M5V6d&6hcF^24s=C=,@hko<)Z,0@BO9'V"FIE76l-JSlVItQ7PuG&i$YN070(hs_g[DStlsk*Cn#GKJcfGj_eTQYOk>tGd/LQikWZ+D&TP%r4E!Gm0d\?A0S^C3KP,bZaaF7H_AnN%bh0L=Be#^.3<m[u_8*E;el2CGYS>Xqn)^.283e"q/!"IQoiE;gJ#9DOP"2#o.f;0kpe_Bh,,3ikqQkXBr#3tjj$VND)Zl5N\r-3<"7PAM0*%YP-fQgJU<eU-ud_0mci@&rdet_;J[f1B1g*k7%Mi4=fK\Q,hSTjH(lR;X]Sru.0->@g6^(gdR0Rc*\8%m8$g_c^AjZdD1-/.5-O5M/g`</4*iQ6>3gu7Lu?>e%:^U$+/AXJ>s+QVr2p"cS;iqad;O$)h<S7?ShTXciVI;L-AfFpYjF6pMV39L_3X"B>efHYU:C,a^DO'?DC`p[l5Wr6l>oO/Bg%t,;:':s#6"cL?GR\B22W%Z4ef*-e\9En:94IBLaSQWYX\MITX2mDP.1LnFsDOo@6<VRtYa#eE\n,pNI["NKo[8ZI35Wr_]r-g7d,#6.sqZ!-8nMX$h#M]F&IA.eTmuqn7)>E=.J-0:oLE5Js[=5j^H9_-LW35Z'`[/=:^rt9?eR-Z&q!As#m""bLDd@]#ReX+rLp#oG+2JI_3AZ+tnLm3U6id~>endstream
 endobj
 xref
 0 12
 0000000000 65535 f 
-0000000015 00000 n 
-0000000054 00000 n 
-0000000113 00000 n 
-0000000162 00000 n 
-0000000479 00000 n 
-0000005065 00000 n 
-0000005172 00000 n 
-0000005279 00000 n 
-0000005398 00000 n 
-0000005510 00000 n 
-0000005623 00000 n 
+0000000061 00000 n 
+0000000112 00000 n 
+0000000219 00000 n 
+0000000331 00000 n 
+0000000436 00000 n 
+0000000640 00000 n 
+0000000844 00000 n 
+0000000912 00000 n 
+0000001185 00000 n 
+0000001250 00000 n 
+0000003521 00000 n 
 trailer
 <<
+/ID 
+[<302c96b35dd806de29814a9daa9c1991><302c96b35dd806de29814a9daa9c1991>]
+% ReportLab generated PDF document -- digest (opensource)
+
+/Info 8 0 R
+/Root 7 0 R
 /Size 12
-/Root 3 0 R
-/Info 1 0 R
 >>
 startxref
-5707
+5398
 %%EOF

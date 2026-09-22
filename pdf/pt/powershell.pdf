@@ -1,350 +1,93 @@
 %PDF-1.4
-%âãÏÓ
+%“Œ‹ž ReportLab Generated PDF document (opensource)
 1 0 obj
 <<
-/Producer (pypdf)
+/F1 2 0 R /F2 3 0 R
 >>
 endobj
 2 0 obj
 <<
-/Type /Pages
-/Count 1
-/Kids [ 4 0 R ]
+/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
 >>
 endobj
 3 0 obj
 <<
-/Type /Catalog
-/Pages 2 0 R
+/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
 >>
 endobj
 4 0 obj
 <<
-/Contents 5 0 R
-/MediaBox [ 0 0 595.2756 841.8898 ]
-/Resources <<
-/ExtGState <<
-/gRLs0 <<
-/ca 0.035
->>
->>
-/Font <<
-/F1 6 0 R
-/F1-0 7 0 R
-/F2 8 0 R
-/F2-0 9 0 R
-/F3 10 0 R
-/F4 11 0 R
->>
-/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
->>
-/Rotate 0
-/Trans <<
->>
-/Type /Page
-/Annots [ ]
-/Parent 2 0 R
+/Contents 9 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 8 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
 >>
 endobj
 5 0 obj
 <<
-/Length 4140
+/Contents 10 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 8 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
 >>
-stream
-q
-1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
-q
-1 0 0 1 51.35433 779.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F2 12 Tf 14 TL (QA Lab Brasil) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 749.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 4 Tm /F3 20 Tf 24 TL 150.6935 0 Td (PowerShell para QA) Tj T* -150.6935 0 Td ET
-Q
-Q
-q
-1 0 0 1 51.35433 724.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Shell e linguagem de automa\347\343o da Microsoft \372til para setup, execu\347\343o e administra\347\343o de projetos.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 714.3701 cm
-Q
-q
-1 0 0 1 51.35433 688.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (PowerShell x CMD x VS Code) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 656.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (PowerShell \351 CMD s\343o shells/terminais do Windows. VS Code \351 um editor que pode abrir esses shells no terminal) Tj T* (integrado.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 630.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Navega\347\343o) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 598.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Comandos como Get-Location, Get-ChildItem e Set-Location ajudam a navegar; aliases como pwd, ls e cd tamb\351m) Tj T* (s\343o comuns.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 572.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Vari\341veis de ambiente) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 540.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Use $env:NOME="valor" para definir uma vari\341vel na sess\343o atual. Isso \351 \372til para credenciais de testes sem) Tj T* (hardcode.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 514.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Python \351 venv) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 482.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Ative ambientes virtuais, execute pip, pytest e Playwright diretamente no PowerShell. Pol\355ticas de execu\347\343o podem) Tj T* (afetar scripts e devem ser tratadas com cuidado.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 456.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Git) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 424.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Os comandos git status, add, commit, pull e push funcionam normalmente no PowerShell ap\363s o Git estar instalado) Tj T* (no PATH.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 398.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Automa\347\343o) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 379.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (PowerShell tamb\351m pode automatizar tarefas repetitivas, manipular arquivos e integrar comandos do sistema.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 353.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Dica de QA) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 321.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL /F4 9.5 Tf 13 TL (nn) Tj /F1 9.5 Tf 13 TL ( QA Tip: entenda em qual shell voc\352 est\341 antes de copiar comandos; sintaxe de vari\341veis pode mudar entre) Tj T* (PowerShell, CMD e Bash.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 295.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Recursos oficiais) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 276.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Site oficial: https://learn.microsoft.com/powershell/) Tj T* ET
-Q
-Q
- 
-
-Q
-
-q
-0.0 0.0 595.2756 841.8898 re
-W
-n
-1 0 0 1 0 0 cm
-BT
-/F1-0 12 Tf
-14.4 TL
-ET
-0.843137 0.901961 0.960784 RG
-0.6 w
-n
-36 815.8898 m
-559.2756 815.8898 l
-S
-0.070588 0.207843 0.356863 rg
-BT
-/F2-0 8.2 Tf
-9.84 TL
-ET
-BT
-1 0 0 1 40 821.8898 Tm
-(QA LAB BRASIL) Tj
-T*
-ET
-0.356863 0.45098 0.564706 rg
-BT
-/F1-0 6.8 Tf
-8.16 TL
-ET
-BT
-1 0 0 1 398.216 821.8898 Tm
-(QUALITY ENGINEERING \174 DOCUMENTO OFICIAL) Tj
-T*
-ET
-q
-0.848048 0.529919 -0.529919 0.848048 297.6378 420.9449 cm
-0.08 0.21 0.36 rg
-/gRLs0 gs
-BT
-/F2-0 42 Tf
-50.4 TL
-ET
-BT
-1 0 0 1 -164.493 0 Tm
-(QA LAB BRASIL) Tj
-T*
-ET
-Q
-0.843137 0.901961 0.960784 RG
-n
-36 24 m
-559.2756 24 l
-S
-0.356863 0.45098 0.564706 rg
-BT
-/F1-0 6.6 Tf
-7.92 TL
-ET
-BT
-1 0 0 1 40 14 Tm
-(qualityassurancebrasil\056com\056br) Tj
-T*
-ET
-BT
-1 0 0 1 210.9996 14 Tm
-(QA Lab Brasil v2\0562 \174 PT\055BR \174 Atualizado\072 setembro de 2026) Tj
-T*
-ET
-BT
-1 0 0 1 514.547 14 Tm
-(Pagina 1 de 1) Tj
-T*
-ET
-Q
-
-
-endstream
 endobj
 6 0 obj
 <<
-/BaseFont /Helvetica
-/Encoding /WinAnsiEncoding
-/Name /F1
-/Subtype /Type1
-/Type /Font
+/PageMode /UseNone /Pages 8 0 R /Type /Catalog
 >>
 endobj
 7 0 obj
 <<
-/BaseFont /Helvetica
-/Encoding /WinAnsiEncoding
-/Name /F1
-/Subtype /Type1
-/Type /Font
+/Author (\(anonymous\)) /CreationDate (D:20260922123400+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20260922123400+00'00') /Producer (ReportLab PDF Library - \(opensource\)) 
+  /Subject (\(unspecified\)) /Title (PowerShell para QA) /Trapped /False
 >>
 endobj
 8 0 obj
 <<
-/BaseFont /Helvetica-BoldOblique
-/Encoding /WinAnsiEncoding
-/Name /F2
-/Subtype /Type1
-/Type /Font
+/Count 2 /Kids [ 4 0 R 5 0 R ] /Type /Pages
 >>
 endobj
 9 0 obj
 <<
-/BaseFont /Helvetica-Bold
-/Encoding /WinAnsiEncoding
-/Name /F2
-/Subtype /Type1
-/Type /Font
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 2076
 >>
+stream
+Gau0C?$"aY(4Ff<\C9\pgMpU&r6A%ZS8:+.9[Yc*g3q'N9L9@I,bY46lu`*aHU(1K4`N#i8*`qWKQ,8NkM-Se$Ll=;^I:lh@S'Z$iPYmO=2Z=!dIJm&=tVul=HEbM:P_H0Vb'Q5nR!`uoqGU-)<3gj&Z'cii\6Ck?DN10/<#a+X]hM,'1%`+p8'bWdica$,%kW:Dr7a/6-'Z^W)u_d4Cr4JL]45l9lQD=JJ/NKB-Lef`cE%AN%;jMF^1s_EQ!)Sdb2@%ZTs2#Qqj8S%N'09\@./r9hV6Gj5HcZ?Uq/!C_j&n(C3.;&^d0S*6[?5LOb4E%sYnaPi3=,b@2;a=;6CFAPEs_Y(*,+-X-N5GI&D$i[c<$,.u"5SOfN#DB[nAi$6],$X(WX1^^n=SAfKnpD2u[oa?*9g\&g\[rZ$kZ.M^&j+!AO0HTV#9"gMVBd3Xk\_uFSUm%']^X0#nXW++<DUrl-=ieK;,aRPJ4T*?s363oPmId3I)$9o_'#:K_6,Z/R>H6oL)ph]oO'/"2(%e)N5aC\a3M;B43sG`uZ^C?#MN#3E(KNS&&cG/:B:qI3M+6p]"3)05N['@Zrl0[H*B/@P"T@A9:]cNeFjDD\]J#uq$]"00//3?C/Eu.qF/SBL7TC1?V3Nn%jOqGA4jqBEM!PDu@#gNB,Y0_I6KBO4#\`;VL0pX8#P:iAcq?+ekV!.=MCL=;agJ.J<$]*,eFI)dV>(K/Q'1"g_A[&f/U\%+dH\Dl::8pOP17/p\nOB(-u7XPf@p$LMRM)`;QXs*!FLmKR36.7Munmr4:4l]i+!`:$(:NbR'Cg10Al^IJ,d$PQ_m_0!"J`g?pb'XdP1jp0a)lb`=:dIIaq`3as+2j4":^<=#ZtdF6nF#peY%U.WoMXII7Yf^FjH,[\TElDLW3Tk2>"5rlg7Ae#Kg@V)a5P&O&ocS4@3:kXN#gZ78SreZ*=rW\Q)1BS>D*?pOMm7"p]bc0nD)@;8/1Xcu9,70=A<\AnP#64(LkjoJfM`W('pGYXa:h7DcN=-\rW@J(ec(ll>aqY`Q[=!J_%fADU>2mQ@Q8P;4.>%q)A)/qVRe;\6T21=nUFtiD?9Ob2_DJO&=9Be(.mRl1-D:3^f%^M2j@k(_33*gXW))%`?8_K'jHUKDNE]13#,'Rcb\To/8N1;PT?_VWd/);>/f;a8meeGF?VRc'N^"hhOI++h<._;$2-2@jUYJFMnj1#%4oOd>D[QeJQ='cO1(:l#oba%k'ch[E6-*Xdm:15D?`7'Z5@<a\"rfC._+5\O'.gi44,^_q$%J+k1IjG"\e9d*:$f>Q78D<N4Z[:Q`SX@$^?f&PEp!\+H=W.+mO=[53Tn?J^;b=S5IKabR@;[0(fj]D>oYrmIPhlYiZ*:6-9jaI(e#dZc)6%[R^dd%`5^bhIY:r$n_1YC!^4,jRh*@+9903:C"F)+O?OC)JH8g]!d8!mK>.aa+iTloOe?Su36]-Ql[?=nbXBogK.^`8I$NE+#Vch8UG[8.Z\CJPpefG;Q,;6c<+q%I3`f_jRhR5W4Hu6"_iejG,YEM0%W9A>K>/(LAOb#u4k8S)@lh3:^&YF&`H/HYPW-iC:&mA#aJMC<%CuIsf>;4Y$_reCK)d7AT%F_!029+4QHA");>BHdiTp`b@N%^i7jD!Mr0Eq9u>VCRjJHHK)R99YWhop->E/Hi>Ni1S1AWiRP`%VSm\6AhYoSnC$'r5Zr<j`i[f=-7_BJ>.\dXLU@3]oCVO+qge\X[][@FSAd4FmMsCUK4AM"oX?Gi'%II20XFf(`)HC#9V&hok%VdpZe_?a!U&l.?MrLKPWBR^0@T=cuI62Gl<.12BRIe+gX7g=$(SI(<+&rHdPm4qd?9?p*?k^b,Qr9'iUW5Gp??De.0DM->eeVY!nC3oXap>Cf+=Q%U'GWHJVQlJX1,iE#d_a/\FmNN[s5'^?\'+@>C6.Nf\N@+--H"?h:CCc7%V@+cR5)!9@tktc.6]dIlZlQHC$c-TgQ&32Dn.4U]`WA^UF6A71#@B,<ZGt0a;iX%,S!$ER7FcEO&DX+,FpjV*=n'V4#U`3)j$0&jS(4QF<V$)A~>endstream
 endobj
 10 0 obj
 <<
-/BaseFont /Helvetica-Bold
-/Encoding /WinAnsiEncoding
-/Name /F3
-/Subtype /Type1
-/Type /Font
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 1796
 >>
-endobj
-11 0 obj
-<<
-/BaseFont /ZapfDingbats
-/Name /F4
-/Subtype /Type1
-/Type /Font
->>
+stream
+Gatm;9lo&I&A@C2lnQb`-p\LDkflkn:1eOfLO.,I-6X6EP#+DAFYj!dI1&mdSLBMr@s`%>+L(`dhnoOI.DiP&^T3[aH:,H\Q6]toCe:KJV9N5UfrVoh6rZX]bXeO-k*[EUnQ/J7\*@"o&5ku;8pQg2Q)Kr$<?@(.8CHieeu\F9`)0Jdk2iF1ngH!W:l7@Be#/<P8jjH8<3=G51)G58&e6d[`DYbP7YF_0,#1R(aHC-@o14"Y3fc-KPmU[6q-oqY,)VR85"@huS1l):4>oKBc9lY9F7?a&n%2T%mT/)/.l8=)k\-Ui@>,%N6mA4I^^E/"L+!%'-m[,,W^+P#V&/U(I\G#!g:ZM",0D-1'I;ZP%je`Do2I:tPZ%cH1VLk+jJ'`ELeF%#WDZJ/kj?nX?%9B\pu^s!=\;#c6mOsS,#6XX7oIW8MT:oK;O"F[N_)^rf\mp`l#sKk`nPC?9N<>naV,:UM9_m!10%1Sd"ahe*A&+a7$.LF$P$&HX2Rn&++F8bUf5T=L*u1J97SL]C,qt_!F#RjXFubB3-RjLd^@]?D2A0;MAMrC@h[,BjX6!`LLP7&D:i?ZnKmA3RW:Hd:EJ1>)>f=nY'!^SepL*<>^LpqhX!_8].idUb@NMlnH+]oU:^K,EJZgh<%7j8I"qno#<:(J']>o'*)da/S&S<D#=F5\=,j?H#0hD^P;mSe>?PfiWXZX_IiJFXc86!t[Fb'M9$f*?D67^ga+$^Gr7.8iUI@/oY7\/a9KUl!_X3?7Q$&X8eoWU[5GmYb^%6lZ2)-$,g)_n&AU<VAOT.kJ\%3CJ3WRX)Oj1>S!^js&\VFh=VPUODh;2>"JtgHt_">NHUS\Xhh.JMt*SoXZUG8c'3L$N;NNKulLnat]Kdd-c/n7:OkJNspSG5*]=fH#e/l0QoB2dKq@qQd@JE]2j+B1iASEEC5UZd159LTa$G10Nq\^R7/KD&mbg7Sr)1!uZO6<_V#_+]1'HZ-LLp^9FcI3ojp:s7,PD!P\FQV)751A@Xa5oFcpa*&OMNXl\;NfdGLNkFVsLAN4Z&$pJA\Mnjs!(o%4WuW*[j)#=pk>YPigS<J)Uk3L\*^OXs,h;*%.fFXo=emU`:lhKUnQq!QFk2sll.+fqM[?lkE0>0:5.$'rB"&bM&[]1mi?"r\*o#];[&Pm1>_":sSkX`bojJ6"G*k5"Glg;M5G,:<"9Y"kXO6=8L#tYT,n"4KnBa2L2WHrt6_Q*>@#=gj5'"JKf%g3q)J=,B.@Ah28%\,I5IqGY%m`PE\B+>UeLdXQS_=Si)[>>Sh?<Ps2pu]P".dotZcfZ%!VX?WAS"lG9-<ku*pg]E-e-_Rc"VDbk9"fM7_jX\4@MP5qRD.*>WnR.Y+>!uH'1cZX?N(nmH4-B*,Z[mcR5W7](W;5?d3\)KahcLb2RMnnu5R@dp+jC+)nm]@8-tjCO7Cp"T[Ap"LFo44)CCZ44E$M"hhadJh[G<@-]lk$]06rW'22hf%'!50l_\?jF#8+D@E,tbq;!15rT:O*3WK*_stDN`UVK3:$M_dfH'UkeIX*$[RG?9UU/JtaQuig`uQ9&%(*"++K/7ONsdGr)r.cjM=.gg9dI72fJ.`Wh@X8rSTD]dbNfZ=-V=#ZP/?m[):/g`%rDcbNUM-sT+A!u^9jKC%jAl-2UKs+>>nX6Wmespcd^O0%F$i,q'<h/WYodd_>EG0..!T\:4o#UCG]^CE%JR@?3atlhKlj;DVR#:?\!%H:LI32Dh;^I=a2S)#SaLu@3L;*R;P'h^X4s>G?dgdIY*fI\6):Y<rW1NXVOP~>endstream
 endobj
 xref
-0 12
+0 11
 0000000000 65535 f 
-0000000015 00000 n 
-0000000054 00000 n 
-0000000113 00000 n 
-0000000162 00000 n 
-0000000479 00000 n 
-0000004671 00000 n 
-0000004778 00000 n 
-0000004885 00000 n 
-0000005004 00000 n 
-0000005116 00000 n 
-0000005229 00000 n 
+0000000061 00000 n 
+0000000102 00000 n 
+0000000209 00000 n 
+0000000321 00000 n 
+0000000524 00000 n 
+0000000728 00000 n 
+0000000796 00000 n 
+0000001081 00000 n 
+0000001146 00000 n 
+0000003313 00000 n 
 trailer
 <<
-/Size 12
-/Root 3 0 R
-/Info 1 0 R
+/ID 
+[<44db5401e1da0496c6cc8ab093f4f8e6><44db5401e1da0496c6cc8ab093f4f8e6>]
+% ReportLab generated PDF document -- digest (opensource)
+
+/Info 7 0 R
+/Root 6 0 R
+/Size 11
 >>
 startxref
-5313
+5201
 %%EOF

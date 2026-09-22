@@ -1,340 +1,93 @@
 %PDF-1.4
-%âãÏÓ
+%“Œ‹ž ReportLab Generated PDF document (opensource)
 1 0 obj
 <<
-/Producer (pypdf)
+/F1 2 0 R /F2 3 0 R
 >>
 endobj
 2 0 obj
 <<
-/Type /Pages
-/Count 1
-/Kids [ 4 0 R ]
+/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
 >>
 endobj
 3 0 obj
 <<
-/Type /Catalog
-/Pages 2 0 R
+/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
 >>
 endobj
 4 0 obj
 <<
-/Contents 5 0 R
-/MediaBox [ 0 0 595.2756 841.8898 ]
-/Resources <<
-/ExtGState <<
-/gRLs0 <<
-/ca 0.035
->>
->>
-/Font <<
-/F1 6 0 R
-/F1-0 7 0 R
-/F2 8 0 R
-/F2-0 9 0 R
-/F3 10 0 R
->>
-/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
->>
-/Rotate 0
-/Trans <<
->>
-/Type /Page
-/Annots [ ]
-/Parent 2 0 R
+/Contents 9 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 8 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
 >>
 endobj
 5 0 obj
 <<
-/Length 4103
+/Contents 10 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 8 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
 >>
-stream
-q
-1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
-q
-1 0 0 1 51.35433 779.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F2 12 Tf 14 TL (QA Lab Brasil) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 749.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 4 Tm /F3 20 Tf 24 TL 192.3835 0 Td (SonarQube) Tj T* -192.3835 0 Td ET
-Q
-Q
-q
-1 0 0 1 51.35433 724.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (SonarQube: concept, Quality Engineering use, first steps and official reference.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 714.3701 cm
-Q
-q
-1 0 0 1 51.35433 688.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (What is it?) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 656.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (SonarQube is part of the modern software engineering and quality ecosystem. This guide explains its role, where it) Tj T* (fits and how QA professionals can use it with context.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 630.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (QA use) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 598.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (For QA, SonarQube may support validation, automation, diagnostics, data, integration or operational quality) Tj T* (depending on the domain. Focus on the problem it solves and the risks it helps expose.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 572.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (First steps) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 540.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Start with the official documentation. Confirm prerequisites, supported versions, permissions and environment) Tj T* (policies before installing or configuring it.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 514.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Good practices) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 482.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Use controlled environments, keep credentials out of code, capture evidence and version configuration when) Tj T* (appropriate.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 456.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Next step) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 437.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Practice with a small reproducible scenario before adopting the technology in a corporate suite or pipeline.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 411.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (When to use it) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 379.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Use this knowledge when product risk, architecture or the delivery stage requires this type of validation. Confirm the) Tj T* (goal, environment, required data and expected evidence before starting.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 353.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (QA tip) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 334.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Always connect the practice to product risk and the evidence needed for quality decisions.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 308.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Official resources) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 289.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Site oficial: https://www.sonarsource.com/products/sonarqube/) Tj T* ET
-Q
-Q
- 
-
-Q
-
-q
-0.0 0.0 595.2756 841.8898 re
-W
-n
-1 0 0 1 0 0 cm
-BT
-/F1-0 12 Tf
-14.4 TL
-ET
-0.843137 0.901961 0.960784 RG
-0.6 w
-n
-36 815.8898 m
-559.2756 815.8898 l
-S
-0.070588 0.207843 0.356863 rg
-BT
-/F2-0 8.2 Tf
-9.84 TL
-ET
-BT
-1 0 0 1 40 821.8898 Tm
-(QA LAB BRASIL) Tj
-T*
-ET
-0.356863 0.45098 0.564706 rg
-BT
-/F1-0 6.8 Tf
-8.16 TL
-ET
-BT
-1 0 0 1 399.3516 821.8898 Tm
-(QUALITY ENGINEERING \174 OFFICIAL DOCUMENT) Tj
-T*
-ET
-q
-0.848048 0.529919 -0.529919 0.848048 297.6378 420.9449 cm
-0.08 0.21 0.36 rg
-/gRLs0 gs
-BT
-/F2-0 42 Tf
-50.4 TL
-ET
-BT
-1 0 0 1 -164.493 0 Tm
-(QA LAB BRASIL) Tj
-T*
-ET
-Q
-0.843137 0.901961 0.960784 RG
-n
-36 24 m
-559.2756 24 l
-S
-0.356863 0.45098 0.564706 rg
-BT
-/F1-0 6.6 Tf
-7.92 TL
-ET
-BT
-1 0 0 1 40 14 Tm
-(qualityassurancebrasil\056com\056br) Tj
-T*
-ET
-BT
-1 0 0 1 221.4507 14 Tm
-(QA Lab Brasil v2\0562 \174 EN \174 Updated\072 September 2026) Tj
-T*
-ET
-BT
-1 0 0 1 519.6818 14 Tm
-(Page 1 de 1) Tj
-T*
-ET
-Q
-
-
-endstream
 endobj
 6 0 obj
 <<
-/BaseFont /Helvetica
-/Encoding /WinAnsiEncoding
-/Name /F1
-/Subtype /Type1
-/Type /Font
+/PageMode /UseNone /Pages 8 0 R /Type /Catalog
 >>
 endobj
 7 0 obj
 <<
-/BaseFont /Helvetica
-/Encoding /WinAnsiEncoding
-/Name /F1
-/Subtype /Type1
-/Type /Font
+/Author (\(anonymous\)) /CreationDate (D:20260922123401+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20260922123401+00'00') /Producer (ReportLab PDF Library - \(opensource\)) 
+  /Subject (\(unspecified\)) /Title (SonarQube) /Trapped /False
 >>
 endobj
 8 0 obj
 <<
-/BaseFont /Helvetica-BoldOblique
-/Encoding /WinAnsiEncoding
-/Name /F2
-/Subtype /Type1
-/Type /Font
+/Count 2 /Kids [ 4 0 R 5 0 R ] /Type /Pages
 >>
 endobj
 9 0 obj
 <<
-/BaseFont /Helvetica-Bold
-/Encoding /WinAnsiEncoding
-/Name /F2
-/Subtype /Type1
-/Type /Font
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 1894
 >>
+stream
+Gatm;?#Sa]&:F5UfZ3XB@moVZ?AbPg>RL[OF6B:DMF?36,Z,_]p^Hf8G::S=Job`eDuq:C9eD,^1V7Et%Xr]t2_Bl((Nb)GM$mK<M0mIA`BAWUbarIkM&dWB`&u>_^aBoMT9/\[<mCPuEUF*n_Dkr;l[)UV6GZ(NHGP'4R"YPSNY>4^Ke[X9a,0:0Atd[j+''T+AUtDWcLsmnA7=i:2Uo5`3"*8^KO+(<GV"_s9I#41-/Cp/f8?!b0cl6lZHq^X&T/`bdJ#.Q%#?dD%8_u]dWhB=pitsDZ^&heZfQr[&s$C1[%dY1RG[Pm0JW'I&,8C-U&\HZj7%SE5,_SJFS0VE'.s3W`<X#E3MGJ'&M`8'71ATPkkW[@io(#(1-IW@$<\'hNkI2\^)ut*"M2@YV;&14hgW20*p+(+X[G/J8!.chnJk;t4XE.<Lr3@H\D&+R-:Qd-l#X8T.k,UIXenTW/pB[L=;3"O\6&%m:)q[50=-N_$ofdF!2fr)*Y\N`WM"0J5\&Z41I&Z*kWNm9.N%TZ6gXo_%g9a^53L<W1W^ltlGV`edD&(s!r;pE)S$6"(k'KXpE6@(N=BbbDKqa5h8c^m398cA/Xnl.G7gBJTK1"4:Z1h57T\JHQ0="s;=5!DI(c3UGSl!f:-`ou&/c"K0S1'.N(SX`HM4K<"),FS%Db,s!dtH&&+^I2W_-jYbisWnW&8Tjb?UNk9I"=?8X5EA0(Unq$IWrD[D_+l<W3N'&)b:!f0b[i?LOhh%WTo9/FK\8pH!":2j?6cT7P5Jn&VPKN[NC!?RNEN[]!>%.TIg<77Jku9qirU8X=3kT82dV<1,=Y>r#Tb&S'AR)0UM5M^5LmN=9N$aSG71=.;',^cH.DH@FF[6h!XKeP[<L"&WJT9e+>`h71Rr[ACR!hj\\S'CKl&r7JUuF+<P`Ab&<6\&hV'QEk7g"ueQ%(-(0eVL-rBIj&6d]M\3GHAuZ^$A>;2;!YbfoQK\Z:Er*iVQ%h<lg)f-_i0#VJ!-Y.]EUf-Rl9E?qqr?3Y8N<KG]e'_CXj1<4na[9:\Gos8rq"Y,Y_/Nh(s+-D-\[JaGaH$[See]gEP^&9%QYBP.b<S\Y5inRT<(&L*Fu;:FO'd/uAn&)7hs?$F)6sj#a)GU%sB11>2*$8M@;_2Ind])c[BOZTMAjau"C$1h/m.V]7<nl(12Z<42)MJDS-4,BK9SAX1qpJA%9/%"\#-d2d=:G)MI+@j+M2A#"pJJO'*hcHVP)&@@`,.Q'hQ1?VVK0+c1WoN_-"Cu4Q+a_>:'r18rC<b6/b2=>5:.ndWt)5CP<"`K[I1Q;7ek-bbf_aX]oA_n0SNeENc=hWm"<Al8UWk^>sku#<o.)3GY4-m9+_TR>WG"j)DV\ZnlM)iQbS;VC[7B$]@85]^sSjSk6/k;6[]s^G)fbMU),cA`]PE[r$>%W#Kg[:rmY0j+[Z?*Cag/]tl05-nVg:*2q[P?mW-.+iqSoU+G0Gc3ad[XedQ_,+.7!,tjk'+2tc8DM>M'0=\R/#i0IW(^/9F:*\an:'47j0(?8sID%m0'"kWc"o0XiVKLXt*MNeJ?$Bo;U/W&b6;og&;Hhe9NWSLN>4'r"BaL&Ffoo8;Vr!L7.9_3$,hImPlEi`_M"ZQ.eM&/(lA:L3]ICok6KL>pG8A-[);klPW5?UlJd3,^?=>@;+qSZt<Os_Dg^dA(Ii,FjC7pWMGnW/N;Pjb.>%4)%-<G7pBcsCc3]WfKorLSA?Vf<Zbt=qj/6II`5Ct69BF&P,0_<B-;<obDh^6$X.:F^,]17S9k32<uMAc7L_>^s$"ha*GM&9/k5Rj_,li:Tnc8.NnW(VSSHfXEtjD*fRFW5qIs*2bo+_9Sc-X]_.^UB1.0+"bt"UOg]i!"EMB8^Ik+P0T`~>endstream
 endobj
 10 0 obj
 <<
-/BaseFont /Helvetica-Bold
-/Encoding /WinAnsiEncoding
-/Name /F3
-/Subtype /Type1
-/Type /Font
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 1341
 >>
+stream
+Gatm:9lK&M&A@C2bV<B?/4k]p3%"%$=<NAni^M2#7+p?lU.\C-;tS+S.*Jp%c";SP2IK*$C?G'"Gp>,<pgrK(h#Z<4iTK)80FmCa=@P&JhnmEVnn1:&79PlXaVZOK!@3_u!o,]u'2]C^.*nQbE["DD6'i:Un1r8Z9?\YM:,o*#@U2in[%OeEPDU&r>WtSKRZa1^W09l1'r7cr)H4m8c:Gc2AiM.kGt,r><A6e-,P;6**&EGm#ci3T==4rZ4O*[Jq^$:&J@Xgp"P$aDo7#i_o:H!*<h8T?p-XGMitiRRA\bZ@N&jeP-QV[\Rj>m&#d+kD4=?O^.FoMEh-L$`l`[Pl&6BNK:f3NDG_RR\C<)6+/1X[u"Z@mEW)+8*/2A-Qb_QfFRju5@oaT^3?U&qL>o(V6LtEm[O(HF31"Ti1`%'m7749AqBBcD:+H6k,n?Lm9?7DfLmBT]ZZF!/RPSGs7ql2D;WtOiM:O6+k5Y7@gS.7Et#T&D\JVW\Z,MC#'aRK]94\lYi54.Hj3^_O$&TC#=A*&C^\Ub\I]f#lj!:U0U4#G?d?#dlOV*r8aW4V7JQIDQr*dNGl6O[,19Y[Q$J^[_>1b'O-'+t/mB3d`Rm1oCk)RG"to%%Qd0a`O)O.^iEYe>.&_a^c$[XG3cK2_Q$H%P'O#1+E;<@dO7HWkt>HB@'-\&SpB00((bhjcWJ25Y=5KH2BW6>\eQi*PdcVE4"HK1<>PEiKYsa<8=1=LHOBgYTh;[2,gdVEo>jDL?E/*cI0R[(T.<.V@[H?@]1\0`.j`0$IoT@eiPD&mL@6Idn#D%Zs$`:.YP7B>:H-r"s*Rd.^K6=4O#c:b*gaU*[0-p_?7MfHV#U<`V[F=0T#$W1@[""tbgq$D-=?Qt1tR7Q"Ze(XCGijTcIs\An",[it7?%r.#*eVT/k8)])`*?;2.C^h0.]uNA?[Z*-V6'Sgu`j,dj`&ajd!M0/nM=[7P/odJ[mj@RIA+u*<fNR%&\e-;.iQ!?8<P4s<%fpg7Y0ha"k[$LM,YIZfUlDL30%pZGBcTBj##hoNf<=+0WBGK[r1ef+b>A]&4SS7b'isaqYar%cS"\E&Mp$OUZ1K(b6#8HDfe(q&#Ajkb1cf*!K/<\mp1$%OEWo8ECC]V]:)7F6]$)@rmj@WZ[d.aG7mEpcZbb;qGOB\+L?EKCn):+nrt$1-L+`l4a%l;#,>2nO1q91?%R@^IVY4]]=t@8>/(`_i::IG`E+GS7[@2K&gJ[u9457e&R3b'.>hj]cqJoW;;(^oQnG1iRj$\)0?bSMcP]Jgp@oaQO6[cO-;@(_[(gf8FLW0$j1fZ-@H:oL@++R!/5k6R<kJ;'~>endstream
 endobj
 xref
 0 11
 0000000000 65535 f 
-0000000015 00000 n 
-0000000054 00000 n 
-0000000113 00000 n 
-0000000162 00000 n 
-0000000468 00000 n 
-0000004623 00000 n 
-0000004730 00000 n 
-0000004837 00000 n 
-0000004956 00000 n 
-0000005068 00000 n 
+0000000061 00000 n 
+0000000102 00000 n 
+0000000209 00000 n 
+0000000321 00000 n 
+0000000524 00000 n 
+0000000728 00000 n 
+0000000796 00000 n 
+0000001072 00000 n 
+0000001137 00000 n 
+0000003122 00000 n 
 trailer
 <<
+/ID 
+[<23c48794ecc4773527022d5d71c36a57><23c48794ecc4773527022d5d71c36a57>]
+% ReportLab generated PDF document -- digest (opensource)
+
+/Info 7 0 R
+/Root 6 0 R
 /Size 11
-/Root 3 0 R
-/Info 1 0 R
 >>
 startxref
-5181
+4555
 %%EOF

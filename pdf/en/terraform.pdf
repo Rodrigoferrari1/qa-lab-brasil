@@ -1,340 +1,99 @@
 %PDF-1.4
-%âãÏÓ
+%“Œ‹ž ReportLab Generated PDF document (opensource)
 1 0 obj
 <<
-/Producer (pypdf)
+/F1 2 0 R /F2 3 0 R /F3 4 0 R
 >>
 endobj
 2 0 obj
 <<
-/Type /Pages
-/Count 1
-/Kids [ 4 0 R ]
+/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
 >>
 endobj
 3 0 obj
 <<
-/Type /Catalog
-/Pages 2 0 R
+/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
 >>
 endobj
 4 0 obj
 <<
-/Contents 5 0 R
-/MediaBox [ 0 0 595.2756 841.8898 ]
-/Resources <<
-/ExtGState <<
-/gRLs0 <<
-/ca 0.035
->>
->>
-/Font <<
-/F1 6 0 R
-/F1-0 7 0 R
-/F2 8 0 R
-/F2-0 9 0 R
-/F3 10 0 R
->>
-/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
->>
-/Rotate 0
-/Trans <<
->>
-/Type /Page
-/Annots [ ]
-/Parent 2 0 R
+/BaseFont /Courier /Encoding /WinAnsiEncoding /Name /F3 /Subtype /Type1 /Type /Font
 >>
 endobj
 5 0 obj
 <<
-/Length 4562
+/Contents 10 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 9 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
 >>
-stream
-q
-1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
-q
-1 0 0 1 51.35433 779.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F2 12 Tf 14 TL (QA Lab Brasil) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 749.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 4 Tm /F3 20 Tf 24 TL 199.0535 0 Td (Terraform) Tj T* -199.0535 0 Td ET
-Q
-Q
-q
-1 0 0 1 51.35433 724.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Terraform: concept, Quality Engineering use cases, first steps and official reference.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 714.3701 cm
-Q
-q
-1 0 0 1 51.35433 688.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (What is it?) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 656.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Terraform is part of the modern software engineering and quality ecosystem. This guide explains its role, where it fits) Tj T* (in the delivery flow, and how QA professionals can use it with the right context.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 630.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Why should QA know it?) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 585.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 29.5 Tm /F1 9.5 Tf 13 TL (Understanding Terraform helps QA collaborate with development, DevOps, data and product teams. The goal is not) Tj T* (to memorize commands, but to understand how the tool affects testability, automation, evidence, diagnostics and) Tj T* (delivery quality.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 559.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Getting started) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 514.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 29.5 Tm /F1 9.5 Tf 13 TL (Start with the official documentation, verify prerequisites and install only from the official source. In corporate) Tj T* (environments, confirm internal policies, supported versions, permissions and environment variables before) Tj T* (configuring Terraform.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 488.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Practical QA use) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 456.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL -0.003071 Tw (Use Terraform in a small reproducible exercise. Record the goal, configuration, expected result, evidence and issues.) Tj T* 0 Tw (Then connect the learning to a real testing, automation, integration, data or continuous-delivery scenario.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 430.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Good practices) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 398.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Prefer official documentation, never expose credentials, version configuration when appropriate, keep dependencies) Tj T* (current and document important decisions. A tool without context does not replace a quality strategy.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 372.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (When to use it) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 340.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Use this knowledge when product risk, architecture or the delivery stage requires this type of validation. Confirm the) Tj T* (goal, environment, required data and expected evidence before starting.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 314.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (QA tip) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 295.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Always connect the practice to product risk and the evidence needed for quality decisions.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 269.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Official resources) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 250.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Site oficial: https://developer.hashicorp.com/terraform/install) Tj T* ET
-Q
-Q
- 
-
-Q
-
-q
-0.0 0.0 595.2756 841.8898 re
-W
-n
-1 0 0 1 0 0 cm
-BT
-/F1-0 12 Tf
-14.4 TL
-ET
-0.843137 0.901961 0.960784 RG
-0.6 w
-n
-36 815.8898 m
-559.2756 815.8898 l
-S
-0.070588 0.207843 0.356863 rg
-BT
-/F2-0 8.2 Tf
-9.84 TL
-ET
-BT
-1 0 0 1 40 821.8898 Tm
-(QA LAB BRASIL) Tj
-T*
-ET
-0.356863 0.45098 0.564706 rg
-BT
-/F1-0 6.8 Tf
-8.16 TL
-ET
-BT
-1 0 0 1 399.3516 821.8898 Tm
-(QUALITY ENGINEERING \174 OFFICIAL DOCUMENT) Tj
-T*
-ET
-q
-0.848048 0.529919 -0.529919 0.848048 297.6378 420.9449 cm
-0.08 0.21 0.36 rg
-/gRLs0 gs
-BT
-/F2-0 42 Tf
-50.4 TL
-ET
-BT
-1 0 0 1 -164.493 0 Tm
-(QA LAB BRASIL) Tj
-T*
-ET
-Q
-0.843137 0.901961 0.960784 RG
-n
-36 24 m
-559.2756 24 l
-S
-0.356863 0.45098 0.564706 rg
-BT
-/F1-0 6.6 Tf
-7.92 TL
-ET
-BT
-1 0 0 1 40 14 Tm
-(qualityassurancebrasil\056com\056br) Tj
-T*
-ET
-BT
-1 0 0 1 221.4507 14 Tm
-(QA Lab Brasil v2\0562 \174 EN \174 Updated\072 September 2026) Tj
-T*
-ET
-BT
-1 0 0 1 519.6818 14 Tm
-(Page 1 de 1) Tj
-T*
-ET
-Q
-
-
-endstream
 endobj
 6 0 obj
 <<
-/BaseFont /Helvetica
-/Encoding /WinAnsiEncoding
-/Name /F1
-/Subtype /Type1
-/Type /Font
+/Contents 11 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 9 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
 >>
 endobj
 7 0 obj
 <<
-/BaseFont /Helvetica
-/Encoding /WinAnsiEncoding
-/Name /F1
-/Subtype /Type1
-/Type /Font
+/PageMode /UseNone /Pages 9 0 R /Type /Catalog
 >>
 endobj
 8 0 obj
 <<
-/BaseFont /Helvetica-BoldOblique
-/Encoding /WinAnsiEncoding
-/Name /F2
-/Subtype /Type1
-/Type /Font
+/Author (\(anonymous\)) /CreationDate (D:20260922123401+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20260922123401+00'00') /Producer (ReportLab PDF Library - \(opensource\)) 
+  /Subject (\(unspecified\)) /Title (Terraform) /Trapped /False
 >>
 endobj
 9 0 obj
 <<
-/BaseFont /Helvetica-Bold
-/Encoding /WinAnsiEncoding
-/Name /F2
-/Subtype /Type1
-/Type /Font
+/Count 2 /Kids [ 5 0 R 6 0 R ] /Type /Pages
 >>
 endobj
 10 0 obj
 <<
-/BaseFont /Helvetica-Bold
-/Encoding /WinAnsiEncoding
-/Name /F3
-/Subtype /Type1
-/Type /Font
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 2109
 >>
+stream
+Gatm;gQL;L&q/A5oV:H00a)aqbEcd"Rn]0KP1WCgR6s:Rf-EWai/B%k+28%'78iZ#7ch_OZ=T-_DY1J]Ro=hZmf+hBU>$^Er0n?9[+c7T=@Bdqo]'i\H,G4ri-@X?i]KqE@YsuIP!3]n9q3r`!teD!-S,bfLtYQQR)m,m=jEI1RP5<Vq<GXMB42\])*[+4%K,P@8JZt1&VA0MEl:nBk&KTOc"DX7PRBl="j]TTZAds'QS>%r9<%McZ\]pHF-3W^M`D/5R#!'bEcS/\Z0&Ble7L_0mkY3@n,.=;b0=q4J%\/.nUljJ(_E"P*f#9&#mWTN'4coNij'EC',JQ;@b9&/hqn;s]Dp=I[<nAHBb4np0bNA3%dZS%`Tms.P_%.OY;0W;bL.eX=6;&oF$=0.p[<"ap;=M'5JLPQMho?4+rl)FR0_h5&#[ogadu9@E0^kQN_+u"WU1r/fH'6P8mQXrFfI"R@2]d%Ec`Asb+gr;1]$UiVP=k-!Qu+?dfP/XM0O0md)U'h`hKGFEIq!EHP3'QA@fs`l3LtAW'J9Pjucj/;r#d&/kk(4rJuc<MZ+&/R^#L]29);/*.^fN2dQd=q1[.a^ct"9-(r=jGA-Qkh*lRon/Nte;M"#CMI,\Gf#:t[p/KG/o+ue*:KJ[E(J5+e,r2%pBa-2G*);&K7dco-=%1/>d3*hp)&Tu[QSRGrWOc"$G"YVMJHd?u/;uDig=P%\104+'MQS/2hq)FF1o05>C5F)"%#$(tO?eZK?4p;J^>uW;H4$';B">\;+325rD5aoC\=bTRCmEZGP,#YB<']m*/0+8TjG+2/O@)Yl:IQ6`@E_()kY:&c7sW/Y>S.Z>LZnH>:\uuR7*:\_#2uMB]q5^KSD6:(6<ggflqpZ].]GKbC2Y1$`0W"$*'0]>0P.6-,=$#^m>d!B)!VHHJ*EGsm`\AQJ8lrR,^l=e[5Fa[,Id;a"L@55^rKU6q:([Gl?fKPC#>kEXj;/i%g5o+>4&.@[H`XhJ2a%^&&/$>gS=eOXq+$Lar:%ki1H9Alm:`OnakguZfGl^q;k"_;d8K>=fHFTAS2C/$bfjt#0qG621/T2^S?jmJ$\>S@Mgud&eu>b6Ef^`!&h/3hpTp+hRpP4WT:a/<%g*j(?S_c9)#Ddm>X8_\cF$ld53Wn9,#V=:?JL0VP:]-VTB[p1(]5<0`Kl[RA')7[^%*=`c2)e@NH-H$^Jc,4%O9;F376Acs@K2d*c17M--S"F!Ac5.iQRjl0_sVV[ffCaBPD&H^st;<9U!&1q9TVee]AIAHQR7?)9mVn!#H?>;*VqG_b1Br[%#_klF(MfYZ)UU900uP*JIOS4gp@Mh;*'0TAidZ(b:-9%SQ%,,hrh<tXP3n5"eL->s'J'iq;gMZ$kIE"4Dgn?-qp"N)(XC+"&CHe8p4\t*nCF`HW0Z#r'eRFuF(8%X9b;>A#4O0IkSM\A<HCE3trTHj9UeV1&(jDU7@UW^7$X*R[I>Go,[rs5R^$(m",=k_Na8ZJSt#(E^THQHc525?d*Ed$D%2'XEZqc^&GV#_6;j"LPY.CcpCs&6*>"EBpK;[rdHC26$``^3_Bke>DdES$l%3sfXT)1@O_T[/FD!?jerWm;;%']Nk\pf/+VfS^5)MjSuIQR>[[h+=m*)EK@hZjpOs8#=i$//A5bbLusM&(hG8j^E@RT7B=n:C@'K6c-VKIQTH1OmJ$akE.KO*8SM0V<apu'Z=fuTf\#G>bXIl[)JF6:<nj7dH5Djl+ICU`2s5d2lOR*3SD3<eWd?A:XfR;M^3ZkIM#'$o)khZVg8hDo5\h5$a0g7YC>hfdfqiA!ppP!DQVM'3*Nt,[O5LTKC@AUn>?M0YZ=$c>P]UV^K@o1A`pQ'PuB\VmDQWnPc/Jjn-aWD,j=C?cKO(D)k:UkN/q]Q_jBFDBgC1FE#['Dne]NP1SDW31OuAVm#!p:hQHX/l]W9?IbVQ/\F]N;+m'tnAi7MkG5FfTX+MC343_nRRnqD"/rsuMdd:%0>%`aUAcTR,7fu^S7^J/h)[%kTVQN$%QF64SPLhIbZ*Nic.8[G=(pf'hb[Y\eEGE?!/jV<*0Du^D5JIQ"s)D8%)Ts@(lt,e`QO7HuIiNYkZ2~>endstream
+endobj
+11 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 1521
+>>
+stream
+Gatm:9lo&I&A@[:m*X';-ianX38/)pac$b8X\R1r#tg"F630?Nme"PD!DsQ%3f^*_Bgs2fjmL%#ICj#Tn]g'+h#goci7Ca5(l)*!/0c%6DW'P)q3DRq;-)dD1<,2V!6N-Z!4u!\7$N?ZatkHGS;:-TcmJuE]M,[0AF#C&-_/V"iE&u(/LW4@7n!b'h'Yie;j)23F`K7BJeXJ@6`A\X)(?EC#fkjLcU_3E$>'RMV*729D-\>@_CAkCque7/V`?t15?X!`0\1'0TQV^3I%E@nI-1H0X%kQEq_#_%iu9KeBu$r@6lmc8'+]>=9pB'#"BPq(Ss)hj'rrB.DQeM?eQ5kd$f6OP<0S[?T&G_;\`6+*Q5Q\O".P]bA1.g`()[QOAjhH49c;mOl5HhoY3nO3/<aX16td0ehdso.1$;tAKIl6N8LPeuBB^S]-p-ggi8_&mK2P_\lXd(OASI8..4_J^Su^!:X\-,#4W.YD!$u3:E-gRf,?ucn*SgYp)TekFM&_"R^ZR&?b,;Qc;.g/=+9F0O@&uIj7R"VqPtlN'rrDNlkZ\bKb[#5,R&*3(k,A0M0p^:_`&dGr<JD?rn2L:u2[)rD^*lr!kn=*qH\r^nZN@u0iSr]el_1_`#JX,Dg/cg/G-Flqb1>2dSG!<Ncp2++YucRE?CQM]#;`_*YA^PKlJ&7iT=Y4bDR[W3e\Fp_LRr08>@m?-'0.o3G#-Da5/rTp/Dc&O]lrp0!]Na*!V?@)C,:*M\di#qYg_/3!=Cq;`2I'c(`]oTI'*+R`^B*PI;D!O-dV)TEeRFH=86>3Pg=r5=!_p^+?M9mA*oD0.PPi38R(B:p?K>r)Gbos)P-^b`k7sWl[k$J\pac<-ucld]$%mTDRFlU'R8j`6RCn:\.%J;om4PSS"Y1\rC17u*=SrKc:RnT$$H`RGIl[@"SJ+?ham/)=;UY[0<rbk?^k@6\5QUcU%[2YT[@V7Xb<c6dRu8PA8QGP2KpEM2GIR_4udIl*A>*WgcXc'PFJK7fuX-P=YEs4ICQ]IX/c-EJVpHe+2bjm(5F)SKgf;2\^_`I\_e5XHS"NGfr41/fU+he7l<g>NWF>8I\9&;O:D0s$4Or4BU'Mumq.H0O5&T*6f9coobsU*6Rf[)`-Wg-=dEa@!?`>O3[&.+&/Z?*bB,M<+u$[Iq>LSU79R<!Z,l1_.)'H?2O"U#`o+pqSVTUW"%mr[3#fUl\q`c/7fTUQ=W=@9NmctC#1OtpAf1`KC-Bi(8#<ZP'\;0RTZ]l\BqB)VB=q/dViYobj^tUe_b&rBaB1KYP9;\$dVP99_s=JCKUiSi@4/Z!A%UA&LKGVIc?)/@(*s?S^J8k*\7_Q3KB[^rg<koF:g%$h,G*\-N:G5d21C'79Cr0L3'J"h7/3An2(XG4Fm#X<rNt4c%F3H("^LAtNu&0]Nc?&l#>nc%\fP23W$b0siVTRsRB8rd(k]Vj@oL=&DDaV0iN,Ck34TP]*Sh6-@gQS4!HI'H>_("03ir_Qe/K;Lj5m!I+Sch3nl/H~>endstream
 endobj
 xref
-0 11
+0 12
 0000000000 65535 f 
-0000000015 00000 n 
-0000000054 00000 n 
-0000000113 00000 n 
-0000000162 00000 n 
-0000000468 00000 n 
-0000005082 00000 n 
-0000005189 00000 n 
-0000005296 00000 n 
-0000005415 00000 n 
-0000005527 00000 n 
+0000000061 00000 n 
+0000000112 00000 n 
+0000000219 00000 n 
+0000000331 00000 n 
+0000000436 00000 n 
+0000000640 00000 n 
+0000000844 00000 n 
+0000000912 00000 n 
+0000001188 00000 n 
+0000001253 00000 n 
+0000003454 00000 n 
 trailer
 <<
-/Size 11
-/Root 3 0 R
-/Info 1 0 R
+/ID 
+[<b0dc17e0c4cdaa2395bc720c2e3026b7><b0dc17e0c4cdaa2395bc720c2e3026b7>]
+% ReportLab generated PDF document -- digest (opensource)
+
+/Info 8 0 R
+/Root 7 0 R
+/Size 12
 >>
 startxref
-5640
+5067
 %%EOF

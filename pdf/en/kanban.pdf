@@ -1,340 +1,74 @@
 %PDF-1.4
-%âãÏÓ
+%“Œ‹ž ReportLab Generated PDF document (opensource)
 1 0 obj
 <<
-/Producer (pypdf)
+/F1 2 0 R /F2 3 0 R
 >>
 endobj
 2 0 obj
 <<
-/Type /Pages
-/Count 1
-/Kids [ 4 0 R ]
+/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
 >>
 endobj
 3 0 obj
 <<
-/Type /Catalog
-/Pages 2 0 R
+/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
 >>
 endobj
 4 0 obj
 <<
-/Contents 5 0 R
-/MediaBox [ 0 0 595.2756 841.8898 ]
-/Resources <<
-/ExtGState <<
-/gRLs0 <<
-/ca 0.035
->>
->>
-/Font <<
-/F1 6 0 R
-/F1-0 7 0 R
-/F2 8 0 R
-/F2-0 9 0 R
-/F3 10 0 R
->>
-/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
->>
-/Rotate 0
-/Trans <<
->>
-/Type /Page
-/Annots [ ]
-/Parent 2 0 R
+/Contents 8 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 7 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
 >>
 endobj
 5 0 obj
 <<
-/Length 3834
+/PageMode /UseNone /Pages 7 0 R /Type /Catalog
 >>
-stream
-q
-1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
-q
-1 0 0 1 51.35433 779.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F2 12 Tf 14 TL (QA Lab Brasil) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 749.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 4 Tm /F3 20 Tf 24 TL 209.6135 0 Td (Kanban) Tj T* -209.6135 0 Td ET
-Q
-Q
-q
-1 0 0 1 51.35433 724.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Flow-management method based on visualization, WIP limits and continuous improvement.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 714.3701 cm
-Q
-q
-1 0 0 1 51.35433 688.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Flow) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 669.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Kanban makes work visible and helps teams observe bottlenecks, blockers and queues.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 643.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (WIP) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 624.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Work-in-Progress limits reduce multitasking and encourage finishing before starting more work.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 598.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Metrics) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 579.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Lead time, cycle time, throughput and aging help understand predictability and flow.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 553.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (QA in Kanban) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 534.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (QA can visualize test queues, blocked defects and environment bottlenecks to improve delivery flow.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 508.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (When to use it) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 476.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Use this knowledge when product risk, architecture or the delivery stage requires this type of validation. Confirm the) Tj T* (goal, environment, required data and expected evidence before starting.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 450.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (How QA applies it) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 418.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Start from the behavior or risk to validate, prepare data and environment, execute the technique or tool reproducibly) Tj T* (and capture evidence that helps the team understand the result.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 392.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (QA tip) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 373.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Use flow metrics to improve the system, not to punish individuals.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 347.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Official resources) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 328.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Site oficial: https://kanban.university/kanban-guide/) Tj T* ET
-Q
-Q
- 
-
-Q
-
-q
-0.0 0.0 595.2756 841.8898 re
-W
-n
-1 0 0 1 0 0 cm
-BT
-/F1-0 12 Tf
-14.4 TL
-ET
-0.843137 0.901961 0.960784 RG
-0.6 w
-n
-36 815.8898 m
-559.2756 815.8898 l
-S
-0.070588 0.207843 0.356863 rg
-BT
-/F2-0 8.2 Tf
-9.84 TL
-ET
-BT
-1 0 0 1 40 821.8898 Tm
-(QA LAB BRASIL) Tj
-T*
-ET
-0.356863 0.45098 0.564706 rg
-BT
-/F1-0 6.8 Tf
-8.16 TL
-ET
-BT
-1 0 0 1 399.3516 821.8898 Tm
-(QUALITY ENGINEERING \174 OFFICIAL DOCUMENT) Tj
-T*
-ET
-q
-0.848048 0.529919 -0.529919 0.848048 297.6378 420.9449 cm
-0.08 0.21 0.36 rg
-/gRLs0 gs
-BT
-/F2-0 42 Tf
-50.4 TL
-ET
-BT
-1 0 0 1 -164.493 0 Tm
-(QA LAB BRASIL) Tj
-T*
-ET
-Q
-0.843137 0.901961 0.960784 RG
-n
-36 24 m
-559.2756 24 l
-S
-0.356863 0.45098 0.564706 rg
-BT
-/F1-0 6.6 Tf
-7.92 TL
-ET
-BT
-1 0 0 1 40 14 Tm
-(qualityassurancebrasil\056com\056br) Tj
-T*
-ET
-BT
-1 0 0 1 221.4507 14 Tm
-(QA Lab Brasil v2\0562 \174 EN \174 Updated\072 September 2026) Tj
-T*
-ET
-BT
-1 0 0 1 519.6818 14 Tm
-(Page 1 de 1) Tj
-T*
-ET
-Q
-
-
-endstream
 endobj
 6 0 obj
 <<
-/BaseFont /Helvetica
-/Encoding /WinAnsiEncoding
-/Name /F1
-/Subtype /Type1
-/Type /Font
+/Author (\(anonymous\)) /CreationDate (D:20260922123401+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20260922123401+00'00') /Producer (ReportLab PDF Library - \(opensource\)) 
+  /Subject (\(unspecified\)) /Title (Kanban) /Trapped /False
 >>
 endobj
 7 0 obj
 <<
-/BaseFont /Helvetica
-/Encoding /WinAnsiEncoding
-/Name /F1
-/Subtype /Type1
-/Type /Font
+/Count 1 /Kids [ 4 0 R ] /Type /Pages
 >>
 endobj
 8 0 obj
 <<
-/BaseFont /Helvetica-BoldOblique
-/Encoding /WinAnsiEncoding
-/Name /F2
-/Subtype /Type1
-/Type /Font
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 1895
 >>
-endobj
-9 0 obj
-<<
-/BaseFont /Helvetica-Bold
-/Encoding /WinAnsiEncoding
-/Name /F2
-/Subtype /Type1
-/Type /Font
->>
-endobj
-10 0 obj
-<<
-/BaseFont /Helvetica-Bold
-/Encoding /WinAnsiEncoding
-/Name /F3
-/Subtype /Type1
-/Type /Font
->>
+stream
+Gatn&95iiK&BF8='QZqa%SK^g;j$FA#b&YCfB?OeTd;0d,E\!W3H25F^-bMY'PngS3(=O=U,[YJDe:t<5k2bihn0-&hSASe(bcGh&m.[kf\F@,c0B:;BLZ,?!soi<iWr*AIM1l4=)&JHKJCV:8@"UN5nlYt8iYdD&B=<DZV"]D.ErY"P)KMMV($l884*:IE?q@]M)g?=2%QsF,ZthkV5>um8A[?hE*PNe+\>Uu_'EG-a_.U%=L3lO_D7]6k!b5**lNG4I3(C`^pU&E;/.lt:&C=oTD&2`\+3P,.R1#]nb>D2H47;7M*)#8prEJSYRqbUK&Y2aNQ3<'&B1N#Mn?%I@.Q$f5.K:!-8\=n+?[Rq)7&9o(bI=MUBNQ<?<B`3OsV>p>@o.<1,`<dgT,,"rc[u5k&tGi";86V@JE&]Gn<\n(aRC!qR.!Y8B+dd)!OIfgB2h(pU-0iX4@0s<#Vt`$%SfhH62gGKb;R-q"ElC_1DY5BoI(9A.T@p/VY2=re`NFN]rA1r.a__#H0*npMs4RU?i.#n;'JkV6agQ(9T`-l3?/o!*b8n_^(]',tEq,L2do:0X\)X#a/o=j,3]fc_XGDSTRGdV/@sA#7IF9M&@WqKhVRaIgNLtl6tidq-C2lAb/$4>@3ojKg*@_R\Uc+4Mrq*:(5rin;CaN#K[hNeAkqW,[XeB.rD*j.!5dlg:/:#&(.SS'hVjZgk/E,eEsEfH[#.Y]*B`'r<,p(XmiU.2kUm"ZDmT(407D]buaq(h!:iH[8s"`*5-;G/0nH!/9s_MjfPEH*FD4\I.:h>]gQd0`QYsR7jT_9"pSspS=kn]k6!G@Kh=6b1\b9/4>4D*^"^"$]_sOXE-$36WUj:3#I*&CP/%fK[HIt,S_hGnDq;/[m6kA>L3HkX8[&q9Cc$OfC]$=Ns.kp5*#Z3-SAL/t'=Ui%SW21WF/8Y?Hs[p54s-kekZ\.[gi_%Q,S)/8.pM$s2`be1_36ZU=D8%g_,S%Y>/N9JMM"\eGI<RQ*aO9Okkm^^'<`DOFE0$'"-:.^V*UW#8iISTIYBCIj%,m_M+l=f^=Ku3%T(\E+k6l)nR-_L+cXg7DHJ7biB2Z5hK]IBG5<99A_u$qk0D#ql"K@j[Z6]Z?(G2uOB1-!eHcq]S6N(4JBl[pa8ELt-XN(RgVXAk9*dWkd<$FIY*Ba0EaUpWk:5[^AW;>0HW%4Y.c!%;:OX^-<LX=L.XL2"%jJHfFK)k;:$&JQ]WIILIM!Y9-NFWdr\i[g#gNYL>$K`P-1cm88<4A[^<@]mcC:lU0CRZ0&ahU[;r9+Q(j+Zl0td7UY%HB"WHT^jfn53=^;9I/FGi+4J[)e<<;X8Ub+2rn&V\K1M<lr1fD)<)[`3r>-Pbd90@38?7uHq-U(LVc%@VYk?j%2_B.7[`oN&GG0,G(pE%?X7'3$i0p[IXSn2`Z4HB>kin,tI/)t[>CHe?j8E-QdnjQJ7@H%J`Fbh8Z81=1*>7uYLkYo7t'p#WG[!K/bT6KL>aqCRq4G!l*LqTcZ5OR'&g0f!:r`8.>2+^OXKdBr/"\cL:KG.L&D[D>>Si%82EX*a.>FFghhChqpO4*S56iY8&D^>m0=4AF**FDM\^]OrlYY@ur.4!-oXmbQ!_[mkOCI9kA+m#1#DD`o+r6adG1Pd8pKXIB=J%G&Q?cJ?U9L1C05OebceT2B\(E.NGh_,gYi^^@T&Y#d7!*:7b6OJ.`qbEB']F%blEqtb_MDXp4to'uo!T'sU?Pm[0=#JR@!-0a):?;a+BLo0s9q;bjA<1V4;4e8UDYA^]t7n,kmq.%trcZfG"ai:&V/G^F3aCB#GrE]a[ge>0sp:LPa478;YbK!B3O]kQL3^`]XNGE\b3CYrSktb?-"A=2j!_Tn79(#`aqB+0dP=k~>endstream
 endobj
 xref
-0 11
+0 9
 0000000000 65535 f 
-0000000015 00000 n 
-0000000054 00000 n 
-0000000113 00000 n 
-0000000162 00000 n 
-0000000468 00000 n 
-0000004354 00000 n 
-0000004461 00000 n 
-0000004568 00000 n 
-0000004687 00000 n 
-0000004799 00000 n 
+0000000061 00000 n 
+0000000102 00000 n 
+0000000209 00000 n 
+0000000321 00000 n 
+0000000524 00000 n 
+0000000592 00000 n 
+0000000865 00000 n 
+0000000924 00000 n 
 trailer
 <<
-/Size 11
-/Root 3 0 R
-/Info 1 0 R
+/ID 
+[<ae5c47db066202d09829a0eed9ee824a><ae5c47db066202d09829a0eed9ee824a>]
+% ReportLab generated PDF document -- digest (opensource)
+
+/Info 6 0 R
+/Root 5 0 R
+/Size 9
 >>
 startxref
-4912
+2910
 %%EOF

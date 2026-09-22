@@ -1,354 +1,93 @@
 %PDF-1.4
-%âãÏÓ
+%“Œ‹ž ReportLab Generated PDF document (opensource)
 1 0 obj
 <<
-/Producer (pypdf)
+/F1 2 0 R /F2 3 0 R
 >>
 endobj
 2 0 obj
 <<
-/Type /Pages
-/Count 1
-/Kids [ 4 0 R ]
+/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
 >>
 endobj
 3 0 obj
 <<
-/Type /Catalog
-/Pages 2 0 R
+/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
 >>
 endobj
 4 0 obj
 <<
-/Contents 5 0 R
-/MediaBox [ 0 0 595.2756 841.8898 ]
-/Resources <<
-/ExtGState <<
-/gRLs0 <<
-/ca 0.035
->>
->>
-/Font <<
-/F1 6 0 R
-/F1-0 7 0 R
-/F2 8 0 R
-/F2-0 9 0 R
-/F3 10 0 R
->>
-/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
->>
-/Rotate 0
-/Trans <<
->>
-/Type /Page
-/Annots [ ]
-/Parent 2 0 R
+/Contents 9 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 8 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
 >>
 endobj
 5 0 obj
 <<
-/Length 4695
+/Contents 10 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 8 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
 >>
-stream
-q
-1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
-q
-1 0 0 1 51.35433 779.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F2 12 Tf 14 TL (QA Lab Brasil) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 749.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 4 Tm /F3 20 Tf 24 TL 140.6835 0 Td (Oracle SQL Developer) Tj T* -140.6835 0 Td ET
-Q
-Q
-q
-1 0 0 1 51.35433 724.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (IDE gratuita da Oracle para desenvolvimento, consulta e administra\347\343o de Oracle Database.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 714.3701 cm
-Q
-q
-1 0 0 1 51.35433 688.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (O que \351?) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 656.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Oracle SQL Developer oferece editor SQL, navega\347\343o de objetos, relat\363rios e recursos de desenvolvimento para) Tj T* (Oracle Database.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 630.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Aplica\347\343o em QA) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 598.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (\311 \372til para validar dados corporativos, packages, procedures, sequences, constraints e resultados de integra\347\365es) Tj T* (que usam Oracle.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 572.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Instala\347\343o e conex\343o) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 540.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Baixe no site oficial da Oracle e confirme os requisitos da vers\343o, incluindo Java/JDK quando indicado. Crie uma) Tj T* (conex\343o com hostname, porta, service name ou SID, usu\341rio e op\347\365es de rede/SSL conforme o ambiente.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 514.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Primeiro exerc\355cio) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 482.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Conecte-se ao schema de QA, abra uma worksheet e execute SELECTs controlados. Confirme NLS/date format,) Tj T* (timezone e schema antes de comparar evid\352ncias.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 456.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Boas pr\341ticas) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 424.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Use contas de menor privil\351gio, evite mudan\347as de sess\343o sem necessidade e documente service/schema e query) Tj T* (ao reportar diverg\352ncias.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 398.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Quando usar) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 366.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Use este conhecimento quando o risco, a arquitetura ou a etapa do ciclo de desenvolvimento exigir valida\347\343o) Tj T* (espec\355fica. Antes de aplicar, confirme objetivo, ambiente, dados necess\341rios e evid\352ncias esperadas.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 340.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Dica de QA) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 308.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Confirme sempre o ambiente, o schema/collection e o n\355vel de permiss\343o antes de executar qualquer comando ou) Tj T* (opera\347\343o.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 282.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Recursos oficiais) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 263.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Site oficial: https://www.oracle.com/database/sqldeveloper/) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 244.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Download / instala\347\343o: https://www.oracle.com/database/sqldeveloper/technologies/download/) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 225.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Documenta\347\343o: https://docs.oracle.com/en/database/oracle/sql-developer/) Tj T* ET
-Q
-Q
- 
-
-Q
-
-q
-0.0 0.0 595.2756 841.8898 re
-W
-n
-1 0 0 1 0 0 cm
-BT
-/F1-0 12 Tf
-14.4 TL
-ET
-0.843137 0.901961 0.960784 RG
-0.6 w
-n
-36 815.8898 m
-559.2756 815.8898 l
-S
-0.070588 0.207843 0.356863 rg
-BT
-/F2-0 8.2 Tf
-9.84 TL
-ET
-BT
-1 0 0 1 40 821.8898 Tm
-(QA LAB BRASIL) Tj
-T*
-ET
-0.356863 0.45098 0.564706 rg
-BT
-/F1-0 6.8 Tf
-8.16 TL
-ET
-BT
-1 0 0 1 398.216 821.8898 Tm
-(QUALITY ENGINEERING \174 DOCUMENTO OFICIAL) Tj
-T*
-ET
-q
-0.848048 0.529919 -0.529919 0.848048 297.6378 420.9449 cm
-0.08 0.21 0.36 rg
-/gRLs0 gs
-BT
-/F2-0 42 Tf
-50.4 TL
-ET
-BT
-1 0 0 1 -164.493 0 Tm
-(QA LAB BRASIL) Tj
-T*
-ET
-Q
-0.843137 0.901961 0.960784 RG
-n
-36 24 m
-559.2756 24 l
-S
-0.356863 0.45098 0.564706 rg
-BT
-/F1-0 6.6 Tf
-7.92 TL
-ET
-BT
-1 0 0 1 40 14 Tm
-(qualityassurancebrasil\056com\056br) Tj
-T*
-ET
-BT
-1 0 0 1 210.9996 14 Tm
-(QA Lab Brasil v2\0562 \174 PT\055BR \174 Atualizado\072 setembro de 2026) Tj
-T*
-ET
-BT
-1 0 0 1 514.547 14 Tm
-(Pagina 1 de 1) Tj
-T*
-ET
-Q
-
-
-endstream
 endobj
 6 0 obj
 <<
-/BaseFont /Helvetica
-/Encoding /WinAnsiEncoding
-/Name /F1
-/Subtype /Type1
-/Type /Font
+/PageMode /UseNone /Pages 8 0 R /Type /Catalog
 >>
 endobj
 7 0 obj
 <<
-/BaseFont /Helvetica
-/Encoding /WinAnsiEncoding
-/Name /F1
-/Subtype /Type1
-/Type /Font
+/Author (\(anonymous\)) /CreationDate (D:20260922123402+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20260922123402+00'00') /Producer (ReportLab PDF Library - \(opensource\)) 
+  /Subject (\(unspecified\)) /Title (Oracle SQL Developer) /Trapped /False
 >>
 endobj
 8 0 obj
 <<
-/BaseFont /Helvetica-BoldOblique
-/Encoding /WinAnsiEncoding
-/Name /F2
-/Subtype /Type1
-/Type /Font
+/Count 2 /Kids [ 4 0 R 5 0 R ] /Type /Pages
 >>
 endobj
 9 0 obj
 <<
-/BaseFont /Helvetica-Bold
-/Encoding /WinAnsiEncoding
-/Name /F2
-/Subtype /Type1
-/Type /Font
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 2065
 >>
+stream
+Gatm;bAuW$&A7<Zk3/VJ&-3DkjH?h#:21GD&kC)]0/*^U8GJ94;Vk.0j3rN,MVe-%Ch[0j;]s.q9_\1<3!K*9rc_Z\?*%`0"",^7F[nQ'&Zr5#C,L@*YojF!())Tc:LZmHG5i2\lWHB7.H<N%&LCT(A1/\&Ar0n>%AW^&<mHkqM'0kdqiZnl8J%]-aB0)MmDDO7KIdmjo%@H.-S3AMk[$-L$-j/9n:pnb;\?8kjVa$h`g-H%F^-G011E?Za^h%)/.c5@%W=S5lnRF(j4XL@4=lKT).,S!q7kV*BD8aEDeDU'IZRE&"('0Hk945BhuPe35T/D[E2c7pQphWeX=?9C3WFh7J(!Ud\!mOm+OcRBLiAK-4-;pO)Bg%Dn<)s,KJ[+O&d@^ES4T.=+TbrA?dQd\kK=CfdpNbBkp4.92bc^ha#KS%(F=Jm8AJ@TGdn.0X3u*^l)J'Z>&.p=oe]Vdnh:B,V&;%LF(LIBZBTh<EE:PAJUjROi)JVW@R<hU8m8q/NC?4[A;i&&4V!#m*mV&]*<ESO![3um4?[4Eh9q!WXXT,++lX0^2^kD_]4?t"6H1d4R&Ur\KZUa_@2AXm:S@n*\`f&JT";660,>T0=qV.s?PR\VX&XGEBmFboQ[5^UAu"`7gq0J24kAf4M"D.`_%\K]EKHuXKudX?887-KLB#(CGPIm1^l)&Nr+@*(Y@qcQf:,N4TkHF%7Tk,gXff--\M]YT]4Of`;n%13NLEgDRG,$=<?K+,_>gaUrr(lDW`-C,ea*SucQ4E&FhW0*f\c>.Y85l6D!ahJo;DPP*dUO&6cm)-!a3UZ,0_<V2UB\uK:4l=Ffn:PVJE9F3N$%tp%iB#S(g/Mf<fV)\l@M+0Fk4!>*+8iHe[NmS%^"\J%RS`jB'\P_UiLa=`cE&QDR"^W+bbYJY/IH\MLcnVL9C;TR6oIiU^(>8#mg,W^2A*&bI8^^n;,V1,g.P;F@S(]Rs9\PlHEpmm\)\]5H)H[obaV5-i2sA9e-K(^O9O%qW"qC;K-3j]o<'>>6^1irN06JDe&:mWMSlL,=&-WUfQVS@7.[:lj*X[Jcu-SLP=Q<V;'Gh)=AKe/CaRUo3d`Rr-Uq+W>IU2ae=t-POc#VDS)o4h@@8D>=?o#^*_YrYTYc4%Vhq<obcJMiLsh$S*fj\@f)fZg,ccQ1%3(J#Ti!=164nd9ChNC3WXI]1_=jE)[CQX);jaKs0qOXdree?.X/^/?Nhj2+[3BSt]?"c;PF3-faI/(HNgC>.+@j5J2t59Z?8]qEc&J]Df*^7t^H\mYn8eZNU@?]tmH6J/YH.(D9uGlqLbBoTS"/`D;gbK*::"@hGFd)Fj1t3KVfnC3"!#/TfmW?*,Rc0t9ht3j;h@B&FH(l"TtPEXlE&4Mp(O^t*<KX;=VSKjH<sf,f%o6&uUXF_bA,a/C.TU=[p,7e1))phf1r36imgF#^5EbqU[RZI;h@HSCS+qAi795mmG$Y2$5`qj<SY71hVm*ZOuXH`qRI_ujf36SQ]al`9b1=4VM,S'mQKLu'ZEQg:J(oE4E>'@k@,_iasg9Y>'FVSJ.g&5$oM@7bB3Z0sKh=D\oEf1?X43#QEH%9gZh3[Js2pCZ3u^J;f#]7=n[k'pPtmTVJNPg:FT,R,X'_6#0B=LU1::ZN.!IG*1n].75n<<N?\1Ru%D%N]q'KStDZOitP\L==l&:,>rJU4pi2fY[Lb&1?>'mWk+hN4>@J/"o&W[up2/4m`BKgWjk_YOgRH\p$^kd'Pg#67#`YCo=ldAI$[Oaud!s28UV5?8g,'[\u[%2WK).FrbeT?J:D4`WC?c(o?r&VYn)7k7`btF#@,WE"$VE+8Y\+*eX'q?MpT]a3ZH'F[OXj]^mOrK6PU:`qt*A]>@dZf>$tfVq#Q.GukSJbl9c3V\'$h\?@n3bdY40qs(9_dPO+l>3A>;^H48cZql&e7ELSF\0hu:9<HA4Tm%R_?ZLC-A_R)R4QRQAdLRCfRSMOB3A-4cVTumooeRW<T`3e^]m%qsqZ8]j)i"VOW,hVR7BYH>g$.HMLBu4/^M*3#Ql0-KLqB)&lsCL%5eR~>endstream
 endobj
 10 0 obj
 <<
-/BaseFont /Helvetica-Bold
-/Encoding /WinAnsiEncoding
-/Name /F3
-/Subtype /Type1
-/Type /Font
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 1367
 >>
+stream
+Gatn$?Vf`@'ZJu$.IJFm6E]^oq6P"4dV:)((7;i+@PXOk.#DU("OU46I#gWAaVGYc$:\J[2pT+Wp\]C`LuT`"s)gtV^7en_'-ni?FsJi/dH6TE2T`F]nVW5S-^G'9jGI%\rsJ>oUe=\/K]"V\U<8lr<CUh'81)M:bEl=p'KMAI=0$I4`R9A0&f295ppb^/PWWNfPZ0#'8///(<#S][0e$3J,Vg@'QSN&^.4Uc4b`R463ld[WAP?(/=KPMRELGs0ahC0')N\`p9i@H,2",'P54A;Y\*E$<fmQWBG^Rlcd0?CXC@m'53Ve1E@^6DF+KeZlT!M,,MG6_k=(e.=o0AekEAcb[=(OrsB"4etSLcP(Y#%h-`9d,r6<UOuaEZLG?qOF.W^)n`kB)0$G4YBI>q@4t+sI*GALUP8f+D!#.coDR\6tR9l#VtQ2n&aU0"Sa`N:F@2Y=k.[8;i^7=eYH>=-Y4@Q#utOda?2<cH7,I>'Q,`WE,^IDLNdhAQ-oSN[sUjVbiXSHTA+O+Bq-_<(mTq/tLC6FRF:U%FIC.E[CPhLM6Ca3,/R:.`,&liu*3e0/9*L/=)4fM.cR_W;YdQDd-_bUEMU;hO:V!>=Y-2@,gHo+aI4nKnu68,n-%RN]RATnRq\bLuQ`QJ1Vk.W):Z*W*OJJBkTBsg7+Y1KD@Em:6VAA\@Js=D46;Oe'LC-:&<dB[l'cVn@EKGh-=76Y6MJl_>#Z_]5D9UK/_ki]hOdWD!R+.3pB=T6AYHMFf/cA9Ki"P`T(NVBH.260,%00biINGaI=k?YsSqr%aG8H%^q.[VDhh*B\aGJ"1_hmKu^Y<Q&=<Q=!fW4#Q[M6N?\&RHZ]-nfHLKmq9M.NZnpS)2S)0md6Lo'[d1W]%c8iRgkFVN,q8,ugLe21c3d_aTs]gUH.%8Wa&kMEqt^@6R#aT'09BgM3dCC,qUf95]L*k*rrYECQWMRMU[aOu;m^j`5ojbtYHemk!e6c9>r+V%!DqKJ$_Ms;B]7g1]uc3a`?Or(_=&6S:uKULFL@)4"lmY"K]N+%4rtma(@G5HU7p<8(5E*67UJ[cc%"YSC1;[TGr5E?L-DmYg\tm#8%*/N[3*_dmd6d'54B=mUB0M#jM$Zp`p4ZZiuJQ-9"rQ3b0pk@A+$KSXWB2=]%B'6Pl\./mp,nQS)@q2L&<p+n1KU95W=$dU1'1Fc$kYLdq-7$b(Y\<XZ9c'J0u6!#cF&D^9qri`KNGKA*TgfV_>R.m@>7<SqdOlW1*g_"0bN'7-MIuYrHlVq%/<SO3)Q^p:*8K"GhZd6TJH^GcBsT!W]eIWXROq9Yte+#t>R.?$t"EW_GF3fJk8!i>!a135StVb]s(-R!?&kM3<>h?O+@,~>endstream
 endobj
 xref
 0 11
 0000000000 65535 f 
-0000000015 00000 n 
-0000000054 00000 n 
-0000000113 00000 n 
-0000000162 00000 n 
-0000000468 00000 n 
-0000005215 00000 n 
-0000005322 00000 n 
-0000005429 00000 n 
-0000005548 00000 n 
-0000005660 00000 n 
+0000000061 00000 n 
+0000000102 00000 n 
+0000000209 00000 n 
+0000000321 00000 n 
+0000000524 00000 n 
+0000000728 00000 n 
+0000000796 00000 n 
+0000001083 00000 n 
+0000001148 00000 n 
+0000003304 00000 n 
 trailer
 <<
+/ID 
+[<54560b0b1fe3e92921e383c7206d9751><54560b0b1fe3e92921e383c7206d9751>]
+% ReportLab generated PDF document -- digest (opensource)
+
+/Info 7 0 R
+/Root 6 0 R
 /Size 11
-/Root 3 0 R
-/Info 1 0 R
 >>
 startxref
-5773
+4763
 %%EOF

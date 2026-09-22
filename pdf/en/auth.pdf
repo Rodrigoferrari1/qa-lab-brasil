@@ -1,340 +1,74 @@
 %PDF-1.4
-%âãÏÓ
+%“Œ‹ž ReportLab Generated PDF document (opensource)
 1 0 obj
 <<
-/Producer (pypdf)
+/F1 2 0 R /F2 3 0 R
 >>
 endobj
 2 0 obj
 <<
-/Type /Pages
-/Count 1
-/Kids [ 4 0 R ]
+/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
 >>
 endobj
 3 0 obj
 <<
-/Type /Catalog
-/Pages 2 0 R
+/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
 >>
 endobj
 4 0 obj
 <<
-/Contents 5 0 R
-/MediaBox [ 0 0 595.2756 841.8898 ]
-/Resources <<
-/ExtGState <<
-/gRLs0 <<
-/ca 0.035
->>
->>
-/Font <<
-/F1 6 0 R
-/F1-0 7 0 R
-/F2 8 0 R
-/F2-0 9 0 R
-/F3 10 0 R
->>
-/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
->>
-/Rotate 0
-/Trans <<
->>
-/Type /Page
-/Annots [ ]
-/Parent 2 0 R
+/Contents 8 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 7 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
 >>
 endobj
 5 0 obj
 <<
-/Length 4358
+/PageMode /UseNone /Pages 7 0 R /Type /Catalog
 >>
-stream
-q
-1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
-q
-1 0 0 1 51.35433 779.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F2 12 Tf 14 TL (QA Lab Brasil) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 749.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 4 Tm /F3 20 Tf 24 TL 88.50346 0 Td (Authentication and Authorization) Tj T* -88.50346 0 Td ET
-Q
-Q
-q
-1 0 0 1 51.35433 724.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Login, sessions, cookies, tokens, JWT, OAuth, OIDC, SSO, MFA and access control.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 714.3701 cm
-Q
-q
-1 0 0 1 51.35433 688.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Authentication vs Authorization) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 656.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Authentication answers who the user is. Authorization defines what that user may do. An authenticated user reaching) Tj T* (an admin function without permission is an authorization failure.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 630.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Sessions and tokens) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 598.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Applications may use session cookies or tokens. JWT is a token format; OAuth 2.0 is an authorization framework;) Tj T* (OpenID Connect adds an identity layer on top of OAuth 2.0.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 572.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (SSO and MFA) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 540.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Single Sign-On lets an identity be reused across applications. Multi-Factor Authentication requires additional factors) Tj T* (and should be tested for success, failure, recovery and expiration.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 514.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (QA scenarios) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 482.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Validate invalid credentials, logout, expiration, role-based access, user switching, protected URLs, concurrent) Tj T* (sessions and error messages without unnecessary disclosure.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 456.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (When to use it) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 424.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Use this knowledge when product risk, architecture or the delivery stage requires this type of validation. Confirm the) Tj T* (goal, environment, required data and expected evidence before starting.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 398.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (How QA applies it) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 366.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Start from the behavior or risk to validate, prepare data and environment, execute the technique or tool reproducibly) Tj T* (and capture evidence that helps the team understand the result.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 340.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (QA tip) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 321.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (A working login does not prove authorization is correct: always test roles and protected resources.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 295.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Official resources) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 276.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Site oficial: https://cheatsheetseries.owasp.org/cheatsheets/Authentication_Cheat_Sheet.html) Tj T* ET
-Q
-Q
- 
-
-Q
-
-q
-0.0 0.0 595.2756 841.8898 re
-W
-n
-1 0 0 1 0 0 cm
-BT
-/F1-0 12 Tf
-14.4 TL
-ET
-0.843137 0.901961 0.960784 RG
-0.6 w
-n
-36 815.8898 m
-559.2756 815.8898 l
-S
-0.070588 0.207843 0.356863 rg
-BT
-/F2-0 8.2 Tf
-9.84 TL
-ET
-BT
-1 0 0 1 40 821.8898 Tm
-(QA LAB BRASIL) Tj
-T*
-ET
-0.356863 0.45098 0.564706 rg
-BT
-/F1-0 6.8 Tf
-8.16 TL
-ET
-BT
-1 0 0 1 399.3516 821.8898 Tm
-(QUALITY ENGINEERING \174 OFFICIAL DOCUMENT) Tj
-T*
-ET
-q
-0.848048 0.529919 -0.529919 0.848048 297.6378 420.9449 cm
-0.08 0.21 0.36 rg
-/gRLs0 gs
-BT
-/F2-0 42 Tf
-50.4 TL
-ET
-BT
-1 0 0 1 -164.493 0 Tm
-(QA LAB BRASIL) Tj
-T*
-ET
-Q
-0.843137 0.901961 0.960784 RG
-n
-36 24 m
-559.2756 24 l
-S
-0.356863 0.45098 0.564706 rg
-BT
-/F1-0 6.6 Tf
-7.92 TL
-ET
-BT
-1 0 0 1 40 14 Tm
-(qualityassurancebrasil\056com\056br) Tj
-T*
-ET
-BT
-1 0 0 1 221.4507 14 Tm
-(QA Lab Brasil v2\0562 \174 EN \174 Updated\072 September 2026) Tj
-T*
-ET
-BT
-1 0 0 1 519.6818 14 Tm
-(Page 1 de 1) Tj
-T*
-ET
-Q
-
-
-endstream
 endobj
 6 0 obj
 <<
-/BaseFont /Helvetica
-/Encoding /WinAnsiEncoding
-/Name /F1
-/Subtype /Type1
-/Type /Font
+/Author (\(anonymous\)) /CreationDate (D:20260922123400+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20260922123400+00'00') /Producer (ReportLab PDF Library - \(opensource\)) 
+  /Subject (\(unspecified\)) /Title (Authentication and Authorization) /Trapped /False
 >>
 endobj
 7 0 obj
 <<
-/BaseFont /Helvetica
-/Encoding /WinAnsiEncoding
-/Name /F1
-/Subtype /Type1
-/Type /Font
+/Count 1 /Kids [ 4 0 R ] /Type /Pages
 >>
 endobj
 8 0 obj
 <<
-/BaseFont /Helvetica-BoldOblique
-/Encoding /WinAnsiEncoding
-/Name /F2
-/Subtype /Type1
-/Type /Font
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 1679
 >>
-endobj
-9 0 obj
-<<
-/BaseFont /Helvetica-Bold
-/Encoding /WinAnsiEncoding
-/Name /F2
-/Subtype /Type1
-/Type /Font
->>
-endobj
-10 0 obj
-<<
-/BaseFont /Helvetica-Bold
-/Encoding /WinAnsiEncoding
-/Name /F3
-/Subtype /Type1
-/Type /Font
->>
+stream
+Gatn%gN)%,&;KZL'RT(VA<[&p*i<"^%W+8PG[`,H2,$=LC6FZE;N<hepb"ghU(]uHFC]_DH3rs;fPbt*$6fCHs-Zpgf*hBH!sQhTYlr2ULW'_8?NcDj$+#_*0b@)o&doheqanT+JiXGlTep:"Ot7q(&fdno@>(HhO8$(<87KHQ0Uo.:1(kmAR,UP(P0bj(/85r`Qnc[7]nn']a[G2pNAa6t65b+%3DUM?BhC/u-&e.;06OXeJ`)2n/=ERQP_:TFg"uV_ZI=?<7b]&ngmc=TN6]I"s-ToN=9m#.!@Ak;0r#cl\g>47#RMG0i!h^i6SBi?'c9%[>Tenm"W*f7IY#JqY^#2/P;!;3RK?n;0/@(Y&h^$nZ698i8P^P+#tYdO\g(,t6q2q;E-$.2f6:<fO#PNq*/JP[6Ld-3=X;!H'G;3.4WYlE,\&[rK64EKm5)DY=1VGTl?Y;sPt!T&+s:TSRE'A[>_H5eGJ=A?9F-:sNDWH)$oh[)@Obgc'5<+13>4,R@D0\nWeuS<lr8%j/PlH]6r9??1F)AIg<)mO!<3,IM<N:<6mK<SVbph>$]`2*rFA3YN!g\Zd,0:$,m<Y14.8!KB48MVZBW:ld0/nk$FmV2g9mqbS]b'')J!-(1E!7nnWo`mbEr+=m_cnDqMOi_WgqEq9N!DRQJhh[oQ'\EoYXg"IhqC'ckiQuB=YN,=9^Qp<7@MkAd5e#%pIp\CEA]rr:tIiK3NOFr;-3Vm0r.KgDPD8E95Cqo,RMa[^rlD,VQAA<$,Uc*^(Ri^?P0JG1n*=IG\W8Gi-?j2M]s*;&dp_O_Y^R9_K!ndQAu5^sh!;hLMb+(3DoMC4no*YuBI6g#>'jn-^cB%#)O:k\0Ed(&mXh?l)kcI#U:L_*Ad$Y$p#6\bGus0hU'77bLC\r#"4mHP(]UFkKo?$<\,b-S$s$2R;qJ@XSj^[JII$+jr0pghb+6A`IK4icgBhCEkNV&4]tMq#pEr=;kDcp:%cDJ<B=tp.(-9.kC:'liV.XW;>O9G\cSJjXj@^r'"Dr'#;Uqb%E79eBjWnR,pNI#mc4j?U;csq%1hi4Zsc2Y:JY43$5^lG!r<;Y#k;XD%3=V?`*=!JQ7NTNAkWl]ZCIq!h['0eX%@ghBLhFRbFd^:0T!)>dUiYEY$RdkY&A#hCAsMWE"pn>HA'C3^6>O];D'k]A.4fIJ/$;[uIg[bR#\COrR!6H$VB5pjd7&<D0C;$#Ra44!2Y\n9q1L_$@R.\kC,Hnf24tM(HmYBA@<d3m=QPe`FL2nb2eP'=GZ5k_J7.2V,7f>e&e:h+][E$0#GIn#StPj!1lX@kH]@cm2\1<"Gb3F"Q[9#dDZM?CL#`;9D7T*+"kcZbcNroo$`)cS++g/hW$eoATRu6/+8W^5(E)Q)[q8I*eQ.,Z&SBhQ1T9Afr[WEC;L/I\u,bZ;@CkXjOMCoR5bFDsd-c\`($bX(0j=(H=FAg/d(Pb/b3rUY]a$l3b)IG)cpFI<*q`I5.\&)\KWt[`*Di0!]?!?qqg_9jT(T0*p7aM#LhS!*dlI/^29b:g"d1EPB#s^s\Z8anKO%[i2O1TB#0nD#g>9YGmN"AF@o0V4kW&]PEf,K*AK^ojcU?J2-0H25dVoI:)]C17&qe.jHeKij;bJVAWX\$JVo&pTN/_6*+>q2)s5a@*-@Z%3:'#!3\s+rr~>endstream
 endobj
 xref
-0 11
+0 9
 0000000000 65535 f 
-0000000015 00000 n 
-0000000054 00000 n 
-0000000113 00000 n 
-0000000162 00000 n 
-0000000468 00000 n 
-0000004878 00000 n 
-0000004985 00000 n 
-0000005092 00000 n 
-0000005211 00000 n 
-0000005323 00000 n 
+0000000061 00000 n 
+0000000102 00000 n 
+0000000209 00000 n 
+0000000321 00000 n 
+0000000524 00000 n 
+0000000592 00000 n 
+0000000891 00000 n 
+0000000950 00000 n 
 trailer
 <<
-/Size 11
-/Root 3 0 R
-/Info 1 0 R
+/ID 
+[<f896adb7373812f080229e9b21a758b3><f896adb7373812f080229e9b21a758b3>]
+% ReportLab generated PDF document -- digest (opensource)
+
+/Info 6 0 R
+/Root 5 0 R
+/Size 9
 >>
 startxref
-5436
+2720
 %%EOF

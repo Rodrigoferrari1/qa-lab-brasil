@@ -1,508 +1,93 @@
 %PDF-1.4
-%âãÏÓ
+%“Œ‹ž ReportLab Generated PDF document (opensource)
 1 0 obj
 <<
-/Producer (pypdf)
+/F1 2 0 R /F2 3 0 R
 >>
 endobj
 2 0 obj
 <<
-/Type /Pages
-/Count 2
-/Kids [ 4 0 R 10 0 R ]
+/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
 >>
 endobj
 3 0 obj
 <<
-/Type /Catalog
-/Pages 2 0 R
+/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
 >>
 endobj
 4 0 obj
 <<
-/Contents 5 0 R
-/MediaBox [ 0 0 595.2756 841.8898 ]
-/Resources <<
-/ExtGState <<
-/gRLs0 <<
-/ca 0.035
->>
->>
-/Font <<
-/F1 6 0 R
-/F1-0 7 0 R
-/F2 8 0 R
-/F2-0 9 0 R
->>
-/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
->>
-/Rotate 0
-/Trans <<
->>
-/Type /Page
-/Annots [ ]
-/Parent 2 0 R
+/Contents 9 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 8 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
 >>
 endobj
 5 0 obj
 <<
-/Length 5499
+/Contents 10 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 8 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
 >>
-stream
-q
-1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
-q
-1 0 0 1 57.02362 757.8661 cm
-q
-.043137 .184314 .356863 rg
-BT 1 0 0 1 0 5 Tm /F2 22 Tf 27 TL 197.2082 0 Td (Cypress) Tj T* -197.2082 0 Td ET
-Q
-Q
-q
-1 0 0 1 57.02362 717.8661 cm
-q
-.294118 .419608 .560784 rg
-BT 1 0 0 1 0 19.5 Tm /F1 10.5 Tf 15 TL (Framework de testes Web com experi\352ncia interativa, E2E e Component Testing para ecossistemas) Tj T* (JavaScript/TypeScript.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 57.02362 685.8661 cm
-q
-.043137 .184314 .356863 rg
-BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (O que \351 e quando usar) Tj T* ET
-Q
-Q
-q
-1 0 0 1 57.02362 634.8661 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 34.5 Tm /F1 10.5 Tf 15 TL (Cypress combina runner, assertions, debugging e uma aplica\347\343o interativa. \311 uma op\347\343o forte para) Tj T* (equipes JavaScript/TypeScript que valorizam feedback r\341pido e inspe\347\343o visual durante o) Tj T* (desenvolvimento.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 57.02362 606.8661 cm
-q
-.043137 .184314 .356863 rg
-BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (Pr\351-requisitos) Tj T* ET
-Q
-Q
-q
-1 0 0 1 57.02362 570.8661 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 19.5 Tm /F1 10.5 Tf 15 TL (Instale uma vers\343o de Node.js e gerenciador de pacotes compat\355veis com a vers\343o do Cypress. Valide) Tj T* (node --version e npm --version e consulte os requisitos oficiais do sistema.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 57.02362 542.8661 cm
-q
-.043137 .184314 .356863 rg
-BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (Instala\347\343o passo a passo) Tj T* ET
-Q
-Q
-q
-1 0 0 1 57.02362 506.8661 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 19.5 Tm /F1 10.5 Tf 15 TL (Na raiz do projeto execute npm install cypress --save-dev. Depois abra a aplica\347\343o com npx cypress) Tj T* (open; o Launchpad ajuda a configurar E2E ou Component Testing e cria a estrutura necess\341ria.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 57.02362 478.8661 cm
-q
-.043137 .184314 .356863 rg
-BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (Configura\347\343o inicial) Tj T* ET
-Q
-Q
-q
-1 0 0 1 57.02362 442.8661 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 19.5 Tm /F1 10.5 Tf 15 TL (Revise cypress.config, baseUrl, retries, viewport, timeouts e reporter. Use cypress.env ou vari\341veis de) Tj T* (ambiente de CI para dados sens\355veis.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 57.02362 414.8661 cm
-q
-.043137 .184314 .356863 rg
-BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (Primeiro teste) Tj T* ET
-Q
-Q
-q
-1 0 0 1 57.02362 378.8661 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 19.5 Tm /F1 10.5 Tf 15 TL (Crie um spec, use cy.visit, seletores resilientes e assertions. Durante desenvolvimento use cypress) Tj T* (open; em execu\347\343o automatizada use npx cypress run.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 57.02362 350.8661 cm
-q
-.043137 .184314 .356863 rg
-BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (Seletores e comandos) Tj T* ET
-Q
-Q
-q
-1 0 0 1 57.02362 314.8661 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 19.5 Tm /F1 10.5 Tf 15 TL -0.068888 Tw (Prefira atributos data-* destinados a teste quando apropriado. Encapsule a\347\365es reutiliz\341veis em custom) Tj T* 0 Tw (commands sem esconder regras importantes do teste.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 57.02362 286.8661 cm
-q
-.043137 .184314 .356863 rg
-BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (Network e API) Tj T* ET
-Q
-Q
-q
-1 0 0 1 57.02362 250.8661 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 19.5 Tm /F1 10.5 Tf 15 TL (Use cy.intercept para observar, aguardar ou simular tr\341fego. Diferencie mocks \372teis de cen\341rios que) Tj T* (precisam validar integra\347\365es reais.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 57.02362 222.8661 cm
-q
-.043137 .184314 .356863 rg
-BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (CI/CD e evid\352ncias) Tj T* ET
-Q
-Q
-q
-1 0 0 1 57.02362 186.8661 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 19.5 Tm /F1 10.5 Tf 15 TL (Execute cypress run no pipeline e preserve screenshots, v\355deos e relat\363rios. Em Linux/containers,) Tj T* (valide depend\352ncias do sistema ou use imagens oficiais adequadas.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 57.02362 158.8661 cm
-q
-.043137 .184314 .356863 rg
-BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (Solu\347\343o de problemas) Tj T* ET
-Q
-Q
-q
-1 0 0 1 57.02362 122.8661 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 19.5 Tm /F1 10.5 Tf 15 TL (Problemas comuns envolvem vers\343o do Node, download do bin\341rio, proxy corporativo, permiss\365es,) Tj T* (cache e depend\352ncias Linux. Consulte a instala\347\343o avan\347ada antes de aplicar workarounds.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 57.02362 67.86614 cm
-q
-.219608 .741176 .972549 RG
-1 w
-.913725 .968627 1 rg
-n -8 -8 497.2283 61 re B*
-Q
-q
-BT 1 0 0 1 0 34.5 Tm 15 TL /F2 10.5 Tf 0 0 0 rg (QA Tip) Tj /F1 10.5 Tf  T* (Use a ferramenta dentro de uma estrat\351gia de qualidade: automatize riscos relevantes, mantenha a) Tj T* (su\355te observ\341vel e trate falhas de automa\347\343o como c\363digo de produ\347\343o.) Tj T* ET
-Q
-Q
- 
-
-Q
-
-q
-0.0 0.0 595.2756 841.8898 re
-W
-n
-1 0 0 1 0 0 cm
-BT
-/F1-0 12 Tf
-14.4 TL
-ET
-0.843137 0.901961 0.960784 RG
-0.6 w
-n
-36 815.8898 m
-559.2756 815.8898 l
-S
-0.070588 0.207843 0.356863 rg
-BT
-/F2-0 8.2 Tf
-9.84 TL
-ET
-BT
-1 0 0 1 40 821.8898 Tm
-(QA LAB BRASIL) Tj
-T*
-ET
-0.356863 0.45098 0.564706 rg
-BT
-/F1-0 6.8 Tf
-8.16 TL
-ET
-BT
-1 0 0 1 398.216 821.8898 Tm
-(QUALITY ENGINEERING \174 DOCUMENTO OFICIAL) Tj
-T*
-ET
-q
-0.848048 0.529919 -0.529919 0.848048 297.6378 420.9449 cm
-0.08 0.21 0.36 rg
-/gRLs0 gs
-BT
-/F2-0 42 Tf
-50.4 TL
-ET
-BT
-1 0 0 1 -164.493 0 Tm
-(QA LAB BRASIL) Tj
-T*
-ET
-Q
-0.843137 0.901961 0.960784 RG
-n
-36 24 m
-559.2756 24 l
-S
-0.356863 0.45098 0.564706 rg
-BT
-/F1-0 6.6 Tf
-7.92 TL
-ET
-BT
-1 0 0 1 40 14 Tm
-(qualityassurancebrasil\056com\056br) Tj
-T*
-ET
-BT
-1 0 0 1 210.9996 14 Tm
-(QA Lab Brasil v2\0562 \174 PT\055BR \174 Atualizado\072 setembro de 2026) Tj
-T*
-ET
-BT
-1 0 0 1 514.547 14 Tm
-(Pagina 1 de 2) Tj
-T*
-ET
-Q
-
-
-endstream
 endobj
 6 0 obj
 <<
-/BaseFont /Helvetica
-/Encoding /WinAnsiEncoding
-/Name /F1
-/Subtype /Type1
-/Type /Font
+/PageMode /UseNone /Pages 8 0 R /Type /Catalog
 >>
 endobj
 7 0 obj
 <<
-/BaseFont /Helvetica
-/Encoding /WinAnsiEncoding
-/Name /F1
-/Subtype /Type1
-/Type /Font
+/Author (\(anonymous\)) /CreationDate (D:20260922123400+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20260922123400+00'00') /Producer (ReportLab PDF Library - \(opensource\)) 
+  /Subject (\(unspecified\)) /Title (Cypress) /Trapped /False
 >>
 endobj
 8 0 obj
 <<
-/BaseFont /Helvetica-Bold
-/Encoding /WinAnsiEncoding
-/Name /F2
-/Subtype /Type1
-/Type /Font
+/Count 2 /Kids [ 4 0 R 5 0 R ] /Type /Pages
 >>
 endobj
 9 0 obj
 <<
-/BaseFont /Helvetica-Bold
-/Encoding /WinAnsiEncoding
-/Name /F2
-/Subtype /Type1
-/Type /Font
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 2104
 >>
+stream
+Gatm;bAu>s(>\:,ma@;^@/t\!YFJ+,\LWq:-d'X[)i0.]-6b_XUn"7Cj6(rg-ou?a<OLg3Q9Z#Ugj@=p5S1tskl8sZU?=&<qEp@+[+^TI=\,UFoP1eD>qhjiOi>7*+d+f/(Ag<&g$PM?6n&e$bE.l<Al0+n<%Sa)A/^-kEG`0U@O=+]B)@aM"UX?@5%H5'rUt4WjT1:9UjR/e&d_4:..B`$CJqB)8=XWY4I%'_;j#H1@9Ud6:oC_W+psaZA2;mU$-$NfbN%j-Plh5\26Dj7GK6Q%TBYjekF\N700UsGcP?dKILsnu"rtg\Sd3R%a9*K>OYWF.E+oI80af4&Z)[$In*>JNl8,Q6q;$uW4A&O]1;nqVgrUh#jqb8MJs_ps=\'3l-6`+9$Pl1!(bO,#lf[p<h=^Z7f5kFFZ,fR+i-1X4+I_X&9"^G]E?e_m9T!43d]$O*I\U!;[]HmFA\FY(8coYN!O4IKjPa/U7Qa?.h4KUoAdiXE`dh!=K942g[^;h(^OX>@0kO:A:XFG.!*)/XE^1WHFp%q'@Z_5d0f!K<c`M6LNp(s\@Ku[I,gjP9EkiMX`_d!r<PR/t,h%M&"n*PjLVbM4eifKHotJLR/<WLsE5\$jWh>7dh\rPd45dZ^s1!jYY^Mp'%PZ2h$m63<:JrT,AuHB!@d(Q25=(T_^^RpJ?@\0YI.;tlQ+f'J$Pf+6mI6JAX4NT*MY,L)3qsO[ZHc*3A_h+%g2aB_oLchA9eT2jQs/)nXmdYO6]JC/FDdU!EE&b]pFlMDHhBS3A^atf^,:63aR6>+Yd^TV+ro"DE'0S>%l$&>A(F01hfRUeK#[rLh0,eN%!>=u'4?^mI&)_LnKb3Z>*84;>2(>PkHo)!;nF@>>'J`'O1D-j;P]aeRB)B7R,D=ZAo'1],XfDh1rg%E@p;)/G2&:AIY+Ua1jcVd[f!9Xg1Xcn<W7\'NY>-D88/o`NBWf`QO[#LMU!]E+Tp(df6ajYQPEJ0:8+:EOUY0NSW3XC,uA>+9\t&BZY5e%M%hAodsqJ\CdPYmN-dd&F[m5iSG%OgAG&FH.4Z?:lF^pEAjal(+/&%L5*%c$NBXaej*nVO]">Raq67q4F2dA>f?X4+pA3]$mkI(Ve=3O]$/KDkI?5#-Dq49#aHH8N\rT,sTqJouJ_3qqT\HIs<:..Dk92nM<.4F:[lWuZ1QH4V2spf_TT;;\%3D-9)K1&B`MN7,JhWZ-PQ3LP<<A3`bWqbSRm,Ilh@F&gZltlV9VL-PLM1S5eQs>OZ2R%aEoTeS"Os@cY!dVBp0[(@&a#`(7fU:eJ2_6`H!^]@Qi7.f+df6uMWWf;e>@-H<TrW`X!rJ0J[%#$5]@R``sE6.i+rPRr#fC#bW4_6mXIG12TV'QZ5lOl,lS`>!*+LBZ"pH:XBSZXY=Ot&#lg!33u[]/F?$\[QUkFP06Lb9FgX\nrnJ\[qfVLQHIF^^rgh8][U6)<c9F1d+S?VOMdsQmVVIoCgO9Pbh#h]uP[I/!);f;_@PcOqLCrDpnDj`GKCk!d/Vs5UfRIo1C#2,P.X2"k>[bq/qVQ!D9mr[f%C'6f=ulPtmZpDDes74sFC4;p?WEHBU)KN(FaX_l9A2/t0KTChf<_hcI[CL3TD?O'^/,Y%ZnLLSA)%LS]KkF@h:Atqe;@0AS'=2/DNJRQ`e)u)+YsP/:P4jn39,Mn%T%Q[dn[WqK]lpjp:f02&[WQV'S-K.\<Z][p"UOB2rs'[&cFBoN@2uVE?[tU6dd(LWOgY[)">87YP'Wp;]-8/$&$FRXRbib&Y<pNRc;cA0n-PpTo"XP4WeNZ0fo-@73RH;SSq2UC=VE%cND<jYB_u2l7i/eP[)EoGf4PYc;fMj"tg-!qVfHZXp*)-VpkcJH07H<6lt.Vrq_9LN=JNc@$%[?MgHt><BhJr.OdhIT>7"b9c"=Y#fYK,H_]?pNi;4=mEGsiG]Z-tL.]J^qb4/4&*XId=X0D4d;UPgG01S67OW8ZXL]E9[f*%5UUOXuA[r[j+\e6D^Gt#''%maPOE+V;*=9sMIPW^5/BUV@CX1d45rd8]hqIt?X-9RC3#=\tJPD1Erc'$l\U*cY1nfgALF^6&=[n>L"3Kag2#~>endstream
 endobj
 10 0 obj
 <<
-/Contents 11 0 R
-/MediaBox [ 0 0 595.2756 841.8898 ]
-/Resources <<
-/ExtGState <<
-/gRLs0 <<
-/ca 0.035
->>
->>
-/Font <<
-/F1 6 0 R
-/F1-0 12 0 R
-/F2 8 0 R
-/F2-0 13 0 R
->>
-/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
->>
-/Rotate 0
-/Trans <<
->>
-/Type /Page
-/Annots [ ]
-/Parent 2 0 R
->>
-endobj
-11 0 obj
-<<
-/Length 1589
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 2082
 >>
 stream
-q
-1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
-q
-1 0 0 1 57.02362 766.8661 cm
-q
-.043137 .184314 .356863 rg
-BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (Recursos oficiais) Tj T* ET
-Q
-Q
-q
-1 0 0 1 57.02362 745.8661 cm
-q
-BT 1 0 0 1 0 4.5 Tm 15 TL /F2 10.5 Tf 0 0 0 rg (Site oficial:) Tj /F1 10.5 Tf ( https://www.cypress.io/) Tj T* ET
-Q
-Q
-q
-1 0 0 1 57.02362 722.8661 cm
-q
-BT 1 0 0 1 0 4.5 Tm 15 TL /F2 10.5 Tf 0 0 0 rg (Instala\347\343o / download:) Tj /F1 10.5 Tf ( https://docs.cypress.io/app/get-started/install-cypress) Tj T* ET
-Q
-Q
-q
-1 0 0 1 57.02362 699.8661 cm
-q
-BT 1 0 0 1 0 4.5 Tm 15 TL /F2 10.5 Tf 0 0 0 rg (Documenta\347\343o:) Tj /F1 10.5 Tf ( https://docs.cypress.io/) Tj T* ET
-Q
-Q
- 
-
-Q
-
-q
-0.0 0.0 595.2756 841.8898 re
-W
-n
-1 0 0 1 0 0 cm
-BT
-/F1-0 12 Tf
-14.4 TL
-ET
-0.843137 0.901961 0.960784 RG
-0.6 w
-n
-36 815.8898 m
-559.2756 815.8898 l
-S
-0.070588 0.207843 0.356863 rg
-BT
-/F2-0 8.2 Tf
-9.84 TL
-ET
-BT
-1 0 0 1 40 821.8898 Tm
-(QA LAB BRASIL) Tj
-T*
-ET
-0.356863 0.45098 0.564706 rg
-BT
-/F1-0 6.8 Tf
-8.16 TL
-ET
-BT
-1 0 0 1 398.216 821.8898 Tm
-(QUALITY ENGINEERING \174 DOCUMENTO OFICIAL) Tj
-T*
-ET
-q
-0.848048 0.529919 -0.529919 0.848048 297.6378 420.9449 cm
-0.08 0.21 0.36 rg
-/gRLs0 gs
-BT
-/F2-0 42 Tf
-50.4 TL
-ET
-BT
-1 0 0 1 -164.493 0 Tm
-(QA LAB BRASIL) Tj
-T*
-ET
-Q
-0.843137 0.901961 0.960784 RG
-n
-36 24 m
-559.2756 24 l
-S
-0.356863 0.45098 0.564706 rg
-BT
-/F1-0 6.6 Tf
-7.92 TL
-ET
-BT
-1 0 0 1 40 14 Tm
-(qualityassurancebrasil\056com\056br) Tj
-T*
-ET
-BT
-1 0 0 1 210.9996 14 Tm
-(QA Lab Brasil v2\0562 \174 PT\055BR \174 Atualizado\072 setembro de 2026) Tj
-T*
-ET
-BT
-1 0 0 1 514.547 14 Tm
-(Pagina 2 de 2) Tj
-T*
-ET
-Q
-
-
-endstream
-endobj
-12 0 obj
-<<
-/BaseFont /Helvetica
-/Encoding /WinAnsiEncoding
-/Name /F1
-/Subtype /Type1
-/Type /Font
->>
-endobj
-13 0 obj
-<<
-/BaseFont /Helvetica-Bold
-/Encoding /WinAnsiEncoding
-/Name /F2
-/Subtype /Type1
-/Type /Font
->>
+Gatm;9lo&I&A@C2lnQa5#f1HQ(8jnT1RV!%gm]rN$->_0630Wran3XJ/L6Ia@lp8]f%?]_&A*2Um9<CbKT?Okl]12qJmQ0R,\+DfO\A29([pSc@e""QU+2=+:*Pt/a>4GhrtOPFMggeR6HU]OWMjj"-!<jrU526C->>Z)[>Q4FE>2DCo86-c722#sW'h5Ol2-Su8jj`@<%mAW=brfp&mf;kMkqh4N"lh\QZ4Lt;H>WN0TFS'Wmb(^aAO1^\2]qD8J/p5*m^n5,DR8Cehjg2[@N)MrCi,FHi=VZH?$W#4^S26I"5n'!R$?On.:G$cNA(+4_7_!ad!`qk9A/9`C3;C5.p`O/j@b'F.OtX,0J&k7%E82!dAXHB#bL`I0;PbI2&A+6s6;tDcqrKX5lGG]mFlkB-1K/HMd+i=@scIM+E#\AXm:0*(^<(.3B'58Q!G^f``6nCPHbLhQKYW[57dX3)l<eUe"%@'p-JMW\fX6P!8lUkimnS8<c-_l+fS7ip:?WV,%Vt-IP%h=cP#r4\q/>^>I*WlP+&Ga<8br-=o1^UTWh).;rCaIu30[Ud(N.-LQaYNbK[m(.[2#NQF:49&LOfW&!Fqo"W;;fFc(7`s[S>"o9uLrn7+,Y/`h,rGCT%pZ0>cH:o3`d4J0?9g#T7<g0_Xf"Ji,K4!(#1<Hgk>E9Xs[q`EHo#)F3"eBl0cLg/AbM)ZB_BP$'K:>=P[e?fM)r3GT,OT?B4>iG;nUp6Dfo\b-a`M9WBOk0K1Q3^3kV&]GPS^e/\f[XlRio:l!q^tqiM2j60hcd&`W81e=9Sspflk#%dK71?V1oSg="Ul?J"C=[7&T)9r?3fD[Msdgm^KX\lAi=2@%X$e^MK[3\G4de<]*![AU<-sTPqrohgE<CDI]4Uba+$kl\rjcH)<l=Xm0[-j$>:"q1;r-hN'7aV9&:X:p$0P;Hq*P$d_JF+1,\5e>>+2EqInnJ!@9Lh`QVX4HCS^3_tp&;>o3lQGM)pH,l94om1`WmJK*&XGhX[E;8F@KHhLC6Z9Qtnenr@)dAAo7bu<s:DF"k?gl-"Yd6*fA$LVGq8/i8%+_X*GcF.CYA.QoeLkJ@9t^?8&fI''I9RoF,:ibK-&$ZA2^',:NG,3<`[N$cp^GrJ-ZhCmUq/(/r&&,fr@gR0E!3-1ZQA8]Cb<r@$?q!H:KU,L+5*Bmd-bo!#i)sEBPRDIBk9a0\?rOu4.3J4muXe.5O@#W#%;^tX#iP-Bj.@2;q8F^D0rAdLkB_o"koUZh)!H?JUsD[gT>@-UVN^XVYWcoK=ZN(fEM'"1#fl4i>g#B[\@uJBAsWdA#S,b1#koJDlF7.[:hA_-NHT^+*qE?BW!e$5^^'M.M-8N\EfQ%4P#mjZriH(8fg-l2Dl8R7sCaSom('],1^#OKVF`T:5'm\`FW.ic1p+&_Nc2Q\d`[M4P\NR>D!qt*;fj7\9Uuu9$@-P[ACAoQ.l62U#,KS"X$hBKFDcXc2XcK;!n,_d#Rb@5[^7%1+B('lG@7GeW)SU!tBFh[3+&+i"YpQaH@]2k[9\l:+hOoG:n]hbg(.2pop6sHcZ%d@Rnn76feN)P%aW8o/9FIn*%\b*]!uM2sd;UAYB3UB,T5R6l.>2H`KH(OHsN(;r!0@Io*uZO<4>X$*m.&no<>.H$(mqS6>K.mMMpVLT6p42Kj]P$0fV'F;fJ/)J=Eg?15C(-p2p]/.R)jqat]8F($l[_RR\G7pBl)T#kOE5^,(-C)aKKXT[JEr`U>i)n[Z1:p:/t\ZIcOa@@fC6W5hM!D^8BITAA90:\2WlSuQfhLuWK7J#MQ(e6OAki6j,`sfDM/L4fV&CF*9Of[#lFsetg([,7D>p`"q,;(a%+OsCi,brC['USBDXmYU;'t%^FN8`m8%_(?M*_87cIc]McJ<'-]a:,!_9F"\;+_"6uEpc6B)/)Tc%_Y(JOtF9$Tu<:A%I$:a"D*F<>^SsJ3ZNFBDM+kQG!rNbjjD@DfI^Np)Fq1(K#Wrm/8K*^gVJpn1QRm"NfO]q"]d50#X$7aG;L^i&oSKDg?D=cr<lCgJ$hJQ$Ja#dHG/G-L$L*7.ZTS9jg=dn<sn0B~>endstream
 endobj
 xref
-0 14
+0 11
 0000000000 65535 f 
-0000000015 00000 n 
-0000000054 00000 n 
-0000000120 00000 n 
-0000000169 00000 n 
-0000000464 00000 n 
-0000006015 00000 n 
-0000006122 00000 n 
-0000006229 00000 n 
-0000006341 00000 n 
-0000006453 00000 n 
-0000006752 00000 n 
-0000008394 00000 n 
-0000008502 00000 n 
+0000000061 00000 n 
+0000000102 00000 n 
+0000000209 00000 n 
+0000000321 00000 n 
+0000000524 00000 n 
+0000000728 00000 n 
+0000000796 00000 n 
+0000001070 00000 n 
+0000001135 00000 n 
+0000003330 00000 n 
 trailer
 <<
-/Size 14
-/Root 3 0 R
-/Info 1 0 R
+/ID 
+[<524289ad401e1a397f704952b1267655><524289ad401e1a397f704952b1267655>]
+% ReportLab generated PDF document -- digest (opensource)
+
+/Info 7 0 R
+/Root 6 0 R
+/Size 11
 >>
 startxref
-8615
+5504
 %%EOF

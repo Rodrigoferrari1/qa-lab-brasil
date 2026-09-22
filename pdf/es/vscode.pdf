@@ -1,350 +1,93 @@
 %PDF-1.4
-%âãÏÓ
+%“Œ‹ž ReportLab Generated PDF document (opensource)
 1 0 obj
 <<
-/Producer (pypdf)
+/F1 2 0 R /F2 3 0 R
 >>
 endobj
 2 0 obj
 <<
-/Type /Pages
-/Count 1
-/Kids [ 4 0 R ]
+/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
 >>
 endobj
 3 0 obj
 <<
-/Type /Catalog
-/Pages 2 0 R
+/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
 >>
 endobj
 4 0 obj
 <<
-/Contents 5 0 R
-/MediaBox [ 0 0 595.2756 841.8898 ]
-/Resources <<
-/ExtGState <<
-/gRLs0 <<
-/ca 0.035
->>
->>
-/Font <<
-/F1 6 0 R
-/F1-0 7 0 R
-/F2 8 0 R
-/F2-0 9 0 R
-/F3 10 0 R
-/F4 11 0 R
->>
-/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
->>
-/Rotate 0
-/Trans <<
->>
-/Type /Page
-/Annots [ ]
-/Parent 2 0 R
+/Contents 9 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 8 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
 >>
 endobj
 5 0 obj
 <<
-/Length 3758
+/Contents 10 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 8 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
 >>
-stream
-q
-1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
-q
-1 0 0 1 51.35433 779.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F2 12 Tf 14 TL (QA Lab Brasil) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 749.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 4 Tm /F3 20 Tf 24 TL 155.1535 0 Td (Visual Studio Code) Tj T* -155.1535 0 Td ET
-Q
-Q
-q
-1 0 0 1 51.35433 724.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Editor de c\363digo extensible muy usado para automatizaci\363n y desarrollo de pruebas.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 714.3701 cm
-Q
-q
-1 0 0 1 51.35433 688.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (\277Qu\351 es?) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 669.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (VS Code es un editor con extensiones, terminal integrado, debugging, Git y soporte para m\372ltiples lenguajes.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 643.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Instalaci\363n) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 624.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Descargue del sitio oficial y abra la carpeta del proyecto en lugar de archivos aislados.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 598.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Extensiones para QA) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 579.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Instale solo extensiones necesarias y valide publisher y permisos.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 553.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Terminal integrado) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 534.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (VS Code puede alojar PowerShell, CMD, Git Bash y otros shells. VS Code no es PowerShell.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 508.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Debugging) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 489.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Breakpoints, variables, call stack y logs ayudan a investigar automatizaciones.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 463.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Git integrado) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 444.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (VS Code muestra diffs y status Git, pero comprender los conceptos subyacentes sigue siendo importante.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 418.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Consejo de QA) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 399.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL /F4 9.5 Tf 13 TL (n) Tj /F1 9.5 Tf 13 TL ( QA Tip: abra la carpeta ra\355z del proyecto para detectar correctamente entorno, Git y configuraci\363n.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 373.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Recursos oficiales) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 354.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Site oficial: https://code.visualstudio.com/download) Tj T* ET
-Q
-Q
- 
-
-Q
-
-q
-0.0 0.0 595.2756 841.8898 re
-W
-n
-1 0 0 1 0 0 cm
-BT
-/F1-0 12 Tf
-14.4 TL
-ET
-0.843137 0.901961 0.960784 RG
-0.6 w
-n
-36 815.8898 m
-559.2756 815.8898 l
-S
-0.070588 0.207843 0.356863 rg
-BT
-/F2-0 8.2 Tf
-9.84 TL
-ET
-BT
-1 0 0 1 40 821.8898 Tm
-(QA LAB BRASIL) Tj
-T*
-ET
-0.356863 0.45098 0.564706 rg
-BT
-/F1-0 6.8 Tf
-8.16 TL
-ET
-BT
-1 0 0 1 398.216 821.8898 Tm
-(QUALITY ENGINEERING \174 DOCUMENTO OFICIAL) Tj
-T*
-ET
-q
-0.848048 0.529919 -0.529919 0.848048 297.6378 420.9449 cm
-0.08 0.21 0.36 rg
-/gRLs0 gs
-BT
-/F2-0 42 Tf
-50.4 TL
-ET
-BT
-1 0 0 1 -164.493 0 Tm
-(QA LAB BRASIL) Tj
-T*
-ET
-Q
-0.843137 0.901961 0.960784 RG
-n
-36 24 m
-559.2756 24 l
-S
-0.356863 0.45098 0.564706 rg
-BT
-/F1-0 6.6 Tf
-7.92 TL
-ET
-BT
-1 0 0 1 40 14 Tm
-(qualityassurancebrasil\056com\056br) Tj
-T*
-ET
-BT
-1 0 0 1 212.28 14 Tm
-(QA Lab Brasil v2\0562 \174 ES \174 Actualizado\072 septiembre de 2026) Tj
-T*
-ET
-BT
-1 0 0 1 514.547 14 Tm
-(Pagina 1 de 1) Tj
-T*
-ET
-Q
-
-
-endstream
 endobj
 6 0 obj
 <<
-/BaseFont /Helvetica
-/Encoding /WinAnsiEncoding
-/Name /F1
-/Subtype /Type1
-/Type /Font
+/PageMode /UseNone /Pages 8 0 R /Type /Catalog
 >>
 endobj
 7 0 obj
 <<
-/BaseFont /Helvetica
-/Encoding /WinAnsiEncoding
-/Name /F1
-/Subtype /Type1
-/Type /Font
+/Author (\(anonymous\)) /CreationDate (D:20260922123400+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20260922123400+00'00') /Producer (ReportLab PDF Library - \(opensource\)) 
+  /Subject (\(unspecified\)) /Title (Visual Studio Code) /Trapped /False
 >>
 endobj
 8 0 obj
 <<
-/BaseFont /Helvetica-BoldOblique
-/Encoding /WinAnsiEncoding
-/Name /F2
-/Subtype /Type1
-/Type /Font
+/Count 2 /Kids [ 4 0 R 5 0 R ] /Type /Pages
 >>
 endobj
 9 0 obj
 <<
-/BaseFont /Helvetica-Bold
-/Encoding /WinAnsiEncoding
-/Name /F2
-/Subtype /Type1
-/Type /Font
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 1950
 >>
+stream
+Gatm;968iG(qf09I)e)(_?<F!O\7'Fge;>.R3YgRncba1)%K6Z!9ln>rqJ)oM3@1[<*-LuU-T>mm-aTjV[1&Ms"%r[ZSA$Mab^BDc\Nr"U%(Xa(lrQ)/1MiMUr3nkZW%Q1_bWa>5&*PBB:MI9Tr^eQN+G?K-kf;8EKY4[W_o';&Oj[a]W>L\(.C59$C4-Zo^t`r`@MaUb0bBgB.PQD*0qM_"D8Sg=CJO\/eXK5]V#;B0N)e^%V+$[-B&`bgR0ELMaX(mmHWGg%0imkN3/dSgS*Rg_rAS%+0nn,Y",hM,7ooC0\X^#AXVn-LmV<1J/`kf)--dJ>[m;h,na+7CO5[Lm;FhqU%.G&RmgI*o:21=E)Ak^OX5$lLLRq!+-bX8+jX8^,uHWWB2TLm]`W\1HU_XThHk[+\@Ym19EpDoI-8%rjff8n/F8Na^Ic@H+aCZRUf3OmQZUX!9r#*Pc$X`94Q^W!'?^b;O)l%mN/F.>]H9#<UHlcg'Q@f#O>%i%L+9c^!ZF__SB2IHn9Z&U<OtB;#'C""&dX/$P4O(EN1/+];r1JAIhV>md%:n<K6GoPUP+V<!]/A&9Sg#`_X/c:Dr6<_;%e$_C@XKW7J(3Nn:rPMJc"IV^%u>'.&G+qRi4r_G,dLJI_S+R8,>1ZOmg+)m:'WhNNsP$&-Yr9#Yi1NnH8E(Kc\O#H7R-grmf!;[+<W(;gB+Un^Pc7l(>(q]U;`fl>B1a=&Va"jV4\s[C'bo03+Gp]qH_nou]:!<ApqaE1NRKcgD,1kUBC4jg2uqf%W@MZSD0@8?7OsqI<ig/Gn4.`HXZF57RZ0o+t4SU.76CG1df84&aam?85d?Aj`qBZp16b]@o+2NbMZ[GMrB%KMK*=,'/3"mnF1q]j4allBN:\<LeoG22b*(c&l=4\s[d-7NWn,LnC#!(<OrL\25c]!e.Cc=6l_(/7`Cj1hu1^:BLfc(W[4RDZ-a[VRNrZVe=`J"s@;\KC8tCW"dK;^sj<N_;,WsqoqD(Fk\PHS(#h!U[5.UkkfW6S"*7@O/B3tb)j3+U`em'a_M]9#F&E(!C]h4fZQ+c<Rp7%'=uY1AYX4;"TfCC$VQbbSf$bqEXu6NT>j6KVUKb3@pPT]4EH$M:d"Ih,ta51PRmKu[i\k<bG1oOGM8D+brZB[.ZbDs]+J[IC'$O@%Ak[uX84gaB:$2GOYn)X]".*IWH.+.\HDHGp^3.2#ffN&4jS,2j@A8*@[hXD\`@']o+XN2]XkE^)8<JCh9CT%kV<hdUOlM7d%,iadS24OY7VRD>(e`s%qCjm.JbdQP[cF/IZV;<",t^gBS:8\bbES&J<dg!'gL@ng0J%NW]HjF^YZ)maI2VN+O[\.#5-rPB=)rsZ(Xj.T0%Sc39>L#NlBCZI^c;4#N4SpWSroEHfh^3^9Gs"C%X+2F-C#_U^8=;mpNN.F%#r3S#V2WHuQ!3CI1MCD4;$Z\8emR1kW01OW%Kp+)EIg9<.LQ[]MWQKfh1LZWW*3E8#J!q"5nc]^6(GMY&_>7iU_u;sHdj*8F8SWXL`tf-[;2D_TM#WC*kbE8pr47C&i.iSER.I%Q2:<qg7TbqHJ>#/-UPc:lc15?OMkUuFPb#+aKeI$MbmkXpW)[g[EIR6K_p<f#_@R2K(][fGfc^?l=EZ[Sf:)*4.3I>Ttte[6S/V(m4-GOmqFEiNs#/VHQL70=R!R_C'LCWKqX^67dC#;!Nh3$;SQS5nC)h/;K(s3&uXp&I<r\Yg?eEP-&aWGhH[*R0<HBBtV#:e`QCWV&5(.MnA\;'8V2X,uhD!Eb-J>_Q@_SUp\^nHF4\l@0ELR3;Xf\uaq1;pFhbUMk8-6+-1hFJJ.j[8k3k<3b_/[6QDWI-@s+Wk\b407%'RDM9KA<NW5-OWOY'R@7,Nh-*(gSaNiP,\3/1i09]Y>:L_5EofHes-MeR]j7+LBHY-9oe2Odq?Ko+&Uj~>endstream
 endobj
 10 0 obj
 <<
-/BaseFont /Helvetica-Bold
-/Encoding /WinAnsiEncoding
-/Name /F3
-/Subtype /Type1
-/Type /Font
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 1177
 >>
-endobj
-11 0 obj
-<<
-/BaseFont /ZapfDingbats
-/Name /F4
-/Subtype /Type1
-/Type /Font
->>
+stream
+Gatm89lK&M&A@C2bV<B+/3cSg(iRl4JK27Xd8MZV6otf&dS!/$;tS+SoO1neHIG<f2IK+On][KshN.cW0,oDa#%4ckT7:Ff3,EfS,a#=EKA18:,pTdiXN5r``cSA6jMOJTg1MR-L+l*-"C:(V#pl:e1ah&aR@du3VK9U'/QR/.+@9"An>7=sNp1W':dK-IU!1e*VMQpi(eQA7cA6'P/"DJ9/r;<aJ-Ee&.F1hW=Igm4=MaY[:GG2HaSECC3HDue[?fGR[6BA3H'[I5b[7\VB$]/u6\`P>(E"6)^p6@f3`*\+*Uj6%-,V2<c7!M#'<+fcD$*k3Dgm<*$Z&$9fn=+?MugdAh@un/f2A_4'QXMf.)"nR1bi1^@:Vil.bNMWmVXqe\\EFbFLQ-7JZ-C/%'RZiTp@kNo[(Rihh3a_E$hG/]rc_W$FaI4K6,.irOS7+9P=IF'Z`D^<CfOd"8BQA!EKP(@WI.NTE^Qu[0kIRn-s&!cCCjRn'LO65ZIPAb6bREfEr407207ob`$t%9sUn)!WE;]/'so.M&,LN$)82&%H](.@E2JF[6YjZJQmjGjR=SseXHW<6bdV<kpW/B^gI'"G!9$,*^q\JjhQR&=nonD81$H@IH;]$N0V#00>2iLM?R[0ke%95C("S]42:6J/cAf1)Tq$m6tkD<k[&(U1:bP]dbEK`n9Q#AWj5pKkOh'^fGn_m>_(nh^@#eP>6:E`kOrWVpZte`%<h1k+M_:=^I5#*%1_>;,'h)^AbLd\fXmZ(X0JDnh/t^+.joN9a=FQ#N9kG.(MjJ7oI(t84($tLP)NlkB#=NdE3AGdPP_fUCoD1@V1YO9XcL;X)LSAk(!F<WSfIkbrKMO9mcZCR3g=^t%u!@<7fb-TO'$'LLC8I@W9dhqF/UfP\O26S?hu.W!J,SKKo-sk:T(soG&#Y*$hhL%^7X3Fp,G?kUTJ&&%__J(^TVi6`"1>opCqVY#$",?pCjr?MZ#7"F,\r0,O$/'Q/Va1E'-07$3%1Oft+u_cIOkUor*7Q<d$aqh8+eZAap'QC4$uT1"W+WO1qn7Aki07-uGG$5:SWp@.ZJAQZ_a1SfOccT>&:2ID@d'/2Q\\jG>K%";P+,Nc&eMDL"nePK/k,@DAO^WrB3Mik)&C@HMkq#LGJuO4tE,f^(]dTsS(X"1!CVZ0XbX~>endstream
 endobj
 xref
-0 12
+0 11
 0000000000 65535 f 
-0000000015 00000 n 
-0000000054 00000 n 
-0000000113 00000 n 
-0000000162 00000 n 
-0000000479 00000 n 
-0000004289 00000 n 
-0000004396 00000 n 
-0000004503 00000 n 
-0000004622 00000 n 
-0000004734 00000 n 
-0000004847 00000 n 
+0000000061 00000 n 
+0000000102 00000 n 
+0000000209 00000 n 
+0000000321 00000 n 
+0000000524 00000 n 
+0000000728 00000 n 
+0000000796 00000 n 
+0000001081 00000 n 
+0000001146 00000 n 
+0000003187 00000 n 
 trailer
 <<
-/Size 12
-/Root 3 0 R
-/Info 1 0 R
+/ID 
+[<351b1714455744af2b4250d60350e48c><351b1714455744af2b4250d60350e48c>]
+% ReportLab generated PDF document -- digest (opensource)
+
+/Info 7 0 R
+/Root 6 0 R
+/Size 11
 >>
 startxref
-4931
+4456
 %%EOF

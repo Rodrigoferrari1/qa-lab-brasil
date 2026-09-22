@@ -1,354 +1,93 @@
 %PDF-1.4
-%âãÏÓ
+%“Œ‹ž ReportLab Generated PDF document (opensource)
 1 0 obj
 <<
-/Producer (pypdf)
+/F1 2 0 R /F2 3 0 R
 >>
 endobj
 2 0 obj
 <<
-/Type /Pages
-/Count 1
-/Kids [ 4 0 R ]
+/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
 >>
 endobj
 3 0 obj
 <<
-/Type /Catalog
-/Pages 2 0 R
+/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
 >>
 endobj
 4 0 obj
 <<
-/Contents 5 0 R
-/MediaBox [ 0 0 595.2756 841.8898 ]
-/Resources <<
-/ExtGState <<
-/gRLs0 <<
-/ca 0.035
->>
->>
-/Font <<
-/F1 6 0 R
-/F1-0 7 0 R
-/F2 8 0 R
-/F2-0 9 0 R
-/F3 10 0 R
->>
-/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
->>
-/Rotate 0
-/Trans <<
->>
-/Type /Page
-/Annots [ ]
-/Parent 2 0 R
+/Contents 9 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 8 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
 >>
 endobj
 5 0 obj
 <<
-/Length 4569
+/Contents 10 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 8 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
 >>
-stream
-q
-1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
-q
-1 0 0 1 51.35433 779.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F2 12 Tf 14 TL (QA Lab Brasil) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 749.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 4 Tm /F3 20 Tf 24 TL 201.8335 0 Td (XCUITest) Tj T* -201.8335 0 Td ET
-Q
-Q
-q
-1 0 0 1 51.35433 724.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Tecnologia da Apple para automa\347\343o de testes de interface em iOS e outros sistemas Apple.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 714.3701 cm
-Q
-q
-1 0 0 1 51.35433 688.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Ecossistema) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 669.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (XCUITest faz parte do XCTest e \351 usado com Xcode para interagir com elementos da interface.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 643.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Uso nativo) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 624.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (\311 uma escolha natural para times iOS que querem testes integrados ao pipeline e projeto Apple.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 598.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (QA em iOS) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 579.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Ajuda a validar fluxos cr\355ticos, acessibilidade de elementos e regress\365es de UI em simuladores/dispositivos.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 553.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Cuidados) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 534.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Mantenha identificadores de acessibilidade est\341veis e evite depend\352ncia excessiva de coordenadas.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 508.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Instala\347\343o e configura\347\343o - vis\343o geral) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 463.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 29.5 Tm /F1 9.5 Tf 13 TL (Use sempre o site e a documenta\347\343o oficiais. Verifique pr\351-requisitos e vers\343o compat\355vel, instale a ferramenta) Tj T* (conforme o sistema operacional, configure vari\341veis de ambiente ou PATH somente quando exigidos, valide a) Tj T* (instala\347\343o com o comando ou tela recomendada e fa\347a um primeiro projeto/teste antes de integrar ao fluxo de QA.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 437.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Quando usar) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 405.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Use este conhecimento quando o risco, a arquitetura ou a etapa do ciclo de desenvolvimento exigir valida\347\343o) Tj T* (espec\355fica. Antes de aplicar, confirme objetivo, ambiente, dados necess\341rios e evid\352ncias esperadas.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 379.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Dica de QA) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 360.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Automa\347\343o iOS fica mais sustent\341vel quando desenvolvimento fornece accessibility identifiers est\341veis.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 334.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Recursos oficiais) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 315.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Site oficial: https://developer.apple.com/documentation/xctest/user-interface-tests) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 296.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Download / instala\347\343o: https://developer.apple.com/xcode/) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 277.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Documenta\347\343o: https://developer.apple.com/documentation/xctest) Tj T* ET
-Q
-Q
- 
-
-Q
-
-q
-0.0 0.0 595.2756 841.8898 re
-W
-n
-1 0 0 1 0 0 cm
-BT
-/F1-0 12 Tf
-14.4 TL
-ET
-0.843137 0.901961 0.960784 RG
-0.6 w
-n
-36 815.8898 m
-559.2756 815.8898 l
-S
-0.070588 0.207843 0.356863 rg
-BT
-/F2-0 8.2 Tf
-9.84 TL
-ET
-BT
-1 0 0 1 40 821.8898 Tm
-(QA LAB BRASIL) Tj
-T*
-ET
-0.356863 0.45098 0.564706 rg
-BT
-/F1-0 6.8 Tf
-8.16 TL
-ET
-BT
-1 0 0 1 398.216 821.8898 Tm
-(QUALITY ENGINEERING \174 DOCUMENTO OFICIAL) Tj
-T*
-ET
-q
-0.848048 0.529919 -0.529919 0.848048 297.6378 420.9449 cm
-0.08 0.21 0.36 rg
-/gRLs0 gs
-BT
-/F2-0 42 Tf
-50.4 TL
-ET
-BT
-1 0 0 1 -164.493 0 Tm
-(QA LAB BRASIL) Tj
-T*
-ET
-Q
-0.843137 0.901961 0.960784 RG
-n
-36 24 m
-559.2756 24 l
-S
-0.356863 0.45098 0.564706 rg
-BT
-/F1-0 6.6 Tf
-7.92 TL
-ET
-BT
-1 0 0 1 40 14 Tm
-(qualityassurancebrasil\056com\056br) Tj
-T*
-ET
-BT
-1 0 0 1 210.9996 14 Tm
-(QA Lab Brasil v2\0562 \174 PT\055BR \174 Atualizado\072 setembro de 2026) Tj
-T*
-ET
-BT
-1 0 0 1 514.547 14 Tm
-(Pagina 1 de 1) Tj
-T*
-ET
-Q
-
-
-endstream
 endobj
 6 0 obj
 <<
-/BaseFont /Helvetica
-/Encoding /WinAnsiEncoding
-/Name /F1
-/Subtype /Type1
-/Type /Font
+/PageMode /UseNone /Pages 8 0 R /Type /Catalog
 >>
 endobj
 7 0 obj
 <<
-/BaseFont /Helvetica
-/Encoding /WinAnsiEncoding
-/Name /F1
-/Subtype /Type1
-/Type /Font
+/Author (\(anonymous\)) /CreationDate (D:20260922123401+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20260922123401+00'00') /Producer (ReportLab PDF Library - \(opensource\)) 
+  /Subject (\(unspecified\)) /Title (XCUITest) /Trapped /False
 >>
 endobj
 8 0 obj
 <<
-/BaseFont /Helvetica-BoldOblique
-/Encoding /WinAnsiEncoding
-/Name /F2
-/Subtype /Type1
-/Type /Font
+/Count 2 /Kids [ 4 0 R 5 0 R ] /Type /Pages
 >>
 endobj
 9 0 obj
 <<
-/BaseFont /Helvetica-Bold
-/Encoding /WinAnsiEncoding
-/Name /F2
-/Subtype /Type1
-/Type /Font
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 2122
 >>
+stream
+Gatm<9lo&I&A@C2m*Y4Q0L6?LaN`#+X_6'R'?cpdI"=j[7YW1%JCM)srqPo5'Lb*lX@_ML)C0mCqqf$jbTXbtmXH!0^uZ3SJ)e=3=K[1p/;E7Vpon!c/6Iu=4AULHS>V2DQI&,/G.hQ),%I,J@16kA0G0-Yl9uVs0T4q$2c_NYKS;^Rc^mdN(8X<YiC2&?^ct#CA3n.s0SEo?)r`;>EtQf!doa[ob!V\-4*_U]/B`8J'81(qfKl(JWeH6HcbjkuSDYq(UEnX>^)Pa7^q$>I&Se]mRc9_^T47dS>K,TNZ2/ToM8rE9W2BZoA]"$MY]/Y(Dt&lES-?`?!Z+X7/<Ga#%4@c$IY$T>=T1ogZQK]FQ2qA']Z?5I0TF&!Km[-V:JB)8aAS>#EBk[g-:H/"(#\,k-!Yo0\A%f!?RuC.80T%'B3?(.BcR[4Xci'Y,iC3aGr.)#b=[!Y^kZO()l9WRf(5`DLdu.^/B]d>(fqc:+OAuhmu%B^$j8+S&5J3)`%2V/TaIr0J]?\(B-P/Be9_fOWaq'"M`O>[!YL*;$-ok_B&jt;>3U,4n1Od6Jc:Ts1i\k"0aa/MLf$k=.h>&4oYA?gn@,#V#p?+qM+sR=/>3jfQ3'^24N.-?&l-0T^U[Mtf51PZ4h^=S]aQ%-hEVq%&Mfp\BnfLkF#44t@n_AA5@>6/B%21c"XjZJa\ik5WQ\O=-m`-*D5Enj<eB[";p3oD:@UD$:b(Z_)Wg0T2k@6)=X[*(kYKg'_"=0T%\1OOC?^JPfFp/L$mrfJg`%hKhE9N*"niQr6b2;Bg(/mW,JjPE`Q?NU]G1OMjEJabVk>m9ot;GGE#W3k]otEVQl<[SVAs=>R?hW*r=)c+=u@>_\Wf/g%`rb`L8Ie78'CJ2`pbClU*m<(&Xen:[++M\^d;QrOo4G)m,'ckkqc_t8m+i2fH:T9dGtYjapJRB(,6?h.T6&-Y]j<M-hgou\p*?#V:qlj[)t/g-&rY2:SDsc2!9o'<Q]UUPWbL,3hnFMi8XFBd)$_*p_lis4@,(:d\qha_5Xl;E1O(Rn"7Hd=a(f2!mB'cXg+EJV)sCB04dM38RJn9dE"i;`i>cB%X$9gNH#1/8;LZgJ-<=J@gVA=)/(^j)fl"`+?3PihF8L.Ya1qe@B+ZG+F8sYpoJ[1K_'*Ucn"t$BRZ^('$Y3Mp$4j]BQ^@*m%Tm2es^NW1C)ZCS;7"5*%0.]nr2sWnF$Hu`So4mI.7YW#nf/+j!^aX<Rj<CiX2\Zd:r7:;o"8VVnUXP"=b5&G2>a[?!Fs+.NWNb>YubAf6r>ui4\_[]@L@ilbi?88+@OD&&cldrk>;/bQ0U=Ab"0rrhi/H2Q1@r@NIC1cB'Nuhm7F"W6mKt7VU#Rg5n=\W`;bRRAYB'YA>Jt?5R0l;DOdFEZLup[!X^3UZM@;R9'H`D,ttBKtSEfK8k&ljVn#5ol^mT`d``2i7/%n<8C`cD+.";^';a<Dqq(j1c\E+Fi2P,HK[6#lO.7e#P85/VcIt?=kL/Xa4?qr%0engQ$sUC(h;k4K\n'V2*+lJ=-NFM2K:^k[!GUUl)28EMY`P$iNJ1$+5fi[s*j0C;bf6"U)ru2QW2nWpaOAKc-1*Jr(hX&-L=\XWFO>?-r8>6DPMS\6aMNP6(4q+SpO*7&j&CKQ6%X3P!OH8+l&\C%a]!Y7f2is`prR]fdD_:KD'.m4HGN79Cf&LRdX7M^"\PM+sBus;ab+"Bi/Q7U<Z<r+<@"h8ZbhQU@N"MPuGrI<1@k?:\tjPa^G%QP'!fU8>>0:\4%=8"5-^7?q91$@GW0HB^)FYi_I<o.5\'o*?jQGS'eVj[rOP23YM'n5(uN*rOd36*0'\gITPJ=!Z5N:]/>P@.AVDTi2i(PS"SfOd<&J.N[<lj1QV%u31Ur#rtnOsd8X=@Nc-)4^DHmIY[_mO"R5O6k,a`D5a5`?PO'd!kdu^WBJ9FAJjR2VdJLP>m"T7u['PgK@h`&K6(;Y?OKW5:^GDY5DpQRTMg<s(qk<K41AE]J%@TS]gN/gSk5`!G:n&*6e%'\T3mndmQF0kskgG,[NWhj@:M,Aj5@U=NAqX\)ct=-^8:Po'*'I0<s4am,q2$ZT)t._cFc*coE56]&(Dd#O"k@)%~>endstream
 endobj
 10 0 obj
 <<
-/BaseFont /Helvetica-Bold
-/Encoding /WinAnsiEncoding
-/Name /F3
-/Subtype /Type1
-/Type /Font
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 1580
 >>
+stream
+Gatm:9lo&I&A@[:m*X'+-ia>HkUfQ#:1eOfLH<mO/hdURaH2&VP%s:HO7*/r;0!R&3S56Ce,n9N]C5,RJiI'\]f/+%opU>X,tLR1Db):RB`3['f%K5FnX>BI+Jsf?$Vd^YIjKec2IsC.6?&p&X:(nHXf0Q<a^g[;ib[qdZ=&jeqI3f7Zb5A3_F)R?T!f^m(!g#+,rOB/,YD+g3fgEZRhVq<&fsfn/#cWNM4,1cMkrF$?#3fD'bdu+0D9+r\BG>+p3sH?0Yl:L4$r>[VBqkRq3(@LX4:a)g#cFl_W-?--5tg.l,3[:o#LnK`/ug"!Ot`HGeoUK($hHohS&]<et6XS/FI,_jLV@I8VMp<grWIYb6[bqJlnDSLesA<.M\!n$`8%uNY1L"MefnQs5Lr^2j_>p0c_Pan6&aHf1R)LAW0N856r(,Q6JNrR8)kAJ*:Ls]#!+YL@&QN.MmAu'<>kI*dQ:.o=C[jIq/Xe0Yggk!)=%7'U/C1eBs%ATJ:SjR4dt3]b`\*'usQSW"i]U+HW%++f]TpbUm**1V/V1?QsarqAl#<iN>:OPi+NYUZl9LM1V'/l6pFi))/#a2?,-a-^5D:;PWeNT8qj5?M`M:Q?K_.1qLelV:ISHDhlG^bZ0N"glpX*`Yg^5C[&$hJ%f7DEFSRg%iZ=2S.6W^/Y34EH$4/d`t`u]PO/hTSIMH9IPBUCPh=OCL@O2HS9I.jVDT&BK\h\j.'t"/!3GraM;ZV!kZ*4Ea<6r;XUBlP(k4W&$_Xr+\L5k`3[A)X>TfSAA2#[aGJSd7PE3b^i&cQkK?Yi*Zg1k+_SM964=$f_aNk.X,9iWcaljYh*`2M8=aVCYRi@5g>dF1]mQ7bS%V3^M,KQr"R;WV$nMC?F&$Z<f4*o94O!$"gIl^`gN/d;o9If%4K&(r8W5B+-B[H2jW6"A_G-j'`dd2Q+=rS6&rO1(2l;Jct5.KH6d"PhhrF27AZ4"3N+/XLRjGXVrC(Ho1:d"tDc<[LYUYkIa6dig=g]RW5"JlSV=,YT`16,kH4(p-:P0qN6_O52t]U?[uQ`0&qgdZ!IdA8B&D/9J)[F&,_/debPmi==ANmgS08ahIjA\3@ulsn@!53DA=:%/fAk4/at_l`N0EkD$W9YIV4]"o@)W:`eBrYVfho'&"*f!N7(mQLsD1e-gjVSm3eEH+<%m^*dVM8LaI"_$fY1`Sf;NH,k$3O\%OgLA<UR)noj=VPfh?'8.G3!shI*E;VOY/W<TS8V9&6f@Js8^er*_jp?4lo(h^D`Wq>'_fG(_7D^d*;]bQNe6!F]\?n)D%-8X`:b64m1(TK+0bi2k+s%/(_AC9bYQ;.hL4:HOV[d"Vj>*bE*"<]cU6b%D)0!ehK_=K]Z)#oX:"WB6Ga7iaFNM?FXh1<%o-rCcJrHGa&^6LK60-3VM'C>gh,f0D'l`9QnEQ)S1tDHcT+TG.O;>!)q3kiI4^'RVjhSDfY@d3I#E2a]]WJ1Z++\H30WPQ+4[g=Eep`Hcpk>FFBf"E8RsmGShQJ)J>)9(IZZ9ZEKc_W"W8CX6\(.:NjJF0ARfWTQsP+<#ta+-k(TTZq[Wd$6o"~>endstream
 endobj
 xref
 0 11
 0000000000 65535 f 
-0000000015 00000 n 
-0000000054 00000 n 
-0000000113 00000 n 
-0000000162 00000 n 
-0000000468 00000 n 
-0000005089 00000 n 
-0000005196 00000 n 
-0000005303 00000 n 
-0000005422 00000 n 
-0000005534 00000 n 
+0000000061 00000 n 
+0000000102 00000 n 
+0000000209 00000 n 
+0000000321 00000 n 
+0000000524 00000 n 
+0000000728 00000 n 
+0000000796 00000 n 
+0000001071 00000 n 
+0000001136 00000 n 
+0000003349 00000 n 
 trailer
 <<
+/ID 
+[<e66af2b072c27441f5de0e20e57350fe><e66af2b072c27441f5de0e20e57350fe>]
+% ReportLab generated PDF document -- digest (opensource)
+
+/Info 7 0 R
+/Root 6 0 R
 /Size 11
-/Root 3 0 R
-/Info 1 0 R
 >>
 startxref
-5647
+5021
 %%EOF

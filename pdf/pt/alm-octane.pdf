@@ -1,368 +1,99 @@
 %PDF-1.4
-%âãÏÓ
+%“Œ‹ž ReportLab Generated PDF document (opensource)
 1 0 obj
 <<
-/Producer (pypdf)
+/F1 2 0 R /F2 3 0 R /F3 4 0 R
 >>
 endobj
 2 0 obj
 <<
-/Type /Pages
-/Count 1
-/Kids [ 4 0 R ]
+/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
 >>
 endobj
 3 0 obj
 <<
-/Type /Catalog
-/Pages 2 0 R
+/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
 >>
 endobj
 4 0 obj
 <<
-/Contents 5 0 R
-/MediaBox [ 0 0 595.2756 841.8898 ]
-/Resources <<
-/ExtGState <<
-/gRLs0 <<
-/ca 0.035
->>
->>
-/Font <<
-/F1 6 0 R
-/F1-0 7 0 R
-/F2 8 0 R
-/F2-0 9 0 R
-/F3 10 0 R
->>
-/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
->>
-/Rotate 0
-/Trans <<
->>
-/Type /Page
-/Annots [ ]
-/Parent 2 0 R
+/BaseFont /Courier /Encoding /WinAnsiEncoding /Name /F3 /Subtype /Type1 /Type /Font
 >>
 endobj
 5 0 obj
 <<
-/Length 5394
+/Contents 10 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 9 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
 >>
-stream
-q
-1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
-q
-1 0 0 1 51.35433 779.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F2 12 Tf 14 TL (QA Lab Brasil) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 749.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 4 Tm /F3 20 Tf 24 TL 139.0435 0 Td (OpenText ALM Octane) Tj T* -139.0435 0 Td ET
-Q
-Q
-q
-1 0 0 1 51.35433 711.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Gest\343o moderna de qualidade e entrega, com backlog, testes, defeitos, pipelines e rastreabilidade em fluxos) Tj T* (Agile/DevOps.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 701.3701 cm
-Q
-q
-1 0 0 1 51.35433 675.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (O que \351) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 643.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (ALM Octane integra gest\343o de qualidade e entrega de software em uma abordagem orientada a Agile/DevOps. O) Tj T* (produto tamb\351m aparece no ecossistema atual da OpenText Core Software Delivery Platform.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 617.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Workspace e backlog) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 585.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Times trabalham com workspaces, features, user stories, defects e tarefas. QA pode acompanhar crit\351rios,) Tj T* (cobertura, qualidade e progresso sem separar completamente teste do fluxo de entrega.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 559.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Testes manuais e automatizados) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 527.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Octane permite organizar testes manuais e automatizados, suites, runs e resultados. Integra\347\365es com CI ajudam a) Tj T* (trazer execu\347\343o automatizada e dados de pipeline para a mesma vis\343o.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 501.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Pipelines e qualidade) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 469.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Pipelines conectam builds e resultados ao trabalho planejado. O QA pode observar falhas, tend\352ncias e riscos) Tj T* (pr\363ximos da entrega cont\355nua.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 443.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Migra\347\343o e integra\347\343o) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 411.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Ambientes legados podem exigir migra\347\343o de ALM/QC, Jira/Xray ou outras fontes. Planeje mapeamento de) Tj T* (entidades, usu\341rios, campos, anexos e hist\363rico antes de migrar.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 385.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Boas pr\341ticas) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 353.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL -0.004661 Tw (Modele o workspace antes de importar dados, evite campos sem prop\363sito e conecte qualidade a releases, pipelines) Tj T* 0 Tw (e objetivos do produto.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 327.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Instala\347\343o e configura\347\343o - vis\343o geral) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 282.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 29.5 Tm /F1 9.5 Tf 13 TL (Use sempre o site e a documenta\347\343o oficiais. Verifique pr\351-requisitos e vers\343o compat\355vel, instale a ferramenta) Tj T* (conforme o sistema operacional, configure vari\341veis de ambiente ou PATH somente quando exigidos, valide a) Tj T* (instala\347\343o com o comando ou tela recomendada e fa\347a um primeiro projeto/teste antes de integrar ao fluxo de QA.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 256.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Dica de QA) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 237.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Octane faz mais sentido quando qualidade, backlog e pipeline s\343o vistos como partes do mesmo fluxo de entrega.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 211.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Recursos oficiais) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 192.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Site oficial: https://www.opentext.com/products/saas/core-software-delivery-platform) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 173.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Download / instala\347\343o: https://www.opentext.com/products/saas/core-software-delivery-platform) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 154.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Documenta\347\343o: https://admhelp.microfocus.com/octane/) Tj T* ET
-Q
-Q
- 
-
-Q
-
-q
-0.0 0.0 595.2756 841.8898 re
-W
-n
-1 0 0 1 0 0 cm
-BT
-/F1-0 12 Tf
-14.4 TL
-ET
-0.843137 0.901961 0.960784 RG
-0.6 w
-n
-36 815.8898 m
-559.2756 815.8898 l
-S
-0.070588 0.207843 0.356863 rg
-BT
-/F2-0 8.2 Tf
-9.84 TL
-ET
-BT
-1 0 0 1 40 821.8898 Tm
-(QA LAB BRASIL) Tj
-T*
-ET
-0.356863 0.45098 0.564706 rg
-BT
-/F1-0 6.8 Tf
-8.16 TL
-ET
-BT
-1 0 0 1 398.216 821.8898 Tm
-(QUALITY ENGINEERING \174 DOCUMENTO OFICIAL) Tj
-T*
-ET
-q
-0.848048 0.529919 -0.529919 0.848048 297.6378 420.9449 cm
-0.08 0.21 0.36 rg
-/gRLs0 gs
-BT
-/F2-0 42 Tf
-50.4 TL
-ET
-BT
-1 0 0 1 -164.493 0 Tm
-(QA LAB BRASIL) Tj
-T*
-ET
-Q
-0.843137 0.901961 0.960784 RG
-n
-36 24 m
-559.2756 24 l
-S
-0.356863 0.45098 0.564706 rg
-BT
-/F1-0 6.6 Tf
-7.92 TL
-ET
-BT
-1 0 0 1 40 14 Tm
-(qualityassurancebrasil\056com\056br) Tj
-T*
-ET
-BT
-1 0 0 1 210.9996 14 Tm
-(QA Lab Brasil v2\0562 \174 PT\055BR \174 Atualizado\072 setembro de 2026) Tj
-T*
-ET
-BT
-1 0 0 1 514.547 14 Tm
-(Pagina 1 de 1) Tj
-T*
-ET
-Q
-
-
-endstream
 endobj
 6 0 obj
 <<
-/BaseFont /Helvetica
-/Encoding /WinAnsiEncoding
-/Name /F1
-/Subtype /Type1
-/Type /Font
+/Contents 11 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 9 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
 >>
 endobj
 7 0 obj
 <<
-/BaseFont /Helvetica
-/Encoding /WinAnsiEncoding
-/Name /F1
-/Subtype /Type1
-/Type /Font
+/PageMode /UseNone /Pages 9 0 R /Type /Catalog
 >>
 endobj
 8 0 obj
 <<
-/BaseFont /Helvetica-BoldOblique
-/Encoding /WinAnsiEncoding
-/Name /F2
-/Subtype /Type1
-/Type /Font
+/Author (\(anonymous\)) /CreationDate (D:20260922123402+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20260922123402+00'00') /Producer (ReportLab PDF Library - \(opensource\)) 
+  /Subject (\(unspecified\)) /Title (OpenText ALM Octane) /Trapped /False
 >>
 endobj
 9 0 obj
 <<
-/BaseFont /Helvetica-Bold
-/Encoding /WinAnsiEncoding
-/Name /F2
-/Subtype /Type1
-/Type /Font
+/Count 2 /Kids [ 5 0 R 6 0 R ] /Type /Pages
 >>
 endobj
 10 0 obj
 <<
-/BaseFont /Helvetica-Bold
-/Encoding /WinAnsiEncoding
-/Name /F3
-/Subtype /Type1
-/Type /Font
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 2267
 >>
+stream
+Gatm;bAu>s(>\:,ma@<)+bD!7kae:4l,cn&:-+ia+rc>iA>K#t5Y?42qW$aD:o*<^USt&#\KhL`E"D@spAmhd?IHS)("(ihk'r^C6X$Q_`Zh;!>P_ncq_AgN*lpGe&PJN=MF>=2.Cm^)SuGCS)2'`@Gp64`@]F$S.)INmPN,b*9+qmA5sC^'js!EM+N$Q!d_JXCN+>4"Ot`\@FrZ[E895O9<o[:174L[k0Pm>7Z,e\gdg0A%.?76FZ#Z^N+nICYbYqCB@?cGch2`c_#4+4-*MA_=U%(8*k2Vm0lE+Oh0O);\_=;cdURh[+/!T3?&E/0Fr#cN7@2FI;'T=C`<hNo!dFF$,^X;$s/RIs`&Yt!#1(n#SLE,*'Brn0Inq.*+1-Mn(V'8RmJ<)78;RnnlTXVCSFSFPWa#@q7`aTR<,pMlIARVB(4-ELMP+=KD8<JZ_lAb.PBtLS@9>.U<1!\@>WMqG3;&YS<Ed/Ygb$u1I)?'9pXJQ:+J]JJ>WPCeN68]W1l/Qu\M>6!bQ/Dsp:ElH(%VHYUa+1:B+B1[!R2nGcQZVD4CJ1BdM<"g3#6`Gq>rl@mOKjZdVWp5VU3)ppAJY'5T0io5B'[[<bkN`_(Q64oiKFhf0331;^GY]$4EYcCp)Vs*SZ^4fmH44D&+sKb@<NQ*P(s^T67,!e5o!ggS,n\jr&+<Yr%R@)6i2ENULO-[JO"<)3@u<:l;uGXT;";[W+oAQeXBNn^9C(-)GbV.SMM459gr".;A[*7c/tHU/2QZN-EiEr)E_m(es'!1M`%.6MtGF-]2Z-iG>Cpp3%".'D`>*]o:O;,IbT`mI(ns"9`Dh!lC!i2L?M8MpApbiO07p0"@Je*--lQ,aT$l47.CZG>THg4[dMAZC"eLc^!$or\';L2eB[r;=)$++`i\k;h\p,^:TlH1*9F`ol(5>d=m`eT3aF?5bSB@o2Cf3d%@Nr)>78/jgCE?PH]>%Th8&6p_>;L)^tuT)US[^]madAucJVdcd:n&l2_N,=8)(9R=&#s#fKJ_BgAAB_gVR^[ScMq_QfJ$OXl0h,a<@?!8-j"H!&GC_><'<iQ8/.'9'6&*bk'<IpkQ$,[Qi%"O,o?r_8Hfs"UrU<f1"<:>HQY*!W$[<n_C2Uo\F<gg?A8-5%5(M8C+f&ZiITk(91Y!YXsq=L61.bQcJdN"=*<3-rEMOm;CZ<egHVO[9MmaVs2cj)A/X7QmZQekLuee*r!o>a[-0r[$Y;Z24"s)IiA'.]@@'04f$.@,E1[@@O_7j!N3EV3PEr(K<BU-IN22#Z"o!5Fo8UV]%W1N_BFCr$c(SLs0Y<S5crk:'Tg<U>?sI,7tn8iVZg^qksqV/An`6.7;\D=-0T+H9.fdnm*ckRJ7Ck!dNH</')V5#@J+2_WBR,`1RO/sn-@/AdD_JYpc:p1Y'3DC31WO-XE8+Td&Z;f'G2YUj[_S"Kro?[cNJ-\CB/@0CA^5Zf*F+sX0p^4^-%m.=*FM*TJq:YksNq?,>74mRuq:\))6to^uG1mdP4N'`FC6^=ON^8Gus-LBF"A:TF(0Wq:OHQ00=gKkXYSU'Eo;Jq>I+7)7=hr`o%^;k#-feli8>ERR?M6E>NkiTpO'PNJfn.<QqT<fZMffPOO'\$5hc/"keDO\pNP`^>,/L-'J6Y;;YlerS@%t@>^pOFG%9gcBbNoe<=d)I*iMRI;M/XR%&XM!AmHFMEU%.k+"15r6EfmTg8EJD2T/1JI_oQ:UX^9kcm,K#YlEJg,t#]0Fpq-*[^Ge[(irBoNB@Ia#+?tJN$Pp$h2ncah8U[/)`K8M2A/BF*;%6<R9WU+r(%PLY(/M:DDU[J"?R2bmsd3[I*95,5f.;ef[%jNDI=%Eo[kj^"@aEi4/3=4;GH]ngE"_Dhi*L/2s7ojD9CGpE0LP6ZVAZ.aukZat1.AYBPuojVZ1d(A`tP/_/tN='+iU>)E#7<oBajCur8Lf4W6A14)dX]siF+7/>WDT@*#1,5VqC[f%+1>T2Fe8OQ<,?d8/Jl0P!oYSeAV1C3!@l=kjG\em_O^1dlMK<FTR2\l,4=>+UsEk4Bn-J"gJEZI.WffCq]hX(.R2[2SJ2U8HWh],dI9&;Q!AS7E'Au9KmH%g1=Hrf$lo(p]TRn4EU.tI6-lLQBIi]W+s(5@:pl,#?d0!@dc@=RYqCOU3'f:"n!'2Ao'D\rGh-*_C'+JsJ8*-2+X(U(hAMi:I-D9)(V!rpOrH,IplXMf_">kQ'cmH89?5O!+pn,e7_RsEo]%:S`8P;N.Y:ca40~>endstream
+endobj
+11 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 1622
+>>
+stream
+Gatm:9lo&I&A@[:lnQb`-p\LDkflkn:1i9QPGkrq?j]en+UJ;t4`7,]^2G0PPS;a?A8I5WH3s"'m!JUp8MNCar2j1tb;K7l>*;Qm]d9)'N7QU&[>qsh,-GBXjWlT1Md2Ccq55@MMn2HE6HV:0W2Oa1;O()u'o>K(1s;4f',A&Kij_$P=&^@qijcoq-&OZ5T-@j:MEFJ/Ng>bX6rBqJ;pDR8MF&Z2E(jRbR4(^2d0sHDe-jbdejLu$Z:^"<F\7NN8b6K7^-mtuODBkN:n&afmq5BZn+liue^::.q_CLunNfYI%7i!Ki#rlX_ujnuM)&TB\5K#F/i!S[eh+R[GOZ'C5L]HTY82*iX0O"5A@SSR>uG4uZpHWMO>G?5(!8k-72GK\V,41T;['bH\>7=B(E_L=T,,U@.$f\-G?H8lRd3Ko\4ZRAO][JjOm/R\W#Ihr939rpG/ed]m7p<>WD&576s65TfN4?;\16bAT2A*+%)ema!N-)+R7Ph!W1a_45SMi#1R6u-HI#N_b,;om;.kE]J07]U8Qd[:d5Q13F`/4ns+lgOd-iYV1O$eM,?RnrNk4<iPBgDtk[RM!b((YqJ(&=Na/$4MR+"%!V\o:=gC7cX[3t?TgPg?:2MU'oLjKs[5S;<jc7csISA9MO<X[.<!&Fo]!OE+e?b+`bm99*9bmL,_-1tk/HJO:rO5]4ir"DdtcZ]h;9PnH])FqI]$lRd/H>H;7BZ>\^e</M>g1oA`9Af/3[l/F4?!RCuDsK]57aN[;D67`=aF?mKr7.8iUI@AuYE6179KR1ZL"dQMC[4%;XQ\71r_T@3pWa:qUP[t)f(QV9/(7E%K`"Um^"'fhf)_9dNG>mZen]@>osoneB%,2\P&>1hp4?S<)1^t,EJ$uFGi!j,"7snLhDH3KNQ#=uHJd?n"GJrVn?=X$7#/f"&YAS;BP[>FRH8_b\BOM#I5[MlIHZWb&MTd=*e`@s4bnCb.GXQ.`\K`YYcGK]bpOO#3,!6=TFL0?*>8nY/[WLPhO92m)I2R@2r2LKF%Z=XAf='6bMDW'lXjm-V;bNdmS#cq1C+#Jm66=G?XVM+19kF3H..f`2b;:;B($jaDt\>SQ=bYL4*5@m]046-9B#E#4iiU_.d3o$Ojqr1;NDm!d\"PhX-E8n2Pb&&][pT%(84m^hIc\#Z/DK$NZ&DULY*q\>CnY_Q7!=EJc4A4/tTkZWZG679&jP_i'2XW_;g>sURN>Mb_k]]]^71.^]\&!<c9QX#MRIl(t/W\FjoT[,&"?[(,W:k_+Dq>b_k/iW:-AkLqoL>kmia,)h7?%,Ti'@q$_6@,.j%Mbbt/e`Q0/SkY7`-I&!7/k3PP!Nd[4q%^9lr=-ckr_t7C.oO)Shn3LqT)kD`.F8\B0Es+W#`=jM](%Q>NAQeS_-K]1a*$%?,A&k^hW/QQ*T:?kg^D/m333D95.15NTlijuR5p[E`L#_-NQr]-WbU4A\&1]]$;o7P0d<P,M$dY4:8CZod=j:U4C`RbnDFPHJZoSMD,nHgkS@u#c4^6)0?[H^7\/g5*%J>#Pi&DPBI]4:K+6$HlAKVFA&r))R":k47$4f21Z']Da=E_eo?0oJF^E%5>>X(MIBpkQ+M5("NICkYl~>endstream
 endobj
 xref
-0 11
+0 12
 0000000000 65535 f 
-0000000015 00000 n 
-0000000054 00000 n 
-0000000113 00000 n 
-0000000162 00000 n 
-0000000468 00000 n 
-0000005914 00000 n 
-0000006021 00000 n 
-0000006128 00000 n 
-0000006247 00000 n 
-0000006359 00000 n 
+0000000061 00000 n 
+0000000112 00000 n 
+0000000219 00000 n 
+0000000331 00000 n 
+0000000436 00000 n 
+0000000640 00000 n 
+0000000844 00000 n 
+0000000912 00000 n 
+0000001198 00000 n 
+0000001263 00000 n 
+0000003622 00000 n 
 trailer
 <<
-/Size 11
-/Root 3 0 R
-/Info 1 0 R
+/ID 
+[<6e12b7cf9859a1fc9a489e9e6cb1a4b3><6e12b7cf9859a1fc9a489e9e6cb1a4b3>]
+% ReportLab generated PDF document -- digest (opensource)
+
+/Info 8 0 R
+/Root 7 0 R
+/Size 12
 >>
 startxref
-6472
+5336
 %%EOF

@@ -1,340 +1,93 @@
 %PDF-1.4
-%âãÏÓ
+%“Œ‹ž ReportLab Generated PDF document (opensource)
 1 0 obj
 <<
-/Producer (pypdf)
+/F1 2 0 R /F2 3 0 R
 >>
 endobj
 2 0 obj
 <<
-/Type /Pages
-/Count 1
-/Kids [ 4 0 R ]
+/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
 >>
 endobj
 3 0 obj
 <<
-/Type /Catalog
-/Pages 2 0 R
+/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
 >>
 endobj
 4 0 obj
 <<
-/Contents 5 0 R
-/MediaBox [ 0 0 595.2756 841.8898 ]
-/Resources <<
-/ExtGState <<
-/gRLs0 <<
-/ca 0.035
->>
->>
-/Font <<
-/F1 6 0 R
-/F1-0 7 0 R
-/F2 8 0 R
-/F2-0 9 0 R
-/F3 10 0 R
->>
-/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
->>
-/Rotate 0
-/Trans <<
->>
-/Type /Page
-/Annots [ ]
-/Parent 2 0 R
+/Contents 9 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 8 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
 >>
 endobj
 5 0 obj
 <<
-/Length 4827
+/Contents 10 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 8 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
 >>
-stream
-q
-1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
-q
-1 0 0 1 51.35433 779.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F2 12 Tf 14 TL (QA Lab Brasil) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 749.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 4 Tm /F3 20 Tf 24 TL 212.9435 0 Td (Zephyr) Tj T* -212.9435 0 Td ET
-Q
-Q
-q
-1 0 0 1 51.35433 724.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Zephyr: conceito, aplica\347\343o em Quality Engineering, primeiros passos e refer\352ncia oficial.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 714.3701 cm
-Q
-q
-1 0 0 1 51.35433 688.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (O que \351?) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 643.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 29.5 Tm /F1 9.5 Tf 13 TL (Zephyr faz parte do ecossistema moderno de engenharia e qualidade de software. Este guia apresenta o papel da) Tj T* (ferramenta, onde ela se encaixa no fluxo de desenvolvimento e como um QA pode utiliz\341-la com seguran\347a e) Tj T* (contexto.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 617.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Por que um QA deve conhecer?) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 572.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 29.5 Tm /F1 9.5 Tf 13 TL (Conhecer Zephyr ajuda o QA a colaborar melhor com desenvolvimento, DevOps, dados e produto. O objetivo n\343o \351) Tj T* (decorar comandos, mas entender como a ferramenta influencia testabilidade, automa\347\343o, evid\352ncias, diagn\363stico e) Tj T* (qualidade de entrega.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 546.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Primeiros passos) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 501.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 29.5 Tm /F1 9.5 Tf 13 TL (Comece pela documenta\347\343o oficial, confirme pr\351-requisitos e instale apenas a partir da fonte oficial. Em ambiente) Tj T* (corporativo, valide pol\355ticas internas, vers\365es suportadas, permiss\365es e vari\341veis de ambiente antes de configurar) Tj T* (Zephyr.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 475.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Aplica\347\343o pr\341tica em QA) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 430.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 29.5 Tm /F1 9.5 Tf 13 TL (Use Zephyr em um exerc\355cio pequeno e reproduz\355vel. Registre o objetivo, configura\347\343o, resultado esperado,) Tj T* (evid\352ncias e problemas encontrados. Depois conecte o aprendizado a um cen\341rio real de testes, automa\347\343o,) Tj T* (integra\347\343o, dados ou entrega cont\355nua.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 404.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Boas pr\341ticas) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 359.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 29.5 Tm /F1 9.5 Tf 13 TL (Prefira documenta\347\343o oficial, n\343o exponha credenciais, versione configura\347\365es quando apropriado, mantenha) Tj T* (depend\352ncias atualizadas e registre decis\365es importantes. Ferramenta sem contexto n\343o substitui estrat\351gia de) Tj T* (qualidade.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 333.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Quando usar) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 301.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Use este conhecimento quando o risco, a arquitetura ou a etapa do ciclo de desenvolvimento exigir valida\347\343o) Tj T* (espec\355fica. Antes de aplicar, confirme objetivo, ambiente, dados necess\341rios e evid\352ncias esperadas.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 275.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Dica de QA) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 256.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Relacione sempre a pr\341tica ao risco do produto e \340s evid\352ncias necess\341rias para a decis\343o de qualidade.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 230.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F3 13 Tf 16 TL (Recursos oficiais) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 211.3701 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Site oficial: https://smartbear.com/test-management/zephyr/) Tj T* ET
-Q
-Q
- 
-
-Q
-
-q
-0.0 0.0 595.2756 841.8898 re
-W
-n
-1 0 0 1 0 0 cm
-BT
-/F1-0 12 Tf
-14.4 TL
-ET
-0.843137 0.901961 0.960784 RG
-0.6 w
-n
-36 815.8898 m
-559.2756 815.8898 l
-S
-0.070588 0.207843 0.356863 rg
-BT
-/F2-0 8.2 Tf
-9.84 TL
-ET
-BT
-1 0 0 1 40 821.8898 Tm
-(QA LAB BRASIL) Tj
-T*
-ET
-0.356863 0.45098 0.564706 rg
-BT
-/F1-0 6.8 Tf
-8.16 TL
-ET
-BT
-1 0 0 1 398.216 821.8898 Tm
-(QUALITY ENGINEERING \174 DOCUMENTO OFICIAL) Tj
-T*
-ET
-q
-0.848048 0.529919 -0.529919 0.848048 297.6378 420.9449 cm
-0.08 0.21 0.36 rg
-/gRLs0 gs
-BT
-/F2-0 42 Tf
-50.4 TL
-ET
-BT
-1 0 0 1 -164.493 0 Tm
-(QA LAB BRASIL) Tj
-T*
-ET
-Q
-0.843137 0.901961 0.960784 RG
-n
-36 24 m
-559.2756 24 l
-S
-0.356863 0.45098 0.564706 rg
-BT
-/F1-0 6.6 Tf
-7.92 TL
-ET
-BT
-1 0 0 1 40 14 Tm
-(qualityassurancebrasil\056com\056br) Tj
-T*
-ET
-BT
-1 0 0 1 210.9996 14 Tm
-(QA Lab Brasil v2\0562 \174 PT\055BR \174 Atualizado\072 setembro de 2026) Tj
-T*
-ET
-BT
-1 0 0 1 514.547 14 Tm
-(Pagina 1 de 1) Tj
-T*
-ET
-Q
-
-
-endstream
 endobj
 6 0 obj
 <<
-/BaseFont /Helvetica
-/Encoding /WinAnsiEncoding
-/Name /F1
-/Subtype /Type1
-/Type /Font
+/PageMode /UseNone /Pages 8 0 R /Type /Catalog
 >>
 endobj
 7 0 obj
 <<
-/BaseFont /Helvetica
-/Encoding /WinAnsiEncoding
-/Name /F1
-/Subtype /Type1
-/Type /Font
+/Author (\(anonymous\)) /CreationDate (D:20260922123401+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20260922123401+00'00') /Producer (ReportLab PDF Library - \(opensource\)) 
+  /Subject (\(unspecified\)) /Title (Zephyr) /Trapped /False
 >>
 endobj
 8 0 obj
 <<
-/BaseFont /Helvetica-BoldOblique
-/Encoding /WinAnsiEncoding
-/Name /F2
-/Subtype /Type1
-/Type /Font
+/Count 2 /Kids [ 4 0 R 5 0 R ] /Type /Pages
 >>
 endobj
 9 0 obj
 <<
-/BaseFont /Helvetica-Bold
-/Encoding /WinAnsiEncoding
-/Name /F2
-/Subtype /Type1
-/Type /Font
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 2101
 >>
+stream
+Gatm;gMYe)&:NH>Qq+W)BMj!HV6J^]-kIL[pSGq=XejVXF:0C3?)&M!1XssXm9R(<-eU@KboG$!3AZiZiCCKZo9/>&RP'&O,^m8<,oMT%Y2@X]lclnun1mdO0o8`L,`YF6r$NZ"gJjXj'iK@,84aST.#:2>2i03c1^N,QXk4o(n3&F/SP(^M,bC@^9-t:t*?S?\0+bDW;ncD#A0R0f$J<k@k"Ch-*u63`W?7!SPo7gXk*:=F3j09f-knH.PL[37$I95lJ$H_h9Gh/Q?5oRRbL1d1g%]sXIn)$HghgrDh]VF`5t"us?rfZJ&"`:24CCO:.>&@c9-ZEW72R0_f-Qu9]_mem^XDfLHs1cO(SrPe5K&ls\au"=>'n=[%s#tfb!VVR1^Q=ZZ4p0#ajC4(]=al=:R@]'Hae/6P),JL&t`n'#LVm.;Slbgf:@.aAA/HV-bV!'pD:NFG,E^ARVK<TPm0!7!YT4%aQ$T0(jT7VT75Tq[*!nHdMQpqj<,.cZs"sCo*`o536!M,nI9l,"/(Ol]1f.j^lEr\O$k7)\jT$Dd$7V5.>[sMOt4m$;+,KnOpPV$)Fksl<5*;o8EL$32P/ZP%)o!']lQ)Cb'3@r=a[G#p/3"0f3:<56T94=fa5rna1Di;oBuSL!'Y=\:WV0];@p[j+;5#iaM.rZ66$Gj_04/P04MjE`ZHV4X'D-s4t"kp-<FQ+0YtMs-=,%UbW)N?RSk)/\(%@b`J5e@DmfNV7"1C?7J3e!7j/r8j4OgZW6&+Z%+/;:psg"(/k8:FAa[S,l!(=t.-6L[+Hu>F#^,W?XQ`bK+Cqq0Zpf*.\nt0rku(A]Dmc]^g1o'd:02Y^,)dFb&cSoL1B+`TD>0s6>0pJ97CsU2<+C'OWt$kVY&r6n7MiF3KToS=o'SNg(#(>T[Ho)=k$AW>hA6('F1Z!>qmtE!IK8TIMmB3$'Y'qCn>PeL@332mq$(H84$.9OY.(E?i[FP/e`lt64sp6b!Q%>uG-^ai2M`9,54;cR(8;=e2=4hfdAfP52_0>qa!a0T*g@I))c]^//RojFM:49rm9S=$m11!LD$`8ZBOq>U?$*[FhNY$<43]^sG]9Q6"O1fKm)@_cq)q9G/ZG_d5p=N"F&nF&g.iC+F6Bp^[f$iWO`%/cS(`%#X4hVEqs?q/f$W'agH?`FA$A#_/aGl+n*BZQRRFma3_dIbSr>!<C?otNTY:d@(k&<'D3'd<0_A+1OIo"WA(jM&7;0LEi8P(pe4jeFV,A+R!"B,p/`UpK=mt6,8.%c'$$BbDD3*DHpN&C\S$0CZqjOO9%kNerPWRVRW[^,gZm)'FW?EO1T^>ok5S%ObFp)CqWZ*`B(YT5oPq1_8NqM7F-e:(AUNV/!#An,EqPj>-M:F\1"C&aY5JS&YO!eG\P?rJN*\Mh4L6Ned26?-tQhEEqpt")\o?ZZLA+d=f5[59VL<A(\-FuO,Q0V;e\ea;jJ*Q4hFqK.&hAE*l9O$#\@Ko+23+MGU(N:$2O0FE97s!]!^E=AQ[\[]9*=X7EE1bg!itQ$E[J7`pDT?%@S'P%X8'iKrFS[IM!Z@Pf*g]Yl.LpqV3A,3\\i^DQO2KFiS5Dr;*X\h6[EU^3\H+[O6<CQ6kF>:0nBP>bnXoF`UP]3iBTe;F-2O[6J8qA<OB5OuO]QpUU#$#+\gd9E.m,ZXkuL'TRMq%'MU%W;DTJfck(0Wa7\+=\.VT@$cCltuk3.!Yoi-#Q$[7Z)%['rgPI.j9Kl:5ha2j2]*>i(1s)b%%<K/CYj>fP=A9,Q_o`HNT*X?#8R'D#%qZ^=6_6eOSg4:+Lh]SOe.H:aV11+m(Q>=\bNu1f9V6dS3L,Q0TUH7fP&$-k5Xs6$U[EPEkVK<0_;Bb7jV,=X.r\U@0TU/6Y^HqJUH3<kmNm%^<1[KR)7Rp9B`WsLe)4YTGrA]J6Dj<JE/0083://7b`qa:qEu<A_dPPgdDj@+LRSB\AUn,[<datIQa[E\]Ms"G3m`j&$pGm;3Ac63JD/libngTO,;a2,U@-suO/S[.cOf@iD/t/8idh-3>,C*H\CQL8nbab,J96?dJAEBTUs0'*8`$6,]0^V?s@Jj?EM*6D_RstF5A6qG~>endstream
 endobj
 10 0 obj
 <<
-/BaseFont /Helvetica-Bold
-/Encoding /WinAnsiEncoding
-/Name /F3
-/Subtype /Type1
-/Type /Font
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 1567
 >>
+stream
+Gatm:9lo&I&A@[:m*X'+-ianXkUfQ#:1eN['(s\p"f<C[)3Rf]dWI>DnU5r_+f01AK<;C1J\^^.I;^2QLuTf@hmt,FhU8U2":7ZS4c,,/[!b;#gZ2;MGf<+:'?c%WE^_Mi56^jMdNto(6?&>i;<:KJ.\emN,a2f.jm-*6'KMAI=(hDfMPUL>-/MV&i,SY$;Y$(6;Gs'e9;5f_V:#oi=d+FP66a8d]Ta9a92X(<@9KR2W68A.W/QR*(2*N/?sKS>>beJQ1Btd$eg@??]!Ttn"CGpCJ%+_(0%iH^d!34Md7=AV1)5)m9MR_.JX@iQ'S%\KP34ApTOQ[(e_:nTd.S]$T7u*[(L34O0q$up"n#o`WUgPKPX-ioT4KDY<YcP`,n$SL-)M+Ck/B2`^O,MMopbP`))2jO,4N>uAZD%YJr5Ydr-f82==$C^8i#\O%\N!_44qgqDnEo4W\P<'OV0/pF<5R)RGq4<n,>j=3b*]H1'a<b*+VaCZ_`E556?gU;pSF'GL1].!`_G718E+p>60:S9F4S!S^Fogm<*=dU48$\)<eOHU4p3g`[JZC&4bQ2)&#"`9(Yt]Qni'j_T2;Lgml_pjGSZ5,CM%l^O#-J;]@cd`_gXZ6\]ce*a@)&qEp\dpe;d>]reEF4m`[VD2rh44en@HgKWRpXT+A3n_BU0UI>I?D\/li9WQ8UNRtR\SSg?-DgWYEblqGHj3dZgmkb1N^9p*^jN@,E!EAiU$#at4kZ%b\8L'^ANV/b*OT.$21RP&9YpJ5_>/3&tXQbL[#Q,gl\W:?)F6!&R?)-ph@rj1q*ueF"Iu:##+&SClT[WF]aAM?bU9,HJ+R0Q=pd3Li2rp5`kOQ6k[rRn-W0EE4:g$4:s#bGDd0Q,bLE=D!k[M7J6(2Haa[Gfl1ROQP0I?bGeP0D_k"`sW%bdC83.t7)(KcG>/@6.J^,HKA22KdQDn;M0PL=naQj+/PL@08oFVb[1)_qr$*l6CZcGf@A*p`2JMAuR\ZT3^I_KFp65;o3.N.*]U#D%5CZi`!="-hQ6I60RYK*$".B2;\=&nQ16pBYAH"Kt<[T[P"'SR)GRnt<$cLo.lU?H8aCeRjF6GN0Kt%Cc9i$T[Joq=*#V/f*1qJ[Gl.4CBRdK%*d!5^p4qSk=H]ol0u03C>$6o4*GGaf"a9RlLB\J.5\p[h'EjRnYCe!eGKSp<EA_/WaD![WY#W0K@*39P"ku50EqRHa>M61rIk`N'I+KJe.IeE6.^Q_KoCo"U_XZ/>`L7N*]#ObuZZ?X65k*i2=E>bbFO+Hh/P^W.mV73*^d6pD,`^X?IJjL6IDjK8sOLGjpK\:eeIp^8i.ue.\::]5;Le6t)-^BH<sZ`*.ZRgi.Oo56<gfZ_nHK^.!^[f?F=Gd@_mo#:KId<ps-CZ_4WL`Z,>K5o7'00!;L)`mce'Ror=(=huWs;50$-<m0=,\-,RYbm9A\<[T$nPsa=2GAY^t0t>:)$[ZLrGT;D?%JBPti4'$]D+HU:Iu"J^+:4Eq^3%I6,n^fCLXXOID7[hpK.BEl$K`:Ug4f+Wqk"E6^1a)EMN[u>B"gS(~>endstream
 endobj
 xref
 0 11
 0000000000 65535 f 
-0000000015 00000 n 
-0000000054 00000 n 
-0000000113 00000 n 
-0000000162 00000 n 
-0000000468 00000 n 
-0000005347 00000 n 
-0000005454 00000 n 
-0000005561 00000 n 
-0000005680 00000 n 
-0000005792 00000 n 
+0000000061 00000 n 
+0000000102 00000 n 
+0000000209 00000 n 
+0000000321 00000 n 
+0000000524 00000 n 
+0000000728 00000 n 
+0000000796 00000 n 
+0000001069 00000 n 
+0000001134 00000 n 
+0000003326 00000 n 
 trailer
 <<
+/ID 
+[<bb03fcdb2108f31a23d64f7379a1c0be><bb03fcdb2108f31a23d64f7379a1c0be>]
+% ReportLab generated PDF document -- digest (opensource)
+
+/Info 7 0 R
+/Root 6 0 R
 /Size 11
-/Root 3 0 R
-/Info 1 0 R
 >>
 startxref
-5905
+4985
 %%EOF
