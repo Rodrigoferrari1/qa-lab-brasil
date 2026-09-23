@@ -1,0 +1,1130 @@
+[
+  {
+    "key": "qa",
+    "group": "learn",
+    "guide": true,
+    "install": false
+  },
+  {
+    "key": "testing",
+    "group": "learn",
+    "guide": true,
+    "install": false
+  },
+  {
+    "key": "software",
+    "group": "engineering",
+    "guide": true,
+    "install": false
+  },
+  {
+    "key": "agile",
+    "group": "learn",
+    "guide": true,
+    "install": false
+  },
+  {
+    "key": "web",
+    "group": "tech",
+    "guide": true,
+    "install": false
+  },
+  {
+    "key": "mobile",
+    "group": "tech",
+    "guide": true,
+    "install": false
+  },
+  {
+    "key": "api",
+    "group": "tech",
+    "guide": true,
+    "install": false
+  },
+  {
+    "key": "api-tools",
+    "group": "tech",
+    "guide": true,
+    "install": false
+  },
+  {
+    "key": "automation",
+    "group": "tech",
+    "guide": true,
+    "install": false
+  },
+  {
+    "key": "programming",
+    "group": "engineering",
+    "guide": true,
+    "install": false
+  },
+  {
+    "key": "environment",
+    "group": "engineering",
+    "guide": true,
+    "install": false
+  },
+  {
+    "key": "git",
+    "group": "engineering",
+    "guide": true,
+    "install": true
+  },
+  {
+    "key": "data",
+    "group": "tech",
+    "guide": true,
+    "install": false
+  },
+  {
+    "key": "performance",
+    "group": "tech",
+    "guide": true,
+    "install": false
+  },
+  {
+    "key": "security",
+    "group": "tech",
+    "guide": true,
+    "install": false
+  },
+  {
+    "key": "devops",
+    "group": "engineering",
+    "guide": true,
+    "install": false
+  },
+  {
+    "key": "analytics",
+    "group": "work",
+    "guide": true,
+    "install": false
+  },
+  {
+    "key": "management",
+    "group": "work",
+    "guide": true,
+    "install": false
+  },
+  {
+    "key": "ai",
+    "group": "future",
+    "guide": true,
+    "install": false
+  },
+  {
+    "key": "ai-testing",
+    "group": "future",
+    "guide": true,
+    "install": false
+  },
+  {
+    "key": "how-to-test",
+    "group": "work",
+    "guide": true,
+    "install": false
+  },
+  {
+    "key": "toolkit",
+    "group": "work",
+    "guide": true,
+    "install": false
+  },
+  {
+    "key": "playground",
+    "group": "work",
+    "guide": true,
+    "install": false
+  },
+  {
+    "key": "setup-center",
+    "group": "engineering",
+    "guide": true,
+    "install": false
+  },
+  {
+    "key": "bug-clinic",
+    "group": "work",
+    "guide": true,
+    "install": false
+  },
+  {
+    "key": "code-lab",
+    "group": "work",
+    "guide": true,
+    "install": false
+  },
+  {
+    "key": "api-lab",
+    "group": "work",
+    "guide": true,
+    "install": false
+  },
+  {
+    "key": "glossary",
+    "group": "work",
+    "guide": true,
+    "install": false
+  },
+  {
+    "key": "learning-paths",
+    "group": "work",
+    "guide": true,
+    "install": false
+  },
+  {
+    "key": "interview-center",
+    "group": "work",
+    "guide": true,
+    "install": false
+  },
+  {
+    "key": "shorts",
+    "group": "future",
+    "guide": true,
+    "install": false
+  },
+  {
+    "key": "qa-shop",
+    "group": "work",
+    "guide": true,
+    "install": false
+  },
+  {
+    "key": "testability",
+    "group": "learn",
+    "guide": true,
+    "install": false
+  },
+  {
+    "key": "networking",
+    "group": "engineering",
+    "guide": true,
+    "install": false
+  },
+  {
+    "key": "auth",
+    "group": "tech",
+    "guide": true,
+    "install": false
+  },
+  {
+    "key": "release",
+    "group": "work",
+    "guide": true,
+    "install": false
+  },
+  {
+    "key": "incidents",
+    "group": "work",
+    "guide": true,
+    "install": false
+  },
+  {
+    "key": "risk",
+    "group": "learn",
+    "guide": true,
+    "install": false
+  },
+  {
+    "key": "templates",
+    "group": "work",
+    "guide": true,
+    "install": false
+  },
+  {
+    "key": "workspace",
+    "group": "work",
+    "guide": true,
+    "install": false
+  },
+  {
+    "key": "accessibility",
+    "group": "tech",
+    "guide": true,
+    "install": false
+  },
+  {
+    "key": "localization",
+    "group": "tech",
+    "guide": true,
+    "install": false
+  },
+  {
+    "key": "ecommerce",
+    "group": "tech",
+    "guide": true,
+    "install": false
+  },
+  {
+    "key": "payments",
+    "group": "tech",
+    "guide": true,
+    "install": false
+  },
+  {
+    "key": "salesforce",
+    "group": "engineering",
+    "guide": true,
+    "install": false
+  },
+  {
+    "key": "erp",
+    "group": "engineering",
+    "guide": true,
+    "install": false
+  },
+  {
+    "key": "cloud",
+    "group": "engineering",
+    "guide": true,
+    "install": false
+  },
+  {
+    "key": "docker",
+    "group": "engineering",
+    "guide": true,
+    "install": true
+  },
+  {
+    "key": "visual-regression",
+    "group": "tech",
+    "guide": true,
+    "install": false
+  },
+  {
+    "key": "test-data",
+    "group": "work",
+    "guide": true,
+    "install": false
+  },
+  {
+    "key": "playwright",
+    "group": "engineering",
+    "guide": true,
+    "install": true
+  },
+  {
+    "key": "appium",
+    "group": "tech",
+    "guide": true,
+    "install": true
+  },
+  {
+    "key": "browserstack",
+    "group": "tech",
+    "guide": true,
+    "install": false
+  },
+  {
+    "key": "postman",
+    "group": "tech",
+    "guide": true,
+    "install": false
+  },
+  {
+    "key": "bruno",
+    "group": "tech",
+    "guide": true,
+    "install": false
+  },
+  {
+    "key": "jmeter",
+    "group": "tech",
+    "guide": true,
+    "install": true
+  },
+  {
+    "key": "python",
+    "group": "engineering",
+    "guide": true,
+    "install": true
+  },
+  {
+    "key": "java",
+    "group": "engineering",
+    "guide": true,
+    "install": true
+  },
+  {
+    "key": "vscode",
+    "group": "engineering",
+    "guide": true,
+    "install": true
+  },
+  {
+    "key": "powershell",
+    "group": "engineering",
+    "guide": true,
+    "install": false
+  },
+  {
+    "key": "jira-xray",
+    "group": "work",
+    "guide": true,
+    "install": false
+  },
+  {
+    "key": "insomnia",
+    "group": "tech",
+    "guide": true,
+    "install": false
+  },
+  {
+    "key": "soapui",
+    "group": "tech",
+    "guide": true,
+    "install": false
+  },
+  {
+    "key": "selenium",
+    "group": "engineering",
+    "guide": true,
+    "install": true
+  },
+  {
+    "key": "cypress",
+    "group": "engineering",
+    "guide": true,
+    "install": true
+  },
+  {
+    "key": "chatgpt",
+    "group": "future",
+    "guide": true,
+    "install": false
+  },
+  {
+    "key": "claude",
+    "group": "future",
+    "guide": true,
+    "install": false
+  },
+  {
+    "key": "gemini",
+    "group": "future",
+    "guide": true,
+    "install": false
+  },
+  {
+    "key": "deepseek",
+    "group": "future",
+    "guide": true,
+    "install": false
+  },
+  {
+    "key": "github-copilot",
+    "group": "future",
+    "guide": true,
+    "install": false
+  },
+  {
+    "key": "perplexity",
+    "group": "future",
+    "guide": true,
+    "install": false
+  },
+  {
+    "key": "robot-framework",
+    "group": "engineering",
+    "guide": true,
+    "install": true
+  },
+  {
+    "key": "k6",
+    "group": "tech",
+    "guide": true,
+    "install": true
+  },
+  {
+    "key": "bitbucket",
+    "group": "git",
+    "guide": true,
+    "install": false
+  },
+  {
+    "key": "gitlab",
+    "group": "git",
+    "guide": true,
+    "install": false
+  },
+  {
+    "key": "maven",
+    "group": "programming",
+    "guide": true,
+    "install": true
+  },
+  {
+    "key": "gradle",
+    "group": "programming",
+    "guide": true,
+    "install": true
+  },
+  {
+    "key": "junit",
+    "group": "automation",
+    "guide": true,
+    "install": false
+  },
+  {
+    "key": "testng",
+    "group": "automation",
+    "guide": true,
+    "install": false
+  },
+  {
+    "key": "rest-assured",
+    "group": "api",
+    "guide": true,
+    "install": false
+  },
+  {
+    "key": "karate",
+    "group": "api",
+    "guide": true,
+    "install": false
+  },
+  {
+    "key": "jenkins",
+    "group": "devops",
+    "guide": true,
+    "install": true
+  },
+  {
+    "key": "kubernetes",
+    "group": "cloud",
+    "guide": true,
+    "install": true
+  },
+  {
+    "key": "terraform",
+    "group": "cloud",
+    "guide": true,
+    "install": true
+  },
+  {
+    "key": "grafana",
+    "group": "observability",
+    "guide": true,
+    "install": true
+  },
+  {
+    "key": "prometheus",
+    "group": "observability",
+    "guide": true,
+    "install": true
+  },
+  {
+    "key": "mysql",
+    "group": "data",
+    "guide": true,
+    "install": false
+  },
+  {
+    "key": "postgresql",
+    "group": "data",
+    "guide": true,
+    "install": false
+  },
+  {
+    "key": "sql-server",
+    "group": "data",
+    "guide": true,
+    "install": false
+  },
+  {
+    "key": "webdriverio",
+    "group": "automation",
+    "guide": true,
+    "install": false
+  },
+  {
+    "key": "cucumber",
+    "group": "automation",
+    "guide": true,
+    "install": false
+  },
+  {
+    "key": "zephyr",
+    "group": "management",
+    "guide": true,
+    "install": false
+  },
+  {
+    "key": "qtest",
+    "group": "management",
+    "guide": true,
+    "install": false
+  },
+  {
+    "key": "rest",
+    "group": "api",
+    "guide": true,
+    "install": false
+  },
+  {
+    "key": "graphql",
+    "group": "api",
+    "guide": true,
+    "install": false
+  },
+  {
+    "key": "openapi",
+    "group": "api",
+    "guide": true,
+    "install": false
+  },
+  {
+    "key": "pact",
+    "group": "api",
+    "guide": true,
+    "install": true
+  },
+  {
+    "key": "oracle",
+    "group": "data",
+    "guide": true,
+    "install": false
+  },
+  {
+    "key": "mongodb",
+    "group": "data",
+    "guide": true,
+    "install": false
+  },
+  {
+    "key": "etl",
+    "group": "data",
+    "guide": true,
+    "install": false
+  },
+  {
+    "key": "data-pipeline",
+    "group": "data",
+    "guide": true,
+    "install": false
+  },
+  {
+    "key": "aws",
+    "group": "cloud",
+    "guide": true,
+    "install": false
+  },
+  {
+    "key": "azure",
+    "group": "cloud",
+    "guide": true,
+    "install": false
+  },
+  {
+    "key": "gcp",
+    "group": "cloud",
+    "guide": true,
+    "install": false
+  },
+  {
+    "key": "gatling",
+    "group": "performance",
+    "guide": true,
+    "install": true
+  },
+  {
+    "key": "locust",
+    "group": "performance",
+    "guide": true,
+    "install": true
+  },
+  {
+    "key": "loadrunner",
+    "group": "performance",
+    "guide": true,
+    "install": false
+  },
+  {
+    "key": "opentelemetry",
+    "group": "observability",
+    "guide": true,
+    "install": false
+  },
+  {
+    "key": "datadog",
+    "group": "observability",
+    "guide": true,
+    "install": false
+  },
+  {
+    "key": "dynatrace",
+    "group": "observability",
+    "guide": true,
+    "install": false
+  },
+  {
+    "key": "new-relic",
+    "group": "observability",
+    "guide": true,
+    "install": false
+  },
+  {
+    "key": "sonarqube",
+    "group": "security",
+    "guide": true,
+    "install": true
+  },
+  {
+    "key": "azure-devops",
+    "group": "devops",
+    "guide": true,
+    "install": false
+  },
+  {
+    "key": "circleci",
+    "group": "devops",
+    "guide": true,
+    "install": false
+  },
+  {
+    "key": "http-status",
+    "group": "api",
+    "guide": true,
+    "install": false
+  },
+  {
+    "key": "api-auth",
+    "group": "api",
+    "guide": true,
+    "install": false
+  },
+  {
+    "key": "nodejs",
+    "group": "programming",
+    "guide": true,
+    "install": true
+  },
+  {
+    "key": "npm",
+    "group": "programming",
+    "guide": true,
+    "install": true
+  },
+  {
+    "key": "intellij",
+    "group": "programming",
+    "guide": true,
+    "install": true
+  },
+  {
+    "key": "github-actions",
+    "group": "devops",
+    "guide": true,
+    "install": false
+  },
+  {
+    "key": "bitbucket-pipelines",
+    "group": "devops",
+    "guide": true,
+    "install": false
+  },
+  {
+    "key": "kafka",
+    "group": "cloud",
+    "guide": true,
+    "install": false
+  },
+  {
+    "key": "sentry",
+    "group": "observability",
+    "guide": true,
+    "install": false
+  },
+  {
+    "key": "azure-test-plans",
+    "group": "management",
+    "guide": true,
+    "install": false
+  },
+  {
+    "key": "owasp",
+    "group": "security",
+    "guide": true,
+    "install": false
+  },
+  {
+    "key": "zap",
+    "group": "security",
+    "guide": true,
+    "install": true
+  },
+  {
+    "key": "burp-suite",
+    "group": "security",
+    "guide": true,
+    "install": false
+  },
+  {
+    "key": "scrum",
+    "group": "methodology",
+    "guide": true,
+    "install": false
+  },
+  {
+    "key": "kanban",
+    "group": "methodology",
+    "guide": true,
+    "install": false
+  },
+  {
+    "key": "waterfall",
+    "group": "methodology",
+    "guide": true,
+    "install": false
+  },
+  {
+    "key": "v-model",
+    "group": "methodology",
+    "guide": true,
+    "install": false
+  },
+  {
+    "key": "espresso",
+    "group": "mobile",
+    "guide": true,
+    "install": false
+  },
+  {
+    "key": "xcuitest",
+    "group": "mobile",
+    "guide": true,
+    "install": false
+  },
+  {
+    "key": "microservices",
+    "group": "architecture",
+    "guide": true,
+    "install": false
+  },
+  {
+    "key": "event-driven",
+    "group": "architecture",
+    "guide": true,
+    "install": false
+  },
+  {
+    "key": "data-quality",
+    "group": "data",
+    "guide": true,
+    "install": false
+  },
+  {
+    "key": "data-lake",
+    "group": "data",
+    "guide": true,
+    "install": false
+  },
+  {
+    "key": "data-warehouse",
+    "group": "data",
+    "guide": true,
+    "install": false
+  },
+  {
+    "key": "testrail",
+    "group": "management",
+    "guide": true,
+    "install": false
+  },
+  {
+    "key": "functional-testing",
+    "group": "testing",
+    "guide": true,
+    "install": false
+  },
+  {
+    "key": "regression-testing",
+    "group": "testing",
+    "guide": true,
+    "install": false
+  },
+  {
+    "key": "smoke-testing",
+    "group": "testing",
+    "guide": true,
+    "install": false
+  },
+  {
+    "key": "sanity-testing",
+    "group": "testing",
+    "guide": true,
+    "install": false
+  },
+  {
+    "key": "uat",
+    "group": "testing",
+    "guide": true,
+    "install": false
+  },
+  {
+    "key": "exploratory-testing",
+    "group": "testing",
+    "guide": true,
+    "install": false
+  },
+  {
+    "key": "integration-testing",
+    "group": "testing",
+    "guide": true,
+    "install": false
+  },
+  {
+    "key": "e2e-testing",
+    "group": "testing",
+    "guide": true,
+    "install": false
+  },
+  {
+    "key": "equivalence-partitioning",
+    "group": "testing",
+    "guide": true,
+    "install": false
+  },
+  {
+    "key": "boundary-value-analysis",
+    "group": "testing",
+    "guide": true,
+    "install": false
+  },
+  {
+    "key": "decision-table",
+    "group": "testing",
+    "guide": true,
+    "install": false
+  },
+  {
+    "key": "state-transition",
+    "group": "testing",
+    "guide": true,
+    "install": false
+  },
+  {
+    "key": "maestro",
+    "group": "tech",
+    "guide": true,
+    "install": false
+  },
+  {
+    "key": "detox",
+    "group": "tech",
+    "guide": true,
+    "install": false
+  },
+  {
+    "key": "sauce-labs",
+    "group": "tech",
+    "guide": true,
+    "install": false
+  },
+  {
+    "key": "lambdatest",
+    "group": "tech",
+    "guide": true,
+    "install": false
+  },
+  {
+    "key": "eclipse",
+    "group": "programming",
+    "guide": true,
+    "install": true
+  },
+  {
+    "key": "spring-tools",
+    "group": "programming",
+    "guide": true,
+    "install": true
+  },
+  {
+    "key": "spring-framework",
+    "group": "programming",
+    "guide": true,
+    "install": false
+  },
+  {
+    "key": "spring-boot",
+    "group": "programming",
+    "guide": true,
+    "install": false
+  },
+  {
+    "key": "spring-initializr",
+    "group": "programming",
+    "guide": true,
+    "install": false
+  },
+  {
+    "key": "mockito",
+    "group": "programming",
+    "guide": true,
+    "install": false
+  },
+  {
+    "key": "spring-testing",
+    "group": "programming",
+    "guide": true,
+    "install": false
+  },
+  {
+    "key": "alm-quality-center",
+    "group": "management",
+    "guide": true,
+    "install": false
+  },
+  {
+    "key": "alm-octane",
+    "group": "management",
+    "guide": true,
+    "install": false
+  },
+  {
+    "key": "testlink",
+    "group": "management",
+    "guide": true,
+    "install": false
+  },
+  {
+    "key": "dbeaver",
+    "group": "data",
+    "guide": true,
+    "install": true
+  },
+  {
+    "key": "mysql-workbench",
+    "group": "data",
+    "guide": true,
+    "install": true
+  },
+  {
+    "key": "pgadmin",
+    "group": "data",
+    "guide": true,
+    "install": true
+  },
+  {
+    "key": "oracle-sql-developer",
+    "group": "data",
+    "guide": true,
+    "install": true
+  },
+  {
+    "key": "mongodb-compass",
+    "group": "data",
+    "guide": true,
+    "install": true
+  },
+  {
+    "key": "chrome-devtools",
+    "group": "debug-accessibility",
+    "guide": true,
+    "install": false
+  },
+  {
+    "key": "charles-proxy",
+    "group": "debug-accessibility",
+    "guide": true,
+    "install": true
+  },
+  {
+    "key": "fiddler",
+    "group": "debug-accessibility",
+    "guide": true,
+    "install": true
+  },
+  {
+    "key": "proxyman",
+    "group": "debug-accessibility",
+    "guide": true,
+    "install": true
+  },
+  {
+    "key": "adb",
+    "group": "debug-accessibility",
+    "guide": true,
+    "install": true
+  },
+  {
+    "key": "logcat",
+    "group": "debug-accessibility",
+    "guide": true,
+    "install": false
+  },
+  {
+    "key": "axe-core",
+    "group": "debug-accessibility",
+    "guide": true,
+    "install": false
+  },
+  {
+    "key": "wave",
+    "group": "debug-accessibility",
+    "guide": true,
+    "install": false
+  },
+  {
+    "key": "lighthouse",
+    "group": "debug-accessibility",
+    "guide": true,
+    "install": false
+  },
+  {
+    "key": "accessibility-insights",
+    "group": "debug-accessibility",
+    "guide": true,
+    "install": false
+  },
+  {
+    "key": "nvda",
+    "group": "debug-accessibility",
+    "guide": true,
+    "install": false
+  },
+  {
+    "key": "jaws",
+    "group": "debug-accessibility",
+    "guide": true,
+    "install": false
+  },
+  {
+    "key": "xp",
+    "group": "methodology",
+    "guide": true,
+    "install": false
+  },
+  {
+    "key": "lean",
+    "group": "methodology",
+    "guide": true,
+    "install": false
+  },
+  {
+    "key": "hybrid-methods",
+    "group": "methodology",
+    "guide": true,
+    "install": false
+  },
+  {
+    "key": "test-data-generator",
+    "group": "tools",
+    "guide": true,
+    "install": false
+  },
+  {
+    "key": "wiremock",
+    "group": "tech",
+    "guide": true,
+    "install": true
+  },
+  {
+    "key": "allure-report",
+    "group": "tech",
+    "guide": true,
+    "install": true
+  }
+]
