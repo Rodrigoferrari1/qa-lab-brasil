@@ -675,3 +675,27 @@ function qaPdfSetCat(cat){window.QA_PDF_ACTIVE=cat;qaRenderPdfHub()}
 function qaPdfNorm(v){return String(v||'').normalize('NFD').replace(/[\u0300-\u036f]/g,'').toLowerCase()}
 function qaRenderPdfHub(){const L=qaPdfText(),q=qaPdfNorm(document.getElementById('pdfHubSearch')?.value||''),active=window.QA_PDF_ACTIVE||'all';let rows=(QA_PDF_CATALOG||[]).map(x=>({...x,cat:qaPdfCategory(x.group),title:DATA[x.key]?.[LANG]?.title||x.key}));if(q)rows=rows.filter(x=>qaPdfNorm(x.title+' '+x.key).includes(q));if(!q&&active!=='all')rows=rows.filter(x=>x.cat===active);const counts={};(QA_PDF_CATALOG||[]).forEach(x=>{let c=qaPdfCategory(x.group);counts[c]=(counts[c]||0)+1});let visualActive=q?'all':active;let cats=`<button class="pdf-cat ${visualActive==='all'?'on':''}" onclick="qaPdfSetCat('all')">${L.all}</button>`+Object.keys(L.cats).filter(c=>counts[c]).map(c=>`<button class="pdf-cat ${visualActive===c?'on':''}" onclick="qaPdfSetCat('${c}')">${L.cats[c]}</button>`).join('');document.getElementById('pdfHubCats').innerHTML=cats;document.getElementById('pdfHubList').innerHTML=rows.length?rows.sort((a,b)=>a.title.localeCompare(b.title,LANG)).map(x=>`<article class="pdf-item"><div><span>${topicMeta[x.key]?.[0]||'📄'}</span><b>${x.title}</b><small>${L.cats[x.cat]||''}</small></div><div class="pdf-item-actions">${x.guide?`<a class="btn primary" href="/pdf/${LANG}/${x.key}.pdf" download>📘 ${L.guide}</a>`:''}${x.install?`<a class="btn" href="/pdf/${LANG}/${x.key}-installation.pdf" download>🛠️ ${L.install}</a>`:''}</div></article>`).join(''):`<div class="pdf-empty">${L.empty}</div>`}
 document.addEventListener('keydown',e=>{if(e.key==='Escape')qaClosePdfHub()});
+
+/* QA Lab 3.1.1 - mobile destination focus for header utilities and search */
+function qaMobileFocusDestination(){
+  if(!window.matchMedia('(max-width: 820px)').matches)return;
+  requestAnimationFrame(()=>requestAnimationFrame(()=>{
+    const main=document.getElementById('main');
+    if(!main)return;
+    const top=document.querySelector('.top');
+    const offset=(top?.getBoundingClientRect().height||0)+10;
+    const y=Math.max(0,window.scrollY+main.getBoundingClientRect().top-offset);
+    window.scrollTo({top:y,behavior:'smooth'});
+  }));
+}
+const qaNavigateBeforeMobileUX=qaNavigate;
+qaNavigate=function(key){
+  qaNavigateBeforeMobileUX(key);
+  if(key==='test-data-generator'||key==='simulators')qaMobileFocusDestination();
+};
+qaSearchNavigate=function(k){
+  qaNavigateBeforeMobileUX(k);
+  let q=document.getElementById('searchInput');if(q)q.value='';
+  document.getElementById('searchResults')?.classList.remove('open');
+  qaMobileFocusDestination();
+};
