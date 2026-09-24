@@ -699,3 +699,50 @@ qaSearchNavigate=function(k){
   document.getElementById('searchResults')?.classList.remove('open');
   qaMobileFocusDestination();
 };
+
+/* QA Lab Brasil 3.1.2 - Simulator UX (clean production baseline) */
+function qaSimRunnerCleanup(){
+  document.body.classList.remove('qa-sim-active');
+  clearInterval(CTFL_TIMER);
+}
+function qaSimAlignNav(){
+  if(!document.body.classList.contains('qa-sim-active')||window.innerWidth<=820)return;
+  const card=document.querySelector('.sim-question');
+  const nav=document.querySelector('.sim-nav');
+  if(!card||!nav)return;
+  const r=card.getBoundingClientRect();
+  nav.style.setProperty('left',`${Math.round(r.left)}px`,'important');
+  nav.style.setProperty('width',`${Math.round(r.width)}px`,'important');
+  nav.style.setProperty('right','auto','important');
+}
+const qaRouteBeforeSimUX=route;
+route=function(){
+  qaSimRunnerCleanup();
+  qaRouteBeforeSimUX();
+};
+const qaRenderSimulatorsBeforeUX=renderSimulators;
+renderSimulators=async function(){
+  qaSimRunnerCleanup();
+  return qaRenderSimulatorsBeforeUX();
+};
+const qaCtflRenderQuestionBeforeUX=ctflRenderQuestion;
+ctflRenderQuestion=function(){
+  document.body.classList.add('qa-sim-active');
+  qaCtflRenderQuestionBeforeUX();
+  requestAnimationFrame(()=>requestAnimationFrame(()=>{
+    qaSimAlignNav();
+    if(window.innerWidth<=820){
+      const card=document.querySelector('.sim-question');
+      if(card){
+        const y=Math.max(0,window.scrollY+card.getBoundingClientRect().top-8);
+        window.scrollTo({top:y,behavior:'smooth'});
+      }
+    }
+  }));
+};
+const qaCtflFinishBeforeUX=ctflFinish;
+ctflFinish=function(){
+  qaSimRunnerCleanup();
+  return qaCtflFinishBeforeUX();
+};
+window.addEventListener('resize',()=>requestAnimationFrame(qaSimAlignNav));
