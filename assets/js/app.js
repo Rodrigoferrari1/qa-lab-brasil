@@ -746,3 +746,34 @@ ctflFinish=function(){
   return qaCtflFinishBeforeUX();
 };
 window.addEventListener('resize',()=>requestAnimationFrame(qaSimAlignNav));
+
+/* QA Lab Brasil 3.1.3 - mobile/tablet search placement */
+function qaPositionMobileSearchResults(){
+  const box=document.getElementById('searchResults');
+  const search=document.querySelector('.top .search');
+  if(!box||!search)return;
+  if(window.innerWidth>820){
+    box.classList.remove('qa-mobile-search-results');
+    box.style.removeProperty('top');
+    box.style.removeProperty('left');
+    box.style.removeProperty('width');
+    box.style.removeProperty('--qa-search-top');
+    return;
+  }
+  const r=search.getBoundingClientRect();
+  const top=Math.max(8,Math.round(r.bottom+8));
+  box.classList.add('qa-mobile-search-results');
+  box.style.setProperty('top',`${top}px`,'important');
+  box.style.setProperty('left',`${Math.round(r.left)}px`,'important');
+  box.style.setProperty('width',`${Math.round(r.width)}px`,'important');
+  box.style.setProperty('--qa-search-top',`${top}px`);
+}
+const qaSearchBefore313=search;
+search=function(q){
+  qaSearchBefore313(q);
+  if(document.getElementById('searchResults')?.classList.contains('open')){
+    requestAnimationFrame(qaPositionMobileSearchResults);
+  }
+};
+window.addEventListener('resize',qaPositionMobileSearchResults);
+window.addEventListener('orientationchange',()=>setTimeout(qaPositionMobileSearchResults,80));
