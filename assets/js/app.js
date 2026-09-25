@@ -25,7 +25,7 @@ function qaNewsletter(){
   en:{title:'Get QA Lab updates',desc:'Receive new content, tools, practice exams and QA Lab Brasil updates directly in your inbox.',name:'Name',namePh:'What should we call you?',optional:'Optional',email:'Enter your email to receive updates',emailPh:'you@example.com',emailHelp:'Enter a valid email address.',consent:'Consent',consentText:'I want to receive QA Lab Brasil news, new content, tools, practice exams and updates by email.',read:'Please read carefully',privacy:'Your data will be used to send QA Lab Brasil updates. You can unsubscribe at any time.',policy:'Privacy Policy and Brazilian LGPD',policyUrl:'/pdf/en/privacy-policy-brazilian-lgpd-en.pdf',cta:'Send me updates'},
   es:{title:'Reciba novedades de QA Lab',desc:'Reciba nuevos contenidos, herramientas, simuladores y actualizaciones de QA Lab Brasil directamente en su correo electrónico.',name:'Nombre',namePh:'¿Cómo podemos llamarle?',optional:'Opcional',email:'Ingrese su correo para recibir actualizaciones',emailPh:'usted@correo.com',emailHelp:'Ingrese una dirección de correo válida.',consent:'Consentimiento',consentText:'Quiero recibir por correo novedades, nuevos contenidos, herramientas, simuladores y actualizaciones de QA Lab Brasil.',read:'Lea con atención',privacy:'Sus datos se utilizarán para enviar novedades de QA Lab Brasil. Puede cancelar su suscripción en cualquier momento.',policy:'Política de Privacidad y LGPD de Brasil',policyUrl:'/pdf/es/politica-privacidad-lgpd-brasil-es.pdf',cta:'Quiero recibir novedades'}
  }[LANG];
- return `<section class="section newsletter-section" aria-labelledby="newsletterTitle"><div class="newsletter-card"><div class="newsletter-copy"><span class="eyebrow">📬 NEWSLETTER</span><h2 id="newsletterTitle">${c.title}</h2><p>${c.desc}</p><div class="newsletter-trust">🔒 Double opt-in · ${LANG==='pt'?'Privacidade por padrão':LANG==='en'?'Privacy by default':'Privacidad por defecto'}</div></div><form class="newsletter-form" method="POST" action="https://2dcafd0c.sibforms.com/serve/MUIFADOhLwa3vcmIAAN2y-6uGbmQAQtOV1BUVnoxsLGj_5HxtvZwdfhsoPEi0vx1FbToS5Ke8N-epGK6948KAB-PgYimkdoWBkuuCBmY5R_M7le-uXOot9_40JDg0a3BuUmZ5GtPcG4IDCZ9pF3jaY98Lv625yz2a81OpuOT5SuleVDMHpjku_rZw68Kk24oLQfX7WFe4tv0wxrINQ==" data-type="subscription"><label><b>${c.name}</b><input maxlength="200" type="text" name="NOME" autocomplete="name" placeholder="${c.namePh}"><small>${c.optional}</small></label><label><b>${c.email} *</b><input type="email" name="EMAIL" autocomplete="email" placeholder="${c.emailPh}" required><small>${c.emailHelp}</small></label><fieldset><legend>${c.consent} *</legend><label class="newsletter-consent"><input type="checkbox" value="1" name="OPT_IN" required><span>${c.consentText}</span></label><small>${c.read}</small></fieldset><p class="newsletter-privacy">🔒 ${c.privacy}</p><a class="newsletter-policy" href="${c.policyUrl}" target="_blank" rel="noopener">📄 ${c.policy} ↗</a><input type="text" name="email_address_check" value="" class="newsletter-hp" tabindex="-1" autocomplete="off" aria-hidden="true"><input type="hidden" name="locale" value="${LANG}"><input type="hidden" name="html_type" value="simple"><button class="btn primary newsletter-submit" type="submit">${c.cta}</button></form></div></section>`;
+ return `<section class="section newsletter-section" aria-labelledby="newsletterTitle"><div class="newsletter-card"><div class="newsletter-copy"><span class="eyebrow">📬 NEWSLETTER</span><h2 id="newsletterTitle">${c.title}</h2><p>${c.desc}</p><div class="newsletter-trust">🔒 Double opt-in · ${LANG==='pt'?'Privacidade por padrão':LANG==='en'?'Privacy by default':'Privacidad por defecto'}</div></div><form class="newsletter-form" method="POST" target="qaNewsletterSink" onsubmit="qaNewsletterSubmit(this)" action="https://2dcafd0c.sibforms.com/serve/MUIFADOhLwa3vcmIAAN2y-6uGbmQAQtOV1BUVnoxsLGj_5HxtvZwdfhsoPEi0vx1FbToS5Ke8N-epGK6948KAB-PgYimkdoWBkuuCBmY5R_M7le-uXOot9_40JDg0a3BuUmZ5GtPcG4IDCZ9pF3jaY98Lv625yz2a81OpuOT5SuleVDMHpjku_rZw68Kk24oLQfX7WFe4tv0wxrINQ==" data-type="subscription"><label><b>${c.name}</b><input maxlength="200" type="text" name="NOME" autocomplete="name" placeholder="${c.namePh}"><small>${c.optional}</small></label><label><b>${c.email} *</b><input type="email" name="EMAIL" autocomplete="email" placeholder="${c.emailPh}" required><small>${c.emailHelp}</small></label><fieldset><legend>${c.consent} *</legend><label class="newsletter-consent"><input type="checkbox" value="1" name="OPT_IN" required><span>${c.consentText}</span></label><small>${c.read}</small></fieldset><p class="newsletter-privacy">🔒 ${c.privacy}</p><a class="newsletter-policy" href="${c.policyUrl}" target="_blank" rel="noopener">📄 ${c.policy} ↗</a><input type="text" name="email_address_check" value="" class="newsletter-hp" tabindex="-1" autocomplete="off" aria-hidden="true"><input type="hidden" name="locale" value="${LANG}"><input type="hidden" name="html_type" value="simple"><button class="btn primary newsletter-submit" type="submit">${c.cta}</button><div class="newsletter-status" role="status" aria-live="polite"></div><iframe class="newsletter-sink" name="qaNewsletterSink" title="" aria-hidden="true" tabindex="-1" onload="qaNewsletterSinkLoaded(this)"></iframe></form></div></section>`;
 }
 
 
@@ -52,6 +52,44 @@ function qaInstitutionMore(){
 function qaToggleInstitutionMore(btn){const box=btn.closest('.institution-more');const open=box.classList.toggle('open');btn.setAttribute('aria-expanded',String(open));}
 function qaInstitutionCard(ev,card){card.classList.remove('qa-card-active');void card.offsetWidth;card.classList.add('qa-card-active');setTimeout(()=>card.classList.remove('qa-card-active'),520);if(window.matchMedia('(prefers-reduced-motion: reduce)').matches)return;const r=card.getBoundingClientRect();const x=(ev.clientX||r.left+r.width/2)-r.left,y=(ev.clientY||r.top+r.height/2)-r.top,d=Math.max(r.width,r.height)*2;const ripple=document.createElement('span');ripple.className='qa-ripple';ripple.style.cssText=`left:${x}px;top:${y}px;width:${d}px;height:${d}px`;card.appendChild(ripple);setTimeout(()=>ripple.remove(),460);}
 function qaInstitutionKey(ev,card){if(ev.key==='Enter'||ev.key===' '){ev.preventDefault();qaInstitutionCard({clientX:0,clientY:0},card)}}
+
+
+/* QA Lab Brasil 3.1.6.1 - Newsletter submit hotfix
+   Keep the visitor on QA Lab while Brevo processes the existing POST/Double Opt-in flow. */
+function qaNewsletterSubmit(form){
+  const button=form.querySelector('.newsletter-submit');
+  const status=form.querySelector('.newsletter-status');
+  form.dataset.qaSubmitted='1';
+  if(status){status.className='newsletter-status';status.textContent='';}
+  if(button){
+    button.disabled=true;
+    button.dataset.qaOriginal=button.textContent;
+    button.textContent=LANG==='en'?'Sending...':LANG==='es'?'Enviando...':'Enviando...';
+  }
+}
+function qaNewsletterSinkLoaded(frame){
+  const form=frame.closest('.newsletter-form');
+  if(!form||form.dataset.qaSubmitted!=='1')return;
+  form.dataset.qaSubmitted='0';
+  const button=form.querySelector('.newsletter-submit');
+  const status=form.querySelector('.newsletter-status');
+  if(button){button.disabled=false;button.textContent=button.dataset.qaOriginal||button.textContent;}
+  if(status){
+    const msg={
+      pt:'📩 Solicitação recebida. Verifique seu e-mail e clique no link de confirmação para concluir sua inscrição.',
+      en:'📩 Request received. Check your email and click the confirmation link to complete your subscription.',
+      es:'📩 Solicitud recibida. Revise su correo y haga clic en el enlace de confirmación para completar su suscripción.'
+    }[LANG];
+    status.className='newsletter-status is-success';
+    status.textContent=msg;
+  }
+  const email=form.querySelector('input[name="EMAIL"]');
+  const name=form.querySelector('input[name="NOME"]');
+  const opt=form.querySelector('input[name="OPT_IN"]');
+  if(email)email.value='';
+  if(name)name.value='';
+  if(opt)opt.checked=false;
+}
 
 function renderHome(){let m=document.getElementById('main');let heroSlides={
 pt:[
