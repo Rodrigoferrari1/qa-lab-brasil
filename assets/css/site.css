@@ -503,3 +503,9 @@ body.qa-sim-active .chatbox{display:none!important}
 .newsletter-status{display:none;margin:2px 0 0;padding:11px 13px;border-radius:10px;font-size:13px;line-height:1.45}
 .newsletter-status.is-success{display:block;color:#155b47;background:#eefaf6;border:1px solid #b9e7d7}
 .newsletter-submit:disabled{opacity:.72;cursor:wait}
+
+/* QA Lab Brasil 3.1.6.2 - mobile footer alignment hotfix */
+@media(max-width:820px){
+  .site-footer-links{justify-content:start;justify-items:start;align-items:start;text-align:left;width:100%}
+  .site-footer-links a,.site-footer-links button{justify-self:start;text-align:left;width:auto;margin:0}
+}
