@@ -993,3 +993,51 @@ const qa325NewsletterSubmit=qaNewsletterSubmit;qaNewsletterSubmit=function(form)
   if(email && !email.checkValidity()){if(status){status.className='newsletter-status is-success';status.textContent=LANG==='en'?'Enter a valid email address.':LANG==='es'?'Ingrese un correo electrónico válido.':'Informe um endereço de e-mail válido.'}email.focus();return false}
   return qa325NewsletterSubmit(form)
 };
+
+/* QA Lab Brasil 3.2.5.2 - mobile destination + assessment focus */
+function qa3252MobileScrollTo(el, extraOffset=8){
+  if(window.innerWidth>820||!el)return;
+  requestAnimationFrame(()=>requestAnimationFrame(()=>{
+    const sticky=document.querySelector('.top');
+    const offset=(sticky?.getBoundingClientRect().height||0)+extraOffset;
+    const y=Math.max(0,window.scrollY+el.getBoundingClientRect().top-offset);
+    window.scrollTo({top:y,behavior:'smooth'});
+  }));
+}
+function qa3252FocusRoute(key){
+  if(window.innerWidth>820||!['simulators','logic-lab'].includes(key))return;
+  /* Render may be async (question banks), so focus both immediately and once
+     more after the async route has settled. */
+  const focus=()=>qa3252MobileScrollTo(document.querySelector('#main .topic-head')||document.getElementById('main'));
+  requestAnimationFrame(()=>requestAnimationFrame(focus));
+  setTimeout(focus,120);
+}
+const qa3252Navigate=qaNavigate;
+qaNavigate=function(key){
+  const out=qa3252Navigate(key);
+  qa3252FocusRoute(key);
+  return out;
+};
+function qa3252AlignAndFocusQuestion(){
+  const card=document.querySelector('.sim-question'),nav=document.querySelector('.sim-nav');
+  if(card&&nav){
+    const r=card.getBoundingClientRect();
+    nav.style.setProperty('left',Math.round(r.left)+'px','important');
+    nav.style.setProperty('right','auto','important');
+    nav.style.setProperty('width',Math.round(r.width)+'px','important');
+  }
+  qa3252MobileScrollTo(document.querySelector('.sim-question-head')||card,6);
+}
+const qa3252CtflRender=ctflRenderQuestion;
+ctflRenderQuestion=function(){
+  qa3252CtflRender();
+  requestAnimationFrame(()=>requestAnimationFrame(qa3252AlignAndFocusQuestion));
+};
+const qa3252LogicRender=logicRenderQuestion;
+logicRenderQuestion=function(){
+  qa3252LogicRender();
+  requestAnimationFrame(()=>requestAnimationFrame(qa3252AlignAndFocusQuestion));
+};
+window.addEventListener('resize',()=>requestAnimationFrame(()=>{
+  if(document.body.classList.contains('qa-sim-active'))qa3252AlignAndFocusQuestion();
+}));
