@@ -504,8 +504,82 @@ body.qa-sim-active .chatbox{display:none!important}
 .newsletter-status.is-success{display:block;color:#155b47;background:#eefaf6;border:1px solid #b9e7d7}
 .newsletter-submit:disabled{opacity:.72;cursor:wait}
 
-/* QA Lab Brasil 3.1.6.2 - mobile footer alignment hotfix */
-@media(max-width:820px){
-  .site-footer-links{justify-content:start;justify-items:start;align-items:start;text-align:left;width:100%}
-  .site-footer-links a,.site-footer-links button{justify-self:start;text-align:left;width:auto;margin:0}
+
+/* QA Lab Brasil 3.2.0 - Logic Lab */
+.logic-lab-promo{margin:18px 0 22px;padding:22px 24px;border:1px solid #cfe3f2;border-radius:18px;background:linear-gradient(135deg,#f7fbff,#eef8ff);box-shadow:0 10px 28px rgba(11,79,156,.06)}
+.logic-lab-promo h2{margin:8px 0 6px;color:#173f70}.logic-lab-promo p{margin:0 0 14px;color:#526b82;line-height:1.6}
+.logic-stats,.logic-result-cards{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:12px;margin:16px 0}.logic-stats>div,.logic-result-cards>div{padding:16px;border:1px solid #d7e7f2;border-radius:14px;background:#f8fcff;text-align:center}.logic-stats strong,.logic-result-cards strong{display:block;font-size:25px;color:#173f70}.logic-stats span,.logic-result-cards span{font-size:12px;color:#60788e}
+.logic-result-cards{grid-template-columns:repeat(3,minmax(0,1fr))}.logic-category-grid{display:grid;grid-template-columns:repeat(5,minmax(0,1fr));gap:10px;margin:18px 0}.logic-category-grid article{padding:14px;border:1px solid #d8e9f5;border-radius:13px;background:#fff}.logic-category-grid b{display:block;color:#173f70;font-size:13px}.logic-category-grid span{font-size:11px;color:#7890a5}
+.logic-q-meta{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:8px}.logic-q-meta span,.logic-q-meta b{font-size:12px;padding:5px 9px;border-radius:999px;background:#eef7fd;color:#175b91}.logic-q-meta b{background:#173f70;color:#fff}.logic-question h2{line-height:1.5}.logic-review-list{display:grid;gap:14px}.logic-review{background:#fff;border:1px solid #d9e5ee;border-left:5px solid #9aaebe;border-radius:14px;padding:18px}.logic-review.ok{border-left-color:#22a06b}.logic-review.bad{border-left-color:#d9534f}.logic-review h3{margin:10px 0;color:#243e57}.logic-review p{margin:6px 0;line-height:1.55}.logic-explain{padding-top:8px;border-top:1px solid #edf2f6;color:#526b82}
+@media(max-width:900px){.logic-category-grid{grid-template-columns:repeat(2,minmax(0,1fr))}.logic-stats{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media(max-width:560px){.logic-stats,.logic-result-cards,.logic-category-grid{grid-template-columns:1fr}.logic-lab-promo{padding:18px}.logic-result-cards>div,.logic-stats>div{text-align:left}.logic-question .sim-nav{gap:8px}.logic-question .sim-nav .btn{font-size:12px;padding:9px 10px}}
+/* 3.1.6.2 mobile footer alignment preserved */
+@media(max-width:820px){.site-footer-links{justify-items:start;text-align:left}.site-footer-links a,.site-footer-links button{justify-self:start;text-align:left;width:auto}}
+
+
+/* QA Lab Brasil 3.2.1 - incremental Logic Lab UI refinements.
+   Preserve the existing footer and responsive structure. */
+.logic-lab-header-btn{border:1px solid #b8d5ef;background:#fff;color:#0b3b6e;border-radius:14px;padding:10px 14px;font-weight:800;white-space:nowrap;cursor:pointer;justify-self:center;min-width:150px}
+.logic-lab-header-btn:hover{background:#eef7ff}
+.home-logic-lab{margin-top:24px}
+
+@media(min-width:1301px){
+  .top{grid-template-columns:minmax(430px,1fr) repeat(4,190px)!important;gap:20px!important;justify-content:space-between!important}
+  .search{width:100%!important;max-width:540px!important}
+  .test-data-header-btn,.simulator-header-btn,.logic-lab-header-btn,.language-picker{width:190px!important;min-width:190px!important}
+  .language-picker-btn{width:100%!important;justify-content:center!important}
 }
+@media(min-width:1001px) and (max-width:1300px){
+  .top{grid-template-columns:minmax(330px,1fr) repeat(4,150px)!important;gap:12px!important}
+  .search{width:100%!important;max-width:none!important}
+  .test-data-header-btn,.simulator-header-btn,.logic-lab-header-btn,.language-picker{width:150px!important;min-width:150px!important}
+  .language-picker-btn{width:100%!important;justify-content:center!important}
+}
+@media(min-width:821px) and (max-width:1000px){
+  .top{grid-template-columns:minmax(280px,1fr) repeat(4,minmax(112px,1fr))!important;gap:10px!important}
+  .search{width:100%!important;max-width:none!important}
+  .test-data-header-btn,.simulator-header-btn,.logic-lab-header-btn,.language-picker{width:100%!important;min-width:0!important}
+  .language-picker-btn{width:100%!important;justify-content:center!important}
+}
+@media(max-width:820px){
+  .top{grid-template-columns:repeat(4,minmax(0,1fr))!important}
+  .search{grid-column:1/-1!important;grid-row:1!important}
+  .test-data-header-btn{grid-column:1!important;grid-row:2!important}
+  .simulator-header-btn{grid-column:2!important;grid-row:2!important}
+  .logic-lab-header-btn{grid-column:3!important;grid-row:2!important;width:100%!important;min-width:0!important;min-height:56px!important;padding:8px 4px!important;white-space:normal!important;line-height:1.08!important}
+  .language-picker{grid-column:4!important;grid-row:2!important;width:100%!important;min-width:0!important}
+  .logic-lab-header-btn span{display:inline!important;font-size:.84rem!important}
+  body.qa-sim-active .sim-nav{bottom:10px!important}
+}
+@media(max-width:430px){
+  .logic-lab-header-btn{font-size:.78rem!important;padding:7px 2px!important}
+  .logic-lab-header-btn span{font-size:.74rem!important}
+}
+
+/* QA Lab Brasil 3.2.3 - scoped final UX refinements */
+.chatbox{display:none;flex-direction:column;max-height:calc(100dvh - 118px)!important;overflow:hidden!important}
+.chatbox.open{display:flex!important}
+.chat-head{display:flex;align-items:center;justify-content:space-between;gap:12px;flex:0 0 auto}
+.chat-controls{display:flex;gap:7px}.chat-controls button{width:32px;height:32px;border:1px solid rgba(255,255,255,.45);border-radius:9px;background:rgba(255,255,255,.12);color:#fff;font-size:21px;line-height:1;cursor:pointer}.chat-controls button:hover,.chat-controls button:focus-visible{background:rgba(255,255,255,.25);outline:2px solid #fff;outline-offset:2px}
+.chat-body{display:flex;flex-direction:column;min-height:0;overflow:hidden}.chat-msg{overflow:auto;min-height:0;max-height:calc(100dvh - 245px);scrollbar-gutter:stable}.chat-input{flex:0 0 auto}
+.sim-option{position:relative}.sim-option:focus-visible,.btn:focus-visible{outline:3px solid #f59e0b!important;outline-offset:2px!important}.sim-option.selected{border-width:2px!important}.qa-selected-mark{margin-left:auto!important;display:grid!important;place-items:center!important;flex:0 0 28px!important;height:28px!important;border-radius:50%!important;background:#174f8d!important;color:#fff!important;font-weight:900!important}.qa-answer-notice{margin:12px 0 4px;padding:10px 13px;border:1px solid #f0c36a;border-radius:10px;background:#fff8df;color:#6f4d00;font-weight:800}
+@media(min-width:821px){
+ body.qa-assessment-page:not(.qa-sim-active) .main{padding-top:18px!important;padding-bottom:10px!important}
+ body.qa-assessment-page:not(.qa-sim-active) .topic-head{padding-top:14px!important;padding-bottom:4px!important}
+ body.qa-assessment-page:not(.qa-sim-active) .topic-section{margin-top:8px!important}
+ body.qa-assessment-page:not(.qa-sim-active) .site-institutional-footer{margin-top:12px!important}
+ body.qa-sim-active .main{padding-top:10px!important;padding-bottom:10px!important}
+ body.qa-sim-active .sim-question-head{padding-top:4px!important;padding-bottom:4px!important}
+ body.qa-sim-active .sim-question{margin-top:8px!important;min-height:0!important;padding-bottom:68px!important}
+ body.qa-sim-active .site-institutional-footer{margin-top:12px!important}
+}
+@media(max-width:820px){.chatbox{max-height:calc(100dvh - 100px)!important}.chat-msg{max-height:calc(100dvh - 225px)!important}.chat-controls button{width:36px;height:36px}}
+
+
+/* QA Lab Brasil 3.2.4 - small approved corrections */
+.qa-answer-notice{display:block!important;position:relative!important;z-index:2!important;min-height:42px;opacity:1;visibility:visible;transform:none!important}
+.go-to-bottom{position:fixed;right:20px;top:92px;width:44px;height:44px;border:1px solid #b7d4eb;border-radius:14px;background:rgba(255,255,255,.94);color:#174f8d;font-size:22px;font-weight:900;box-shadow:0 10px 26px rgba(11,79,156,.15);cursor:pointer;z-index:70;transition:transform .2s ease,box-shadow .2s ease,opacity .18s ease}
+.go-to-bottom:hover{transform:translateY(3px);box-shadow:0 14px 30px rgba(11,79,156,.20)}
+.back-to-top,.go-to-bottom{transition:transform .2s ease,box-shadow .2s ease,opacity .18s ease,visibility .18s ease}
+.qa-nav-hidden{opacity:0!important;visibility:hidden!important;pointer-events:none!important}
+@media(max-width:820px){.go-to-bottom{right:12px;top:126px;width:42px;height:42px}}
