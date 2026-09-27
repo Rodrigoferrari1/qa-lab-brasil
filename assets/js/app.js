@@ -25,7 +25,7 @@ function qaNewsletter(){
   en:{title:'Get QA Lab updates',desc:'Receive new content, tools, practice exams and QA Lab Brasil updates directly in your inbox.',name:'Name',namePh:'What should we call you?',optional:'Optional',email:'Enter your email to receive updates',emailPh:'you@example.com',emailHelp:'Enter a valid email address.',consent:'Consent',consentText:'I want to receive QA Lab Brasil news, new content, tools, practice exams and updates by email.',read:'Please read carefully',privacy:'Your data will be used to send QA Lab Brasil updates. You can unsubscribe at any time.',policy:'Privacy Policy and Brazilian LGPD',policyUrl:'/pdf/en/privacy-policy-brazilian-lgpd-en.pdf',cta:'Send me updates'},
   es:{title:'Reciba novedades de QA Lab',desc:'Reciba nuevos contenidos, herramientas, simuladores y actualizaciones de QA Lab Brasil directamente en su correo electrónico.',name:'Nombre',namePh:'¿Cómo podemos llamarle?',optional:'Opcional',email:'Ingrese su correo para recibir actualizaciones',emailPh:'usted@correo.com',emailHelp:'Ingrese una dirección de correo válida.',consent:'Consentimiento',consentText:'Quiero recibir por correo novedades, nuevos contenidos, herramientas, simuladores y actualizaciones de QA Lab Brasil.',read:'Lea con atención',privacy:'Sus datos se utilizarán para enviar novedades de QA Lab Brasil. Puede cancelar su suscripción en cualquier momento.',policy:'Política de Privacidad y LGPD de Brasil',policyUrl:'/pdf/es/politica-privacidad-lgpd-brasil-es.pdf',cta:'Quiero recibir novedades'}
  }[LANG];
- return `<section class="section newsletter-section" aria-labelledby="newsletterTitle"><div class="newsletter-card"><div class="newsletter-copy"><span class="eyebrow">📬 NEWSLETTER</span><h2 id="newsletterTitle">${c.title}</h2><p>${c.desc}</p><div class="newsletter-trust">🔒 Double opt-in · ${LANG==='pt'?'Privacidade por padrão':LANG==='en'?'Privacy by default':'Privacidad por defecto'}</div></div><form class="newsletter-form" method="POST" target="qaNewsletterSink" onsubmit="qaNewsletterSubmit(this)" action="https://2dcafd0c.sibforms.com/serve/MUIFADOhLwa3vcmIAAN2y-6uGbmQAQtOV1BUVnoxsLGj_5HxtvZwdfhsoPEi0vx1FbToS5Ke8N-epGK6948KAB-PgYimkdoWBkuuCBmY5R_M7le-uXOot9_40JDg0a3BuUmZ5GtPcG4IDCZ9pF3jaY98Lv625yz2a81OpuOT5SuleVDMHpjku_rZw68Kk24oLQfX7WFe4tv0wxrINQ==" data-type="subscription"><label><b>${c.name}</b><input maxlength="200" type="text" name="NOME" autocomplete="name" placeholder="${c.namePh}"><small>${c.optional}</small></label><label><b>${c.email} *</b><input type="email" name="EMAIL" autocomplete="email" placeholder="${c.emailPh}" required><small>${c.emailHelp}</small></label><fieldset><legend>${c.consent} *</legend><label class="newsletter-consent"><input type="checkbox" value="1" name="OPT_IN" required><span>${c.consentText}</span></label><small>${c.read}</small></fieldset><p class="newsletter-privacy">🔒 ${c.privacy}</p><a class="newsletter-policy" href="${c.policyUrl}" target="_blank" rel="noopener">📄 ${c.policy} ↗</a><input type="text" name="email_address_check" value="" class="newsletter-hp" tabindex="-1" autocomplete="off" aria-hidden="true"><input type="hidden" name="locale" value="${LANG}"><input type="hidden" name="html_type" value="simple"><button class="btn primary newsletter-submit" type="submit">${c.cta}</button><div class="newsletter-status" role="status" aria-live="polite"></div><iframe class="newsletter-sink" name="qaNewsletterSink" title="" aria-hidden="true" tabindex="-1" onload="qaNewsletterSinkLoaded(this)"></iframe></form></div></section>`;
+ return `<section class="section newsletter-section" aria-labelledby="newsletterTitle"><div class="newsletter-card"><div class="newsletter-copy"><span class="eyebrow">📬 NEWSLETTER</span><h2 id="newsletterTitle">${c.title}</h2><p>${c.desc}</p><div class="newsletter-trust">🔒 Double opt-in · ${LANG==='pt'?'Privacidade por padrão':LANG==='en'?'Privacy by default':'Privacidad por defecto'}</div></div><form class="newsletter-form" method="POST" target="qaNewsletterSink" onsubmit="return qaNewsletterSubmit(this)" action="https://2dcafd0c.sibforms.com/serve/MUIFADOhLwa3vcmIAAN2y-6uGbmQAQtOV1BUVnoxsLGj_5HxtvZwdfhsoPEi0vx1FbToS5Ke8N-epGK6948KAB-PgYimkdoWBkuuCBmY5R_M7le-uXOot9_40JDg0a3BuUmZ5GtPcG4IDCZ9pF3jaY98Lv625yz2a81OpuOT5SuleVDMHpjku_rZw68Kk24oLQfX7WFe4tv0wxrINQ==" data-type="subscription"><label><b>${c.name}</b><input maxlength="200" type="text" name="NOME" autocomplete="name" placeholder="${c.namePh}"><small>${c.optional}</small></label><label><b>${c.email} *</b><input type="email" name="EMAIL" autocomplete="email" placeholder="${c.emailPh}" required><small>${c.emailHelp}</small></label><fieldset><legend>${c.consent} *</legend><label class="newsletter-consent"><input type="checkbox" value="1" name="OPT_IN" required><span>${c.consentText}</span></label><small>${c.read}</small></fieldset><p class="newsletter-privacy">🔒 ${c.privacy}</p><a class="newsletter-policy" href="${c.policyUrl}" target="_blank" rel="noopener">📄 ${c.policy} ↗</a><input type="text" name="email_address_check" value="" class="newsletter-hp" tabindex="-1" autocomplete="off" aria-hidden="true"><input type="hidden" name="locale" value="${LANG}"><input type="hidden" name="html_type" value="simple"><button class="btn primary newsletter-submit" type="submit">${c.cta}</button><div class="newsletter-status" role="status" aria-live="polite"></div><iframe class="newsletter-sink" name="qaNewsletterSink" title="" aria-hidden="true" tabindex="-1" onload="qaNewsletterSinkLoaded(this)"></iframe></form></div></section>`;
 }
 
 
@@ -946,3 +946,50 @@ function qaUpdateVerticalNav(){
 }
 function qaBindBottomNav(){const down=document.getElementById('goToBottom');if(down)down.onclick=qaScrollToBottom;qaUpdateVerticalNav()}
 window.addEventListener('scroll',qaUpdateVerticalNav,{passive:true});window.addEventListener('resize',qaUpdateVerticalNav);setTimeout(qaBindBottomNav,0);
+
+/* QA Lab Brasil 3.2.5 - production-based final behavior patch */
+function qa325ScrollQuestionIntoView(){
+  const card=document.querySelector('.sim-question'); if(!card)return;
+  requestAnimationFrame(()=>requestAnimationFrame(()=>{
+    const top=document.querySelector('.top');
+    const offset=(window.innerWidth<=820?(top?.getBoundingClientRect().height||0)+8:12);
+    const y=Math.max(0,window.scrollY+card.getBoundingClientRect().top-offset);
+    window.scrollTo({top:y,behavior:'smooth'});
+  }));
+}
+function qa325AlignAssessmentNav(){
+  if(!document.body.classList.contains('qa-sim-active'))return;
+  const card=document.querySelector('.sim-question'),nav=document.querySelector('.sim-nav');
+  if(!card||!nav)return;
+  const r=card.getBoundingClientRect();
+  nav.style.setProperty('left',Math.round(r.left)+'px','important');
+  nav.style.setProperty('right','auto','important');
+  nav.style.setProperty('width',Math.round(r.width)+'px','important');
+}
+qaSimAlignNav=qa325AlignAssessmentNav;
+window.addEventListener('resize',()=>requestAnimationFrame(qa325AlignAssessmentNav));
+const qa325CtflRender=ctflRenderQuestion;ctflRenderQuestion=function(){qa325CtflRender();qa325AlignAssessmentNav();qa325ScrollQuestionIntoView()};
+const qa325LogicRender=logicRenderQuestion;logicRenderQuestion=function(){qa325LogicRender();qa325AlignAssessmentNav();qa325ScrollQuestionIntoView()};
+
+function qa325NormText(v){return String(v||'').normalize('NFD').replace(/[\u0300-\u036f]/g,'').toLowerCase().replace(/[^a-z0-9\s]/g,' ').replace(/\s+/g,' ').trim()}
+function qa325HasOffensive(v){const t=' '+qa325NormText(v)+' ';const terms=[' merda ',' lixo ',' porra ',' caralho ',' bosta ',' vai se fuder ',' vai se foder ',' tomar no cu ',' toma no cu ',' foda se ',' fodase '];return terms.some(x=>t.includes(x))}
+function qa325ValidName(v){const s=String(v||'').trim();return s.length>=2 && /^[A-Za-zÀ-ÖØ-öø-ÿ'’ -]+$/.test(s) && /[A-Za-zÀ-ÖØ-öø-ÿ]/.test(s) && !qa325HasOffensive(s)}
+function qa325OffensiveMessage(){return LANG==='en'?'Content not allowed. Please remove offensive or inappropriate language. Depending on context, offenses against honor may lead to liability under Brazilian law, including Articles 138–140 of the Penal Code.':LANG==='es'?'Contenido no permitido. Reformule el texto y elimine lenguaje ofensivo o inadecuado. Según el contexto, las ofensas al honor pueden generar responsabilidad conforme a la legislación brasileña, incluidos los arts. 138–140 del Código Penal.':'Conteúdo não permitido. Reformule o texto e remova linguagem ofensiva ou inadequada. Dependendo do contexto, ofensas à honra podem gerar responsabilização nos termos da legislação brasileira, inclusive pelos arts. 138–140 do Código Penal.'}
+function qa325NameMessage(){return LANG==='en'?'Enter a valid name using letters, spaces, hyphens or apostrophes only.':LANG==='es'?'Ingrese un nombre válido usando solamente letras, espacios, guiones o apóstrofos.':'Informe um nome válido usando apenas letras, espaços, hífen ou apóstrofo.'}
+submitContact=function(e){
+  e.preventDefault();const form=e.target,status=document.getElementById('contactStatus');
+  const name=form.elements.name?.value||'',email=form.elements.email?.value||'',message=form.elements.message?.value||'',subject=form.elements.subject?.value||'';
+  if(!qa325ValidName(name)){status.textContent=qa325HasOffensive(name)?qa325OffensiveMessage():qa325NameMessage();form.elements.name?.focus();return false}
+  if(!form.elements.email?.checkValidity()){status.textContent=LANG==='en'?'Enter a valid email address.':LANG==='es'?'Ingrese un correo electrónico válido.':'Informe um endereço de e-mail válido.';form.elements.email?.focus();return false}
+  if(qa325HasOffensive(message)){status.textContent=qa325OffensiveMessage();form.elements.message?.focus();return false}
+  if(location.protocol==='file:'){status.textContent=LANG==='en'?'Preview mode: form submission is enabled after Netlify publication.':LANG==='es'?'Modo preview: el envío se habilita después de publicar en Netlify.':'Modo preview: o envio é habilitado após a publicação no Netlify.';return false}
+  const fd=new FormData(form);fd.set('form-name','qa-lab-contact');fd.set('subject',subject);fd.set('category',subject);fd.set('name',name.trim());fd.set('email',email.trim());fd.set('message',message);
+  const body=new URLSearchParams(fd).toString();
+  fetch('/',{method:'POST',headers:{'Content-Type':'application/x-www-form-urlencoded'},body}).then(r=>{if(!r.ok)throw new Error('HTTP '+r.status);status.textContent=LANG==='en'?'Message sent successfully.':LANG==='es'?'Mensaje enviado correctamente.':'Mensagem enviada com sucesso.';qaTrackEvent('contact_submit',{subject});form.reset()}).catch(()=>status.textContent=LANG==='en'?'Could not send the message. Please try again.':LANG==='es'?'No fue posible enviar el mensaje. Inténtelo nuevamente.':'Não foi possível enviar a mensagem. Tente novamente.');return false
+};
+const qa325NewsletterSubmit=qaNewsletterSubmit;qaNewsletterSubmit=function(form){
+  const name=form.querySelector('input[name="NOME"]'),email=form.querySelector('input[name="EMAIL"]'),status=form.querySelector('.newsletter-status');
+  if(name?.value.trim() && !qa325ValidName(name.value)){if(status){status.className='newsletter-status is-success';status.textContent=qa325HasOffensive(name.value)?qa325OffensiveMessage():qa325NameMessage()}name.focus();return false}
+  if(email && !email.checkValidity()){if(status){status.className='newsletter-status is-success';status.textContent=LANG==='en'?'Enter a valid email address.':LANG==='es'?'Ingrese un correo electrónico válido.':'Informe um endereço de e-mail válido.'}email.focus();return false}
+  return qa325NewsletterSubmit(form)
+};
