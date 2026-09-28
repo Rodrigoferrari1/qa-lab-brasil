@@ -1041,3 +1041,194 @@ logicRenderQuestion=function(){
 window.addEventListener('resize',()=>requestAnimationFrame(()=>{
   if(document.body.classList.contains('qa-sim-active'))qa3252AlignAndFocusQuestion();
 }));
+
+/* QA Lab Brasil 3.2.5.3-A - WEB assessment nav alignment only */
+function qa3253aAlignWebAssessmentNav(){
+  if(!document.body.classList.contains('qa-sim-active') || window.innerWidth<=820)return;
+  const nav=document.querySelector('.sim-nav');
+  const answers=document.querySelector('.sim-question .sim-options');
+  if(!nav||!answers)return;
+  const r=answers.getBoundingClientRect();
+  nav.style.setProperty('left',Math.round(r.left)+'px','important');
+  nav.style.setProperty('right','auto','important');
+  nav.style.setProperty('width',Math.round(r.width)+'px','important');
+}
+const qa3253aPreviousAlign=qaSimAlignNav;
+qaSimAlignNav=function(){
+  if(window.innerWidth>820){qa3253aAlignWebAssessmentNav();return;}
+  if(typeof qa3253aPreviousAlign==='function')qa3253aPreviousAlign();
+};
+window.addEventListener('resize',()=>requestAnimationFrame(qa3253aAlignWebAssessmentNav));
+const qa3253aCtflRender=ctflRenderQuestion;
+ctflRenderQuestion=function(){
+  qa3253aCtflRender();
+  requestAnimationFrame(()=>requestAnimationFrame(qa3253aAlignWebAssessmentNav));
+};
+const qa3253aLogicRender=logicRenderQuestion;
+logicRenderQuestion=function(){
+  qa3253aLogicRender();
+  requestAnimationFrame(()=>requestAnimationFrame(qa3253aAlignWebAssessmentNav));
+};
+
+/* QA Lab Brasil 3.2.5.3-E - desktop assessment nav bottom breathing room.
+   Preserve 3.2.5.3-A horizontal alignment; only keep a small white strip
+   BELOW the nav before the page/footer background. Mobile is untouched. */
+qaUpdateSimNavFooterClearance=function(){
+  if(!document.body.classList.contains('qa-sim-active'))return;
+  const nav=document.querySelector('.sim-nav'),footer=document.getElementById('siteInstitutionalFooter');
+  if(!nav||!footer)return;
+  const mobile=window.innerWidth<=820;
+  const base=mobile?10:28;
+  const overlap=Math.max(0,window.innerHeight-footer.getBoundingClientRect().top);
+  nav.style.setProperty('bottom',`${Math.round(base+overlap+(overlap?10:0))}px`,'important');
+};
+
+/* QA Lab Brasil 3.2.5.3-G - MOBILE assessment nav horizontal parity.
+   Match the approved WEB rule: navigation outer edges follow the answer block
+   (.sim-options), not the wider outer question card. */
+function qa3253gAlignMobileAssessmentNav(){
+  if(!document.body.classList.contains('qa-sim-active') || window.innerWidth>820)return;
+  const nav=document.querySelector('.sim-nav');
+  const answers=document.querySelector('.sim-question .sim-options');
+  if(!nav||!answers)return;
+  const r=answers.getBoundingClientRect();
+  nav.style.setProperty('left',Math.round(r.left)+'px','important');
+  nav.style.setProperty('right','auto','important');
+  nav.style.setProperty('width',Math.round(r.width)+'px','important');
+}
+const qa3253gPreviousAlign=qaSimAlignNav;
+qaSimAlignNav=function(){
+  if(window.innerWidth<=820){qa3253gAlignMobileAssessmentNav();return;}
+  if(typeof qa3253gPreviousAlign==='function')qa3253gPreviousAlign();
+};
+window.addEventListener('resize',()=>requestAnimationFrame(qa3253gAlignMobileAssessmentNav));
+const qa3253gCtflRender=ctflRenderQuestion;
+ctflRenderQuestion=function(){
+  qa3253gCtflRender();
+  requestAnimationFrame(()=>requestAnimationFrame(qa3253gAlignMobileAssessmentNav));
+};
+const qa3253gLogicRender=logicRenderQuestion;
+logicRenderQuestion=function(){
+  qa3253gLogicRender();
+  requestAnimationFrame(()=>requestAnimationFrame(qa3253gAlignMobileAssessmentNav));
+};
+
+/* QA Lab Brasil 3.2.5.4 - final scoped production hotfix
+   Scope: mobile assessment safety/context, mobile Test Data focus, mobile back-to-top
+   footer clearance, contact category normalization, and broader offensive-language validation. */
+function qa3254NormalizeLooseText(value){
+  return String(value||'')
+    .normalize('NFD').replace(/[\u0300-\u036f]/g,'')
+    .toLowerCase()
+    .replace(/[@4]/g,'a').replace(/[3]/g,'e').replace(/[1!|]/g,'i').replace(/[0]/g,'o').replace(/[$5]/g,'s')
+    .replace(/(.)\1{2,}/g,'$1$1')
+    .replace(/[^a-z0-9\s]/g,' ')
+    .replace(/\s+/g,' ')
+    .trim();
+}
+function qa3254HasOffensive(value){
+  const t=qa3254NormalizeLooseText(value);
+  if(!t)return false;
+  const patterns=[
+    /\bmerd+a\b/,/\bporr+a\b/,/\bcaralh+o\b/,/\bbost+a\b/,
+    /\barrombad[oa]s?\b/,/\bidiot+a?s?\b/,/\bimbecil\w*\b/,
+    /\bfilh[oa]\s+d[ae]\s+put+a\b/,/\bput+a\b/,
+    /\b(vai|va)\s+se\s+fud(er|a|endo)\b/,/\b(vai|va)\s+se\s+fod(er|a|endo)\b/,
+    /\b(tomar?|toma|vai\s+tomar)\s+(no|nu)\s+cu\b/,
+    /\bfod+a\s*se\b/,/\bfud+a\s*se\b/
+  ];
+  return patterns.some(re=>re.test(t));
+}
+/* Replace the earlier limited detector without changing the approved validation messages. */
+qa325HasOffensive=qa3254HasOffensive;
+
+function qa3254CanonicalContactSubject(raw){
+  const s=qa3254NormalizeLooseText(raw);
+  if(/report/.test(s) && /(problem|problema)/.test(s))return 'Reportar problema';
+  if(/parceria|partnership|colaboracion|colaboracao|professional contact|contato profissional|contacto profesional/.test(s))return 'Parceria';
+  if(/sugest|suggest/.test(s))return 'Sugestão';
+  if(/feedback/.test(s))return 'Feedback';
+  if(/duvida|question|duda/.test(s))return 'Dúvida';
+  return String(raw||'').trim();
+}
+/* Keep the same validated UI, but send stable simple category values to Netlify for all languages. */
+submitContact=function(e){
+  e.preventDefault();
+  const form=e.target,status=document.getElementById('contactStatus');
+  const name=form.elements.name?.value||'',email=form.elements.email?.value||'',message=form.elements.message?.value||'';
+  const displayedSubject=form.elements.subject?.value||'',subject=qa3254CanonicalContactSubject(displayedSubject);
+  if(!qa325ValidName(name)){status.textContent=qa325HasOffensive(name)?qa325OffensiveMessage():qa325NameMessage();form.elements.name?.focus();return false}
+  if(!form.elements.email?.checkValidity()){status.textContent=LANG==='en'?'Enter a valid email address.':LANG==='es'?'Ingrese un correo electrónico válido.':'Informe um endereço de e-mail válido.';form.elements.email?.focus();return false}
+  if(qa325HasOffensive(message)){status.textContent=qa325OffensiveMessage();form.elements.message?.focus();return false}
+  if(location.protocol==='file:'){status.textContent=LANG==='en'?'Preview mode: form submission is enabled after Netlify publication.':LANG==='es'?'Modo preview: el envío se habilita después de publicar en Netlify.':'Modo preview: o envio é habilitado após a publicação no Netlify.';return false}
+  const fd=new FormData(form);
+  fd.set('form-name','qa-lab-contact');
+  fd.set('subject',subject);fd.set('category',subject);
+  fd.set('name',name.trim());fd.set('email',email.trim());fd.set('message',message);
+  fd.set('displayed-subject',displayedSubject);
+  const body=new URLSearchParams(fd).toString();
+  fetch('/',{method:'POST',headers:{'Content-Type':'application/x-www-form-urlencoded'},body}).then(r=>{
+    if(!r.ok)throw new Error('HTTP '+r.status);
+    status.textContent=LANG==='en'?'Message sent successfully.':LANG==='es'?'Mensaje enviado correctamente.':'Mensagem enviada com sucesso.';
+    qaTrackEvent('contact_submit',{subject});form.reset();
+  }).catch(()=>status.textContent=LANG==='en'?'Could not send the message. Please try again.':LANG==='es'?'No fue posible enviar el mensaje. Inténtelo nuevamente.':'Não foi possível enviar a mensagem. Tente novamente.');
+  return false;
+};
+
+function qa3254MobileFocusDestination(key){
+  if(window.innerWidth>820)return;
+  if(!['simulators','logic-lab','test-data-generator'].includes(key))return;
+  const focus=()=>{
+    const main=document.getElementById('main');
+    const target=main?.querySelector('.sim-question-head,.topic-head,.tool-head,.test-data-head,h1')||main;
+    if(!target)return;
+    const top=document.querySelector('.top');
+    const offset=(top?.getBoundingClientRect().height||0)+8;
+    const y=Math.max(0,window.scrollY+target.getBoundingClientRect().top-offset);
+    window.scrollTo({top:y,behavior:'smooth'});
+  };
+  requestAnimationFrame(()=>requestAnimationFrame(focus));
+  setTimeout(focus,140);
+}
+const qa3254Navigate=qaNavigate;
+qaNavigate=function(key){
+  const out=qa3254Navigate(key);
+  qa3254MobileFocusDestination(key);
+  return out;
+};
+
+function qa3254AssessmentMetrics(){
+  if(window.innerWidth>820||!document.body.classList.contains('qa-sim-active'))return;
+  const card=document.querySelector('.sim-question'),answers=card?.querySelector('.sim-options'),nav=document.querySelector('.sim-nav');
+  if(!card||!nav)return;
+  /* Keep the approved G horizontal parity. */
+  if(answers){const r=answers.getBoundingClientRect();nav.style.setProperty('left',Math.round(r.left)+'px','important');nav.style.setProperty('right','auto','important');nav.style.setProperty('width',Math.round(r.width)+'px','important')}
+  /* Reserve actual nav height plus a safe white gap so long CTFL questions never sit behind it. */
+  const reserve=Math.ceil(nav.getBoundingClientRect().height)+42;
+  card.style.setProperty('padding-bottom',reserve+'px','important');
+}
+function qa3254AssessmentNavVisibility(){
+  if(window.innerWidth>820)return;
+  const nav=document.querySelector('.sim-nav'),card=document.querySelector('.sim-question');
+  if(!nav||!card)return;
+  const r=card.getBoundingClientRect();
+  const visible=r.bottom>90 && r.top<window.innerHeight-28;
+  nav.classList.toggle('qa-assessment-nav-outside',!visible);
+}
+function qa3254BackToTopFooterClearance(){
+  if(window.innerWidth>820)return;
+  const up=document.getElementById('backToTop'),footer=document.getElementById('siteInstitutionalFooter');
+  if(!up||!footer)return;
+  const fr=footer.getBoundingClientRect();
+  const overlap=Math.max(0,window.innerHeight-fr.top);
+  const safe=12;
+  up.style.setProperty('bottom',(overlap>0?Math.ceil(overlap+safe):safe)+'px','important');
+}
+function qa3254MobileRefresh(){qa3254AssessmentMetrics();qa3254AssessmentNavVisibility();qa3254BackToTopFooterClearance()}
+window.addEventListener('scroll',qa3254MobileRefresh,{passive:true});
+window.addEventListener('resize',()=>requestAnimationFrame(qa3254MobileRefresh));
+const qa3254CtflRender=ctflRenderQuestion;
+ctflRenderQuestion=function(){qa3254CtflRender();requestAnimationFrame(()=>requestAnimationFrame(()=>{qa3254MobileRefresh();qa3252MobileScrollTo(document.querySelector('.sim-question-head')||document.querySelector('.sim-question'),6)}))};
+const qa3254LogicRender=logicRenderQuestion;
+logicRenderQuestion=function(){qa3254LogicRender();requestAnimationFrame(()=>requestAnimationFrame(()=>{qa3254MobileRefresh();qa3252MobileScrollTo(document.querySelector('.sim-question-head')||document.querySelector('.sim-question'),6)}))};
+setTimeout(qa3254MobileRefresh,80);
