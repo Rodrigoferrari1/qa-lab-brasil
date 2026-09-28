@@ -764,3 +764,20 @@ html[lang="es"] #testDataHeaderBtn span{font-size:.88em!important}
   .site-institutional-footer{margin-top:58px!important}
   .site-footer-inner{padding-top:20px!important;padding-bottom:18px!important}
 }
+
+/* QA Lab AI & Quality Engineering expansion — additive only */
+.ai-principle{margin:0 0 22px;padding:20px 22px;border-radius:18px;background:linear-gradient(135deg,#f5f3ff,#eff6ff);border:1px solid #ddd6fe;display:flex;flex-direction:column;gap:8px;color:#312e81}.ai-principle b{font-size:1.05rem}.ai-principle span{line-height:1.65;color:#475569}.ai-hub-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:16px}.ai-hub-card{appearance:none;text-align:left;border:1px solid #dbe4f0;background:#fff;border-radius:18px;padding:20px;display:grid;grid-template-columns:auto 1fr;grid-template-areas:'icon title' 'icon desc' 'icon cta';column-gap:14px;row-gap:6px;cursor:pointer;box-shadow:0 10px 24px rgba(15,23,42,.06);transition:.18s ease;color:inherit}.ai-hub-card:hover{transform:translateY(-2px);border-color:#93c5fd;box-shadow:0 14px 30px rgba(15,23,42,.1)}.ai-hub-icon{grid-area:icon;font-size:1.8rem}.ai-hub-card b{grid-area:title;font-size:1.02rem;color:#0f172a}.ai-hub-card>span:not(.ai-hub-icon){grid-area:desc;color:#475569;line-height:1.5}.ai-hub-card em{grid-area:cta;color:#2563eb;font-style:normal;font-weight:800;font-size:.9rem}.prompt-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:18px;margin:18px 0 24px}.prompt-card{background:#fff;border:1px solid #dbe4f0;border-radius:18px;padding:20px;box-shadow:0 10px 24px rgba(15,23,42,.06)}.prompt-card h2{font-size:1.08rem;margin:10px 0}.prompt-card pre,.prompt-builder-output pre{white-space:pre-wrap;font-family:inherit;line-height:1.6;background:#f8fafc;border:1px solid #e2e8f0;border-radius:12px;padding:14px;color:#334155}.prompt-card small{display:block;margin-top:12px;color:#64748b;line-height:1.45}.prompt-builder{background:#fff;border:1px solid #dbe4f0;border-radius:20px;padding:22px;display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:16px;box-shadow:0 10px 24px rgba(15,23,42,.06);margin-bottom:22px}.prompt-builder label{display:flex;flex-direction:column;gap:7px;color:#334155}.prompt-builder select{width:100%;border:1px solid #cbd5e1;border-radius:10px;padding:11px 12px;background:#fff;color:#0f172a}.prompt-builder>.btn{grid-column:1/-1;justify-self:start}.prompt-builder-output{display:none;grid-column:1/-1}.prompt-builder-output.show{display:block}.prompt-builder-output .btn{margin-top:10px}
+@media(max-width:820px){.ai-hub-grid,.prompt-grid,.prompt-builder{grid-template-columns:1fr}.ai-hub-card{padding:16px}.ai-principle{padding:17px}.prompt-builder>.btn{width:100%;justify-content:center}}
+
+/* QA Lab Brasil 3.3.2 - AI content MOBILE alignment hotfix only.
+   Desktop/web remains untouched. On phones, the level selector belongs to the
+   normal document flow so it cannot cover AI content while scrolling. */
+@media(max-width:820px){
+  body.qa-ai-mobile-page .level-filter-sticky{
+    position:static!important;
+    top:auto!important;
+    z-index:auto!important;
+    margin:8px 0 14px!important;
+  }
+  body.qa-ai-mobile-page .topic-section[data-level]{scroll-margin-top:12px!important}
+}

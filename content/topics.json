@@ -3031,14 +3031,49 @@
         [
           "Boas práticas",
           "Priorize cenários de maior impacto, mantenha dados e ambiente controlados, registre decisões importantes e revise periodicamente a abordagem para evitar cobertura redundante ou desatualizada."
+        ],
+        [
+          "Conhecimento técnico + IA",
+          "A IA pode gerar uma resposta em segundos. O conhecimento técnico permite avaliar se essa resposta é coerente. Em QA, use a IA como acelerador: questione premissas, revise código, confronte requisitos e confirme resultados com evidências."
+        ],
+        [
+          "Context Engineering",
+          "Além do prompt, bons resultados dependem do contexto: requisitos, regras de negócio, exemplos, restrições, arquivos, histórico e formato esperado. Quanto melhor o contexto, menor a chance de uma resposta genérica ou inadequada."
+        ],
+        [
+          "Privacidade, LGPD e dados corporativos",
+          "Não envie indiscriminadamente credenciais, tokens, dados pessoais, código confidencial, documentos internos ou informações de clientes. Conheça a política da ferramenta e as regras da sua organização antes de usar dados reais."
+        ],
+        [
+          "Roadmap QA + IA",
+          "Uma evolução possível é: fundamentos de QA → APIs e automação → fundamentos de IA → Prompt/Context Engineering → IA aplicada a QA → avaliação de LLMs/RAG → agentes e Testing AI Systems. Não é necessário aprender tudo ao mesmo tempo."
         ]
       ],
       "qa_tip": "Nunca envie credenciais, dados pessoais, código confidencial ou informações de clientes a serviços de IA sem autorização e controles adequados.",
       "insights": [
+        {
+          "why": "Modelos generativos aprendem padrões estatísticos em grandes volumes de dados. Um LLM não consulta automaticamente uma fonte verdadeira a cada resposta: ele prevê sequências plausíveis de tokens.",
+          "apply": "Em QA, use essa distinção para decidir quando uma resposta pode servir como brainstorming e quando precisa ser confrontada com requisito, documentação ou evidência.",
+          "good": "Peça ao modelo para separar fatos fornecidos, inferências e dúvidas. Isso facilita a revisão humana.",
+          "caution": "Fluência não é garantia de factualidade. Uma resposta segura e bem escrita ainda pode estar errada."
+        },
         {},
         {},
         {},
         {},
+        {},
+        {
+          "why": "Conhecimento técnico muda a relação com a IA: você deixa de apenas consumir respostas e passa a avaliá-las.",
+          "apply": "Compare sugestões da IA com documentação, comportamento real do sistema, logs, contratos de API e critérios de aceite.",
+          "good": "Use IA para acelerar análise e produção, mas mantenha decisões de qualidade apoiadas por evidências.",
+          "caution": "Terceirizar o julgamento técnico para a IA aumenta o risco de aceitar código frágil, premissas inventadas ou cobertura incompleta."
+        },
+        {
+          "why": "Context Engineering organiza tudo que o modelo recebe: instruções, regras, exemplos, arquivos, histórico e ferramentas. Em tarefas complexas, isso costuma importar mais do que procurar uma frase de prompt perfeita.",
+          "apply": "Para analisar uma Story, forneça a Story, critérios, regras relevantes, exemplos e o formato esperado. Para código, inclua stack, convenções e restrições.",
+          "good": "Forneça apenas contexto relevante e identifique claramente qual fonte tem prioridade quando houver conflito.",
+          "caution": "Contexto demais também pode atrapalhar: documentos desatualizados ou contraditórios podem induzir respostas ruins."
+        },
         {},
         {}
       ]
@@ -3070,14 +3105,49 @@
         [
           "Good practices",
           "Prioritize high-impact scenarios, keep data and environments controlled, record important decisions and review the approach periodically to avoid redundant or outdated coverage."
+        ],
+        [
+          "Technical knowledge + AI",
+          "AI can produce an answer in seconds. Technical knowledge lets you judge whether that answer is coherent. In QA, use AI as an accelerator: challenge assumptions, review code, compare against requirements and confirm outcomes with evidence."
+        ],
+        [
+          "Context Engineering",
+          "Good results depend on more than the prompt: requirements, business rules, examples, constraints, files, history and the expected output format all matter. Better context reduces generic or unsuitable answers."
+        ],
+        [
+          "Privacy, data protection and corporate data",
+          "Do not indiscriminately send credentials, tokens, personal data, confidential code, internal documents or customer information. Check the tool policy and your organization rules before using real data."
+        ],
+        [
+          "QA + AI roadmap",
+          "One possible path is: QA fundamentals → APIs and automation → AI fundamentals → Prompt/Context Engineering → AI for QA → LLM/RAG evaluation → agents and Testing AI Systems. You do not need to learn everything at once."
         ]
       ],
       "qa_tip": "Never send credentials, personal data, confidential code or client information to AI services without proper authorization and controls.",
       "insights": [
+        {
+          "why": "Generative models learn statistical patterns from large volumes of data. An LLM does not automatically consult a true source for every answer: it predicts plausible token sequences.",
+          "apply": "In QA, use this distinction to decide when an answer is useful for brainstorming and when it must be checked against requirements, documentation or evidence.",
+          "good": "Ask the model to separate provided facts, inferences and open questions. This makes human review easier.",
+          "caution": "Fluency is not a guarantee of factuality. A confident, well-written answer can still be wrong."
+        },
         {},
         {},
         {},
         {},
+        {},
+        {
+          "why": "Technical knowledge changes your relationship with AI: you stop merely consuming answers and start evaluating them.",
+          "apply": "Compare AI suggestions with documentation, actual system behavior, logs, API contracts and acceptance criteria.",
+          "good": "Use AI to accelerate analysis and production, while keeping quality decisions grounded in evidence.",
+          "caution": "Outsourcing technical judgment to AI increases the risk of accepting fragile code, invented assumptions or incomplete coverage."
+        },
+        {
+          "why": "Context Engineering organizes everything the model receives: instructions, rules, examples, files, history and tools. In complex tasks, this often matters more than finding a perfect prompt sentence.",
+          "apply": "For Story analysis, provide the Story, criteria, relevant rules, examples and expected format. For code, include stack, conventions and constraints.",
+          "good": "Provide only relevant context and clearly state which source has priority when sources conflict.",
+          "caution": "Too much context can also hurt: outdated or contradictory documents may lead to poor answers."
+        },
         {},
         {}
       ]
@@ -3109,14 +3179,49 @@
         [
           "Buenas prácticas",
           "Priorice escenarios de mayor impacto, mantenga datos y ambientes controlados, registre decisiones importantes y revise periódicamente el enfoque para evitar cobertura redundante o desactualizada."
+        ],
+        [
+          "Conocimiento técnico + IA",
+          "La IA puede generar una respuesta en segundos. El conocimiento técnico permite evaluar si esa respuesta es coherente. En QA, use la IA como acelerador: cuestione premisas, revise código, compare con requisitos y confirme resultados con evidencias."
+        ],
+        [
+          "Context Engineering",
+          "Los buenos resultados dependen de algo más que el prompt: requisitos, reglas de negocio, ejemplos, restricciones, archivos, historial y formato esperado. Un mejor contexto reduce respuestas genéricas o inadecuadas."
+        ],
+        [
+          "Privacidad, protección de datos y datos corporativos",
+          "No envíe indiscriminadamente credenciales, tokens, datos personales, código confidencial, documentos internos o información de clientes. Revise la política de la herramienta y las reglas de su organización antes de usar datos reales."
+        ],
+        [
+          "Roadmap QA + IA",
+          "Una ruta posible es: fundamentos de QA → APIs y automatización → fundamentos de IA → Prompt/Context Engineering → IA aplicada a QA → evaluación de LLM/RAG → agentes y Testing AI Systems. No necesita aprender todo al mismo tiempo."
         ]
       ],
       "qa_tip": "Nunca envíe credenciales, datos personales, código confidencial o información de clientes a servicios de IA sin autorización y controles adecuados.",
       "insights": [
+        {
+          "why": "Los modelos generativos aprenden patrones estadísticos en grandes volúmenes de datos. Un LLM no consulta automáticamente una fuente verdadera en cada respuesta: predice secuencias plausibles de tokens.",
+          "apply": "En QA, use esta diferencia para decidir cuándo una respuesta sirve para brainstorming y cuándo debe contrastarse con requisitos, documentación o evidencias.",
+          "good": "Pida al modelo que separe hechos proporcionados, inferencias y dudas abiertas. Esto facilita la revisión humana.",
+          "caution": "La fluidez no garantiza factualidad. Una respuesta segura y bien redactada también puede estar equivocada."
+        },
         {},
         {},
         {},
         {},
+        {},
+        {
+          "why": "El conocimiento técnico cambia su relación con la IA: deja de consumir respuestas y comienza a evaluarlas.",
+          "apply": "Compare las sugerencias de IA con documentación, comportamiento real del sistema, logs, contratos de API y criterios de aceptación.",
+          "good": "Use IA para acelerar análisis y producción, manteniendo las decisiones de calidad basadas en evidencias.",
+          "caution": "Delegar el juicio técnico a la IA aumenta el riesgo de aceptar código frágil, premisas inventadas o cobertura incompleta."
+        },
+        {
+          "why": "Context Engineering organiza todo lo que recibe el modelo: instrucciones, reglas, ejemplos, archivos, historial y herramientas. En tareas complejas suele importar más que buscar una frase de prompt perfecta.",
+          "apply": "Para analizar una Story, proporcione la Story, criterios, reglas relevantes, ejemplos y formato esperado. Para código, incluya stack, convenciones y restricciones.",
+          "good": "Proporcione solo contexto relevante e indique claramente qué fuente tiene prioridad cuando exista conflicto.",
+          "caution": "Demasiado contexto también puede perjudicar: documentos desactualizados o contradictorios pueden inducir malas respuestas."
+        },
         {},
         {}
       ]
@@ -3160,8 +3265,18 @@
       ],
       "qa_tip": "Em IA, “expected result” muitas vezes precisa ser um critério avaliável, não uma frase exata.",
       "insights": [
-        {},
-        {},
+        {
+          "why": "Sistemas generativos podem responder de formas diferentes sem que uma das respostas esteja necessariamente errada. Por isso, muitos testes precisam avaliar propriedades e critérios, não igualdade textual exata.",
+          "apply": "Crie um dataset representativo e uma rubrica: correto, relevante, seguro, fundamentado e dentro do formato esperado.",
+          "good": "Separe casos determinísticos dos casos que exigem avaliação semântica ou tolerância.",
+          "caution": "Uma única execução não mede estabilidade. Repita amostras quando a variabilidade fizer parte do risco."
+        },
+        {
+          "why": "Em RAG, a qualidade depende tanto da recuperação quanto da geração. Uma resposta pode ser bem escrita e ainda estar baseada no documento errado ou ignorar a fonte correta.",
+          "apply": "Teste perguntas com resposta presente, ausente, ambígua e contraditória nas fontes. Verifique também as citações quando existirem.",
+          "good": "Avalie recuperação, groundedness e resposta final separadamente para localizar a origem da falha.",
+          "caution": "Não considere uma resposta correta se ela chegou ao resultado usando uma fonte não autorizada ou contexto indevido."
+        },
         {},
         {},
         {},
@@ -3199,8 +3314,18 @@
       ],
       "qa_tip": "In AI, the expected result often needs to be an evaluable criterion rather than an exact sentence.",
       "insights": [
-        {},
-        {},
+        {
+          "why": "Generative systems can answer differently without either answer necessarily being wrong. Many tests therefore evaluate properties and criteria rather than exact text equality.",
+          "apply": "Build a representative dataset and rubric: correct, relevant, safe, grounded and in the expected format.",
+          "good": "Separate deterministic cases from cases requiring semantic evaluation or tolerance.",
+          "caution": "A single run does not measure stability. Repeat samples when variability is part of the risk."
+        },
+        {
+          "why": "In RAG, quality depends on both retrieval and generation. An answer can be well written while relying on the wrong document or ignoring the correct source.",
+          "apply": "Test questions with answers present, absent, ambiguous and contradictory across sources. Also verify citations when available.",
+          "good": "Evaluate retrieval, groundedness and final answer separately to locate the source of failure.",
+          "caution": "Do not consider an answer correct if it reached the result using an unauthorized source or improper context."
+        },
         {},
         {},
         {},
@@ -3238,8 +3363,18 @@
       ],
       "qa_tip": "En IA, el expected result muchas veces debe ser un criterio evaluable, no una frase exacta.",
       "insights": [
-        {},
-        {},
+        {
+          "why": "Los sistemas generativos pueden responder de forma diferente sin que una respuesta sea necesariamente incorrecta. Por eso muchas pruebas evalúan propiedades y criterios, no igualdad textual exacta.",
+          "apply": "Cree un dataset representativo y una rúbrica: correcto, relevante, seguro, fundamentado y con el formato esperado.",
+          "good": "Separe casos determinísticos de los que requieren evaluación semántica o tolerancia.",
+          "caution": "Una sola ejecución no mide estabilidad. Repita muestras cuando la variabilidad sea parte del riesgo."
+        },
+        {
+          "why": "En RAG, la calidad depende tanto de la recuperación como de la generación. Una respuesta puede estar bien escrita y basarse en el documento equivocado o ignorar la fuente correcta.",
+          "apply": "Pruebe preguntas con respuesta presente, ausente, ambigua y contradictoria entre fuentes. Verifique también las citas cuando existan.",
+          "good": "Evalúe recuperación, groundedness y respuesta final por separado para localizar el origen del fallo.",
+          "caution": "No considere correcta una respuesta si llegó al resultado usando una fuente no autorizada o contexto indebido."
+        },
         {},
         {},
         {},
@@ -35867,6 +36002,2166 @@
       "qa_tip": "El reporte debe reducir el tiempo para comprender una falla.",
       "insights": [
         {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    }
+  },
+  "ai-roadmap": {
+    "_meta": {
+      "icon": "🗺️",
+      "color": "#7c3aed",
+      "group": "future",
+      "official": null
+    },
+    "pt": {
+      "title": "Roadmap QA + IA",
+      "subtitle": "Uma trilha progressiva para aprender IA sem abandonar os fundamentos de Quality Engineering.",
+      "sections": [
+        [
+          "1. Fundamentos",
+          "Comece por QA, risco, técnicas de teste, APIs, dados e automação. Esses conhecimentos são a base para avaliar criticamente o que uma IA produz."
+        ],
+        [
+          "2. Fundamentos de IA",
+          "Entenda IA generativa, LLMs, tokens, contexto, alucinações, não determinismo e limitações. O objetivo inicial é compreender o comportamento, não decorar nomes de modelos."
+        ],
+        [
+          "3. Prompt e Context Engineering",
+          "Aprenda a definir papel, contexto, tarefa, critérios, restrições e formato de saída. Depois evolua para fornecer documentos, exemplos, histórico e regras de negócio relevantes."
+        ],
+        [
+          "4. IA aplicada a QA",
+          "Use IA em análise de requisitos, desenho de testes, bugs, API, SQL, automação, logs, evidências e relatórios, sempre com revisão humana."
+        ],
+        [
+          "5. Testing AI Systems",
+          "Avance para LLMs, RAG, agentes, groundedness, factualidade, segurança, prompt injection, bias, evals, custo e performance."
+        ],
+        [
+          "6. Evolução contínua",
+          "Ferramentas mudam rapidamente. Mantenha os conceitos transferíveis: contexto, pensamento crítico, privacidade, avaliação e evidência."
+        ]
+      ],
+      "qa_tip": "Não pule os fundamentos técnicos: eles são justamente o que permite filtrar respostas incorretas da IA.",
+      "insights": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    "en": {
+      "title": "QA + AI Roadmap",
+      "subtitle": "A progressive path to learn AI without abandoning Quality Engineering fundamentals.",
+      "sections": [
+        [
+          "1. Fundamentals",
+          "Start with QA, risk, test design, APIs, data and automation. These skills are the basis for critically evaluating AI output."
+        ],
+        [
+          "2. AI fundamentals",
+          "Understand generative AI, LLMs, tokens, context, hallucinations, non-determinism and limitations."
+        ],
+        [
+          "3. Prompt and Context Engineering",
+          "Define role, context, task, criteria, constraints and output format, then add relevant documents, examples and business rules."
+        ],
+        [
+          "4. AI for QA",
+          "Apply AI to requirements, tests, bugs, APIs, SQL, automation, logs, evidence and reporting with human review."
+        ],
+        [
+          "5. Testing AI Systems",
+          "Move into LLMs, RAG, agents, groundedness, factuality, security, prompt injection, bias, evals, cost and performance."
+        ],
+        [
+          "6. Continuous evolution",
+          "Tools change quickly. Keep transferable concepts: context, critical thinking, privacy, evaluation and evidence."
+        ]
+      ],
+      "qa_tip": "Do not skip technical fundamentals: they are what let you filter incorrect AI output.",
+      "insights": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    "es": {
+      "title": "Roadmap QA + IA",
+      "subtitle": "Una ruta progresiva para aprender IA sin abandonar los fundamentos de Quality Engineering.",
+      "sections": [
+        [
+          "1. Fundamentos",
+          "Comience por QA, riesgo, técnicas de prueba, APIs, datos y automatización."
+        ],
+        [
+          "2. Fundamentos de IA",
+          "Comprenda IA generativa, LLMs, tokens, contexto, alucinaciones, no determinismo y limitaciones."
+        ],
+        [
+          "3. Prompt y Context Engineering",
+          "Defina rol, contexto, tarea, criterios, restricciones y formato; luego agregue documentos, ejemplos y reglas relevantes."
+        ],
+        [
+          "4. IA aplicada a QA",
+          "Use IA en requisitos, pruebas, bugs, API, SQL, automatización, logs, evidencias e informes con revisión humana."
+        ],
+        [
+          "5. Testing AI Systems",
+          "Avance a LLMs, RAG, agentes, groundedness, factualidad, seguridad, prompt injection, bias, evals, costo y performance."
+        ],
+        [
+          "6. Evolución continua",
+          "Las herramientas cambian rápido. Mantenga conceptos transferibles: contexto, pensamiento crítico, privacidad, evaluación y evidencia."
+        ]
+      ],
+      "qa_tip": "No omita los fundamentos técnicos: permiten filtrar respuestas incorrectas de la IA.",
+      "insights": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    }
+  },
+  "ai-faq": {
+    "_meta": {
+      "icon": "❓",
+      "color": "#2563eb",
+      "group": "future",
+      "official": null
+    },
+    "pt": {
+      "title": "Dúvidas frequentes sobre IA",
+      "subtitle": "Respostas práticas para começar com IA sem medo, exageros ou confiança cega.",
+      "sections": [
+        [
+          "Por onde começo a estudar IA?",
+          "Comece por IA generativa, LLMs, prompts, contexto, alucinações e limitações. Depois aplique esses conceitos a tarefas de QA que você já conhece."
+        ],
+        [
+          "Preciso saber programar?",
+          "Não para começar. Programação amplia as possibilidades em automação, APIs e agentes, mas análise de requisitos, documentação e pesquisa já permitem usos valiosos."
+        ],
+        [
+          "Onde começo a aplicar IA em QA?",
+          "Escolha tarefas pequenas e verificáveis: peça uma análise de User Story, compare os cenários sugeridos com sua própria análise e identifique lacunas."
+        ],
+        [
+          "Posso confiar em tudo que a IA responde?",
+          "Não. Modelos podem omitir cenários, interpretar contexto incorretamente ou produzir afirmações convincentes sem fundamento. IA sugere; QA analisa; evidência confirma."
+        ],
+        [
+          "A IA vai tirar meu emprego?",
+          "IA e automação podem transformar tarefas e funções. Em vez de prometer que nada mudará, prepare-se: fortaleça fundamentos e aprenda a dirigir, questionar e validar ferramentas de IA."
+        ],
+        [
+          "Preciso aprender todas as IAs?",
+          "Não. Aprenda primeiro como trabalhar com IA. Depois escolha ferramentas conforme a necessidade: pesquisa, código, documentos, imagens, vídeo ou produtividade."
+        ],
+        [
+          "A IA pode criar todos os meus testes?",
+          "Ela pode acelerar brainstorming e documentação, mas não conhece automaticamente decisões informais, histórico de defeitos, contexto do usuário e riscos específicos do negócio."
+        ],
+        [
+          "Como me preparo para o futuro do QA?",
+          "Continue fortalecendo Quality Engineering e adicione IA ao repertório. Quanto melhor seu conhecimento técnico, melhor você consegue avaliar e aproveitar o que a IA produz."
+        ]
+      ],
+      "qa_tip": "Adaptação é mais útil do que medo: aprenda a usar IA sem terceirizar seu julgamento técnico.",
+      "insights": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    "en": {
+      "title": "AI Frequently Asked Questions",
+      "subtitle": "Practical answers for getting started with AI without fear, hype or blind trust.",
+      "sections": [
+        [
+          "Where should I start?",
+          "Start with generative AI, LLMs, prompts, context, hallucinations and limitations, then apply them to QA tasks you already understand."
+        ],
+        [
+          "Do I need to code?",
+          "Not to start. Coding expands automation, API and agent use cases, but requirements, documentation and research already provide value."
+        ],
+        [
+          "Where can I apply AI in QA first?",
+          "Choose small, verifiable tasks: ask for a User Story analysis, compare suggestions with your own and find gaps."
+        ],
+        [
+          "Can I trust every answer?",
+          "No. Models can omit scenarios, misread context or make unsupported claims. AI suggests; QA analyzes; evidence confirms."
+        ],
+        [
+          "Will AI take my job?",
+          "AI and automation can transform tasks and roles. Strengthen fundamentals and learn to direct, challenge and validate AI tools."
+        ],
+        [
+          "Do I need every AI tool?",
+          "No. Learn how to work with AI first, then choose tools for research, code, documents, images, video or productivity."
+        ],
+        [
+          "Can AI create all my tests?",
+          "It can accelerate brainstorming, but it does not automatically know informal decisions, defect history, user context or business-specific risks."
+        ],
+        [
+          "How do I prepare for QA’s future?",
+          "Keep strengthening Quality Engineering and add AI to your toolkit. Better technical knowledge improves your ability to evaluate AI output."
+        ]
+      ],
+      "qa_tip": "Adaptation is more useful than fear: use AI without outsourcing your technical judgment.",
+      "insights": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    "es": {
+      "title": "Preguntas frecuentes sobre IA",
+      "subtitle": "Respuestas prácticas para comenzar con IA sin miedo, exageración ni confianza ciega.",
+      "sections": [
+        [
+          "¿Por dónde empiezo?",
+          "Comience por IA generativa, LLMs, prompts, contexto, alucinaciones y limitaciones; después aplíquelo a tareas de QA conocidas."
+        ],
+        [
+          "¿Necesito programar?",
+          "No para comenzar. Programar amplía automatización, APIs y agentes, pero requisitos, documentación e investigación ya ofrecen valor."
+        ],
+        [
+          "¿Dónde aplicar IA primero?",
+          "Elija tareas pequeñas y verificables: analice una User Story, compare sugerencias con su análisis e identifique gaps."
+        ],
+        [
+          "¿Puedo confiar en todo?",
+          "No. Los modelos pueden omitir escenarios, interpretar mal el contexto o afirmar cosas sin fundamento. IA sugiere; QA analiza; la evidencia confirma."
+        ],
+        [
+          "¿La IA quitará mi empleo?",
+          "IA y automatización pueden transformar tareas y funciones. Fortalezca fundamentos y aprenda a dirigir, cuestionar y validar herramientas."
+        ],
+        [
+          "¿Necesito usar todas las IAs?",
+          "No. Aprenda primero a trabajar con IA y luego elija herramientas según investigación, código, documentos, imágenes, video o productividad."
+        ],
+        [
+          "¿La IA puede crear todas mis pruebas?",
+          "Puede acelerar ideas, pero no conoce automáticamente decisiones informales, historial de defectos, contexto del usuario ni riesgos del negocio."
+        ],
+        [
+          "¿Cómo prepararme para el futuro de QA?",
+          "Siga fortaleciendo Quality Engineering y agregue IA a su repertorio. Mejor conocimiento técnico permite evaluar mejor la salida de IA."
+        ]
+      ],
+      "qa_tip": "Adaptarse es más útil que tener miedo: use IA sin delegar su criterio técnico.",
+      "insights": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    }
+  },
+  "ai-tools": {
+    "_meta": {
+      "icon": "🌎",
+      "color": "#0f766e",
+      "group": "future",
+      "official": null
+    },
+    "pt": {
+      "title": "Conheça as principais IAs",
+      "subtitle": "Um mapa de ferramentas por finalidade, sem ranking absoluto: escolha conforme contexto, dados, integração e tarefa.",
+      "sections": [
+        [
+          "Assistentes generalistas",
+          "ChatGPT, Claude, Gemini e DeepSeek podem apoiar escrita, raciocínio, análise, código e trabalho com diferentes tipos de contexto. Capacidades variam por modelo, plano e momento."
+        ],
+        [
+          "Código e desenvolvimento",
+          "GitHub Copilot integra assistência e agentes ao GitHub, IDE e CLI. ChatGPT/Codex, Claude Code e modelos DeepSeek também podem apoiar desenvolvimento; o QA deve revisar arquitetura, seletores, assertions e segurança."
+        ],
+        [
+          "Pesquisa e fontes",
+          "Perplexity e recursos de pesquisa de assistentes generalistas ajudam a investigar temas atuais. Prefira respostas com fontes e confira a fonte primária antes de transformar uma resposta em requisito ou decisão."
+        ],
+        [
+          "Conhecimento baseado em fontes",
+          "Gemini Notebook (anteriormente NotebookLM) é voltado a pesquisa e trabalho fundamentado em fontes fornecidas. É útil para estudar documentação, requisitos e bases de conhecimento."
+        ],
+        [
+          "IA brasileira",
+          "A Maritaca AI desenvolve a família Sabiá, com foco em português e contexto brasileiro, incluindo opções de processamento em território nacional para cenários que exigem residência de dados."
+        ],
+        [
+          "Imagem, vídeo e áudio",
+          "Ferramentas especializadas como Midjourney, Runway e ElevenLabs atendem criação visual, vídeo e voz. Para QA, podem apoiar protótipos e materiais, mas conteúdo gerado também precisa de revisão de direitos, marca e precisão."
+        ],
+        [
+          "Como escolher",
+          "Considere tarefa, qualidade, privacidade, integração, custo, latência, contexto, residência de dados e política corporativa. Não escolha apenas por popularidade."
+        ]
+      ],
+      "qa_tip": "Ferramentas mudam rapidamente: confirme capacidades, planos e políticas nas páginas oficiais antes de padronizar um fluxo corporativo.",
+      "insights": [
+        {
+          "why": "Assistentes generalistas são úteis quando a tarefa mistura texto, raciocínio, arquivos, pesquisa ou imagens. As capacidades mudam rapidamente, por isso vale consultar a documentação oficial.",
+          "apply": "Experimente a mesma tarefa de QA em duas ferramentas e compare cobertura, clareza, fontes e facilidade de revisão.",
+          "good": "Escolha pela necessidade, política de dados, integração e qualidade do resultado — não apenas pela popularidade.",
+          "caution": "Evite transformar a seção em ranking permanente: modelos e recursos evoluem com frequência."
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {
+          "why": "A melhor ferramenta depende do trabalho: programação, pesquisa com fontes, documentos extensos, criação visual ou produtividade corporativa exigem critérios diferentes.",
+          "apply": "Defina primeiro a tarefa e depois avalie precisão, integração, privacidade, custo, latência e capacidade de citar fontes.",
+          "good": "Mantenha um pequeno conjunto de ferramentas dominadas em vez de tentar acompanhar todas superficialmente.",
+          "caution": "Não envie dados corporativos sensíveis sem conhecer a política da organização e as configurações de privacidade da ferramenta."
+        }
+      ]
+    },
+    "en": {
+      "title": "Explore leading AI tools",
+      "subtitle": "A map of tools by purpose, not an absolute ranking: choose based on context, data, integration and task.",
+      "sections": [
+        [
+          "General assistants",
+          "ChatGPT, Claude, Gemini and DeepSeek can support writing, reasoning, analysis, code and varied context. Capabilities vary by model, plan and time."
+        ],
+        [
+          "Coding and development",
+          "GitHub Copilot integrates assistance and agents into GitHub, IDEs and CLI. ChatGPT/Codex, Claude Code and DeepSeek models can also support development; QA must review architecture, selectors, assertions and security."
+        ],
+        [
+          "Research and sources",
+          "Perplexity and research features in general assistants help investigate current topics. Prefer source-backed answers and verify primary sources."
+        ],
+        [
+          "Source-grounded knowledge",
+          "Gemini Notebook (formerly NotebookLM) focuses on research grounded in supplied sources and can help study documentation, requirements and knowledge bases."
+        ],
+        [
+          "Brazilian AI",
+          "Maritaca AI develops the Sabiá family with a focus on Portuguese and Brazilian context, including processing options in Brazil for data-residency needs."
+        ],
+        [
+          "Image, video and audio",
+          "Specialized tools such as Midjourney, Runway and ElevenLabs cover visual, video and voice generation. Generated content still needs rights, brand and accuracy review."
+        ],
+        [
+          "How to choose",
+          "Consider task, quality, privacy, integration, cost, latency, context, data residency and corporate policy—not popularity alone."
+        ]
+      ],
+      "qa_tip": "AI products change quickly: confirm capabilities, plans and policies on official pages before standardizing corporate workflows.",
+      "insights": [
+        {
+          "why": "General-purpose assistants are useful when a task combines text, reasoning, files, research or images. Capabilities change quickly, so official documentation matters.",
+          "apply": "Try the same QA task in two tools and compare coverage, clarity, sources and ease of review.",
+          "good": "Choose based on need, data policy, integration and result quality — not popularity alone.",
+          "caution": "Avoid treating the section as a permanent ranking: models and features evolve frequently."
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {
+          "why": "The right tool depends on the job: coding, sourced research, long documents, visual creation and enterprise productivity require different criteria.",
+          "apply": "Define the task first, then evaluate accuracy, integration, privacy, cost, latency and source citation capabilities.",
+          "good": "Master a small set of tools instead of following every tool superficially.",
+          "caution": "Do not send sensitive corporate data without understanding organizational policy and the tool privacy settings."
+        }
+      ]
+    },
+    "es": {
+      "title": "Conozca las principales IAs",
+      "subtitle": "Un mapa de herramientas por finalidad, sin ranking absoluto: elija según contexto, datos, integración y tarea.",
+      "sections": [
+        [
+          "Asistentes generalistas",
+          "ChatGPT, Claude, Gemini y DeepSeek pueden apoyar escritura, razonamiento, análisis, código y distintos contextos."
+        ],
+        [
+          "Código y desarrollo",
+          "GitHub Copilot integra asistencia y agentes con GitHub, IDE y CLI. ChatGPT/Codex, Claude Code y DeepSeek también pueden apoyar desarrollo; QA debe revisar arquitectura, selectores, assertions y seguridad."
+        ],
+        [
+          "Investigación y fuentes",
+          "Perplexity y funciones de investigación ayudan con temas actuales. Prefiera respuestas con fuentes y verifique fuentes primarias."
+        ],
+        [
+          "Conocimiento basado en fuentes",
+          "Gemini Notebook (antes NotebookLM) se enfoca en investigación basada en fuentes proporcionadas, útil para documentación y requisitos."
+        ],
+        [
+          "IA brasileña",
+          "Maritaca AI desarrolla la familia Sabiá con foco en portugués y contexto brasileño, incluyendo opciones de procesamiento en Brasil."
+        ],
+        [
+          "Imagen, video y audio",
+          "Herramientas como Midjourney, Runway y ElevenLabs cubren creación visual, video y voz; el contenido generado requiere revisión de derechos, marca y precisión."
+        ],
+        [
+          "Cómo elegir",
+          "Considere tarea, calidad, privacidad, integración, costo, latencia, contexto, residencia de datos y política corporativa."
+        ]
+      ],
+      "qa_tip": "Las herramientas cambian rápido: confirme capacidades, planes y políticas en las páginas oficiales.",
+      "insights": [
+        {
+          "why": "Los asistentes generalistas son útiles cuando una tarea combina texto, razonamiento, archivos, investigación o imágenes. Las capacidades cambian rápido, por eso importa la documentación oficial.",
+          "apply": "Pruebe la misma tarea de QA en dos herramientas y compare cobertura, claridad, fuentes y facilidad de revisión.",
+          "good": "Elija según necesidad, política de datos, integración y calidad del resultado, no solo popularidad.",
+          "caution": "Evite convertir la sección en un ranking permanente: modelos y funciones evolucionan con frecuencia."
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {
+          "why": "La herramienta adecuada depende del trabajo: código, investigación con fuentes, documentos extensos, creación visual y productividad empresarial requieren criterios distintos.",
+          "apply": "Defina primero la tarea y después evalúe precisión, integración, privacidad, costo, latencia y capacidad de citar fuentes.",
+          "good": "Domine un conjunto pequeño de herramientas en lugar de seguir todas superficialmente.",
+          "caution": "No envíe datos corporativos sensibles sin conocer la política de la organización y la configuración de privacidad de la herramienta."
+        }
+      ]
+    }
+  },
+  "prompt-engineering": {
+    "_meta": {
+      "icon": "✍️",
+      "color": "#ea580c",
+      "group": "future",
+      "official": null
+    },
+    "pt": {
+      "title": "Prompt Engineering para QA",
+      "subtitle": "Como transformar pedidos vagos em instruções verificáveis, contextualizadas e úteis para Quality Engineering.",
+      "sections": [
+        [
+          "Anatomia de um bom prompt",
+          "Combine papel, contexto, tarefa, critérios, restrições e formato esperado. Diga também o que a IA não deve inventar e como tratar informação ausente."
+        ],
+        [
+          "Prompt fraco → profissional",
+          "“Teste meu checkout” é vago. Um prompt profissional informa tipo de produto, fluxos, riscos, integrações, formatos esperados e pede ambiguidades antes dos testes."
+        ],
+        [
+          "Contexto antes de detalhe",
+          "Forneça User Story, critérios de aceite, regras de negócio, plataforma, integrações e riscos conhecidos. Um prompt detalhado com contexto errado continua produzindo uma resposta ruim."
+        ],
+        [
+          "Peça revisão antes de reescrita",
+          "Em código ou casos de teste, peça primeiro diagnóstico: lacunas, duplicidades, fragilidade, riscos e suposições. Depois solicite a versão melhorada."
+        ],
+        [
+          "Defina formato de saída",
+          "Exemplos: Step / Data / Expected Result; Given / When / Then; tabela de riscos; lista de perguntas para o PO; ou código com explicação das alterações."
+        ],
+        [
+          "Inclua validação humana",
+          "Peça à IA para indicar incertezas e fontes quando aplicável. O resultado deve entrar no fluxo de revisão do QA, não substituir evidência."
+        ]
+      ],
+      "qa_tip": "Um prompt melhor não transforma a IA em fonte de verdade; ele apenas aumenta a chance de obter uma resposta útil e auditável.",
+      "insights": [
+        {
+          "why": "Um prompt profissional reduz ambiguidades ao explicitar papel, contexto, objetivo, critérios, restrições e formato de saída.",
+          "apply": "Para QA: informe produto, Story, regras conhecidas, riscos que deseja explorar e como quer receber os cenários.",
+          "good": "Inclua a instrução “não invente requisitos; liste dúvidas separadamente” quando estiver trabalhando com especificações incompletas.",
+          "caution": "Prompts enormes não são automaticamente melhores. Contexto relevante e critérios claros valem mais que volume."
+        },
+        {},
+        {},
+        {},
+        {},
+        {
+          "why": "Revisão humana é parte do workflow, não uma etapa opcional. A IA pode produzir algo plausível e ainda omitir riscos ou criar premissas.",
+          "apply": "Peça evidências, execute o teste, valide o código e confronte a resposta com fontes confiáveis antes de reutilizá-la.",
+          "good": "Registre o que foi gerado pela IA e o que foi confirmado por pessoas/evidências em tarefas de maior risco.",
+          "caution": "Não confunda velocidade de geração com qualidade da decisão."
+        }
+      ]
+    },
+    "en": {
+      "title": "Prompt Engineering for QA",
+      "subtitle": "Turn vague requests into verifiable, contextual instructions for Quality Engineering.",
+      "sections": [
+        [
+          "Anatomy of a good prompt",
+          "Combine role, context, task, criteria, constraints and expected format. State what the AI must not invent and how to handle missing information."
+        ],
+        [
+          "Weak → professional prompt",
+          "“Test my checkout” is vague. A professional prompt includes product type, flows, risks, integrations, output format and asks for ambiguities first."
+        ],
+        [
+          "Context before detail",
+          "Provide User Story, acceptance criteria, business rules, platform, integrations and known risks. Detailed instructions with wrong context still fail."
+        ],
+        [
+          "Ask for review before rewrite",
+          "For code or tests, request diagnosis first: gaps, duplication, fragility, risks and assumptions. Then ask for improvements."
+        ],
+        [
+          "Define the output",
+          "Examples: Step / Data / Expected Result, Given / When / Then, risk table, PO questions or code with change explanations."
+        ],
+        [
+          "Keep human validation",
+          "Ask the AI to state uncertainty and sources where applicable. Output belongs in QA review, not as a replacement for evidence."
+        ]
+      ],
+      "qa_tip": "A better prompt does not make AI a source of truth; it improves the chance of a useful, auditable answer.",
+      "insights": [
+        {
+          "why": "A professional prompt reduces ambiguity by making role, context, goal, criteria, constraints and output format explicit.",
+          "apply": "For QA: provide product context, Story, known rules, risks to explore and the desired scenario format.",
+          "good": "Include “do not invent requirements; list open questions separately” when working with incomplete specifications.",
+          "caution": "Huge prompts are not automatically better. Relevant context and clear criteria matter more than volume."
+        },
+        {},
+        {},
+        {},
+        {},
+        {
+          "why": "Human review is part of the workflow, not an optional step. AI can produce something plausible while missing risks or inventing assumptions.",
+          "apply": "Ask for evidence, execute the test, validate the code and compare the answer with trusted sources before reuse.",
+          "good": "For higher-risk work, record what was AI-generated and what was confirmed by people/evidence.",
+          "caution": "Do not confuse generation speed with decision quality."
+        }
+      ]
+    },
+    "es": {
+      "title": "Prompt Engineering para QA",
+      "subtitle": "Convierta pedidos vagos en instrucciones verificables y contextualizadas para Quality Engineering.",
+      "sections": [
+        [
+          "Anatomía de un buen prompt",
+          "Combine rol, contexto, tarea, criterios, restricciones y formato esperado. Indique qué no debe inventar la IA y cómo tratar información ausente."
+        ],
+        [
+          "Prompt débil → profesional",
+          "“Prueba mi checkout” es vago. Un prompt profesional informa producto, flujos, riesgos, integraciones, formato y pide ambigüedades primero."
+        ],
+        [
+          "Contexto antes del detalle",
+          "Proporcione User Story, criterios, reglas, plataforma, integraciones y riesgos conocidos."
+        ],
+        [
+          "Pida revisión antes de reescribir",
+          "Para código o pruebas, solicite primero diagnóstico: gaps, duplicidades, fragilidad, riesgos y supuestos."
+        ],
+        [
+          "Defina el formato",
+          "Ejemplos: Step / Data / Expected Result, Given / When / Then, tabla de riesgos, preguntas al PO o código con explicación."
+        ],
+        [
+          "Mantenga validación humana",
+          "Pida que la IA indique incertidumbres y fuentes cuando aplique. La salida entra en revisión de QA, no reemplaza evidencia."
+        ]
+      ],
+      "qa_tip": "Un mejor prompt no convierte a la IA en fuente de verdad; aumenta la posibilidad de una respuesta útil y auditable.",
+      "insights": [
+        {
+          "why": "Un prompt profesional reduce ambigüedad al explicitar rol, contexto, objetivo, criterios, restricciones y formato de salida.",
+          "apply": "Para QA: proporcione contexto del producto, Story, reglas conocidas, riesgos a explorar y formato deseado de escenarios.",
+          "good": "Incluya “no invente requisitos; liste las dudas por separado” cuando trabaje con especificaciones incompletas.",
+          "caution": "Los prompts enormes no son automáticamente mejores. El contexto relevante y los criterios claros importan más que el volumen."
+        },
+        {},
+        {},
+        {},
+        {},
+        {
+          "why": "La revisión humana forma parte del flujo, no es una etapa opcional. La IA puede producir algo plausible y aun así omitir riesgos o inventar premisas.",
+          "apply": "Pida evidencias, ejecute la prueba, valide el código y contraste la respuesta con fuentes confiables antes de reutilizarla.",
+          "good": "En trabajos de mayor riesgo, registre qué fue generado por IA y qué fue confirmado por personas/evidencias.",
+          "caution": "No confunda velocidad de generación con calidad de decisión."
+        }
+      ]
+    }
+  },
+  "prompt-library": {
+    "_meta": {
+      "icon": "📚",
+      "color": "#c2410c",
+      "group": "future",
+      "official": null
+    },
+    "pt": {
+      "title": "Biblioteca de Prompts para QA",
+      "subtitle": "Templates profissionais para adaptar ao contexto real — nunca para copiar resultados sem revisão.",
+      "sections": [
+        [
+          "Analisar User Story",
+          "Atue como QA Sênior. Analise a User Story fornecida e identifique regras de negócio, ambiguidades, dependências, riscos, cenários positivos, negativos, boundary values, requisitos não funcionais e perguntas para o Product Owner. Não invente regras ausentes."
+        ],
+        [
+          "Criar casos de teste",
+          "Atue como QA Sênior. A partir do requisito fornecido, crie cenários positivos, negativos e de borda. Para cada caso informe título, precondição, Step, Data e Expected Result. Liste ambiguidades separadamente e não invente requisitos."
+        ],
+        [
+          "Revisar cobertura",
+          "Revise os casos de teste fornecidos sem criar novos inicialmente. Identifique lacunas, duplicidades, cenários redundantes, riscos não cobertos e requisitos sem validação. Depois proponha somente testes adicionais necessários."
+        ],
+        [
+          "Revisar Playwright",
+          "Atue como SDET especializado em Playwright. Procure seletores frágeis, waits fixos, dependência entre testes, dados hardcoded, assertions ausentes, duplicação e possíveis causas de flakiness. Explique os problemas antes de reescrever."
+        ],
+        [
+          "Estruturar BUG",
+          "Atue como QA Sênior. Estruture o defeito com título, ambiente, precondição, steps, actual result, expected result, evidências e severidade sugerida. Não invente dados ausentes; marque-os como não informados."
+        ],
+        [
+          "Testar API",
+          "Analise o endpoint e proponha cenários de contrato, autenticação/autorização, status HTTP, schema, campos obrigatórios, formatos inválidos, limites, idempotência, rate limit, erros e segurança básica."
+        ],
+        [
+          "Analisar logs",
+          "Analise os logs fornecidos separando fatos observados, hipóteses e evidências faltantes. Não trate correlação como causa. Sugira próximos passos reproduzíveis para investigação."
+        ],
+        [
+          "Planejar regressão",
+          "Com base nas mudanças, riscos, integrações e histórico fornecidos, proponha uma regressão priorizada por impacto e probabilidade. Separe smoke, regressão crítica e regressão completa."
+        ]
+      ],
+      "qa_tip": "Substitua placeholders por contexto real e remova qualquer dado sensível antes de enviar a uma ferramenta de IA.",
+      "insights": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    "en": {
+      "title": "QA Prompt Library",
+      "subtitle": "Professional templates to adapt to real context—never to accept output without review.",
+      "sections": [
+        [
+          "Analyze a User Story",
+          "Act as a Senior QA. Analyze the User Story and identify business rules, ambiguities, dependencies, risks, positive/negative/boundary scenarios, non-functional requirements and Product Owner questions. Do not invent missing rules."
+        ],
+        [
+          "Create test cases",
+          "Act as a Senior QA. Create positive, negative and boundary scenarios. For each case provide title, precondition, Step, Data and Expected Result. List ambiguities separately and do not invent requirements."
+        ],
+        [
+          "Review coverage",
+          "Review the supplied tests without creating new ones first. Identify gaps, duplication, redundant scenarios, uncovered risks and unvalidated requirements. Then propose only necessary additions."
+        ],
+        [
+          "Review Playwright",
+          "Act as an SDET specialized in Playwright. Find fragile selectors, fixed waits, test dependencies, hardcoded data, missing assertions, duplication and flakiness risks. Explain before rewriting."
+        ],
+        [
+          "Structure a bug",
+          "Act as a Senior QA. Structure title, environment, precondition, steps, actual result, expected result, evidence and suggested severity. Mark missing data instead of inventing it."
+        ],
+        [
+          "Test an API",
+          "Propose contract, auth, HTTP status, schema, required field, invalid format, boundary, idempotency, rate-limit, error and basic security scenarios."
+        ],
+        [
+          "Analyze logs",
+          "Separate observed facts, hypotheses and missing evidence. Do not treat correlation as causation. Suggest reproducible investigation steps."
+        ],
+        [
+          "Plan regression",
+          "Using changes, risks, integrations and history, propose regression prioritized by impact and probability. Separate smoke, critical and full regression."
+        ]
+      ],
+      "qa_tip": "Replace placeholders with real context and remove sensitive data before sending it to an AI service.",
+      "insights": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    "es": {
+      "title": "Biblioteca de Prompts para QA",
+      "subtitle": "Templates profesionales para adaptar al contexto real; nunca acepte resultados sin revisión.",
+      "sections": [
+        [
+          "Analizar User Story",
+          "Actúe como QA Senior. Analice la User Story e identifique reglas, ambigüedades, dependencias, riesgos, escenarios positivos/negativos/boundary, no funcionales y preguntas al Product Owner. No invente reglas."
+        ],
+        [
+          "Crear casos de prueba",
+          "Cree escenarios positivos, negativos y de borde. Para cada caso indique título, precondición, Step, Data y Expected Result. Liste ambigüedades aparte."
+        ],
+        [
+          "Revisar cobertura",
+          "Revise los casos sin crear nuevos primero. Identifique gaps, duplicidades, riesgos no cubiertos y requisitos sin validar; luego proponga solo adiciones necesarias."
+        ],
+        [
+          "Revisar Playwright",
+          "Actúe como SDET de Playwright. Busque selectores frágiles, waits fijos, dependencias, datos hardcoded, assertions ausentes, duplicación y flakiness. Explique antes de reescribir."
+        ],
+        [
+          "Estructurar BUG",
+          "Estructure título, ambiente, precondición, steps, actual result, expected result, evidencias y severidad sugerida. No invente datos faltantes."
+        ],
+        [
+          "Probar API",
+          "Proponga escenarios de contrato, auth, status HTTP, schema, obligatorios, formatos inválidos, límites, idempotencia, rate limit, errores y seguridad básica."
+        ],
+        [
+          "Analizar logs",
+          "Separe hechos, hipótesis y evidencias faltantes. No trate correlación como causa. Sugiera próximos pasos reproducibles."
+        ],
+        [
+          "Planificar regresión",
+          "Con cambios, riesgos, integraciones e historial, proponga regresión priorizada por impacto y probabilidad. Separe smoke, crítica y completa."
+        ]
+      ],
+      "qa_tip": "Reemplace placeholders con contexto real y elimine datos sensibles antes de enviarlos a un servicio de IA.",
+      "insights": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    }
+  },
+  "prompt-builder": {
+    "_meta": {
+      "icon": "🛠️",
+      "color": "#f97316",
+      "group": "future",
+      "official": null
+    },
+    "pt": {
+      "title": "Prompt Builder para QA",
+      "subtitle": "Monte um prompt profissional escolhendo objetivo, contexto, cobertura e formato.",
+      "sections": [
+        [
+          "Objetivo",
+          "Escolha a tarefa: analisar requisito, criar testes, revisar automação, estruturar bug, testar API, analisar logs ou planejar regressão."
+        ],
+        [
+          "Contexto",
+          "Informe domínio e plataforma: e-commerce, fintech, saúde, mobile, web, API ou outro."
+        ],
+        [
+          "Cobertura",
+          "Selecione riscos relevantes: positivos, negativos, boundary, segurança, acessibilidade, integração, performance ou dados."
+        ],
+        [
+          "Formato",
+          "Defina a saída que será fácil revisar: Step/Data/Expected Result, Gherkin, tabela de riscos, checklist ou análise antes/depois."
+        ],
+        [
+          "Restrições",
+          "Inclua regras como “não invente requisitos”, “separe fatos de hipóteses”, “indique informações faltantes” e “não exponha dados sensíveis”."
+        ]
+      ],
+      "qa_tip": "O Builder ajuda a estruturar a pergunta; a qualidade final ainda depende do contexto que você fornecer.",
+      "insights": [
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    "en": {
+      "title": "QA Prompt Builder",
+      "subtitle": "Build a professional prompt by choosing goal, context, coverage and format.",
+      "sections": [
+        [
+          "Goal",
+          "Choose the task: analyze requirement, create tests, review automation, structure bug, test API, analyze logs or plan regression."
+        ],
+        [
+          "Context",
+          "Provide domain and platform: e-commerce, fintech, healthcare, mobile, web, API or other."
+        ],
+        [
+          "Coverage",
+          "Select relevant risks: positive, negative, boundary, security, accessibility, integration, performance or data."
+        ],
+        [
+          "Format",
+          "Choose an output that is easy to review: Step/Data/Expected Result, Gherkin, risk table, checklist or before/after analysis."
+        ],
+        [
+          "Constraints",
+          "Add rules such as “do not invent requirements”, “separate facts from hypotheses”, “state missing information” and “do not expose sensitive data”."
+        ]
+      ],
+      "qa_tip": "The Builder structures the request; final quality still depends on the context you provide.",
+      "insights": [
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    "es": {
+      "title": "Prompt Builder para QA",
+      "subtitle": "Construya un prompt profesional eligiendo objetivo, contexto, cobertura y formato.",
+      "sections": [
+        [
+          "Objetivo",
+          "Elija la tarea: analizar requisito, crear pruebas, revisar automatización, estructurar bug, probar API, analizar logs o planificar regresión."
+        ],
+        [
+          "Contexto",
+          "Informe dominio y plataforma: e-commerce, fintech, salud, mobile, web, API u otro."
+        ],
+        [
+          "Cobertura",
+          "Seleccione riesgos: positivos, negativos, boundary, seguridad, accesibilidad, integración, performance o datos."
+        ],
+        [
+          "Formato",
+          "Defina una salida fácil de revisar: Step/Data/Expected Result, Gherkin, tabla de riesgos, checklist o análisis antes/después."
+        ],
+        [
+          "Restricciones",
+          "Incluya reglas como “no invente requisitos”, “separe hechos de hipótesis”, “indique información faltante” y “no exponga datos sensibles”."
+        ]
+      ],
+      "qa_tip": "El Builder estructura la pregunta; la calidad final depende del contexto proporcionado.",
+      "insights": [
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    }
+  },
+  "ai-lab": {
+    "_meta": {
+      "icon": "🧪",
+      "color": "#9333ea",
+      "group": "future",
+      "official": null
+    },
+    "pt": {
+      "title": "AI Testing Lab",
+      "subtitle": "Desafios para praticar pensamento crítico: usar IA, revisar IA e testar sistemas de IA.",
+      "sections": [
+        [
+          "O que a IA esqueceu?",
+          "Receba uma User Story e uma lista de testes gerada por IA. Identifique riscos e cenários importantes que ficaram de fora antes de consultar a análise do QA Lab."
+        ],
+        [
+          "Parece certo?",
+          "Avalie afirmações técnicas convincentes e decida se estão corretas. O objetivo é treinar a habilidade de não confundir confiança textual com precisão técnica."
+        ],
+        [
+          "Encontre a alucinação",
+          "Compare uma resposta da IA com requisitos ou fontes fornecidas e encontre fatos inventados, premissas não suportadas ou conclusões excessivas."
+        ],
+        [
+          "Corrija o código da IA",
+          "Analise automações com seletores frágeis, waits fixos, dados hardcoded, assertions ruins e flakiness. Primeiro diagnostique; depois melhore."
+        ],
+        [
+          "IA ou QA?",
+          "Decida quais tarefas podem ser aceleradas por IA e quais exigem julgamento, evidência, aprovação ou conhecimento de negócio."
+        ],
+        [
+          "Red Teaming seguro",
+          "Pratique identificação de prompt injection, vazamento de instruções, respostas fora de escopo e exposição indevida de dados em ambientes de treinamento."
+        ]
+      ],
+      "qa_tip": "O objetivo do laboratório não é “pegar a IA no erro”, mas desenvolver critérios para trabalhar com ela de forma responsável.",
+      "insights": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    "en": {
+      "title": "AI Testing Lab",
+      "subtitle": "Challenges to practice critical thinking: use AI, review AI and test AI systems.",
+      "sections": [
+        [
+          "What did AI miss?",
+          "Review an AI-generated test set and identify important risks and scenarios before seeing QA Lab analysis."
+        ],
+        [
+          "Looks right?",
+          "Judge convincing technical statements and train yourself not to confuse confident wording with technical accuracy."
+        ],
+        [
+          "Find the hallucination",
+          "Compare AI output with supplied requirements or sources and identify invented facts, unsupported assumptions or excessive conclusions."
+        ],
+        [
+          "Fix AI code",
+          "Review automation with fragile selectors, fixed waits, hardcoded data, weak assertions and flakiness. Diagnose before improving."
+        ],
+        [
+          "AI or QA?",
+          "Decide which tasks AI can accelerate and which require judgment, evidence, approval or business knowledge."
+        ],
+        [
+          "Safe red teaming",
+          "Practice identifying prompt injection, instruction leakage, out-of-scope answers and inappropriate data exposure in training environments."
+        ]
+      ],
+      "qa_tip": "The goal is not to catch AI failing; it is to build criteria for working with it responsibly.",
+      "insights": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    "es": {
+      "title": "AI Testing Lab",
+      "subtitle": "Desafíos para practicar pensamiento crítico: usar IA, revisar IA y probar sistemas de IA.",
+      "sections": [
+        [
+          "¿Qué olvidó la IA?",
+          "Revise pruebas generadas por IA e identifique riesgos y escenarios antes de ver el análisis de QA Lab."
+        ],
+        [
+          "¿Parece correcto?",
+          "Evalúe afirmaciones técnicas convincentes y entrene la capacidad de no confundir seguridad textual con precisión."
+        ],
+        [
+          "Encuentre la alucinación",
+          "Compare la salida con requisitos o fuentes e identifique hechos inventados, supuestos no soportados o conclusiones excesivas."
+        ],
+        [
+          "Corrija el código de IA",
+          "Revise automatizaciones con selectores frágiles, waits fijos, datos hardcoded, assertions débiles y flakiness."
+        ],
+        [
+          "¿IA o QA?",
+          "Decida qué tareas puede acelerar IA y cuáles requieren criterio, evidencia, aprobación o conocimiento de negocio."
+        ],
+        [
+          "Red Teaming seguro",
+          "Practique prompt injection, fuga de instrucciones, respuestas fuera de alcance y exposición de datos en ambientes de entrenamiento."
+        ]
+      ],
+      "qa_tip": "El objetivo no es atrapar a la IA en errores, sino desarrollar criterios para trabajar con ella responsablemente.",
+      "insights": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    }
+  },
+  "ai-agents": {
+    "_meta": {
+      "icon": "🤖",
+      "color": "#4f46e5",
+      "group": "future",
+      "official": null
+    },
+    "pt": {
+      "title": "Agentes de IA, ferramentas e MCP",
+      "subtitle": "Da conversa à execução: como agentes combinam modelos, contexto e ferramentas — e o que QA precisa validar.",
+      "sections": [
+        [
+          "Chatbot, copiloto e agente",
+          "Um chatbot responde; um copiloto auxilia dentro do fluxo; um agente pode planejar etapas e usar ferramentas para executar tarefas. Na prática, os limites dependem do produto e das permissões concedidas."
+        ],
+        [
+          "Ferramentas e MCP",
+          "Agentes podem acessar ferramentas, APIs e fontes externas. MCP é um protocolo usado por diferentes produtos para conectar modelos a ferramentas e contexto de forma padronizada."
+        ],
+        [
+          "Human-in-the-loop",
+          "Ações de impacto devem ter controles, permissões, revisão e pontos de aprovação. Autonomia sem governança aumenta risco de alterações erradas ou acesso indevido."
+        ],
+        [
+          "Como testar agentes",
+          "Valide planejamento, seleção de ferramentas, parâmetros, tratamento de erro, repetição, idempotência, permissões, logs, recuperação e comportamento quando uma ferramenta falha."
+        ],
+        [
+          "Exemplo QA",
+          "Um agente pode receber uma Story, analisar riscos, propor testes, executar ferramentas e reunir evidências. O QA continua responsável por revisar contexto, cobertura e conclusões."
+        ]
+      ],
+      "qa_tip": "Teste não apenas a resposta final do agente, mas também as ações e decisões intermediárias que levaram a ela.",
+      "insights": [
+        {
+          "why": "Um agente não apenas responde: ele pode planejar passos, chamar ferramentas e alterar sistemas. Isso amplia produtividade e também o impacto de uma decisão errada.",
+          "apply": "Mapeie quais ações o agente pode executar, quais exigem confirmação e quais devem ser proibidas.",
+          "good": "Use princípio do menor privilégio, logs de ações e aprovação humana para operações sensíveis.",
+          "caution": "Um agente com ferramenta poderosa e instrução ambígua pode causar dano mesmo sem intenção maliciosa."
+        },
+        {
+          "why": "MCP é um padrão para conectar modelos/agentes a ferramentas e fontes de contexto por interfaces definidas. Para QA, o ponto central é testar também permissões, entradas e efeitos dessas integrações.",
+          "apply": "Valide schemas, erros de ferramenta, indisponibilidade, dados inesperados e tentativas de acesso fora do escopo.",
+          "good": "Trate cada ferramenta como uma integração externa: contrato, autenticação, autorização, observabilidade e fallback.",
+          "caution": "Não presuma que uma ferramenta conectada é confiável apenas porque o modelo conseguiu chamá-la."
+        },
+        {},
+        {},
+        {}
+      ]
+    },
+    "en": {
+      "title": "AI Agents, tools and MCP",
+      "subtitle": "From conversation to execution: how agents combine models, context and tools—and what QA should validate.",
+      "sections": [
+        [
+          "Chatbot, copilot and agent",
+          "A chatbot answers; a copilot assists in the workflow; an agent can plan steps and use tools. Exact boundaries depend on product and permissions."
+        ],
+        [
+          "Tools and MCP",
+          "Agents can access tools, APIs and external sources. MCP is a protocol used by different products to connect models with tools and context in a standardized way."
+        ],
+        [
+          "Human in the loop",
+          "High-impact actions need controls, permissions, review and approval points. Autonomy without governance increases risk."
+        ],
+        [
+          "Testing agents",
+          "Validate planning, tool selection, parameters, error handling, retries, idempotency, permissions, logs, recovery and tool failure behavior."
+        ],
+        [
+          "QA example",
+          "An agent can receive a Story, analyze risks, propose tests, execute tools and collect evidence. QA still reviews context, coverage and conclusions."
+        ]
+      ],
+      "qa_tip": "Test not only the final answer but also the intermediate actions and decisions that produced it.",
+      "insights": [
+        {
+          "why": "An agent does more than answer: it can plan steps, call tools and change systems. This increases productivity and the impact of a wrong decision.",
+          "apply": "Map which actions the agent can perform, which require confirmation and which must be prohibited.",
+          "good": "Use least privilege, action logs and human approval for sensitive operations.",
+          "caution": "An agent with a powerful tool and ambiguous instruction can cause harm even without malicious intent."
+        },
+        {
+          "why": "MCP is a standard for connecting models/agents to tools and context sources through defined interfaces. For QA, the key is to test permissions, inputs and integration effects as well.",
+          "apply": "Validate schemas, tool errors, outages, unexpected data and attempts to access out-of-scope resources.",
+          "good": "Treat each tool as an external integration: contract, authentication, authorization, observability and fallback.",
+          "caution": "Do not assume a connected tool is trustworthy simply because the model can call it."
+        },
+        {},
+        {},
+        {}
+      ]
+    },
+    "es": {
+      "title": "Agentes de IA, herramientas y MCP",
+      "subtitle": "De la conversación a la ejecución: cómo los agentes combinan modelos, contexto y herramientas, y qué debe validar QA.",
+      "sections": [
+        [
+          "Chatbot, copiloto y agente",
+          "Un chatbot responde; un copiloto ayuda en el flujo; un agente puede planificar pasos y usar herramientas. Los límites dependen del producto y permisos."
+        ],
+        [
+          "Herramientas y MCP",
+          "Los agentes acceden a herramientas, APIs y fuentes externas. MCP es un protocolo para conectar modelos con herramientas y contexto de forma estandarizada."
+        ],
+        [
+          "Human-in-the-loop",
+          "Acciones de impacto requieren controles, permisos, revisión y puntos de aprobación."
+        ],
+        [
+          "Cómo probar agentes",
+          "Valide planificación, selección de herramientas, parámetros, errores, reintentos, idempotencia, permisos, logs, recuperación y fallos de herramientas."
+        ],
+        [
+          "Ejemplo QA",
+          "Un agente puede recibir una Story, analizar riesgos, proponer pruebas, ejecutar herramientas y reunir evidencias. QA revisa contexto, cobertura y conclusiones."
+        ]
+      ],
+      "qa_tip": "Pruebe no solo la respuesta final, sino también acciones y decisiones intermedias.",
+      "insights": [
+        {
+          "why": "Un agente no solo responde: puede planificar pasos, llamar herramientas y modificar sistemas. Esto aumenta productividad y también el impacto de una decisión incorrecta.",
+          "apply": "Mapee qué acciones puede ejecutar el agente, cuáles requieren confirmación y cuáles deben prohibirse.",
+          "good": "Use mínimo privilegio, logs de acciones y aprobación humana para operaciones sensibles.",
+          "caution": "Un agente con una herramienta poderosa e instrucciones ambiguas puede causar daño incluso sin intención maliciosa."
+        },
+        {
+          "why": "MCP es un estándar para conectar modelos/agentes con herramientas y fuentes de contexto mediante interfaces definidas. Para QA, lo clave es probar también permisos, entradas y efectos de esas integraciones.",
+          "apply": "Valide schemas, errores de herramienta, indisponibilidad, datos inesperados e intentos de acceso fuera de alcance.",
+          "good": "Trate cada herramienta como una integración externa: contrato, autenticación, autorización, observabilidad y fallback.",
+          "caution": "No asuma que una herramienta conectada es confiable solo porque el modelo puede invocarla."
+        },
+        {},
+        {},
+        {}
+      ]
+    }
+  },
+  "ai-evaluation": {
+    "_meta": {
+      "icon": "📏",
+      "color": "#0891b2",
+      "group": "future",
+      "official": null
+    },
+    "pt": {
+      "title": "Avaliação, regressão e observabilidade de IA",
+      "subtitle": "Como medir qualidade em sistemas probabilísticos sem depender de uma única resposta exata.",
+      "sections": [
+        [
+          "Datasets de avaliação",
+          "Crie conjuntos representativos de entradas com critérios esperados, riscos e casos difíceis. Eles funcionam como uma suíte de regressão para prompts, modelos, RAG e agentes."
+        ],
+        [
+          "Rubricas e métricas",
+          "Avalie factualidade, relevância, groundedness, completude, segurança, formato, latência e custo. Nem toda dimensão pode ser reduzida a uma única nota."
+        ],
+        [
+          "Regressão de prompts/modelos",
+          "Mudou system prompt, modelo, ferramenta ou base RAG? Reexecute o dataset e compare qualidade, falhas novas, custo e tempo de resposta."
+        ],
+        [
+          "LLM-as-a-Judge",
+          "Outro modelo pode auxiliar avaliações em escala, mas também possui vieses e variabilidade. Calibre com exemplos humanos e não trate a nota como verdade absoluta."
+        ],
+        [
+          "Observabilidade",
+          "Registre versão do modelo, prompt, fontes, ferramentas, latência, tokens, erros e decisões relevantes respeitando privacidade. Sem rastreabilidade, investigar regressões fica difícil."
+        ],
+        [
+          "Performance e custo",
+          "Teste rate limits, timeouts, fallback, indisponibilidade do provedor, consumo de tokens, concorrência e comportamento sob carga."
+        ]
+      ],
+      "qa_tip": "Uma boa avaliação combina métricas automáticas, amostras revisadas por humanos e critérios ligados ao risco real do produto.",
+      "insights": [
+        {
+          "why": "Um bom dataset de avaliação representa tarefas reais, casos difíceis e riscos relevantes. Ele funciona como uma suíte de regressão para mudanças de prompt, modelo, RAG ou ferramentas.",
+          "apply": "Comece com casos reais anonimizados e adicione edge cases, falhas históricas e entradas adversariais.",
+          "good": "Versione dataset e critérios junto com a aplicação para saber por que uma métrica mudou.",
+          "caution": "Um dataset fácil demais cria falsa sensação de qualidade."
+        },
+        {},
+        {},
+        {},
+        {},
+        {
+          "why": "Qualidade de IA também envolve operação: latência, custo, tokens, rate limits, disponibilidade e fallback podem afetar diretamente a experiência.",
+          "apply": "Defina SLOs e cenários para timeout, limite de quota, modelo indisponível e respostas muito longas.",
+          "good": "Monitore qualidade e operação juntas; uma resposta ótima que leva tempo demais pode falhar para o usuário.",
+          "caution": "O modelo mais capaz nem sempre é a escolha adequada para cada fluxo quando custo e latência entram na decisão."
+        }
+      ]
+    },
+    "en": {
+      "title": "AI Evaluation, regression and observability",
+      "subtitle": "Measure quality in probabilistic systems without relying on one exact answer.",
+      "sections": [
+        [
+          "Evaluation datasets",
+          "Build representative input sets with expected criteria, risks and hard cases. They become regression suites for prompts, models, RAG and agents."
+        ],
+        [
+          "Rubrics and metrics",
+          "Evaluate factuality, relevance, groundedness, completeness, safety, format, latency and cost. Not every dimension fits one score."
+        ],
+        [
+          "Prompt/model regression",
+          "When system prompt, model, tool or RAG source changes, rerun the dataset and compare quality, new failures, cost and latency."
+        ],
+        [
+          "LLM as a Judge",
+          "Another model can help at scale but also has bias and variability. Calibrate with human examples and do not treat the score as absolute truth."
+        ],
+        [
+          "Observability",
+          "Record model version, prompt, sources, tools, latency, tokens, errors and relevant decisions while respecting privacy."
+        ],
+        [
+          "Performance and cost",
+          "Test rate limits, timeouts, fallback, provider outages, token use, concurrency and load behavior."
+        ]
+      ],
+      "qa_tip": "Good evaluation combines automated metrics, human-reviewed samples and criteria tied to real product risk.",
+      "insights": [
+        {
+          "why": "A good evaluation dataset represents real tasks, difficult cases and relevant risks. It acts as a regression suite for prompt, model, RAG or tool changes.",
+          "apply": "Start with anonymized real cases and add edge cases, historical failures and adversarial inputs.",
+          "good": "Version the dataset and criteria with the application so metric changes can be explained.",
+          "caution": "An overly easy dataset creates a false sense of quality."
+        },
+        {},
+        {},
+        {},
+        {},
+        {
+          "why": "AI quality also includes operations: latency, cost, tokens, rate limits, availability and fallback can directly affect experience.",
+          "apply": "Define SLOs and scenarios for timeout, quota limits, model outages and overly long responses.",
+          "good": "Monitor quality and operations together; an excellent answer that takes too long may still fail the user.",
+          "caution": "The most capable model is not always the right choice for every flow once cost and latency are considered."
+        }
+      ]
+    },
+    "es": {
+      "title": "Evaluación, regresión y observabilidad de IA",
+      "subtitle": "Mida calidad en sistemas probabilísticos sin depender de una única respuesta exacta.",
+      "sections": [
+        [
+          "Datasets de evaluación",
+          "Cree conjuntos representativos con criterios esperados, riesgos y casos difíciles; funcionan como regresión para prompts, modelos, RAG y agentes."
+        ],
+        [
+          "Rúbricas y métricas",
+          "Evalúe factualidad, relevancia, groundedness, completitud, seguridad, formato, latencia y costo."
+        ],
+        [
+          "Regresión de prompts/modelos",
+          "Si cambia system prompt, modelo, herramienta o base RAG, ejecute nuevamente el dataset y compare calidad, fallos, costo y latencia."
+        ],
+        [
+          "LLM-as-a-Judge",
+          "Otro modelo puede ayudar a escala, pero también tiene sesgos y variabilidad. Calibre con ejemplos humanos."
+        ],
+        [
+          "Observabilidad",
+          "Registre versión del modelo, prompt, fuentes, herramientas, latencia, tokens, errores y decisiones respetando privacidad."
+        ],
+        [
+          "Performance y costo",
+          "Pruebe rate limits, timeouts, fallback, indisponibilidad, tokens, concurrencia y carga."
+        ]
+      ],
+      "qa_tip": "Una buena evaluación combina métricas automáticas, muestras humanas y criterios ligados al riesgo real.",
+      "insights": [
+        {
+          "why": "Un buen dataset de evaluación representa tareas reales, casos difíciles y riesgos relevantes. Funciona como suite de regresión para cambios de prompt, modelo, RAG o herramientas.",
+          "apply": "Comience con casos reales anonimizados y agregue edge cases, fallos históricos y entradas adversariales.",
+          "good": "Versione el dataset y los criterios junto con la aplicación para explicar por qué cambia una métrica.",
+          "caution": "Un dataset demasiado fácil crea una falsa sensación de calidad."
+        },
+        {},
+        {},
+        {},
+        {},
+        {
+          "why": "La calidad de IA también incluye operación: latencia, costo, tokens, rate limits, disponibilidad y fallback pueden afectar directamente la experiencia.",
+          "apply": "Defina SLOs y escenarios para timeout, límites de cuota, indisponibilidad del modelo y respuestas demasiado largas.",
+          "good": "Monitoree calidad y operación juntas; una excelente respuesta que tarda demasiado puede fallar para el usuario.",
+          "caution": "El modelo más capaz no siempre es la opción adecuada para cada flujo cuando costo y latencia entran en la decisión."
+        }
+      ]
+    }
+  },
+  "ai-security": {
+    "_meta": {
+      "icon": "🛡️",
+      "color": "#dc2626",
+      "group": "future",
+      "official": null
+    },
+    "pt": {
+      "title": "Segurança, privacidade e Red Teaming de IA",
+      "subtitle": "Riscos de dados, instruções e integrações em sistemas baseados em modelos.",
+      "sections": [
+        [
+          "Prompt Injection",
+          "Entradas podem tentar alterar instruções, induzir uso indevido de ferramentas ou fazer o modelo priorizar conteúdo não confiável. Teste separação de instruções e dados."
+        ],
+        [
+          "Jailbreak e escopo",
+          "Avalie tentativas de contornar políticas, sair do domínio permitido ou obter conteúdo que o produto deveria recusar."
+        ],
+        [
+          "Vazamento de dados",
+          "Teste exposição de dados pessoais, segredos, documentos, contexto de outros usuários, system prompts e resultados de ferramentas."
+        ],
+        [
+          "RAG e conteúdo não confiável",
+          "Documentos recuperados podem conter instruções maliciosas ou informação incorreta. A recuperação não transforma automaticamente uma fonte em verdade."
+        ],
+        [
+          "Permissões de agentes",
+          "Princípio do menor privilégio, confirmações para ações críticas, allowlists, segregação de ambientes e logs são importantes quando a IA usa ferramentas."
+        ],
+        [
+          "LGPD e governança",
+          "Defina base legal, finalidade, minimização, retenção, fornecedores, residência de dados e processo de incidentes conforme o contexto da organização."
+        ]
+      ],
+      "qa_tip": "Faça Red Teaming apenas em ambientes e sistemas para os quais você tem autorização explícita.",
+      "insights": [
+        {
+          "why": "Prompt Injection ocorre quando conteúdo não confiável tenta alterar o comportamento esperado do sistema. Pode vir do usuário, de uma página recuperada por RAG ou de dados consumidos por um agente.",
+          "apply": "Teste instruções conflitantes, conteúdo externo malicioso e tentativas de fazer o modelo revelar dados ou executar ações fora do escopo.",
+          "good": "Separe dados de instruções, limite ferramentas e aplique autorização fora do modelo sempre que possível.",
+          "caution": "Não dependa apenas do system prompt como controle de segurança."
+        },
+        {},
+        {},
+        {},
+        {},
+        {
+          "why": "Governança define quais dados podem ser usados, onde podem ser processados, por quanto tempo ficam retidos e quem é responsável pela revisão.",
+          "apply": "Antes de usar IA com dados reais, verifique política corporativa, base legal, minimização, anonimização e configurações do fornecedor.",
+          "good": "Use dados sintéticos ou anonimizados para experimentos sempre que possível.",
+          "caution": "Copiar tickets, logs ou documentos para uma ferramenta externa pode expor dados pessoais, segredos ou propriedade intelectual."
+        }
+      ]
+    },
+    "en": {
+      "title": "AI Security, privacy and red teaming",
+      "subtitle": "Data, instruction and integration risks in model-based systems.",
+      "sections": [
+        [
+          "Prompt injection",
+          "Inputs may try to override instructions, misuse tools or make the model prioritize untrusted content. Test separation between instructions and data."
+        ],
+        [
+          "Jailbreak and scope",
+          "Evaluate attempts to bypass policies, leave the allowed domain or obtain content the product should refuse."
+        ],
+        [
+          "Data leakage",
+          "Test exposure of personal data, secrets, documents, other users’ context, system prompts and tool results."
+        ],
+        [
+          "RAG and untrusted content",
+          "Retrieved documents may contain malicious instructions or incorrect information. Retrieval does not make a source true."
+        ],
+        [
+          "Agent permissions",
+          "Least privilege, confirmation for critical actions, allowlists, environment separation and logs matter when AI uses tools."
+        ],
+        [
+          "Privacy and governance",
+          "Define purpose, minimization, retention, vendors, data residency and incident processes according to your organization and applicable law."
+        ]
+      ],
+      "qa_tip": "Red-team only systems and environments for which you have explicit authorization.",
+      "insights": [
+        {
+          "why": "Prompt Injection occurs when untrusted content attempts to change expected system behavior. It can come from a user, a RAG-retrieved page or data consumed by an agent.",
+          "apply": "Test conflicting instructions, malicious external content and attempts to make the model reveal data or execute out-of-scope actions.",
+          "good": "Separate data from instructions, restrict tools and enforce authorization outside the model whenever possible.",
+          "caution": "Do not rely on the system prompt alone as a security control."
+        },
+        {},
+        {},
+        {},
+        {},
+        {
+          "why": "Governance defines which data can be used, where it can be processed, how long it is retained and who is responsible for review.",
+          "apply": "Before using AI with real data, check corporate policy, legal basis, minimization, anonymization and provider settings.",
+          "good": "Use synthetic or anonymized data for experiments whenever possible.",
+          "caution": "Copying tickets, logs or documents into an external tool may expose personal data, secrets or intellectual property."
+        }
+      ]
+    },
+    "es": {
+      "title": "Seguridad, privacidad y Red Teaming de IA",
+      "subtitle": "Riesgos de datos, instrucciones e integraciones en sistemas basados en modelos.",
+      "sections": [
+        [
+          "Prompt Injection",
+          "Entradas pueden intentar cambiar instrucciones, usar herramientas indebidamente o priorizar contenido no confiable."
+        ],
+        [
+          "Jailbreak y alcance",
+          "Evalúe intentos de evitar políticas, salir del dominio permitido u obtener contenido que debería rechazarse."
+        ],
+        [
+          "Fuga de datos",
+          "Pruebe exposición de datos personales, secretos, documentos, contexto de otros usuarios, system prompts y resultados de herramientas."
+        ],
+        [
+          "RAG y contenido no confiable",
+          "Documentos recuperados pueden contener instrucciones maliciosas o información incorrecta."
+        ],
+        [
+          "Permisos de agentes",
+          "Mínimo privilegio, confirmación de acciones críticas, allowlists, separación de ambientes y logs son importantes."
+        ],
+        [
+          "Privacidad y gobernanza",
+          "Defina finalidad, minimización, retención, proveedores, residencia de datos y respuesta a incidentes según el contexto."
+        ]
+      ],
+      "qa_tip": "Realice Red Teaming solo en sistemas y ambientes con autorización explícita.",
+      "insights": [
+        {
+          "why": "Prompt Injection ocurre cuando contenido no confiable intenta cambiar el comportamiento esperado del sistema. Puede venir del usuario, de una página recuperada por RAG o de datos consumidos por un agente.",
+          "apply": "Pruebe instrucciones conflictivas, contenido externo malicioso e intentos de hacer que el modelo revele datos o ejecute acciones fuera de alcance.",
+          "good": "Separe datos de instrucciones, limite herramientas y aplique autorización fuera del modelo siempre que sea posible.",
+          "caution": "No dependa únicamente del system prompt como control de seguridad."
+        },
+        {},
+        {},
+        {},
+        {},
+        {
+          "why": "La gobernanza define qué datos pueden usarse, dónde pueden procesarse, cuánto tiempo se conservan y quién es responsable de la revisión.",
+          "apply": "Antes de usar IA con datos reales, revise política corporativa, base legal, minimización, anonimización y configuración del proveedor.",
+          "good": "Use datos sintéticos o anonimizados para experimentos siempre que sea posible.",
+          "caution": "Copiar tickets, logs o documentos a una herramienta externa puede exponer datos personales, secretos o propiedad intelectual."
+        }
+      ]
+    }
+  },
+  "sabia": {
+    "_meta": {
+      "icon": "🇧🇷",
+      "color": "#16a34a",
+      "group": "future",
+      "official": "https://www.maritaca.ai/"
+    },
+    "pt": {
+      "title": "Sabiá — IA brasileira",
+      "subtitle": "Família de modelos da Maritaca AI com foco em português e contexto brasileiro.",
+      "sections": [
+        [
+          "Onde se destaca",
+          "A documentação oficial destaca modelos Sabiá voltados a português/contexto brasileiro, raciocínio, uso de ferramentas e opções de processamento em território nacional."
+        ],
+        [
+          "Como QA pode usar",
+          "Análise de requisitos em português, classificação, síntese de documentos, experimentos com agentes e avaliações de contexto local."
+        ],
+        [
+          "Ponto de atenção",
+          "Confirme modelo, residência de dados, retenção, custo e política corporativa para cada caso de uso."
+        ]
+      ],
+      "qa_tip": "Use contexto brasileiro como vantagem, mas continue validando fatos, fontes e regras do produto.",
+      "insights": [
+        {},
+        {},
+        {}
+      ]
+    },
+    "en": {
+      "title": "Sabiá — Brazilian AI",
+      "subtitle": "Maritaca AI model family focused on Portuguese and Brazilian context.",
+      "sections": [
+        [
+          "Strengths",
+          "Official documentation highlights Sabiá models for Portuguese/Brazilian context, reasoning, tool use and processing options in Brazil."
+        ],
+        [
+          "QA use",
+          "Portuguese requirements analysis, classification, document synthesis, agent experiments and local-context evaluation."
+        ],
+        [
+          "Watch out",
+          "Confirm model, data residency, retention, cost and corporate policy for each use case."
+        ]
+      ],
+      "qa_tip": "Local context is useful, but facts, sources and product rules still require validation.",
+      "insights": [
+        {},
+        {},
+        {}
+      ]
+    },
+    "es": {
+      "title": "Sabiá — IA brasileña",
+      "subtitle": "Familia de modelos de Maritaca AI con foco en portugués y contexto brasileño.",
+      "sections": [
+        [
+          "Dónde destaca",
+          "La documentación oficial destaca modelos Sabiá para portugués/contexto brasileño, razonamiento, herramientas y opciones de procesamiento en Brasil."
+        ],
+        [
+          "Uso en QA",
+          "Análisis de requisitos en portugués, clasificación, síntesis documental, experimentos con agentes y evaluación de contexto local."
+        ],
+        [
+          "Atención",
+          "Confirme modelo, residencia de datos, retención, costo y política corporativa."
+        ]
+      ],
+      "qa_tip": "El contexto local ayuda, pero hechos, fuentes y reglas del producto requieren validación.",
+      "insights": [
+        {},
+        {},
+        {}
+      ]
+    }
+  },
+  "microsoft-copilot": {
+    "_meta": {
+      "icon": "🪟",
+      "color": "#2563eb",
+      "group": "future",
+      "official": "https://www.microsoft.com/microsoft-365-copilot"
+    },
+    "pt": {
+      "title": "Microsoft Copilot",
+      "subtitle": "Assistentes e recursos de IA integrados ao ecossistema Microsoft e Microsoft 365.",
+      "sections": [
+        [
+          "Produtividade",
+          "Pode apoiar criação, síntese e trabalho com informações em produtos Microsoft conforme licenças e integrações disponíveis."
+        ],
+        [
+          "Como QA pode usar",
+          "Resumir reuniões, organizar documentação, apoiar relatórios, analisar planilhas e preparar comunicação de qualidade em ambientes corporativos."
+        ],
+        [
+          "Ponto de atenção",
+          "Permissões, dados corporativos e capacidades dependem da configuração do tenant e do produto utilizado."
+        ]
+      ],
+      "qa_tip": "Em ambientes corporativos, confirme governança e permissões antes de trabalhar com dados sensíveis.",
+      "insights": [
+        {},
+        {},
+        {}
+      ]
+    },
+    "en": {
+      "title": "Microsoft Copilot",
+      "subtitle": "AI assistants and capabilities integrated with Microsoft and Microsoft 365 ecosystems.",
+      "sections": [
+        [
+          "Productivity",
+          "Can support creation, synthesis and information work in Microsoft products depending on licensing and integrations."
+        ],
+        [
+          "QA use",
+          "Summarize meetings, organize documentation, support reports, analyze spreadsheets and prepare quality communication."
+        ],
+        [
+          "Watch out",
+          "Permissions, corporate data and capabilities depend on tenant configuration and product."
+        ]
+      ],
+      "qa_tip": "Confirm governance and permissions before using sensitive corporate data.",
+      "insights": [
+        {},
+        {},
+        {}
+      ]
+    },
+    "es": {
+      "title": "Microsoft Copilot",
+      "subtitle": "Asistentes y capacidades de IA integrados al ecosistema Microsoft y Microsoft 365.",
+      "sections": [
+        [
+          "Productividad",
+          "Puede apoyar creación, síntesis y trabajo con información según licencias e integraciones."
+        ],
+        [
+          "Uso en QA",
+          "Resumir reuniones, organizar documentación, apoyar informes, analizar hojas de cálculo y preparar comunicación de calidad."
+        ],
+        [
+          "Atención",
+          "Permisos, datos corporativos y capacidades dependen de la configuración del tenant y producto."
+        ]
+      ],
+      "qa_tip": "Confirme gobernanza y permisos antes de usar datos corporativos sensibles.",
+      "insights": [
+        {},
+        {},
+        {}
+      ]
+    }
+  },
+  "gemini-notebook": {
+    "_meta": {
+      "icon": "📓",
+      "color": "#4285f4",
+      "group": "future",
+      "official": "https://notebooklm.google.com/"
+    },
+    "pt": {
+      "title": "Gemini Notebook",
+      "subtitle": "Ferramenta do Google focada em pesquisa e trabalho fundamentado em fontes fornecidas.",
+      "sections": [
+        [
+          "Fontes primeiro",
+          "A proposta é trabalhar com materiais selecionados pelo usuário, ajudando a explorar, conectar e sintetizar conhecimento a partir dessas fontes."
+        ],
+        [
+          "Como QA pode usar",
+          "Estudar syllabus, requisitos, especificações, atas e documentação técnica mantendo a análise centrada no conjunto de fontes fornecido."
+        ],
+        [
+          "Ponto de atenção",
+          "Mesmo respostas fundamentadas precisam de conferência nas fontes originais quando a decisão for crítica."
+        ]
+      ],
+      "qa_tip": "Ótimo para estudo e documentação: sempre volte à fonte quando precisão for requisito.",
+      "insights": [
+        {},
+        {},
+        {}
+      ]
+    },
+    "en": {
+      "title": "Gemini Notebook",
+      "subtitle": "Google tool focused on research grounded in sources you provide.",
+      "sections": [
+        [
+          "Sources first",
+          "It works with selected materials to help explore, connect and synthesize knowledge grounded in those sources."
+        ],
+        [
+          "QA use",
+          "Study syllabi, requirements, specifications, meeting notes and technical documentation while keeping analysis source-centered."
+        ],
+        [
+          "Watch out",
+          "Even grounded answers should be checked against original sources for critical decisions."
+        ]
+      ],
+      "qa_tip": "Great for study and documentation; return to the source when accuracy is critical.",
+      "insights": [
+        {},
+        {},
+        {}
+      ]
+    },
+    "es": {
+      "title": "Gemini Notebook",
+      "subtitle": "Herramienta de Google enfocada en investigación basada en fuentes proporcionadas.",
+      "sections": [
+        [
+          "Fuentes primero",
+          "Trabaja con materiales seleccionados para explorar, conectar y sintetizar conocimiento basado en esas fuentes."
+        ],
+        [
+          "Uso en QA",
+          "Estudiar syllabus, requisitos, especificaciones, actas y documentación técnica."
+        ],
+        [
+          "Atención",
+          "Incluso respuestas fundamentadas deben verificarse en las fuentes originales para decisiones críticas."
+        ]
+      ],
+      "qa_tip": "Excelente para estudio y documentación; vuelva a la fuente cuando la precisión sea crítica.",
+      "insights": [
+        {},
+        {},
+        {}
+      ]
+    }
+  },
+  "midjourney": {
+    "_meta": {
+      "icon": "🎨",
+      "color": "#7c3aed",
+      "group": "future",
+      "official": "https://www.midjourney.com/"
+    },
+    "pt": {
+      "title": "Midjourney",
+      "subtitle": "Ferramenta especializada em geração visual por IA.",
+      "sections": [
+        [
+          "Uso típico",
+          "Exploração de conceitos visuais, ilustrações e variações criativas a partir de instruções textuais e referências."
+        ],
+        [
+          "Como QA pode usar",
+          "Criar material de treinamento, conceitos de mockup e dados visuais sintéticos quando apropriado."
+        ],
+        [
+          "Ponto de atenção",
+          "Revise direitos, marca, vieses, conteúdo indevido e adequação do material antes de publicar."
+        ]
+      ],
+      "qa_tip": "Imagem bonita não significa imagem correta: valide conteúdo, contexto e direitos.",
+      "insights": [
+        {},
+        {},
+        {}
+      ]
+    },
+    "en": {
+      "title": "Midjourney",
+      "subtitle": "AI tool specialized in visual generation.",
+      "sections": [
+        [
+          "Typical use",
+          "Explore visual concepts, illustrations and creative variations from instructions and references."
+        ],
+        [
+          "QA use",
+          "Create training material, mockup concepts and synthetic visual data where appropriate."
+        ],
+        [
+          "Watch out",
+          "Review rights, brand, bias, unsafe content and suitability before publishing."
+        ]
+      ],
+      "qa_tip": "A beautiful image is not necessarily a correct image: validate content, context and rights.",
+      "insights": [
+        {},
+        {},
+        {}
+      ]
+    },
+    "es": {
+      "title": "Midjourney",
+      "subtitle": "Herramienta especializada en generación visual con IA.",
+      "sections": [
+        [
+          "Uso típico",
+          "Explorar conceptos visuales, ilustraciones y variaciones creativas."
+        ],
+        [
+          "Uso en QA",
+          "Crear material de entrenamiento, conceptos de mockup y datos visuales sintéticos cuando corresponda."
+        ],
+        [
+          "Atención",
+          "Revise derechos, marca, sesgos, contenido inadecuado y adecuación antes de publicar."
+        ]
+      ],
+      "qa_tip": "Una imagen bonita no significa una imagen correcta: valide contenido, contexto y derechos.",
+      "insights": [
+        {},
+        {},
+        {}
+      ]
+    }
+  },
+  "runway": {
+    "_meta": {
+      "icon": "🎬",
+      "color": "#111827",
+      "group": "future",
+      "official": "https://runwayml.com/"
+    },
+    "pt": {
+      "title": "Runway",
+      "subtitle": "Plataforma especializada em criação e edição de vídeo com IA.",
+      "sections": [
+        [
+          "Uso típico",
+          "Geração e transformação de conteúdo audiovisual para fluxos criativos."
+        ],
+        [
+          "Como QA pode usar",
+          "Produzir demonstrações, materiais educacionais e protótipos de conteúdo para treinamento."
+        ],
+        [
+          "Ponto de atenção",
+          "Vídeo generativo exige revisão de identidade, direitos, coerência temporal, áudio e conteúdo enganoso."
+        ]
+      ],
+      "qa_tip": "Trate vídeo gerado como conteúdo que precisa de QA editorial e visual antes de publicação.",
+      "insights": [
+        {},
+        {},
+        {}
+      ]
+    },
+    "en": {
+      "title": "Runway",
+      "subtitle": "Platform specialized in AI video creation and editing.",
+      "sections": [
+        [
+          "Typical use",
+          "Generate and transform audiovisual content for creative workflows."
+        ],
+        [
+          "QA use",
+          "Produce demos, educational material and training-content prototypes."
+        ],
+        [
+          "Watch out",
+          "Generative video needs review for identity, rights, temporal consistency, audio and misleading content."
+        ]
+      ],
+      "qa_tip": "Treat generated video as content requiring editorial and visual QA before publication.",
+      "insights": [
+        {},
+        {},
+        {}
+      ]
+    },
+    "es": {
+      "title": "Runway",
+      "subtitle": "Plataforma especializada en creación y edición de video con IA.",
+      "sections": [
+        [
+          "Uso típico",
+          "Generar y transformar contenido audiovisual para flujos creativos."
+        ],
+        [
+          "Uso en QA",
+          "Producir demos, material educativo y prototipos de contenido."
+        ],
+        [
+          "Atención",
+          "El video generativo requiere revisión de identidad, derechos, coherencia temporal, audio y contenido engañoso."
+        ]
+      ],
+      "qa_tip": "Trate el video generado como contenido que requiere QA editorial y visual antes de publicar.",
+      "insights": [
+        {},
+        {},
+        {}
+      ]
+    }
+  },
+  "elevenlabs": {
+    "_meta": {
+      "icon": "🎙️",
+      "color": "#111827",
+      "group": "future",
+      "official": "https://elevenlabs.io/"
+    },
+    "pt": {
+      "title": "ElevenLabs",
+      "subtitle": "Plataforma de IA voltada a voz e áudio generativos.",
+      "sections": [
+        [
+          "Uso típico",
+          "Síntese e transformação de voz e áudio para experiências e conteúdo."
+        ],
+        [
+          "Como QA pode usar",
+          "Narrações de treinamento, protótipos de voz e testes de experiências com áudio, respeitando consentimento."
+        ],
+        [
+          "Ponto de atenção",
+          "Voz sintética envolve identidade, consentimento, fraude, direitos e risco de impersonação."
+        ]
+      ],
+      "qa_tip": "Nunca clone ou publique a voz de uma pessoa sem autorização adequada.",
+      "insights": [
+        {},
+        {},
+        {}
+      ]
+    },
+    "en": {
+      "title": "ElevenLabs",
+      "subtitle": "AI platform focused on generative voice and audio.",
+      "sections": [
+        [
+          "Typical use",
+          "Voice and audio synthesis/transformation for experiences and content."
+        ],
+        [
+          "QA use",
+          "Training narration, voice prototypes and audio-experience testing with proper consent."
+        ],
+        [
+          "Watch out",
+          "Synthetic voice involves identity, consent, fraud, rights and impersonation risks."
+        ]
+      ],
+      "qa_tip": "Never clone or publish a person’s voice without appropriate authorization.",
+      "insights": [
+        {},
+        {},
+        {}
+      ]
+    },
+    "es": {
+      "title": "ElevenLabs",
+      "subtitle": "Plataforma de IA enfocada en voz y audio generativos.",
+      "sections": [
+        [
+          "Uso típico",
+          "Síntesis y transformación de voz/audio para experiencias y contenido."
+        ],
+        [
+          "Uso en QA",
+          "Narraciones de entrenamiento, prototipos de voz y pruebas de experiencias de audio con consentimiento."
+        ],
+        [
+          "Atención",
+          "La voz sintética implica identidad, consentimiento, fraude, derechos y riesgo de suplantación."
+        ]
+      ],
+      "qa_tip": "Nunca clone o publique la voz de una persona sin autorización adecuada.",
+      "insights": [
+        {},
+        {},
+        {}
+      ]
+    }
+  },
+  "ai-first-day": {
+    "_meta": {
+      "icon": "👣",
+      "color": "#0284c7",
+      "group": "future",
+      "official": null
+    },
+    "pt": {
+      "title": "Meu primeiro dia usando IA como QA",
+      "subtitle": "Uma jornada guiada para aplicar IA em tarefas reais sem terceirizar o raciocínio do QA.",
+      "sections": [
+        [
+          "1. Comece por uma User Story",
+          "Leia e faça sua própria análise rápida. Depois forneça a Story à IA e peça ambiguidades, riscos e perguntas ao PO. Compare as duas análises."
+        ],
+        [
+          "2. Gere ideias de teste",
+          "Peça cenários positivos, negativos e de borda. Não importe tudo automaticamente: revise duplicidades, regras inventadas e riscos ausentes."
+        ],
+        [
+          "3. Transforme em casos executáveis",
+          "Escolha os cenários relevantes e peça estrutura no formato usado pelo time. Confirme dados, precondições e Expected Results com o requisito real."
+        ],
+        [
+          "4. Use IA na automação",
+          "Peça ajuda com um esqueleto Playwright/Appium/API e depois revise seletores, waits, assertions, dados, arquitetura e flakiness."
+        ],
+        [
+          "5. Investigue uma falha",
+          "Forneça logs/evidências sem dados sensíveis e peça separação entre fatos, hipóteses e próximos passos. Reproduza antes de concluir causa."
+        ],
+        [
+          "6. Documente e aprenda",
+          "Use IA para melhorar clareza de BUGs e relatórios, mas preserve evidências e decisões do time. Registre o que a IA ajudou e onde errou."
+        ]
+      ],
+      "qa_tip": "Comece pequeno: tarefas verificáveis ensinam mais sobre IA do que delegar um fluxo inteiro no primeiro dia.",
+      "insights": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    "en": {
+      "title": "My first day using AI as QA",
+      "subtitle": "A guided journey to apply AI to real work without outsourcing QA reasoning.",
+      "sections": [
+        [
+          "1. Start with a User Story",
+          "Do your own quick analysis first, then ask AI for ambiguities, risks and PO questions. Compare both."
+        ],
+        [
+          "2. Generate test ideas",
+          "Ask for positive, negative and boundary scenarios. Review duplicates, invented rules and missing risks."
+        ],
+        [
+          "3. Turn ideas into executable tests",
+          "Select relevant scenarios and structure them in your team format. Verify data, preconditions and expected results."
+        ],
+        [
+          "4. Use AI in automation",
+          "Ask for a Playwright/Appium/API skeleton, then review selectors, waits, assertions, data, architecture and flakiness."
+        ],
+        [
+          "5. Investigate a failure",
+          "Provide sanitized logs/evidence and ask AI to separate facts, hypotheses and next steps. Reproduce before concluding root cause."
+        ],
+        [
+          "6. Document and learn",
+          "Use AI to improve bug/report clarity while preserving evidence and team decisions. Track where AI helped and where it failed."
+        ]
+      ],
+      "qa_tip": "Start small: verifiable tasks teach more than delegating an entire workflow on day one.",
+      "insights": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    "es": {
+      "title": "Mi primer día usando IA como QA",
+      "subtitle": "Una jornada guiada para aplicar IA al trabajo real sin delegar el razonamiento de QA.",
+      "sections": [
+        [
+          "1. Comience con una User Story",
+          "Haga su análisis y luego pida a IA ambigüedades, riesgos y preguntas al PO. Compare ambos."
+        ],
+        [
+          "2. Genere ideas de prueba",
+          "Pida positivos, negativos y boundary. Revise duplicidades, reglas inventadas y riesgos ausentes."
+        ],
+        [
+          "3. Convierta ideas en casos ejecutables",
+          "Seleccione escenarios relevantes y estructúrelos en el formato del equipo. Verifique datos, precondiciones y resultados."
+        ],
+        [
+          "4. Use IA en automatización",
+          "Pida un esqueleto Playwright/Appium/API y revise selectores, waits, assertions, datos, arquitectura y flakiness."
+        ],
+        [
+          "5. Investigue un fallo",
+          "Proporcione logs/evidencias sin datos sensibles y separe hechos, hipótesis y próximos pasos. Reproduzca antes de concluir causa."
+        ],
+        [
+          "6. Documente y aprenda",
+          "Use IA para mejorar claridad de bugs e informes preservando evidencias y decisiones."
+        ]
+      ],
+      "qa_tip": "Comience pequeño: tareas verificables enseñan más que delegar todo el flujo el primer día.",
+      "insights": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    }
+  },
+  "ai-radar": {
+    "_meta": {
+      "icon": "📡",
+      "color": "#6366f1",
+      "group": "future",
+      "official": null
+    },
+    "pt": {
+      "title": "Radar de IA para QA",
+      "subtitle": "Como acompanhar a evolução de IA sem transformar o estudo em uma corrida atrás de toda novidade.",
+      "sections": [
+        [
+          "O que acompanhar",
+          "Mudanças em modelos, coding agents, avaliação de LLMs, segurança, RAG, protocolos de ferramentas e integrações relevantes para engenharia."
+        ],
+        [
+          "Fontes primárias",
+          "Prefira documentação, changelogs, blogs técnicos e research das próprias empresas, além de padrões e pesquisas reconhecidas."
+        ],
+        [
+          "Filtre pelo impacto",
+          "Pergunte: isso muda como testamos? reduz trabalho repetitivo? cria um risco novo? exige nova habilidade? Se não, talvez não precise entrar na sua prioridade agora."
+        ],
+        [
+          "Teste antes de recomendar",
+          "Uma demo impressionante não substitui teste com seu contexto, dados e restrições. Compare qualidade, custo, privacidade e manutenção."
+        ],
+        [
+          "Evite hype",
+          "Separe anúncio, benchmark do fornecedor, experiência independente e evidência no seu produto. Nenhuma dessas fontes sozinha conta toda a história."
+        ]
+      ],
+      "qa_tip": "Atualização contínua não significa ansiedade contínua: acompanhe o que muda seu trabalho e preserve fundamentos.",
+      "insights": [
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    "en": {
+      "title": "AI Radar for QA",
+      "subtitle": "Follow AI evolution without turning learning into a race after every announcement.",
+      "sections": [
+        [
+          "What to watch",
+          "Changes in models, coding agents, LLM evaluation, security, RAG, tool protocols and engineering integrations."
+        ],
+        [
+          "Primary sources",
+          "Prefer official docs, changelogs, technical blogs and research, plus recognized standards and research."
+        ],
+        [
+          "Filter by impact",
+          "Ask whether it changes testing, reduces repetitive work, creates new risk or requires a new skill."
+        ],
+        [
+          "Test before recommending",
+          "A strong demo is not a substitute for testing with your context, data and constraints. Compare quality, cost, privacy and maintenance."
+        ],
+        [
+          "Avoid hype",
+          "Separate announcements, vendor benchmarks, independent experience and evidence in your product."
+        ]
+      ],
+      "qa_tip": "Continuous learning does not require continuous anxiety: follow what changes your work and keep fundamentals strong.",
+      "insights": [
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    "es": {
+      "title": "Radar de IA para QA",
+      "subtitle": "Siga la evolución de IA sin convertir el aprendizaje en una carrera detrás de cada novedad.",
+      "sections": [
+        [
+          "Qué seguir",
+          "Cambios en modelos, coding agents, evaluación de LLMs, seguridad, RAG, protocolos de herramientas e integraciones."
+        ],
+        [
+          "Fuentes primarias",
+          "Prefiera documentación, changelogs, blogs técnicos y research oficiales, además de estándares e investigaciones reconocidas."
+        ],
+        [
+          "Filtre por impacto",
+          "Pregunte si cambia cómo probamos, reduce trabajo repetitivo, crea un riesgo nuevo o exige una habilidad."
+        ],
+        [
+          "Pruebe antes de recomendar",
+          "Una demo no sustituye pruebas con su contexto, datos y restricciones. Compare calidad, costo, privacidad y mantenimiento."
+        ],
+        [
+          "Evite hype",
+          "Separe anuncios, benchmarks del proveedor, experiencia independiente y evidencia en su producto."
+        ]
+      ],
+      "qa_tip": "Actualización continua no significa ansiedad continua: siga lo que cambia su trabajo y preserve fundamentos.",
+      "insights": [
         {},
         {},
         {},
