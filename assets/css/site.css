@@ -690,3 +690,77 @@ html[lang="es"] #testDataHeaderBtn span{font-size:.88em!important}
   /* Preserve the approved down-arrow placement. Back-to-top gets footer-safe bottom dynamically. */
   .back-to-top{transition:bottom .16s ease,opacity .18s ease,visibility .18s ease,transform .2s ease!important}
 }
+
+/* QA Lab Brasil 3.2.5.4-M2 - FINAL mobile assessment parity from production baseline.
+   WEB is reference only and remains untouched. On mobile, assessment navigation
+   belongs to the question card flow so it never overlays answers/review/notice. */
+@media(max-width:820px){
+  body.qa-sim-active .sim-question{
+    position:relative!important;
+    box-sizing:border-box!important;
+    padding-bottom:14px!important;
+  }
+  body.qa-sim-active .sim-nav{
+    position:static!important;
+    left:auto!important;
+    right:auto!important;
+    bottom:auto!important;
+    width:100%!important;
+    margin:14px 0 0!important;
+    box-sizing:border-box!important;
+    transform:none!important;
+    opacity:1!important;
+    visibility:visible!important;
+    pointer-events:auto!important;
+  }
+  body.qa-sim-active .qa-answer-notice{
+    margin:14px 0!important;
+  }
+  body.qa-sim-active .sim-nav.qa-assessment-nav-outside{
+    opacity:1!important;
+    visibility:visible!important;
+    pointer-events:auto!important;
+    transform:none!important;
+  }
+}
+
+/* QA Lab Brasil 3.2.5.4-M5 - audited MOBILE viewport refinement.
+   WEB is reference-only and is intentionally untouched.
+   1) Keep the approved M2/M3 assessment flow geometry.
+   2) Use the recovered mobile viewport instead of reserving a hidden header-sized gap.
+   3) Keep the required-answer sentence on one readable line on common phone widths. */
+@media(max-width:820px){
+  body.qa-sim-active .qa-answer-notice{
+    font-size:12px!important;
+    line-height:1.25!important;
+    white-space:nowrap!important;
+  }
+}
+@media(max-width:360px){
+  body.qa-sim-active .qa-answer-notice{font-size:11px!important}
+}
+
+/* QA Lab Brasil 3.2.5.4-M5.1 - approved mobile notice typography refinement only.
+   Increase the required-answer text ~12.5% while preserving the approved
+   one-line layout, notice box geometry, spacing and all assessment behavior. */
+@media(max-width:820px){
+  body.qa-sim-active .qa-answer-notice{
+    font-size:13.5px!important;
+    line-height:1.25!important;
+    white-space:nowrap!important;
+  }
+}
+@media(max-width:360px){
+  body.qa-sim-active .qa-answer-notice{font-size:12px!important}
+}
+
+/* QA Lab Brasil 3.2.5.4-M5.2 - mobile back-to-top light-blue clearance only.
+   Keep the approved arrow size/behavior and footer content. On mobile, enlarge
+   the light-blue breathing area before the institutional footer so the 42px
+   back-to-top control (plus its 12px safety gap) sits fully on light blue,
+   never straddling the white content card. Slightly compact footer vertical
+   padding to avoid unnecessarily increasing the total page height. */
+@media(max-width:820px){
+  .site-institutional-footer{margin-top:58px!important}
+  .site-footer-inner{padding-top:20px!important;padding-bottom:18px!important}
+}

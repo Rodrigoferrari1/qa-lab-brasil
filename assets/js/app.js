@@ -900,7 +900,7 @@ function qaDraftClear(kind){localStorage.removeItem(kind==='ctfl'?QA_CTFL_DRAFT:
 function qaDraftLoad(kind){try{const v=JSON.parse(localStorage.getItem(kind==='ctfl'?QA_CTFL_DRAFT:QA_LOGIC_DRAFT)||'null');if(v&&kind==='ctfl')v.review=new Set(v.review||[]);return v}catch(_){return null}}
 function qaHasActiveAssessment(){return !!(CTFL_SESSION||LOGIC_SESSION||localStorage.getItem(QA_CTFL_DRAFT)||localStorage.getItem(QA_LOGIC_DRAFT))}
 function qaConfirmLeaveAssessment(){return !qaHasActiveAssessment()||confirm(qaSessionText('leave'))}
-function qaShowAnswerNotice(){let n=document.querySelector('.qa-answer-notice');if(!n){n=document.createElement('div');n.className='qa-answer-notice';n.setAttribute('role','alert');n.textContent=qaSessionText('answer');let card=document.querySelector('.sim-question');card?.insertBefore(n,card.querySelector('.sim-nav'))}if(!n)return;void n.offsetHeight;n.classList.add('is-visible');requestAnimationFrame(()=>{qaUpdateSimNavFooterClearance();void n.offsetHeight;n.scrollIntoView({block:'nearest',behavior:'smooth'})})}
+function qaShowAnswerNotice(){let n=document.querySelector('.qa-answer-notice');if(!n){n=document.createElement('div');n.className='qa-answer-notice';n.setAttribute('role','alert');n.textContent=qaSessionText('answer');let card=document.querySelector('.sim-question');card?.insertBefore(n,card.querySelector('.sim-nav'))}if(!n)return;void n.offsetHeight;n.classList.add('is-visible');requestAnimationFrame(()=>{qaUpdateSimNavFooterClearance();void n.offsetHeight;if(window.innerWidth<=820){qaMobileEnsureAssessmentTailVisible()}else{n.scrollIntoView({block:'nearest',behavior:'smooth'})}})}
 function qaClearAnswerNotice(){document.querySelector('.qa-answer-notice')?.remove();requestAnimationFrame(()=>qaUpdateSimNavFooterClearance())}
 function qaEnhanceOptions(){document.querySelectorAll('.sim-option').forEach((b,i)=>{b.setAttribute('type','button');b.setAttribute('role','radio');b.setAttribute('aria-checked',b.classList.contains('selected')?'true':'false');b.setAttribute('tabindex','0');if(b.classList.contains('selected')&&!b.querySelector('.qa-selected-mark'))b.insertAdjacentHTML('beforeend','<span class="qa-selected-mark" aria-hidden="true">✓</span>');b.addEventListener('keydown',e=>{if(e.key===' '||e.key==='Enter'){e.preventDefault();b.click()}})});}
 function qaFitAssessmentViewport(){document.body.classList.toggle('qa-assessment-page',['simulators','logic-lab'].includes(qaRouteKey()));}
@@ -1130,12 +1130,24 @@ function qa3254HasOffensive(value){
   const t=qa3254NormalizeLooseText(value);
   if(!t)return false;
   const patterns=[
-    /\bmerd+a\b/,/\bporr+a\b/,/\bcaralh+o\b/,/\bbost+a\b/,
-    /\barrombad[oa]s?\b/,/\bidiot+a?s?\b/,/\bimbecil\w*\b/,
-    /\bfilh[oa]\s+d[ae]\s+put+a\b/,/\bput+a\b/,
+    /* PT-BR */
+    /\bmerd+a\b/,/\bporr+a\b/,/\bcaralh+o\b/,/\bbost+a\b/,/\bporcari+a\b/,/\blix+o\b/,
+    /\barrombad[oa]s?\b/,/\bburr[oa]s?\b/,/\bidiot+a?s?\b/,/\bimbecis?\b/,/\bcabac[oa]s?\b/,
+    /\bput[ao]s?\b/,/\bfilh[oa]\s+d[ae]\s+put+a\b/,
+    /\bse\s+fud(er|a|endo)\b/,/\bse\s+fod(er|a|endo)\b/,
     /\b(vai|va)\s+se\s+fud(er|a|endo)\b/,/\b(vai|va)\s+se\s+fod(er|a|endo)\b/,
-    /\b(tomar?|toma|vai\s+tomar)\s+(no|nu)\s+cu\b/,
-    /\bfod+a\s*se\b/,/\bfud+a\s*se\b/
+    /\b(tomar?|toma|vai\s+tomar)\s+(no|nu)\s+cu\b/,/\bfod+a\s*se\b/,/\bfud+a\s*se\b/,
+    /\bcuz+a[oa]s?\b/,
+    /* ES */
+    /\bmierd+a\b/,/\bgilipollas\b/,/\bcabron(?:es|a|as)?\b/,/\bpendej[oa]s?\b/,/\bculer[oa]s?\b/,
+    /\bcono\b/,/\bjoder\b/,/\bput[oa]s?\b/,/\bestupid[oa]s?\b/,/\bidiot+a?s?\b/,/\bimbeciles?\b/,
+    /\bhij[oa]\s+de(?:\s+la)?\s+put+a\b/,/\bvete\s+a\s+la\s+mierd+a\b/,
+    /\bput+a\s+que\s+(te|lo|la)\s+pario\b/,
+    /* EN */
+    /\bidiots?\b/,/\bmorons?\b/,/\bstupid\b/,/\bdumbass(?:es)?\b/,/\bassholes?\b/,/\bbastards?\b/,
+    /\bbullshit\b/,/\bshit\b/,/\bfuck(?:er|ers|ing|ed)?\b/,/\bmotherfuck(?:er|ers|ing)?\b/,/\bbitches?\b/,
+    /\bson\s+of\s+a\s+bitch\b/,/\bpiece\s+of\s+shit\b/,/\bfuck\s+you\b/,/\bfuck\s+off\b/,
+    /\bgo\s+fuck\s+yourself\b/
   ];
   return patterns.some(re=>re.test(t));
 }
@@ -1179,16 +1191,24 @@ function qa3254MobileFocusDestination(key){
   if(window.innerWidth>820)return;
   if(!['simulators','logic-lab','test-data-generator'].includes(key))return;
   const focus=()=>{
+    /* Async question banks can finish after the first navigation frame.
+       Retry only while we are still on the requested route so one tap is
+       enough to both navigate and reveal the rendered destination. */
+    if(qaRouteKey()!==key)return;
     const main=document.getElementById('main');
-    const target=main?.querySelector('.sim-question-head,.topic-head,.tool-head,.test-data-head,h1')||main;
-    if(!target)return;
+    if(!main)return;
+    let target=null;
+    if(key==='simulators')target=main.querySelector('.sim-question-head,.topic-head,h1');
+    else if(key==='logic-lab')target=main.querySelector('.sim-question-head,.logic-head,.topic-head,h1');
+    else target=main.querySelector('.tool-head,.test-data-head,.topic-head,h1');
+    target=target||main;
     const top=document.querySelector('.top');
     const offset=(top?.getBoundingClientRect().height||0)+8;
     const y=Math.max(0,window.scrollY+target.getBoundingClientRect().top-offset);
     window.scrollTo({top:y,behavior:'smooth'});
   };
   requestAnimationFrame(()=>requestAnimationFrame(focus));
-  setTimeout(focus,140);
+  [120,320,650].forEach(ms=>setTimeout(focus,ms));
 }
 const qa3254Navigate=qaNavigate;
 qaNavigate=function(key){
@@ -1199,21 +1219,18 @@ qaNavigate=function(key){
 
 function qa3254AssessmentMetrics(){
   if(window.innerWidth>820||!document.body.classList.contains('qa-sim-active'))return;
-  const card=document.querySelector('.sim-question'),answers=card?.querySelector('.sim-options'),nav=document.querySelector('.sim-nav');
+  const card=document.querySelector('.sim-question'),nav=document.querySelector('.sim-nav');
   if(!card||!nav)return;
-  /* Keep the approved G horizontal parity. */
-  if(answers){const r=answers.getBoundingClientRect();nav.style.setProperty('left',Math.round(r.left)+'px','important');nav.style.setProperty('right','auto','important');nav.style.setProperty('width',Math.round(r.width)+'px','important')}
-  /* Reserve actual nav height plus a safe white gap so long CTFL questions never sit behind it. */
-  const reserve=Math.ceil(nav.getBoundingClientRect().height)+42;
-  card.style.setProperty('padding-bottom',reserve+'px','important');
+  /* Mobile M2: nav is in normal card flow. Do not reserve fixed-nav space or
+     apply viewport coordinates; CSS owns the responsive mobile geometry. */
+  card.style.setProperty('padding-bottom','14px','important');
+  nav.style.removeProperty('left');nav.style.removeProperty('right');nav.style.removeProperty('width');nav.style.removeProperty('bottom');
 }
 function qa3254AssessmentNavVisibility(){
   if(window.innerWidth>820)return;
-  const nav=document.querySelector('.sim-nav'),card=document.querySelector('.sim-question');
-  if(!nav||!card)return;
-  const r=card.getBoundingClientRect();
-  const visible=r.bottom>90 && r.top<window.innerHeight-28;
-  nav.classList.toggle('qa-assessment-nav-outside',!visible);
+  /* Mobile M2: the nav scrolls naturally with its card, so no viewport-driven
+     hide/show state is required. */
+  document.querySelector('.sim-nav')?.classList.remove('qa-assessment-nav-outside');
 }
 function qa3254BackToTopFooterClearance(){
   if(window.innerWidth>820)return;
@@ -1232,3 +1249,87 @@ ctflRenderQuestion=function(){qa3254CtflRender();requestAnimationFrame(()=>reque
 const qa3254LogicRender=logicRenderQuestion;
 logicRenderQuestion=function(){qa3254LogicRender();requestAnimationFrame(()=>requestAnimationFrame(()=>{qa3254MobileRefresh();qa3252MobileScrollTo(document.querySelector('.sim-question-head')||document.querySelector('.sim-question'),6)}))};
 setTimeout(qa3254MobileRefresh,80);
+
+
+/* QA Lab Brasil 3.2.5.4-M2 - audited mobile assessment viewport helpers. */
+function qaMobileAssessmentTopOffset(){
+  if(window.innerWidth>820)return 12;
+  const top=document.querySelector('.top');
+  return Math.max(8,(top?.getBoundingClientRect().height||0)+8);
+}
+function qaMobileFocusAssessmentStart(){
+  if(window.innerWidth>820||!document.body.classList.contains('qa-sim-active'))return;
+  const head=document.querySelector('.sim-question-head'),card=document.querySelector('.sim-question');
+  const target=head||card;if(!target)return;
+  requestAnimationFrame(()=>requestAnimationFrame(()=>{
+    const offset=qaMobileAssessmentTopOffset();
+    const y=Math.max(0,window.scrollY+target.getBoundingClientRect().top-offset);
+    window.scrollTo({top:y,behavior:'smooth'});
+  }));
+}
+function qaMobileEnsureAssessmentTailVisible(){
+  if(window.innerWidth>820||!document.body.classList.contains('qa-sim-active'))return;
+  requestAnimationFrame(()=>requestAnimationFrame(()=>{
+    const notice=document.querySelector('.qa-answer-notice');
+    const nav=document.querySelector('.sim-nav');
+    if(!nav)return;
+    const safeBottom=14;
+    const nr=nav.getBoundingClientRect();
+    const overflow=nr.bottom-(window.innerHeight-safeBottom);
+    if(overflow>0){window.scrollBy({top:Math.ceil(overflow),behavior:'smooth'});return;}
+    if(notice){
+      const ar=notice.getBoundingClientRect();
+      const topSafe=8;
+      if(ar.top<topSafe)window.scrollBy({top:Math.floor(ar.top-topSafe),behavior:'smooth'});
+    }
+  }));
+}
+const qaM2CtflRender=ctflRenderQuestion;
+ctflRenderQuestion=function(){
+  qaM2CtflRender();
+  requestAnimationFrame(()=>requestAnimationFrame(()=>{
+    qa3254AssessmentMetrics();
+    qa3254AssessmentNavVisibility();
+    qaMobileFocusAssessmentStart();
+  }));
+};
+const qaM2LogicRender=logicRenderQuestion;
+logicRenderQuestion=function(){
+  qaM2LogicRender();
+  requestAnimationFrame(()=>requestAnimationFrame(()=>{
+    qa3254AssessmentMetrics();
+    qa3254AssessmentNavVisibility();
+    qaMobileFocusAssessmentStart();
+  }));
+};
+
+/* QA Lab Brasil 3.2.5.4-M5 - audited MOBILE viewport refinement.
+   Root cause of the empty blue band: legacy mobile focus helpers reserved the
+   height of .top even after that header had scrolled out of the viewport.
+   Keep WEB unchanged; on mobile assessment destinations use only a small visual
+   gutter, then let the approved card flow and natural scrolling do the rest. */
+function qaM5MobileViewportGutter(){return window.innerWidth<=820?8:12}
+qa3252MobileScrollTo=function(el,extraOffset=8){
+  if(window.innerWidth>820||!el)return;
+  requestAnimationFrame(()=>requestAnimationFrame(()=>{
+    const y=Math.max(0,window.scrollY+el.getBoundingClientRect().top-qaM5MobileViewportGutter());
+    window.scrollTo({top:y,behavior:'smooth'});
+  }));
+};
+qaMobileAssessmentTopOffset=function(){return qaM5MobileViewportGutter()};
+qa3254MobileFocusDestination=function(key){
+  if(window.innerWidth>820||!['simulators','logic-lab','test-data-generator'].includes(key))return;
+  const focus=()=>{
+    if(qaRouteKey()!==key)return;
+    const main=document.getElementById('main');if(!main)return;
+    let target=null;
+    if(key==='simulators')target=main.querySelector('.topic-head.simulator-head,.topic-head,h1');
+    else if(key==='logic-lab')target=main.querySelector('.logic-head,.topic-head,h1');
+    else target=main.querySelector('.tool-head,.test-data-head,.topic-head,h1');
+    target=target||main;
+    const y=Math.max(0,window.scrollY+target.getBoundingClientRect().top-qaM5MobileViewportGutter());
+    window.scrollTo({top:y,behavior:'smooth'});
+  };
+  requestAnimationFrame(()=>requestAnimationFrame(focus));
+  [120,320,650].forEach(ms=>setTimeout(focus,ms));
+};
