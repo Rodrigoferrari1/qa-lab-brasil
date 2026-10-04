@@ -1418,3 +1418,86 @@ route=function(){
   qa332FocusAiMobileDestination();
 };
 window.addEventListener('resize',qa332SyncAiMobilePage,{passive:true});
+
+/* QA Lab Brasil 3.3.3 - CTFL selection and post-exam review */
+(function(){
+  function qa333FixOptionMarks(){
+    document.querySelectorAll('.sim-question .sim-option').forEach((b)=>{
+      const selected=b.classList.contains('selected');
+      b.querySelectorAll('.qa-selected-mark').forEach(x=>x.remove());
+      b.setAttribute('aria-checked',selected?'true':'false');
+      if(selected)b.insertAdjacentHTML('beforeend','<span class="qa-selected-mark" aria-hidden="true">✓</span>');
+    });
+  }
+  const qa333CtflAnswer=ctflAnswer;
+  ctflAnswer=function(i){qa333CtflAnswer(i);requestAnimationFrame(qa333FixOptionMarks)};
+  const qa333LogicAnswer=logicAnswer;
+  logicAnswer=function(i){qa333LogicAnswer(i);requestAnimationFrame(qa333FixOptionMarks)};
+
+  const qa333CtflFinish=ctflFinish;
+  ctflFinish=function(){
+    const S=CTFL_SESSION;
+    if(S)window.__qa333LastCtfl={
+      qs:S.qs.map(q=>JSON.parse(JSON.stringify(q))),
+      answers:{...S.answers},
+      review:[...(S.review||[])],
+      mode:S.mode,
+      elapsed:Math.floor((Date.now()-S.started)/1000)
+    };
+    const out=qa333CtflFinish();
+    requestAnimationFrame(()=>{
+      const actions=document.querySelector('.sim-result .actions');
+      if(actions&&!actions.querySelector('.qa-review-launch')){
+        const b=document.createElement('button');
+        b.type='button';b.className='btn primary qa-review-launch';
+        b.textContent=LANG==='en'?'📋 Review answers':LANG==='es'?'📋 Revisar respuestas':'📋 Revisar respostas';
+        b.onclick=qa333RenderCtflReview;
+        actions.insertBefore(b,actions.firstChild);
+      }
+      qa333EnhancePerformanceLinks();
+    });
+    return out;
+  };
+
+  function qa333Text(){
+    return ({
+      pt:{all:'Todas',correct:'Corretas',wrong:'Incorretas',marked:'Marcadas',review:'Revisar respostas',summaryAll:'Todas',summaryCorrect:'Corretas',summaryWrong:'Incorretas',summaryMarked:'Marcadas',your:'Sua resposta',correctAns:'Resposta correta',unanswered:'Não respondida',explain:'Explicação',back:'Voltar ao resultado',study:'📚 Estudar no QA Lab',statusOk:'✅ CORRETA',statusBad:'❌ INCORRETA',statusNA:'⚪ NÃO RESPONDIDA',choose:'Filtrar por resultado',prev:'Anterior',next:'Próxima'},
+      en:{all:'All',correct:'Correct',wrong:'Incorrect',marked:'Marked',review:'Review answers',summaryAll:'All',summaryCorrect:'Correct',summaryWrong:'Incorrect',summaryMarked:'Marked',your:'Your answer',correctAns:'Correct answer',unanswered:'Unanswered',explain:'Explanation',back:'Back to result',study:'📚 Study in QA Lab',statusOk:'✅ CORRECT',statusBad:'❌ INCORRECT',statusNA:'⚪ UNANSWERED',choose:'Filter by result',prev:'Previous',next:'Next'},
+      es:{all:'Todas',correct:'Correctas',wrong:'Incorrectas',marked:'Marcadas',review:'Revisar respuestas',summaryAll:'Todas',summaryCorrect:'Correctas',summaryWrong:'Incorrectas',summaryMarked:'Marcadas',your:'Su respuesta',correctAns:'Respuesta correcta',unanswered:'Sin responder',explain:'Explicación',back:'Volver al resultado',study:'📚 Estudiar en QA Lab',statusOk:'✅ CORRECTA',statusBad:'❌ INCORRECTA',statusNA:'⚪ SIN RESPONDER',choose:'Filtrar por resultado',prev:'Anterior',next:'Siguiente'}
+    })[LANG]||({pt:{}}).pt;
+  }
+  function qa333State(q,answers,marked){const a=answers[q.id],ok=a===q.correct,na=a===undefined;return {a,ok,na,marked:marked.includes(q.id)};}
+  function qa333ApplyFilter(filter){
+    document.querySelectorAll('.qa-review-card').forEach(el=>{el.style.display=(filter==='all'||el.dataset.filter===filter||filter==='marked'&&el.dataset.marked==='true')?'block':'none'});
+    document.querySelectorAll('.qa-review-filter').forEach(b=>b.classList.toggle('active',b.dataset.filter===filter));
+  }
+  function qa333Jump(idx){document.getElementById('qa-review-q-'+idx)?.scrollIntoView({behavior:'smooth',block:'start'});}
+  window.qa333RenderCtflReview=function(){
+    const R=window.__qa333LastCtfl;if(!R||!R.qs?.length)return;
+    const L=ctflL(),T=qa333Text();
+    const total=R.qs.length;
+    const rows=R.qs.map((q,idx)=>{
+      const st=qa333State(q,R.answers,R.review),opts=q.options[LANG]||q.options.pt;
+      const filter=st.na?'unanswered':st.ok?'correct':'wrong';
+      const status=st.na?T.statusNA:st.ok?T.statusOk:T.statusBad;
+      return `<article id="qa-review-q-${idx}" class="qa-review-card ${st.na?'na':st.ok?'ok':'bad'}" data-filter="${filter}" data-marked="${st.marked}"><span class="tag">${idx+1}. ${ctflChapterName(q.chapter)} · ${q.difficulty}</span><h3>${q.text[LANG]}</h3><p><strong>${T.your}:</strong> ${st.na?T.unanswered:opts[st.a]} <span class="qa-review-status">${status}</span></p><p><strong>${T.correctAns}:</strong> ${opts[q.correct]}</p><p class="qa-review-explain"><strong>${T.explain}:</strong> ${q.explanation[LANG]||q.explanation.pt}</p>${st.marked?`<p>🔖 ${T.marked}</p>`:''}<div class="qa-review-actions"><button class="btn qa-topic-review-link" type="button" onclick="qaNavigate('testing')">${T.study}</button></div></article>`;
+    }).join('');
+    const correct=R.qs.filter(q=>qa333State(q,R.answers,R.review).ok).length;
+    const wrong=R.qs.filter(q=>{const s=qa333State(q,R.answers,R.review);return !s.na&&!s.ok}).length;
+    const unanswered=R.qs.filter(q=>qa333State(q,R.answers,R.review).na).length;
+    const marked=R.qs.filter(q=>R.review.includes(q.id)).length;
+    const nav=R.qs.map((q,i)=>{const s=qa333State(q,R.answers,R.review);return `<button type="button" class="${s.na?'na':s.ok?'ok':'bad'}" title="${i+1}" onclick="qa333Jump(${i})">${i+1}</button>`}).join('');
+    document.getElementById('main').innerHTML=`<div class="topic-head"><div class="breadcrumbs">QA Lab Brasil › ${L.title} › ${T.review}</div><div class="ico">📋</div><h1>${T.review}</h1><p>${LANG==='en'?'Review your answers after finishing the exam.':LANG==='es'?'Revise sus respuestas después de finalizar el simulador.':'Revise suas respostas depois de finalizar a prova.'}</p></div><section class="topic-section"><div class="qa-review-summary"><div><strong>${total}</strong><span>${T.summaryAll}</span></div><div><strong>${correct}</strong><span>✅ ${T.summaryCorrect}</span></div><div><strong>${wrong}</strong><span>❌ ${T.summaryWrong}</span></div>${marked?`<div><strong>${marked}</strong><span>🔖 ${T.summaryMarked}</span></div>`:''}${unanswered?`<div><strong>${unanswered}</strong><span>${T.unanswered}</span></div>`:''}</div><p><b>${T.choose}:</b></p><div class="qa-review-filters"><button class="qa-review-filter active" data-filter="all" onclick="qa333FilterReview('all')">${T.all}</button><button class="qa-review-filter" data-filter="correct" onclick="qa333FilterReview('correct')">✅ ${T.correct}</button><button class="qa-review-filter" data-filter="wrong" onclick="qa333FilterReview('wrong')">❌ ${T.wrong}</button>${marked?`<button class="qa-review-filter" data-filter="marked" onclick="qa333FilterReview('marked')">🔖 ${T.marked}</button>`:''}</div><div class="qa-review-nav">${nav}</div>${rows}<div class="actions"><button class="btn" onclick="renderSimulators()">${T.back}</button><button class="btn primary" onclick="ctflStart('${R.mode||'quick'}')">🎓 ${L.again}</button></div></section>`;
+    window.scrollTo(0,0);
+  };
+  window.qa333FilterReview=function(filter){qa333ApplyFilter(filter)};
+  function qa333EnhancePerformanceLinks(){
+    document.querySelectorAll('.sim-result .sim-performance>div').forEach((row)=>{
+      if(row.querySelector('.qa-performance-review'))return;
+      const label=row.querySelector('span')?.textContent?.trim();
+      if(!label)return;
+      const b=document.createElement('button');b.type='button';b.className='btn qa-performance-review';b.textContent=LANG==='en'?'View questions':LANG==='es'?'Ver preguntas':'Ver questões';b.onclick=()=>{qa333RenderCtflReview();setTimeout(()=>{const cards=[...document.querySelectorAll('.qa-review-card')];const target=cards.find(c=>c.querySelector('.tag')?.textContent?.includes(label));if(target)target.scrollIntoView({behavior:'smooth',block:'start'})},60)};
+      row.appendChild(b);
+    });
+  }
+})();
