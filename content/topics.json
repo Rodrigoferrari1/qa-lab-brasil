@@ -26062,6 +26062,22 @@
         [
           "Problemas comuns e troubleshooting",
           "Quando algo falhar em Data Lake, confirme versão, dependências, permissões, conectividade, dados e ambiente antes de concluir que existe um defeito no produto. Registre a mensagem original do erro e reduza o problema ao menor cenário reproduzível possível."
+        ],
+        [
+          "Data Lake na prática: arquitetura",
+          "Um Data Lake armazena arquivos e objetos em escala; serviços como Amazon S3, Azure Data Lake Storage e Google Cloud Storage podem ser usados como base. Defina zonas de ingestão e curadoria, catálogo, permissões, retenção e auditoria. Bronze/Silver/Gold é uma organização comum de Lakehouse, não uma obrigação de todo Data Lake."
+        ],
+        [
+          "Como configurar um laboratório",
+          "Escolha um provedor, crie uma conta de testes com orçamento/alertas, configure bucket ou container privado, controle acesso por identidade, habilite logs e versionamento quando disponíveis, crie pastas raw/curated e envie um CSV fictício. Nunca torne o bucket público para simplificar o tutorial."
+        ],
+        [
+          "Exemplo e testes de QA",
+          "Ingestão de pedidos: compare contagem e checksum entre origem e raw; valide schema, IDs únicos, nulls, datas e total financeiro após transformação. Teste arquivos duplicados, atraso, corrupção, reprocessamento e permissão negada."
+        ],
+        [
+          "Data Lake, Warehouse e Lakehouse",
+          "Data Lake prioriza armazenamento flexível de dados diversos; Warehouse é otimizado para análise estruturada; Lakehouse combina armazenamento aberto com recursos de gestão de tabelas e governança. Escolha depende do uso, não de superioridade universal."
         ]
       ],
       "qa_tip": "Teste também metadados e partições; arquivos presentes não garantem que o dataset esteja utilizável.",
@@ -26136,6 +26152,22 @@
         [
           "Common issues and troubleshooting",
           "When Data Lake fails, verify versions, dependencies, permissions, connectivity, data and environment before assuming a product defect. Preserve the original error and reduce the issue to the smallest reproducible case."
+        ],
+        [
+          "Data lake architecture in practice",
+          "A data lake stores files and objects at scale; Amazon S3, Azure Data Lake Storage and Google Cloud Storage can provide the foundation. Define ingestion/curation zones, catalog, access, retention and audit. Bronze/Silver/Gold is a common lakehouse pattern, not mandatory for every lake."
+        ],
+        [
+          "How to configure a lab",
+          "Choose a provider, set up a test account with budget alerts, create a private bucket/container, configure identity-based access, enable logging and versioning where available, organize raw/curated and upload synthetic CSV. Never make storage public just for convenience."
+        ],
+        [
+          "Example and QA checks",
+          "For order ingestion, reconcile row counts and checksums across source and raw; validate schema, unique IDs, nulls, dates and financial totals after transformations. Test duplicates, delays, corruption, reprocessing and denied access."
+        ],
+        [
+          "Lake vs warehouse vs lakehouse",
+          "Lakes favor flexible storage of diverse data; warehouses optimize structured analytics; lakehouses combine open storage with table management and governance. Choose based on requirements."
         ]
       ],
       "qa_tip": "Test metadata and partitions too; existing files do not guarantee a usable dataset.",
@@ -26210,6 +26242,22 @@
         [
           "Problemas comunes y troubleshooting",
           "Cuando Data Lake falle, confirme versiones, dependencias, permisos, conectividad, datos y ambiente antes de concluir que existe un defecto del producto. Conserve el error original y reduzca el problema al menor caso reproducible."
+        ],
+        [
+          "Arquitectura práctica de Data Lake",
+          "Un Data Lake almacena archivos y objetos a escala; Amazon S3, Azure Data Lake Storage y Google Cloud Storage pueden ser la base. Defina zonas, catálogo, permisos, retención y auditoría. Bronze/Silver/Gold es común en lakehouse, no obligatorio en todo lago."
+        ],
+        [
+          "Cómo configurar un laboratorio",
+          "Elija proveedor, cuenta de prueba con alertas de presupuesto, bucket/container privado, acceso por identidad, logs y versionado cuando estén disponibles, carpetas raw/curated y CSV ficticio. No haga público el almacenamiento."
+        ],
+        [
+          "Ejemplo y pruebas QA",
+          "Para pedidos, concilie conteos y checksums entre origen y raw; valide esquema, IDs únicos, nulos, fechas y totales financieros. Pruebe duplicados, retrasos, corrupción, reproceso y acceso denegado."
+        ],
+        [
+          "Lake vs warehouse vs lakehouse",
+          "Lake prioriza almacenamiento flexible; warehouse optimiza analítica estructurada; lakehouse combina almacenamiento abierto con tablas y gobierno. Depende del caso de uso."
         ]
       ],
       "qa_tip": "Pruebe también metadatos y particiones; archivos presentes no garantizan un dataset utilizable.",
@@ -38168,6 +38216,386 @@
         {},
         {}
       ]
+    }
+  },
+  "legacy-systems": {
+    "_meta": {
+      "icon": "🏛️",
+      "color": "#64748b",
+      "group": "engineering",
+      "official": "https://martinfowler.com/bliki/StranglerFigApplication.html"
+    },
+    "pt": {
+      "title": "Sistemas Legados",
+      "subtitle": "O que são, por que continuam essenciais e como testar integrações e modernizações.",
+      "sections": [
+        [
+          "O que é um sistema legado?",
+          "Um sistema legado é uma solução existente que continua sustentando processos importantes, mesmo que use tecnologia antiga, arquitetura difícil de modificar ou documentação limitada. Legado não significa necessariamente obsoleto ou defeituoso."
+        ],
+        [
+          "Onde aparece",
+          "Bancos com processamento de transações, hospitais com prontuários, indústrias com ERP e governos com cadastros históricos. Muitas vezes o legado expõe arquivos batch, SOAP, filas ou bancos compartilhados."
+        ],
+        [
+          "Riscos para QA",
+          "Mapeie dependências, contratos de integração, regras implícitas, janelas de processamento, permissões e dados históricos. Registre o comportamento atual antes de mudar. Evite testar diretamente com dados sensíveis de produção."
+        ],
+        [
+          "Estratégias de modernização",
+          "Opções incluem encapsular com APIs, migração gradual (Strangler Fig), replatform, refatoração e substituição. Cada estratégia precisa de critérios de aceite, rollback, observabilidade e reconciliação de dados."
+        ],
+        [
+          "Exercício prático de QA",
+          "Uma integração antiga envia 1.000 pedidos por arquivo noturno. Compare IDs, totais, moedas, timestamps e status entre origem e destino; teste arquivo duplicado, parcial, vazio e reprocessamento idempotente."
+        ]
+      ],
+      "qa_tip": "Valide sempre as evidências, os riscos e o comportamento real no ambiente autorizado.",
+      "insights": []
+    },
+    "en": {
+      "title": "Legacy Systems",
+      "subtitle": "What they are, why they matter and how to test integrations and modernization.",
+      "sections": [
+        [
+          "What is a legacy system?",
+          "A legacy system is an existing solution that still supports important business processes, even if its technology is older, hard to change or poorly documented. Legacy does not automatically mean obsolete or defective."
+        ],
+        [
+          "Where it appears",
+          "Banking transaction processing, hospital records, industrial ERP and government registries. Integrations may use batch files, SOAP, queues or shared databases."
+        ],
+        [
+          "QA risks",
+          "Map dependencies, integration contracts, implicit business rules, batch windows, permissions and historical data. Capture current behavior before changes. Avoid testing with sensitive production data."
+        ],
+        [
+          "Modernization strategies",
+          "Options include API encapsulation, gradual replacement (Strangler Fig), replatforming, refactoring and replacement. Each needs acceptance criteria, rollback, observability and data reconciliation."
+        ],
+        [
+          "QA exercise",
+          "An older integration sends 1,000 orders in a nightly file. Compare IDs, totals, currencies, timestamps and statuses across source and target; test duplicate, partial and empty files and idempotent reprocessing."
+        ]
+      ],
+      "qa_tip": "Always validate evidence, risks and actual behavior in authorized environments.",
+      "insights": []
+    },
+    "es": {
+      "title": "Sistemas Legados",
+      "subtitle": "Qué son, por qué importan y cómo probar integraciones y modernización.",
+      "sections": [
+        [
+          "¿Qué es un sistema legado?",
+          "Un sistema legado es una solución existente que sigue sustentando procesos importantes aunque use tecnología antigua, sea difícil de modificar o tenga poca documentación. Legado no significa necesariamente obsoleto."
+        ],
+        [
+          "Dónde aparece",
+          "Procesamiento bancario, historias clínicas, ERP industrial y registros gubernamentales. Las integraciones pueden utilizar archivos batch, SOAP, colas o bases compartidas."
+        ],
+        [
+          "Riesgos para QA",
+          "Identifique dependencias, contratos, reglas implícitas, ventanas batch, permisos y datos históricos. Registre el comportamiento actual antes de cambios. Evite datos sensibles de producción."
+        ],
+        [
+          "Estrategias de modernización",
+          "Opciones: encapsular con APIs, reemplazo gradual (Strangler Fig), replatforming, refactorización y sustitución. Cada opción requiere aceptación, rollback, observabilidad y conciliación."
+        ],
+        [
+          "Ejercicio de QA",
+          "Una integración antigua envía 1.000 pedidos por archivo nocturno. Compare IDs, importes, monedas, fechas y estados; pruebe archivos duplicados, parciales y vacíos y reprocesamiento idempotente."
+        ]
+      ],
+      "qa_tip": "Valide siempre evidencias, riesgos y comportamiento real en entornos autorizados.",
+      "insights": []
+    }
+  },
+  "version-control": {
+    "_meta": {
+      "icon": "🔀",
+      "color": "#8b5cf6",
+      "group": "engineering",
+      "official": "https://git-scm.com/book/en/v2"
+    },
+    "pt": {
+      "title": "Versionamento e Controle de Versão",
+      "subtitle": "Versões de software, Git, branches, commits, tags e rastreabilidade de testes.",
+      "sections": [
+        [
+          "Versionamento x controle de versão",
+          "Versionamento identifica estados ou releases do produto (ex.: 3.4.0). Controle de versão registra alterações em arquivos, autores e histórico; Git é um exemplo. SemVer usa MAJOR.MINOR.PATCH quando o projeto adota essa convenção."
+        ],
+        [
+          "Ferramentas",
+          "Git é o mecanismo de controle distribuído. GitHub, GitLab, Bitbucket e Azure Repos oferecem hospedagem, permissões e colaboração. SVN é um sistema centralizado ainda usado em alguns projetos."
+        ],
+        [
+          "Primeiro fluxo com Git",
+          "Instale Git pelo site oficial. No terminal: git --version; git init; git add .; git commit -m \"Primeira versão\". Para repositórios remotos, configure URL e autenticação segundo a plataforma. Nunca versione senhas, tokens ou arquivos .env."
+        ],
+        [
+          "Branches, pull requests e tags",
+          "Crie uma branch para uma alteração; revise o diff; abra pull request; execute testes no CI; faça merge após aprovação; crie tag para release quando fizer sentido. Um conflito exige reconciliação consciente, não sobrescrever o trabalho de outro."
+        ],
+        [
+          "Exemplo em QA",
+          "Versione arquivos Playwright e dados de teste não sensíveis. Vincule commits ao ticket; registre qual tag foi testada e execute smoke/regressão no pipeline. Para rollback, restaure uma versão validada conforme o processo de deploy."
+        ]
+      ],
+      "qa_tip": "Valide sempre as evidências, os riscos e o comportamento real no ambiente autorizado.",
+      "insights": []
+    },
+    "en": {
+      "title": "Versioning & Version Control",
+      "subtitle": "Software versions, Git, branches, commits, tags and test traceability.",
+      "sections": [
+        [
+          "Versioning vs version control",
+          "Versioning identifies product states/releases (e.g. 3.4.0). Version control tracks file changes, authors and history; Git is an example. SemVer uses MAJOR.MINOR.PATCH when adopted by the project."
+        ],
+        [
+          "Tools",
+          "Git is a distributed version control system. GitHub, GitLab, Bitbucket and Azure Repos provide hosting, permissions and collaboration. SVN is a centralized system still used in some projects."
+        ],
+        [
+          "First Git workflow",
+          "Install Git from the official site. In a terminal: git --version; git init; git add .; git commit -m \"Initial version\". Configure remote URL and authentication as documented by your host. Never commit passwords, tokens or .env files."
+        ],
+        [
+          "Branches, pull requests and tags",
+          "Create a branch, review the diff, open a pull request, run CI tests, merge after approval and tag releases when useful. Resolve conflicts deliberately instead of overwriting others’ work."
+        ],
+        [
+          "QA example",
+          "Version Playwright tests and nonsensitive fixtures. Link commits to tickets; record the tested tag and run smoke/regression in CI. For rollback, restore a validated version using the deployment process."
+        ]
+      ],
+      "qa_tip": "Always validate evidence, risks and actual behavior in authorized environments.",
+      "insights": []
+    },
+    "es": {
+      "title": "Versionado y Control de Versiones",
+      "subtitle": "Versiones de software, Git, ramas, commits, etiquetas y trazabilidad de pruebas.",
+      "sections": [
+        [
+          "Versionado vs control de versiones",
+          "Versionado identifica versiones del producto (p. ej. 3.4.0). El control de versiones registra cambios, autores e historial; Git es un ejemplo. SemVer usa MAJOR.MINOR.PATCH si se adopta."
+        ],
+        [
+          "Herramientas",
+          "Git es un sistema distribuido. GitHub, GitLab, Bitbucket y Azure Repos ofrecen alojamiento y colaboración. SVN es un sistema centralizado aún usado en algunos proyectos."
+        ],
+        [
+          "Primer flujo con Git",
+          "Instale Git desde el sitio oficial. En terminal: git --version; git init; git add .; git commit -m \"Versión inicial\". Configure el remoto y la autenticación. Nunca suba contraseñas, tokens ni archivos .env."
+        ],
+        [
+          "Ramas, pull requests y etiquetas",
+          "Cree una rama, revise el diff, abra un pull request, ejecute CI, integre tras aprobación y etiquete versiones cuando corresponda. Resuelva conflictos sin sobrescribir trabajo ajeno."
+        ],
+        [
+          "Ejemplo en QA",
+          "Versione pruebas Playwright y fixtures sin datos sensibles. Relacione commits con tickets, registre la etiqueta probada y ejecute smoke/regresión en CI. Para rollback, restaure una versión validada."
+        ]
+      ],
+      "qa_tip": "Valide siempre evidencias, riesgos y comportamiento real en entornos autorizados.",
+      "insights": []
+    }
+  },
+  "databricks": {
+    "_meta": {
+      "icon": "🧱",
+      "color": "#ea580c",
+      "group": "engineering",
+      "official": "https://docs.databricks.com/"
+    },
+    "pt": {
+      "title": "Databricks",
+      "subtitle": "Workspace, notebooks, SQL, PySpark, Delta Lake e testes de pipelines de dados.",
+      "sections": [
+        [
+          "O que é Databricks?",
+          "Plataforma de dados e IA para ingestão, processamento, análise e governança. Pode operar sobre armazenamento de nuvem e integrar Apache Spark, Delta Lake, SQL e ferramentas de orquestração. Databricks não é sinônimo de Data Lake."
+        ],
+        [
+          "Como começar e configurar",
+          "1) Consulte docs.databricks.com e escolha seu provedor/região e modalidade de workspace. 2) Crie ou solicite um workspace; permissões e faturamento dependem da conta. 3) Acesse Workspace e crie um notebook. 4) Selecione compute disponível (serverless ou cluster, conforme edição). 5) Execute uma célula SQL/Python. Desligue compute não utilizado e monitore custos."
+        ],
+        [
+          "Primeiro notebook SQL",
+          "Exemplo didático: SELECT 1 AS teste; depois CREATE OR REPLACE TEMP VIEW pedidos AS SELECT 101 AS id, 120.00 AS valor UNION ALL SELECT 102, 50.00; e SELECT COUNT(*) AS total FROM pedidos;. Views temporárias não exigem persistência em catálogo."
+        ],
+        [
+          "PySpark e Delta Lake",
+          "Em um notebook Python: df = spark.createDataFrame([(101,120.0),(102,50.0)], [\"id\",\"valor\"]); display(df). Para salvar como Delta, configure catálogo/schema e permissões apropriadas e use df.write.format(\"delta\").mode(\"overwrite\").saveAsTable(\"catalogo.esquema.pedidos_demo\"). Não execute overwrite em dados reais."
+        ],
+        [
+          "Laboratório de Data Quality para QA",
+          "Carregue CSV fictício com id, valor e status; valide schema, nulls, unicidade e soma por status; compare contagens Bronze→Silver→Gold, com justificativa para registros rejeitados. Teste rerun, atraso, duplicidade, schema drift e permissão negada. Documente evidências de origem/destino."
+        ],
+        [
+          "Governança e segurança",
+          "Unity Catalog pode centralizar permissões e descoberta de ativos em ambientes compatíveis. Use dados sintéticos, mínimo privilégio, segredos gerenciados e segregação dev/QA/prod. Consulte a documentação oficial para menus, disponibilidade e custos atuais."
+        ]
+      ],
+      "qa_tip": "Valide sempre as evidências, os riscos e o comportamento real no ambiente autorizado.",
+      "insights": []
+    },
+    "en": {
+      "title": "Databricks",
+      "subtitle": "Workspace, notebooks, SQL, PySpark, Delta Lake and data pipeline testing.",
+      "sections": [
+        [
+          "What is Databricks?",
+          "A data and AI platform for ingestion, processing, analytics and governance. It can operate over cloud storage and integrate Apache Spark, Delta Lake, SQL and orchestration tools. Databricks is not synonymous with a data lake."
+        ],
+        [
+          "Getting started and setup",
+          "1) Visit docs.databricks.com and choose cloud/region/workspace type. 2) Create or request a workspace; permissions and billing depend on the account. 3) Create a notebook. 4) Select available compute (serverless or cluster depending on edition). 5) Run SQL/Python. Stop idle compute and monitor costs."
+        ],
+        [
+          "First SQL notebook",
+          "Try SELECT 1 AS test; then CREATE OR REPLACE TEMP VIEW orders AS SELECT 101 AS id, 120.00 AS amount UNION ALL SELECT 102, 50.00; then SELECT COUNT(*) AS total FROM orders;. Temporary views do not require catalog persistence."
+        ],
+        [
+          "PySpark and Delta Lake",
+          "In Python: df = spark.createDataFrame([(101,120.0),(102,50.0)], [\"id\",\"amount\"]); display(df). To save Delta, configure catalog/schema permissions and use df.write.format(\"delta\").mode(\"overwrite\").saveAsTable(\"catalog.schema.orders_demo\"). Never overwrite real data."
+        ],
+        [
+          "QA data quality lab",
+          "Load a synthetic CSV with id, amount and status; validate schema, nulls, uniqueness and totals per status; reconcile Bronze→Silver→Gold counts and rejected rows. Test reruns, delays, duplicates, schema drift and denied permissions. Record source/target evidence."
+        ],
+        [
+          "Governance and security",
+          "Unity Catalog can centralize permissions and asset discovery in supported environments. Use synthetic data, least privilege, managed secrets and dev/QA/prod separation. Check official documentation for current UI, availability and costs."
+        ]
+      ],
+      "qa_tip": "Always validate evidence, risks and actual behavior in authorized environments.",
+      "insights": []
+    },
+    "es": {
+      "title": "Databricks",
+      "subtitle": "Workspace, notebooks, SQL, PySpark, Delta Lake y pruebas de pipelines.",
+      "sections": [
+        [
+          "¿Qué es Databricks?",
+          "Plataforma de datos e IA para ingesta, procesamiento, análisis y gobierno. Puede usar almacenamiento en nube e integrar Apache Spark, Delta Lake, SQL y orquestación. Databricks no es sinónimo de Data Lake."
+        ],
+        [
+          "Inicio y configuración",
+          "1) Consulte docs.databricks.com y elija nube/región. 2) Cree o solicite workspace; permisos y facturación dependen de la cuenta. 3) Cree un notebook. 4) Seleccione cómputo disponible (serverless o clúster). 5) Ejecute SQL/Python. Controle los costos."
+        ],
+        [
+          "Primer notebook SQL",
+          "Pruebe SELECT 1 AS prueba; luego CREATE OR REPLACE TEMP VIEW pedidos AS SELECT 101 AS id, 120.00 AS valor UNION ALL SELECT 102, 50.00; después SELECT COUNT(*) AS total FROM pedidos;. Las vistas temporales no requieren persistencia."
+        ],
+        [
+          "PySpark y Delta Lake",
+          "En Python: df = spark.createDataFrame([(101,120.0),(102,50.0)], [\"id\",\"valor\"]); display(df). Para guardar Delta, configure catálogo/esquema y permisos y use df.write.format(\"delta\").mode(\"overwrite\").saveAsTable(\"catalogo.esquema.pedidos_demo\"). No sobrescriba datos reales."
+        ],
+        [
+          "Laboratorio Data Quality para QA",
+          "Cargue CSV ficticio con id, importe y estado; valide esquema, nulos, unicidad y sumas; concilie Bronze→Silver→Gold y rechazos. Pruebe reprocesos, retrasos, duplicados, cambios de esquema y permisos denegados."
+        ],
+        [
+          "Gobierno y seguridad",
+          "Unity Catalog puede centralizar permisos y activos en entornos compatibles. Use datos sintéticos, mínimo privilegio, secretos administrados y separación dev/QA/prod. Consulte documentación oficial para interfaz y costos."
+        ]
+      ],
+      "qa_tip": "Valide siempre evidencias, riesgos y comportamiento real en entornos autorizados.",
+      "insights": []
+    }
+  },
+  "playwright-mcp": {
+    "_meta": {
+      "icon": "🤖",
+      "color": "#0f766e",
+      "group": "engineering",
+      "official": "https://github.com/microsoft/playwright-mcp"
+    },
+    "pt": {
+      "title": "Playwright MCP",
+      "subtitle": "Automação de navegador controlada por agentes de IA usando Model Context Protocol.",
+      "sections": [
+        [
+          "Playwright x Playwright MCP",
+          "Playwright tradicional executa scripts de teste escritos pelo time. Playwright MCP expõe ferramentas de interação com navegador para um cliente MCP/assistente de IA. Exploração assistida não substitui assertions, revisão humana ou testes reproduzíveis."
+        ],
+        [
+          "Pré-requisitos e instalação",
+          "Instale Node.js LTS e confirme node --version e npx --version. Consulte https://github.com/microsoft/playwright-mcp para a configuração atual. Em clientes MCP compatíveis, configure um servidor stdio com command \"npx\" e args [\"@playwright/mcp@latest\"]. O formato do arquivo de configuração varia por cliente/versão."
+        ],
+        [
+          "Configuração no VS Code",
+          "Utilize um cliente/extensão do VS Code que ofereça suporte a MCP. Adicione Playwright MCP pela configuração de servidores MCP do cliente e valide a conexão antes de enviar prompts. Consulte a documentação atual do VS Code e do projeto para os campos exatos; não presuma que toda edição tem os mesmos menus."
+        ],
+        [
+          "Exemplo de prompt para QA",
+          "Em um ambiente autorizado de homologação: \"Abra a página de login, descreva campos e mensagens, teste campos vazios sem enviar dados reais e proponha casos de teste. Não conclua transações nem altere dados.\" Revise manualmente as observações e converta-as em testes automatizados estáveis."
+        ],
+        [
+          "Limites e segurança",
+          "Restrinja URLs e permissões ao ambiente autorizado. Não exponha credenciais, cookies, tokens ou dados pessoais ao agente. Conteúdo de páginas pode conter prompt injection; trate-o como dado não confiável. Reexecute achados com evidência e critérios verificáveis."
+        ]
+      ],
+      "qa_tip": "Valide sempre as evidências, os riscos e o comportamento real no ambiente autorizado.",
+      "insights": []
+    },
+    "en": {
+      "title": "Playwright MCP",
+      "subtitle": "Browser automation controlled by AI agents using Model Context Protocol.",
+      "sections": [
+        [
+          "Playwright vs Playwright MCP",
+          "Traditional Playwright runs scripted tests. Playwright MCP exposes browser interaction tools to an MCP client/AI assistant. Agent exploration does not replace assertions, human review or reproducible tests."
+        ],
+        [
+          "Prerequisites and installation",
+          "Install Node.js LTS and verify node --version and npx --version. Consult https://github.com/microsoft/playwright-mcp for current setup. In a compatible MCP client, configure a stdio server with command \"npx\" and args [\"@playwright/mcp@latest\"]. Config file shape varies by client/version."
+        ],
+        [
+          "VS Code setup",
+          "Use a VS Code client/extension supporting MCP. Add Playwright MCP through its MCP server settings and verify connection before prompting. Check current VS Code and project docs for exact fields; menus differ by edition/version."
+        ],
+        [
+          "QA prompt example",
+          "In an authorized test environment: \"Open the login page, describe fields and messages, test empty fields without real credentials and suggest test cases. Do not complete transactions or modify data.\" Review findings and convert them into stable automated tests."
+        ],
+        [
+          "Limits and safety",
+          "Restrict URLs and permissions to authorized environments. Do not expose credentials, cookies, tokens or personal data to the agent. Web pages may contain prompt injection; treat page content as untrusted data. Reproduce findings with evidence and verifiable assertions."
+        ]
+      ],
+      "qa_tip": "Always validate evidence, risks and actual behavior in authorized environments.",
+      "insights": []
+    },
+    "es": {
+      "title": "Playwright MCP",
+      "subtitle": "Automatización del navegador por agentes de IA mediante Model Context Protocol.",
+      "sections": [
+        [
+          "Playwright vs Playwright MCP",
+          "Playwright tradicional ejecuta pruebas programadas. Playwright MCP expone herramientas del navegador a un cliente MCP/agente de IA. La exploración asistida no sustituye assertions ni revisión humana."
+        ],
+        [
+          "Requisitos e instalación",
+          "Instale Node.js LTS y compruebe node --version y npx --version. Consulte https://github.com/microsoft/playwright-mcp. En un cliente MCP compatible, configure servidor stdio con command \"npx\" y args [\"@playwright/mcp@latest\"]. El formato depende del cliente."
+        ],
+        [
+          "Configuración en VS Code",
+          "Use un cliente/extensión de VS Code compatible con MCP. Añada Playwright MCP en la configuración de servidores y verifique la conexión. Consulte documentación actual; los menús cambian según edición/versión."
+        ],
+        [
+          "Ejemplo de prompt QA",
+          "En un entorno autorizado: \"Abra el login, describa campos y mensajes, pruebe campos vacíos sin credenciales reales y proponga casos. No complete transacciones ni modifique datos.\" Revise hallazgos y conviértalos en pruebas estables."
+        ],
+        [
+          "Límites y seguridad",
+          "Restrinja URLs y permisos a entornos autorizados. No exponga credenciales, cookies, tokens ni datos personales. Las páginas pueden contener prompt injection; trate su contenido como no confiable. Reproduzca hallazgos con evidencia."
+        ]
+      ],
+      "qa_tip": "Valide siempre evidencias, riesgos y comportamiento real en entornos autorizados.",
+      "insights": []
     }
   }
 }
