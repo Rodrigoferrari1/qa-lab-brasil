@@ -1,0 +1,1 @@
+MOB-003: Mobile-only route-change focus. Preserve MOB-001/MOB-002, desktop and all game content. Verify Java, Engineering, QA Management, QA Games on BrowserStack. This change does not adjust content layout or desktop CSS.
